@@ -1,0 +1,7 @@
+X 1: Scrape Data from Yfinance movers
+X 2: Add Scraped Data to Movers.json
+X 3: Add Scraped Data from Movers.json to csv
+4: Access Yfinance api to get data for movers
+    4.1: check for backfill of Subsequent Days data
+5: Populate csv with mover data 
+6: wait for next run
