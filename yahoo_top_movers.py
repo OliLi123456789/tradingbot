@@ -204,13 +204,43 @@ def enrich_pool(pool: List[Dict[str, str]]) -> None:
             item.update({"open": None, "close": None, "change_pts": None, "price": None, "change": None, "pct_change": None})
             continue
         details = fetch_symbol_details(sym)
-        item["open"] = details["open"]
-        item["close"] = details["close"]
-        item["change_pts"] = details["change_pts"]
-        # also override price/change/pct_change with normalized numeric values from the symbol page
-        item["price"] = details.get("price")
-        item["change"] = details.get("change")
-        item["pct_change"] = details.get("pct_change")
+
+        # prefer explicit numeric values from the symbol page
+        price_v = details.get("price")
+        change_v = details.get("change")
+        pct_v = details.get("pct_change")
+        open_v = details.get("open")
+        close_v = details.get("close")
+        change_pts = details.get("change_pts")
+
+        # fallback to the values parsed from the movers table (strings) when needed
+        if price_v is None:
+            price_v = _parse_float(item.get("price", ""))
+        if change_v is None:
+            change_v = _parse_float(item.get("change", ""))
+        if pct_v is None:
+            pct_v = _parse_float(item.get("pct_change", ""))
+            if pct_v is not None and abs(pct_v) <= 1:
+                pct_v = pct_v * 100.0
+
+        # sanity check: sometimes the fin-streamer capture returns an unreasonable value
+        # e.g. large numbers due to page layout or different unit — fall back to table values
+        if price_v is not None and price_v > 1000:
+            parsed_table_price = _parse_float(item.get("price", ""))
+            if parsed_table_price is not None and abs(parsed_table_price) < price_v:
+                price_v = parsed_table_price
+
+        # ensure change_pts is set (prefer explicit, else use change_v)
+        if change_pts is None and change_v is not None:
+            change_pts = change_v
+
+        item["open"] = open_v
+        item["close"] = close_v
+        item["change_pts"] = change_pts
+        # write normalized numeric values back into the mover item
+        item["price"] = price_v
+        item["change"] = change_v
+        item["pct_change"] = pct_v
 
 
 def run_and_persist(top_n: int = 5) -> None:
