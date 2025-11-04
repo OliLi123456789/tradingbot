@@ -78,22 +78,46 @@ def fetch_symbol_details(symbol: str) -> Dict[str, Optional[float]]:
         soup = _fetch_soup(url)
     except Exception:
         logger.exception("Failed to fetch symbol page: %s", symbol)
-        return {"open": None, "close": None, "change_pts": None}
+        return {"open": None, "close": None, "change_pts": None, "price": None, "change": None, "pct_change": None}
 
     open_s = _find_table_value(soup, "Open")
     prev_close_s = _find_table_value(soup, "Previous Close")
 
+    # prefer fin-streamer fields when available
     price_el = soup.find("fin-streamer", {"data-field": "regularMarketPrice"})
+    change_el = soup.find("fin-streamer", {"data-field": "regularMarketChange"})
+    pct_el = soup.find("fin-streamer", {"data-field": "regularMarketChangePercent"})
+
     price_s = price_el.get_text(strip=True) if price_el else ""
+    change_s = change_el.get_text(strip=True) if change_el else ""
+    pct_s = pct_el.get_text(strip=True) if pct_el else ""
 
     open_v = _parse_float(open_s)
     close_v = _parse_float(prev_close_s) or _parse_float(price_s)
+    price_v = _parse_float(price_s)
+    change_v = _parse_float(change_s)
+    pct_v = _parse_float(pct_s)
 
-    change_pts = None
-    if open_v is not None and close_v is not None:
-        change_pts = round(close_v - open_v, 6)
+    # normalize percent (yfinance may return fraction 0.22 instead of 22.0)
+    if pct_v is not None and abs(pct_v) <= 1:
+        pct_v = pct_v * 100.0
 
-    return {"open": open_v, "close": close_v, "change_pts": change_pts}
+    # prefer explicit regularMarketChange, otherwise compute close - open
+    change_pts = change_v
+    if change_pts is None and open_v is not None and close_v is not None:
+        try:
+            change_pts = round(close_v - open_v, 6)
+        except Exception:
+            change_pts = None
+
+    return {
+        "open": open_v,
+        "close": close_v,
+        "change_pts": change_pts,
+        "price": price_v,
+        "change": change_v,
+        "pct_change": pct_v,
+    }
 
 
 def load_movers(path: str = MOVERS_FILE) -> Dict:
@@ -170,12 +194,23 @@ def enrich_pool(pool: List[Dict[str, str]]) -> None:
     for item in pool:
         sym = item.get("symbol", "").split()[0] if item.get("symbol") else ""
         if not sym:
-            item.update({"open": None, "close": None, "change_pts": None})
+            item.update({"open": None, "close": None, "change_pts": None, "price": None, "change": None, "pct_change": None})
             continue
         details = fetch_symbol_details(sym)
-        item["open"] = details["open"]
-        item["close"] = details["close"]
-        item["change_pts"] = details["change_pts"]
+        item["open"] = details.get("open")
+        item["close"] = details.get("close")
+        item["change_pts"] = details.get("change_pts")
+        # write numeric price/change/pct into movers.json (fallback to table-parsed strings)
+        item["price"] = details.get("price") if details.get("price") is not None else _parse_float(item.get("price", ""))
+        item["change"] = details.get("change") if details.get("change") is not None else _parse_float(item.get("change", ""))
+        # normalize percent fallback: if parsed value is a fraction like 0.22, convert to percent
+        pct_fallback = _parse_float(item.get("pct_change", ""))
+        if details.get("pct_change") is not None:
+            item["pct_change"] = details.get("pct_change")
+        else:
+            if pct_fallback is not None and abs(pct_fallback) <= 1:
+                pct_fallback = pct_fallback * 100.0
+            item["pct_change"] = pct_fallback
 
 
 def run_and_persist(top_n: int = 5) -> None:
