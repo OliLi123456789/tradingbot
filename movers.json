@@ -1,1 +1,109 @@
-{}
+{
+  "2025-11-03": {
+    "gainers": [
+      {
+        "change": -35.95,
+        "change_pts": -35.95,
+        "close": 6699.4,
+        "name": "Cipher Mining Inc.",
+        "open": null,
+        "pct_change": null,
+        "price": 6699.4,
+        "symbol": "CIFR"
+      },
+      {
+        "change": 11.77,
+        "change_pts": 11.77,
+        "close": 6851.97,
+        "name": "Amkor Technology, Inc.",
+        "open": null,
+        "pct_change": null,
+        "price": 6851.97,
+        "symbol": "AMKR"
+      },
+      {
+        "change": 18.26,
+        "change_pts": 18.26,
+        "close": 6858.46,
+        "name": "Lumen Technologies, Inc.",
+        "open": null,
+        "pct_change": null,
+        "price": 6858.46,
+        "symbol": "LUMN"
+      },
+      {
+        "change": 53.25,
+        "change_pts": 53.25,
+        "close": 6791.69,
+        "name": "IDEXX Laboratories, Inc.",
+        "open": null,
+        "pct_change": null,
+        "price": 6791.69,
+        "symbol": "IDXX"
+      },
+      {
+        "change": null,
+        "change_pts": null,
+        "close": null,
+        "name": "Freshpet, Inc.",
+        "open": null,
+        "pct_change": null,
+        "price": null,
+        "symbol": "FRPT"
+      }
+    ],
+    "losers": [
+      {
+        "change": 19.4,
+        "change_pts": 19.4,
+        "close": 6859.6,
+        "name": "uniQure N.V.",
+        "open": null,
+        "pct_change": null,
+        "price": 6859.6,
+        "symbol": "QURE"
+      },
+      {
+        "change": null,
+        "change_pts": null,
+        "close": null,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": null,
+        "price": null,
+        "symbol": "RGC"
+      },
+      {
+        "change": 17.86,
+        "change_pts": 17.86,
+        "close": 6840.2,
+        "name": "Kimberly-Clark Corporation",
+        "open": null,
+        "pct_change": -1.31,
+        "price": 6840.2,
+        "symbol": "KMB"
+      },
+      {
+        "change": -12.25,
+        "change_pts": -12.25,
+        "close": 6870.5,
+        "name": "Energy Fuels Inc.",
+        "open": null,
+        "pct_change": null,
+        "price": 6870.5,
+        "symbol": "UUUU"
+      },
+      {
+        "change": 10.61,
+        "change_pts": 10.61,
+        "close": 6850.81,
+        "name": "QuantumScape Corporation",
+        "open": null,
+        "pct_change": null,
+        "price": 6850.81,
+        "symbol": "QS"
+      }
+    ],
+    "scraped_at": "2025-11-03T20:38:57.678564-05:00"
+  }
+}
