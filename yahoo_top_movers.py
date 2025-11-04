@@ -78,22 +78,53 @@ def fetch_symbol_details(symbol: str) -> Dict[str, Optional[float]]:
         soup = _fetch_soup(url)
     except Exception:
         logger.exception("Failed to fetch symbol page: %s", symbol)
-        return {"open": None, "close": None, "change_pts": None}
+        return {
+            "open": None,
+            "close": None,
+            "change_pts": None,
+            "price": None,
+            "change": None,
+            "pct_change": None,
+        }
+
+    # helper to read fin-streamer fields
+    def _fin(field: str) -> str:
+        el = soup.find("fin-streamer", {"data-field": field})
+        return el.get_text(strip=True) if el else ""
+
+    price_s = _fin("regularMarketPrice")
+    change_s = _fin("regularMarketChange")
+    pct_s = _fin("regularMarketChangePercent")
 
     open_s = _find_table_value(soup, "Open")
     prev_close_s = _find_table_value(soup, "Previous Close")
 
-    price_el = soup.find("fin-streamer", {"data-field": "regularMarketPrice"})
-    price_s = price_el.get_text(strip=True) if price_el else ""
-
     open_v = _parse_float(open_s)
     close_v = _parse_float(prev_close_s) or _parse_float(price_s)
+    price_v = _parse_float(price_s)
+    change_v = _parse_float(change_s)
+    pct_v = _parse_float(pct_s)
 
-    change_pts = None
-    if open_v is not None and close_v is not None:
-        change_pts = round(close_v - open_v, 6)
+    # normalize percent which may be returned as a fraction like 0.22
+    if pct_v is not None and abs(pct_v) <= 1:
+        pct_v = pct_v * 100.0
 
-    return {"open": open_v, "close": close_v, "change_pts": change_pts}
+    # Prefer explicit regularMarketChange if available; otherwise fall back to close - open
+    change_pts = change_v
+    if change_pts is None and open_v is not None and close_v is not None:
+        try:
+            change_pts = round(close_v - open_v, 6)
+        except Exception:
+            change_pts = None
+
+    return {
+        "open": open_v,
+        "close": close_v,
+        "change_pts": change_pts,
+        "price": price_v,
+        "change": change_v,
+        "pct_change": pct_v,
+    }
 
 
 def load_movers(path: str = MOVERS_FILE) -> Dict:
@@ -170,12 +201,16 @@ def enrich_pool(pool: List[Dict[str, str]]) -> None:
     for item in pool:
         sym = item.get("symbol", "").split()[0] if item.get("symbol") else ""
         if not sym:
-            item.update({"open": None, "close": None, "change_pts": None})
+            item.update({"open": None, "close": None, "change_pts": None, "price": None, "change": None, "pct_change": None})
             continue
         details = fetch_symbol_details(sym)
         item["open"] = details["open"]
         item["close"] = details["close"]
         item["change_pts"] = details["change_pts"]
+        # also override price/change/pct_change with normalized numeric values from the symbol page
+        item["price"] = details.get("price")
+        item["change"] = details.get("change")
+        item["pct_change"] = details.get("pct_change")
 
 
 def run_and_persist(top_n: int = 5) -> None:
