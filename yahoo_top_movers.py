@@ -43,8 +43,8 @@ def _parse_top_rows(soup: BeautifulSoup, top_n: int = 5) -> List[Dict[str, str]]
             "symbol": cols[0] if len(cols) > 0 else "",
             "name": cols[1] if len(cols) > 1 else "",
             "price": cols[2] if len(cols) > 2 else "",
-            "change": cols[3] if len(cols) > 3 else "",
-            "pct_change": cols[4] if len(cols) > 4 else "",
+            "change": cols[4] if len(cols) > 4 else "",
+            "pct_change": cols[5] if len(cols) > 5 else "",
         }
         results.append(item)
 
