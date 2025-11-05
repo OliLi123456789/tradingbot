@@ -105,5 +105,112 @@
       }
     ],
     "scraped_at": "2025-11-03T22:01:39.682730-05:00"
+  },
+  "2025-11-04": {
+    "gainers": [
+      {
+        "change": "+1.79",
+        "change_pts": null,
+        "close": 6771.55,
+        "name": "Hertz Global Holdings, Inc.",
+        "open": null,
+        "pct_change": "+36.23%",
+        "price": "",
+        "symbol": "HTZ"
+      },
+      {
+        "change": "+14.05",
+        "change_pts": null,
+        "close": 6774.5,
+        "name": "Xometry, Inc.",
+        "open": null,
+        "pct_change": "+28.93%",
+        "price": "",
+        "symbol": "XMTR"
+      },
+      {
+        "change": "+7.49",
+        "change_pts": null,
+        "close": null,
+        "name": "Paymentus Holdings, Inc.",
+        "open": null,
+        "pct_change": "+26.18%",
+        "price": "",
+        "symbol": "PAY"
+      },
+      {
+        "change": "+12.45",
+        "change_pts": null,
+        "close": 6840.2,
+        "name": "Metsera, Inc.",
+        "open": null,
+        "pct_change": "+20.50%",
+        "price": "",
+        "symbol": "MTSR"
+      },
+      {
+        "change": "+23.24",
+        "change_pts": null,
+        "close": 6805.75,
+        "name": "Sanmina Corporation",
+        "open": null,
+        "pct_change": "+16.56%",
+        "price": "",
+        "symbol": "SANM"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-5.38",
+        "change_pts": null,
+        "close": 6775.25,
+        "name": "Diginex Limited",
+        "open": null,
+        "pct_change": "-22.77%",
+        "price": "",
+        "symbol": "DGNX"
+      },
+      {
+        "change": "-3.39",
+        "change_pts": null,
+        "close": 6884.63,
+        "name": "Norwegian Cruise Line Holdings Ltd.",
+        "open": null,
+        "pct_change": "-15.28%",
+        "price": "",
+        "symbol": "NCLH"
+      },
+      {
+        "change": "-1.79",
+        "change_pts": null,
+        "close": 6840.2,
+        "name": "Navitas Semiconductor Corporation",
+        "open": null,
+        "pct_change": "-14.61%",
+        "price": "",
+        "symbol": "NVTS"
+      },
+      {
+        "change": "-19.89",
+        "change_pts": null,
+        "close": 6771.55,
+        "name": "Zoetis Inc.",
+        "open": null,
+        "pct_change": "-13.78%",
+        "price": "",
+        "symbol": "ZTS"
+      },
+      {
+        "change": "-1.50",
+        "change_pts": null,
+        "close": 6840.2,
+        "name": "WeRide Inc.",
+        "open": null,
+        "pct_change": "-13.72%",
+        "price": "",
+        "symbol": "WRD"
+      }
+    ],
+    "scraped_at": "2025-11-04T20:02:49.408734-05:00"
   }
 }
