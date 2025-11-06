@@ -212,5 +212,112 @@
       }
     ],
     "scraped_at": "2025-11-04T20:02:49.408734-05:00"
+  },
+  "2025-11-05": {
+    "gainers": [
+      {
+        "change": "+20.07",
+        "change_pts": null,
+        "close": 6866.5,
+        "name": "Lemonade, Inc.",
+        "open": null,
+        "pct_change": "+34.21%",
+        "price": "",
+        "symbol": "LMND"
+      },
+      {
+        "change": "+6.75",
+        "change_pts": null,
+        "close": 6813.25,
+        "name": "Teradata Corporation",
+        "open": null,
+        "pct_change": "+32.59%",
+        "price": "",
+        "symbol": "TDC"
+      },
+      {
+        "change": "+9.20",
+        "change_pts": null,
+        "close": 6796.29,
+        "name": "SolarEdge Technologies, Inc.",
+        "open": null,
+        "pct_change": "+28.91%",
+        "price": "",
+        "symbol": "SEDG"
+      },
+      {
+        "change": "+9.92",
+        "change_pts": null,
+        "close": 6809.25,
+        "name": "Veracyte, Inc.",
+        "open": null,
+        "pct_change": "+27.46%",
+        "price": "",
+        "symbol": "VCYT"
+      },
+      {
+        "change": "+44.39",
+        "change_pts": null,
+        "close": 6813.75,
+        "name": "Lumentum Holdings Inc.",
+        "open": null,
+        "pct_change": "+23.57%",
+        "price": "",
+        "symbol": "LITE"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-14.61",
+        "change_pts": null,
+        "close": 6807.5,
+        "name": "Trex Company, Inc.",
+        "open": null,
+        "pct_change": "-31.06%",
+        "price": "",
+        "symbol": "TREX"
+      },
+      {
+        "change": "-16.98",
+        "change_pts": null,
+        "close": null,
+        "name": "Soleno Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-26.59%",
+        "price": "",
+        "symbol": "SLNO"
+      },
+      {
+        "change": "-5.09",
+        "change_pts": null,
+        "close": 6811.75,
+        "name": "Perrigo Company plc",
+        "open": null,
+        "pct_change": "-25.21%",
+        "price": "",
+        "symbol": "PRGO"
+      },
+      {
+        "change": "-7.16",
+        "change_pts": null,
+        "close": 6809.25,
+        "name": "Pinterest, Inc.",
+        "open": null,
+        "pct_change": "-21.76%",
+        "price": "",
+        "symbol": "PINS"
+      },
+      {
+        "change": "-9.89",
+        "change_pts": null,
+        "close": 6796.29,
+        "name": "Supernus Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "-17.35%",
+        "price": "",
+        "symbol": "SUPN"
+      }
+    ],
+    "scraped_at": "2025-11-05T20:40:55.915963-05:00"
   }
 }
