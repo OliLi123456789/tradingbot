@@ -319,5 +319,112 @@
       }
     ],
     "scraped_at": "2025-11-05T20:40:55.915963-05:00"
+  },
+  "2025-11-06": {
+    "gainers": [
+      {
+        "change": "+16.39",
+        "change_pts": null,
+        "close": 6754.0,
+        "name": "Haemonetics Corporation",
+        "open": null,
+        "pct_change": "+32.31%",
+        "price": "",
+        "symbol": "HAE"
+      },
+      {
+        "change": "+9.03",
+        "change_pts": null,
+        "close": 6720.32,
+        "name": "Appian Corporation",
+        "open": null,
+        "pct_change": "+30.79%",
+        "price": "",
+        "symbol": "APPN"
+      },
+      {
+        "change": "+1.44",
+        "change_pts": null,
+        "close": null,
+        "name": "LifeStance Health Group, Inc.",
+        "open": null,
+        "pct_change": "+29.94%",
+        "price": "",
+        "symbol": "LFST"
+      },
+      {
+        "change": "+13.90",
+        "change_pts": null,
+        "close": 6754.0,
+        "name": "Brighthouse Financial, Inc.",
+        "open": null,
+        "pct_change": "+26.83%",
+        "price": "",
+        "symbol": "BHF"
+      },
+      {
+        "change": "+35.84",
+        "change_pts": null,
+        "close": 6875.16,
+        "name": "Datadog, Inc.",
+        "open": null,
+        "pct_change": "+23.13%",
+        "price": "",
+        "symbol": "DDOG"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-41.29",
+        "change_pts": null,
+        "close": 6754.0,
+        "name": "e.l.f. Beauty, Inc.",
+        "open": null,
+        "pct_change": "-35.04%",
+        "price": "",
+        "symbol": "ELF"
+      },
+      {
+        "change": "-66.28",
+        "change_pts": null,
+        "close": 6895.5,
+        "name": "Duolingo, Inc.",
+        "open": null,
+        "pct_change": "-25.49%",
+        "price": "",
+        "symbol": "DUOL"
+      },
+      {
+        "change": "-4.13",
+        "change_pts": null,
+        "close": 6756.5,
+        "name": "Remitly Global, Inc.",
+        "open": null,
+        "pct_change": "-25.12%",
+        "price": "",
+        "symbol": "RELY"
+      },
+      {
+        "change": "-14.86",
+        "change_pts": null,
+        "close": 6813.5,
+        "name": "Celsius Holdings, Inc.",
+        "open": null,
+        "pct_change": "-24.80%",
+        "price": "",
+        "symbol": "CELH"
+      },
+      {
+        "change": "-9.93",
+        "change_pts": null,
+        "close": 6720.32,
+        "name": "CarMax, Inc.",
+        "open": null,
+        "pct_change": "-24.33%",
+        "price": "",
+        "symbol": "KMX"
+      }
+    ],
+    "scraped_at": "2025-11-06T20:40:52.402969-05:00"
   }
 }
