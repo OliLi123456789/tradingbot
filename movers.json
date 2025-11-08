@@ -426,5 +426,112 @@
       }
     ],
     "scraped_at": "2025-11-06T20:40:52.402969-05:00"
+  },
+  "2025-11-07": {
+    "gainers": [
+      {
+        "change": "+22.18",
+        "change_pts": null,
+        "close": 6728.8,
+        "name": "Globus Medical, Inc.",
+        "open": null,
+        "pct_change": "+35.94%",
+        "price": "",
+        "symbol": "GMED"
+      },
+      {
+        "change": "+12.74",
+        "change_pts": null,
+        "close": 6676.83,
+        "name": "JFrog Ltd.",
+        "open": null,
+        "pct_change": "+26.96%",
+        "price": "",
+        "symbol": "FROG"
+      },
+      {
+        "change": "+2.97",
+        "change_pts": null,
+        "close": 6699.4,
+        "name": "Eos Energy Enterprises, Inc.",
+        "open": null,
+        "pct_change": "+19.42%",
+        "price": "",
+        "symbol": "EOSE"
+      },
+      {
+        "change": "+3.66",
+        "change_pts": null,
+        "close": 6676.8,
+        "name": "OneStream, Inc.",
+        "open": null,
+        "pct_change": "+19.18%",
+        "price": "",
+        "symbol": "OS"
+      },
+      {
+        "change": "+38.55",
+        "change_pts": null,
+        "close": 6676.8,
+        "name": "Expedia Group, Inc.",
+        "open": null,
+        "pct_change": "+17.55%",
+        "price": "",
+        "symbol": "EXPE"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-147.38",
+        "change_pts": null,
+        "close": 6851.97,
+        "name": "Ubiquiti Inc.",
+        "open": null,
+        "pct_change": "-19.40%",
+        "price": "",
+        "symbol": "UI"
+      },
+      {
+        "change": "-3.24",
+        "change_pts": null,
+        "close": null,
+        "name": "Primo Brands Corporation",
+        "open": null,
+        "pct_change": "-18.31%",
+        "price": "",
+        "symbol": "PRMB"
+      },
+      {
+        "change": "-3.29",
+        "change_pts": null,
+        "close": 6728.8,
+        "name": "Sunrun Inc.",
+        "open": null,
+        "pct_change": "-16.11%",
+        "price": "",
+        "symbol": "RUN"
+      },
+      {
+        "change": "-7.53",
+        "change_pts": null,
+        "close": null,
+        "name": "Diodes Incorporated",
+        "open": null,
+        "pct_change": "-14.53%",
+        "price": "",
+        "symbol": "DIOD"
+      },
+      {
+        "change": "-8.29",
+        "change_pts": null,
+        "close": 6728.8,
+        "name": "Doximity, Inc.",
+        "open": null,
+        "pct_change": "-13.25%",
+        "price": "",
+        "symbol": "DOCS"
+      }
+    ],
+    "scraped_at": "2025-11-07T20:40:40.614741-05:00"
   }
 }
