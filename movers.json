@@ -533,5 +533,112 @@
       }
     ],
     "scraped_at": "2025-11-07T20:40:40.614741-05:00"
+  },
+  "2025-11-10": {
+    "gainers": [
+      {
+        "change": "+17.64",
+        "change_pts": null,
+        "close": 6864.75,
+        "name": "Cogent Biosciences, Inc.",
+        "open": null,
+        "pct_change": "+119.03%",
+        "price": "",
+        "symbol": "COGT"
+      },
+      {
+        "change": "+1.76",
+        "change_pts": null,
+        "close": 6832.43,
+        "name": "Navitas Semiconductor Corporation",
+        "open": null,
+        "pct_change": "+22.45%",
+        "price": "",
+        "symbol": "NVTS"
+      },
+      {
+        "change": "+1.43",
+        "change_pts": null,
+        "close": 6863.5,
+        "name": "Opendoor Technologies Inc.",
+        "open": null,
+        "pct_change": "+21.77%",
+        "price": "",
+        "symbol": "OPEN"
+      },
+      {
+        "change": "+6.48",
+        "change_pts": null,
+        "close": null,
+        "name": "Mineralys Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+17.04%",
+        "price": "",
+        "symbol": "MLYS"
+      },
+      {
+        "change": "+14.03",
+        "change_pts": null,
+        "close": 6778.4,
+        "name": "Tower Semiconductor Ltd.",
+        "open": null,
+        "pct_change": "+16.69%",
+        "price": "",
+        "symbol": "TSEM"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-5.47",
+        "change_pts": null,
+        "close": null,
+        "name": "Surgery Partners, Inc.",
+        "open": null,
+        "pct_change": "-25.42%",
+        "price": "",
+        "symbol": "SGRY"
+      },
+      {
+        "change": "-4.34",
+        "change_pts": null,
+        "close": 6770.5,
+        "name": "Bitdeer Technologies Group",
+        "open": null,
+        "pct_change": "-19.74%",
+        "price": "",
+        "symbol": "BTDR"
+      },
+      {
+        "change": "-3.11",
+        "change_pts": null,
+        "close": 6728.8,
+        "name": "Oscar Health, Inc.",
+        "open": null,
+        "pct_change": "-17.55%",
+        "price": "",
+        "symbol": "OSCR"
+      },
+      {
+        "change": "-12.31",
+        "change_pts": null,
+        "close": 6832.43,
+        "name": "Metsera, Inc.",
+        "open": null,
+        "pct_change": "-14.80%",
+        "price": "",
+        "symbol": "MTSR"
+      },
+      {
+        "change": "-23.38",
+        "change_pts": null,
+        "close": 6863.25,
+        "name": "monday.com Ltd.",
+        "open": null,
+        "pct_change": "-12.33%",
+        "price": "",
+        "symbol": "MNDY"
+      }
+    ],
+    "scraped_at": "2025-11-10T20:40:59.062486-05:00"
   }
 }
