@@ -640,5 +640,112 @@
       }
     ],
     "scraped_at": "2025-11-10T20:40:59.062486-05:00"
+  },
+  "2025-11-11": {
+    "gainers": [
+      {
+        "change": "+3.20",
+        "change_pts": null,
+        "close": null,
+        "name": "Edgewise Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+17.51%",
+        "price": "",
+        "symbol": "EWTX"
+      },
+      {
+        "change": "+10.55",
+        "change_pts": null,
+        "close": 6879.0,
+        "name": "LandBridge Company LLC",
+        "open": null,
+        "pct_change": "+14.07%",
+        "price": "",
+        "symbol": "LB"
+      },
+      {
+        "change": "+1.98",
+        "change_pts": null,
+        "close": 6881.0,
+        "name": "Denali Therapeutics Inc.",
+        "open": null,
+        "pct_change": "+12.69%",
+        "price": "",
+        "symbol": "DNLI"
+      },
+      {
+        "change": "+6.18",
+        "change_pts": null,
+        "close": 6880.5,
+        "name": "Apogee Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+10.89%",
+        "price": "",
+        "symbol": "APGE"
+      },
+      {
+        "change": "+1.71",
+        "change_pts": null,
+        "close": null,
+        "name": "Clearwater Analytics Holdings, Inc.",
+        "open": null,
+        "pct_change": "+10.25%",
+        "price": "",
+        "symbol": "CWAN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-20.51",
+        "change_pts": null,
+        "close": 6880.0,
+        "name": "Life360, Inc.",
+        "open": null,
+        "pct_change": "-21.98%",
+        "price": "",
+        "symbol": "LIF"
+      },
+      {
+        "change": "-17.22",
+        "change_pts": null,
+        "close": 6846.61,
+        "name": "CoreWeave, Inc.",
+        "open": null,
+        "pct_change": "-16.31%",
+        "price": "",
+        "symbol": "CRWV"
+      },
+      {
+        "change": "-2.63",
+        "change_pts": null,
+        "close": 6770.5,
+        "name": "Bitdeer Technologies Group",
+        "open": null,
+        "pct_change": "-14.90%",
+        "price": "",
+        "symbol": "BTDR"
+      },
+      {
+        "change": "-4.43",
+        "change_pts": null,
+        "close": 6880.25,
+        "name": "Century Aluminum Company",
+        "open": null,
+        "pct_change": "-13.71%",
+        "price": "",
+        "symbol": "CENX"
+      },
+      {
+        "change": "-1.93",
+        "change_pts": null,
+        "close": 6879.0,
+        "name": "TeraWulf Inc.",
+        "open": null,
+        "pct_change": "-13.50%",
+        "price": "",
+        "symbol": "WULF"
+      }
+    ],
+    "scraped_at": "2025-11-11T20:41:01.671763-05:00"
   }
 }
