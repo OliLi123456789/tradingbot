@@ -747,5 +747,112 @@
       }
     ],
     "scraped_at": "2025-11-11T20:41:01.671763-05:00"
+  },
+  "2025-11-12": {
+    "gainers": [
+      {
+        "change": "+2.72",
+        "change_pts": null,
+        "close": 6882.25,
+        "name": "McGraw Hill, Inc.",
+        "open": null,
+        "pct_change": "+23.92%",
+        "price": "",
+        "symbol": "MH"
+      },
+      {
+        "change": "+4.16",
+        "change_pts": null,
+        "close": 6850.92,
+        "name": "Centessa Pharmaceuticals plc",
+        "open": null,
+        "pct_change": "+18.46%",
+        "price": "",
+        "symbol": "CNTA"
+      },
+      {
+        "change": "+6.33",
+        "change_pts": null,
+        "close": 6857.15,
+        "name": "On Holding AG",
+        "open": null,
+        "pct_change": "+17.99%",
+        "price": "",
+        "symbol": "ONON"
+      },
+      {
+        "change": "+1.09",
+        "change_pts": null,
+        "close": 6842.5,
+        "name": "BigBear.ai Holdings, Inc.",
+        "open": null,
+        "pct_change": "+17.90%",
+        "price": "",
+        "symbol": "BBAI"
+      },
+      {
+        "change": "+1.46",
+        "change_pts": null,
+        "close": 6850.92,
+        "name": "Orla Mining Ltd.",
+        "open": null,
+        "pct_change": "+13.80%",
+        "price": "",
+        "symbol": "ORLA"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.35",
+        "change_pts": null,
+        "close": 6850.92,
+        "name": "Diginex Limited",
+        "open": null,
+        "pct_change": "-14.37%",
+        "price": "",
+        "symbol": "DGNX"
+      },
+      {
+        "change": "-12.31",
+        "change_pts": null,
+        "close": 6832.43,
+        "name": "Circle Internet Group",
+        "open": null,
+        "pct_change": "-12.52%",
+        "price": "",
+        "symbol": "CRCL"
+      },
+      {
+        "change": "-3.10",
+        "change_pts": null,
+        "close": 6850.92,
+        "name": "Rigetti Computing, Inc.",
+        "open": null,
+        "pct_change": "-9.87%",
+        "price": "",
+        "symbol": "RGTI"
+      },
+      {
+        "change": "-3.96",
+        "change_pts": null,
+        "close": null,
+        "name": "Jyong Biotech Ltd.",
+        "open": null,
+        "pct_change": "-9.74%",
+        "price": "",
+        "symbol": "MENS"
+      },
+      {
+        "change": "-3.46",
+        "change_pts": null,
+        "close": 6882.0,
+        "name": "Daqo New Energy Corp.",
+        "open": null,
+        "pct_change": "-9.72%",
+        "price": "",
+        "symbol": "DQ"
+      }
+    ],
+    "scraped_at": "2025-11-12T20:41:04.672452-05:00"
   }
 }
