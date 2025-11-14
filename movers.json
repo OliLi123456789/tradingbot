@@ -854,5 +854,112 @@
       }
     ],
     "scraped_at": "2025-11-12T20:41:04.672452-05:00"
+  },
+  "2025-11-13": {
+    "gainers": [
+      {
+        "change": "+3.31",
+        "change_pts": null,
+        "close": 6766.25,
+        "name": "Cellebrite DI Ltd.",
+        "open": null,
+        "pct_change": "+20.73%",
+        "price": "",
+        "symbol": "CLBT"
+      },
+      {
+        "change": "+1.05",
+        "change_pts": null,
+        "close": 6768.25,
+        "name": "Ondas Holdings Inc.",
+        "open": null,
+        "pct_change": "+19.06%",
+        "price": "",
+        "symbol": "ONDS"
+      },
+      {
+        "change": "+3.11",
+        "change_pts": null,
+        "close": 6768.25,
+        "name": "Firefly Aerospace Inc.",
+        "open": null,
+        "pct_change": "+16.99%",
+        "price": "",
+        "symbol": "FLY"
+      },
+      {
+        "change": "+6.12",
+        "change_pts": null,
+        "close": 6768.0,
+        "name": "Sealed Air Corporation",
+        "open": null,
+        "pct_change": "+16.82%",
+        "price": "",
+        "symbol": "SEE"
+      },
+      {
+        "change": "+4.96",
+        "change_pts": null,
+        "close": null,
+        "name": "Tetra Tech, Inc.",
+        "open": null,
+        "pct_change": "+15.29%",
+        "price": "",
+        "symbol": "TTEK"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.83",
+        "change_pts": null,
+        "close": 6770.5,
+        "name": "Bitdeer Technologies Group",
+        "open": null,
+        "pct_change": "-20.30%",
+        "price": "",
+        "symbol": "BTDR"
+      },
+      {
+        "change": "-4.26",
+        "change_pts": null,
+        "close": 6766.25,
+        "name": "Fermi Inc.",
+        "open": null,
+        "pct_change": "-19.58%",
+        "price": "",
+        "symbol": "FRMI"
+      },
+      {
+        "change": "-23.17",
+        "change_pts": null,
+        "close": 6854.63,
+        "name": "Bloom Energy Corporation",
+        "open": null,
+        "pct_change": "-18.28%",
+        "price": "",
+        "symbol": "BE"
+      },
+      {
+        "change": "-2.96",
+        "change_pts": null,
+        "close": 6769.0,
+        "name": "Fluence Energy, Inc.",
+        "open": null,
+        "pct_change": "-15.41%",
+        "price": "",
+        "symbol": "FLNC"
+      },
+      {
+        "change": "-7.36",
+        "change_pts": null,
+        "close": 6768.25,
+        "name": "Via Transportation, Inc.",
+        "open": null,
+        "pct_change": "-14.57%",
+        "price": "",
+        "symbol": "VIA"
+      }
+    ],
+    "scraped_at": "2025-11-13T20:41:17.602306-05:00"
   }
 }
