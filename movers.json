@@ -961,5 +961,112 @@
       }
     ],
     "scraped_at": "2025-11-13T20:41:17.602306-05:00"
+  },
+  "2025-11-14": {
+    "gainers": [
+      {
+        "change": "+111.72",
+        "change_pts": null,
+        "close": 6734.11,
+        "name": "Cidara Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+105.41%",
+        "price": "",
+        "symbol": "CDTX"
+      },
+      {
+        "change": "+7.34",
+        "change_pts": null,
+        "close": 6734.11,
+        "name": "Scholar Rock Holding Corporation",
+        "open": null,
+        "pct_change": "+24.41%",
+        "price": "",
+        "symbol": "SRRK"
+      },
+      {
+        "change": "+4.32",
+        "change_pts": null,
+        "close": 6734.11,
+        "name": "Avadel Pharmaceuticals plc",
+        "open": null,
+        "pct_change": "+22.45%",
+        "price": "",
+        "symbol": "AVDL"
+      },
+      {
+        "change": "+6.95",
+        "change_pts": null,
+        "close": null,
+        "name": "Legence Corp.",
+        "open": null,
+        "pct_change": "+20.86%",
+        "price": "",
+        "symbol": "LGN"
+      },
+      {
+        "change": "+4.96",
+        "change_pts": null,
+        "close": 6734.11,
+        "name": "Canadian Solar Inc.",
+        "open": null,
+        "pct_change": "+17.33%",
+        "price": "",
+        "symbol": "CSIQ"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.97",
+        "change_pts": null,
+        "close": 6734.11,
+        "name": "Diginex Limited",
+        "open": null,
+        "pct_change": "-22.00%",
+        "price": "",
+        "symbol": "DGNX"
+      },
+      {
+        "change": "-3.95",
+        "change_pts": null,
+        "close": 6734.11,
+        "name": "StubHub Holdings, Inc.",
+        "open": null,
+        "pct_change": "-20.99%",
+        "price": "",
+        "symbol": "STUB"
+      },
+      {
+        "change": "-2.96",
+        "change_pts": null,
+        "close": 6734.11,
+        "name": "Heartflow, Inc.",
+        "open": null,
+        "pct_change": "-9.57%",
+        "price": "",
+        "symbol": "HTFL"
+      },
+      {
+        "change": "-1.40",
+        "change_pts": null,
+        "close": 6734.11,
+        "name": "Eos Energy Enterprises, Inc.",
+        "open": null,
+        "pct_change": "-9.24%",
+        "price": "",
+        "symbol": "EOSE"
+      },
+      {
+        "change": "-1.02",
+        "change_pts": null,
+        "close": 6734.11,
+        "name": "CleanSpark, Inc.",
+        "open": null,
+        "pct_change": "-8.51%",
+        "price": "",
+        "symbol": "CLSK"
+      }
+    ],
+    "scraped_at": "2025-11-14T20:40:43.125236-05:00"
   }
 }
