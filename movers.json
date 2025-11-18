@@ -1068,5 +1068,112 @@
       }
     ],
     "scraped_at": "2025-11-14T20:40:43.125236-05:00"
+  },
+  "2025-11-17": {
+    "gainers": [
+      {
+        "change": "+5.12",
+        "change_pts": null,
+        "close": 6700.5,
+        "name": "PACS Group, Inc.",
+        "open": null,
+        "pct_change": "+48.39%",
+        "price": "",
+        "symbol": "PACS"
+      },
+      {
+        "change": "+3.06",
+        "change_pts": null,
+        "close": 6691.25,
+        "name": "Diginex Limited",
+        "open": null,
+        "pct_change": "+29.06%",
+        "price": "",
+        "symbol": "DGNX"
+      },
+      {
+        "change": "+29.02",
+        "change_pts": null,
+        "close": 6728.8,
+        "name": "Jazz Pharmaceuticals plc",
+        "open": null,
+        "pct_change": "+20.57%",
+        "price": "",
+        "symbol": "JAZZ"
+      },
+      {
+        "change": "+3.00",
+        "change_pts": null,
+        "close": 6818.0,
+        "name": "Terns Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "+13.30%",
+        "price": "",
+        "symbol": "TERN"
+      },
+      {
+        "change": "+11.50",
+        "change_pts": null,
+        "close": 6701.25,
+        "name": "Nuvalent, Inc.",
+        "open": null,
+        "pct_change": "+11.92%",
+        "price": "",
+        "symbol": "NUVL"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-7.47",
+        "change_pts": null,
+        "close": null,
+        "name": "Jyong Biotech Ltd.",
+        "open": null,
+        "pct_change": "-19.56%",
+        "price": "",
+        "symbol": "MENS"
+      },
+      {
+        "change": "-12.66",
+        "change_pts": null,
+        "close": 6701.0,
+        "name": "LandBridge Company LLC",
+        "open": null,
+        "pct_change": "-16.98%",
+        "price": "",
+        "symbol": "LB"
+      },
+      {
+        "change": "-3.47",
+        "change_pts": null,
+        "close": 6734.11,
+        "name": "Firefly Aerospace Inc.",
+        "open": null,
+        "pct_change": "-15.12%",
+        "price": "",
+        "symbol": "FLY"
+      },
+      {
+        "change": "-2.05",
+        "change_pts": null,
+        "close": 6734.11,
+        "name": "StubHub Holdings, Inc.",
+        "open": null,
+        "pct_change": "-13.79%",
+        "price": "",
+        "symbol": "STUB"
+      },
+      {
+        "change": "-0.93",
+        "change_pts": null,
+        "close": 6699.75,
+        "name": "Ondas Holdings Inc.",
+        "open": null,
+        "pct_change": "-12.88%",
+        "price": "",
+        "symbol": "ONDS"
+      }
+    ],
+    "scraped_at": "2025-11-17T20:40:56.371203-05:00"
   }
 }
