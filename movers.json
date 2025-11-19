@@ -1175,5 +1175,112 @@
       }
     ],
     "scraped_at": "2025-11-17T20:40:56.371203-05:00"
+  },
+  "2025-11-18": {
+    "gainers": [
+      {
+        "change": "+1.59",
+        "change_pts": null,
+        "close": 6643.0,
+        "name": "Ondas Holdings Inc.",
+        "open": null,
+        "pct_change": "+25.34%",
+        "price": "",
+        "symbol": "ONDS"
+      },
+      {
+        "change": "+2.61",
+        "change_pts": null,
+        "close": 6617.32,
+        "name": "Diginex Limited",
+        "open": null,
+        "pct_change": "+19.21%",
+        "price": "",
+        "symbol": "DGNX"
+      },
+      {
+        "change": "+4.81",
+        "change_pts": null,
+        "close": null,
+        "name": "Legence Corp.",
+        "open": null,
+        "pct_change": "+11.99%",
+        "price": "",
+        "symbol": "LGN"
+      },
+      {
+        "change": "+0.54",
+        "change_pts": null,
+        "close": 6737.49,
+        "name": "TMC the metals company Inc.",
+        "open": null,
+        "pct_change": "+10.95%",
+        "price": "",
+        "symbol": "TMC"
+      },
+      {
+        "change": "+3.34",
+        "change_pts": null,
+        "close": 6643.0,
+        "name": "Scholar Rock Holding Corporation",
+        "open": null,
+        "pct_change": "+9.14%",
+        "price": "",
+        "symbol": "SRRK"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-15.21",
+        "change_pts": null,
+        "close": 6639.74,
+        "name": "NICE Ltd.",
+        "open": null,
+        "pct_change": "-12.58%",
+        "price": "",
+        "symbol": "NICE"
+      },
+      {
+        "change": "-3.25",
+        "change_pts": null,
+        "close": 6643.0,
+        "name": "Klarna Group plc",
+        "open": null,
+        "pct_change": "-9.32%",
+        "price": "",
+        "symbol": "KLAR"
+      },
+      {
+        "change": "-1.27",
+        "change_pts": null,
+        "close": 6643.0,
+        "name": "PACS Group, Inc.",
+        "open": null,
+        "pct_change": "-8.09%",
+        "price": "",
+        "symbol": "PACS"
+      },
+      {
+        "change": "-20.95",
+        "change_pts": null,
+        "close": 6617.32,
+        "name": "Sandisk Corporation",
+        "open": null,
+        "pct_change": "-7.88%",
+        "price": "",
+        "symbol": "SNDK"
+      },
+      {
+        "change": "-2.94",
+        "change_pts": null,
+        "close": null,
+        "name": "Structure Therapeutics Inc.",
+        "open": null,
+        "pct_change": "-7.85%",
+        "price": "",
+        "symbol": "GPCR"
+      }
+    ],
+    "scraped_at": "2025-11-18T20:40:51.838816-05:00"
   }
 }
