@@ -1282,5 +1282,112 @@
       }
     ],
     "scraped_at": "2025-11-18T20:40:51.838816-05:00"
+  },
+  "2025-11-19": {
+    "gainers": [
+      {
+        "change": "+2.35",
+        "change_pts": null,
+        "close": null,
+        "name": "Nuvation Bio Inc.",
+        "open": null,
+        "pct_change": "+48.96%",
+        "price": "",
+        "symbol": "NUVB"
+      },
+      {
+        "change": "+16.50",
+        "change_pts": null,
+        "close": 6736.75,
+        "name": "Exact Sciences Corporation",
+        "open": null,
+        "pct_change": "+23.68%",
+        "price": "",
+        "symbol": "EXAS"
+      },
+      {
+        "change": "+3.73",
+        "change_pts": null,
+        "close": 6738.75,
+        "name": "Amentum Holdings, Inc.",
+        "open": null,
+        "pct_change": "+17.12%",
+        "price": "",
+        "symbol": "AMTM"
+      },
+      {
+        "change": "+2.40",
+        "change_pts": null,
+        "close": 6741.25,
+        "name": "PACS Group, Inc.",
+        "open": null,
+        "pct_change": "+16.63%",
+        "price": "",
+        "symbol": "PACS"
+      },
+      {
+        "change": "+16.40",
+        "change_pts": null,
+        "close": 6861.0,
+        "name": "TransMedics Group, Inc.",
+        "open": null,
+        "pct_change": "+14.01%",
+        "price": "",
+        "symbol": "TMDX"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-25.22",
+        "change_pts": null,
+        "close": 6642.16,
+        "name": "Wix.com Ltd.",
+        "open": null,
+        "pct_change": "-19.87%",
+        "price": "",
+        "symbol": "WIX"
+      },
+      {
+        "change": "-2.74",
+        "change_pts": null,
+        "close": 6642.16,
+        "name": "Diginex Limited",
+        "open": null,
+        "pct_change": "-16.91%",
+        "price": "",
+        "symbol": "DGNX"
+      },
+      {
+        "change": "-3.19",
+        "change_pts": null,
+        "close": 6905.3,
+        "name": "Qfin Holdings, Inc.",
+        "open": null,
+        "pct_change": "-14.23%",
+        "price": "",
+        "symbol": "QFIN"
+      },
+      {
+        "change": "-9.28",
+        "change_pts": null,
+        "close": 6739.25,
+        "name": "Eversource Energy",
+        "open": null,
+        "pct_change": "-12.45%",
+        "price": "",
+        "symbol": "ES"
+      },
+      {
+        "change": "-36.10",
+        "change_pts": null,
+        "close": null,
+        "name": "Powell Industries, Inc.",
+        "open": null,
+        "pct_change": "-11.23%",
+        "price": "",
+        "symbol": "POWL"
+      }
+    ],
+    "scraped_at": "2025-11-19T20:40:44.455878-05:00"
   }
 }
