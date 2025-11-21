@@ -1389,5 +1389,112 @@
       }
     ],
     "scraped_at": "2025-11-19T20:40:44.455878-05:00"
+  },
+  "2025-11-20": {
+    "gainers": [
+      {
+        "change": "+9.31",
+        "change_pts": null,
+        "close": 6584.5,
+        "name": "PACS Group, Inc.",
+        "open": null,
+        "pct_change": "+55.32%",
+        "price": "",
+        "symbol": "PACS"
+      },
+      {
+        "change": "+14.49",
+        "change_pts": null,
+        "close": 6583.25,
+        "name": "Exact Sciences Corporation",
+        "open": null,
+        "pct_change": "+16.81%",
+        "price": "",
+        "symbol": "EXAS"
+      },
+      {
+        "change": "+3.63",
+        "change_pts": null,
+        "close": null,
+        "name": "Jyong Biotech Ltd.",
+        "open": null,
+        "pct_change": "+12.44%",
+        "price": "",
+        "symbol": "MENS"
+      },
+      {
+        "change": "+3.74",
+        "change_pts": null,
+        "close": 6582.25,
+        "name": "Kulicke and Soffa Industries, Inc.",
+        "open": null,
+        "pct_change": "+10.60%",
+        "price": "",
+        "symbol": "KLIC"
+      },
+      {
+        "change": "+9.95",
+        "change_pts": null,
+        "close": 6585.75,
+        "name": "ABIVAX Société Anonyme",
+        "open": null,
+        "pct_change": "+8.81%",
+        "price": "",
+        "symbol": "ABVX"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-5.22",
+        "change_pts": null,
+        "close": 6538.76,
+        "name": "Bath & Body Works, Inc.",
+        "open": null,
+        "pct_change": "-24.81%",
+        "price": "",
+        "symbol": "BBWI"
+      },
+      {
+        "change": "-50.05",
+        "change_pts": null,
+        "close": 6653.34,
+        "name": "Sandisk Corporation",
+        "open": null,
+        "pct_change": "-20.35%",
+        "price": "",
+        "symbol": "SNDK"
+      },
+      {
+        "change": "-1.23",
+        "change_pts": null,
+        "close": 6583.5,
+        "name": "Ondas Holdings Inc.",
+        "open": null,
+        "pct_change": "-16.40%",
+        "price": "",
+        "symbol": "ONDS"
+      },
+      {
+        "change": "-2.28",
+        "change_pts": null,
+        "close": 6585.25,
+        "name": "Energy Fuels Inc.",
+        "open": null,
+        "pct_change": "-14.72%",
+        "price": "",
+        "symbol": "UUUU"
+      },
+      {
+        "change": "-6.92",
+        "change_pts": null,
+        "close": 6566.01,
+        "name": "IonQ, Inc.",
+        "open": null,
+        "pct_change": "-14.46%",
+        "price": "",
+        "symbol": "IONQ"
+      }
+    ],
+    "scraped_at": "2025-11-20T20:40:49.155177-05:00"
   }
 }
