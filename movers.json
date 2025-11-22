@@ -1496,5 +1496,112 @@
       }
     ],
     "scraped_at": "2025-11-20T20:40:49.155177-05:00"
+  },
+  "2025-11-21": {
+    "gainers": [
+      {
+        "change": "+14.32",
+        "change_pts": null,
+        "close": null,
+        "name": "BillionToOne, Inc.",
+        "open": null,
+        "pct_change": "+14.97%",
+        "price": "",
+        "symbol": "BLLN"
+      },
+      {
+        "change": "+2.29",
+        "change_pts": null,
+        "close": null,
+        "name": "Adaptive Biotechnologies Corporation",
+        "open": null,
+        "pct_change": "+14.03%",
+        "price": "",
+        "symbol": "ADPT"
+      },
+      {
+        "change": "+1.41",
+        "change_pts": null,
+        "close": 6701.75,
+        "name": "Kyivstar Group Ltd.",
+        "open": null,
+        "pct_change": "+12.24%",
+        "price": "",
+        "symbol": "KYIV"
+      },
+      {
+        "change": "+5.33",
+        "change_pts": null,
+        "close": 6602.99,
+        "name": "CAVA Group, Inc.",
+        "open": null,
+        "pct_change": "+12.23%",
+        "price": "",
+        "symbol": "CAVA"
+      },
+      {
+        "change": "+3.18",
+        "change_pts": null,
+        "close": 6748.5,
+        "name": "Heartflow, Inc.",
+        "open": null,
+        "pct_change": "+11.49%",
+        "price": "",
+        "symbol": "HTFL"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-12.04",
+        "change_pts": null,
+        "close": 6602.99,
+        "name": "Elastic N.V.",
+        "open": null,
+        "pct_change": "-14.67%",
+        "price": "",
+        "symbol": "ESTC"
+      },
+      {
+        "change": "-26.44",
+        "change_pts": null,
+        "close": 6654.01,
+        "name": "Veeva Systems Inc.",
+        "open": null,
+        "pct_change": "-9.77%",
+        "price": "",
+        "symbol": "VEEV"
+      },
+      {
+        "change": "-7.66",
+        "change_pts": null,
+        "close": 6602.99,
+        "name": "Post Holdings, Inc.",
+        "open": null,
+        "pct_change": "-7.15%",
+        "price": "",
+        "symbol": "POST"
+      },
+      {
+        "change": "-1.07",
+        "change_pts": null,
+        "close": 6602.99,
+        "name": "Fermi Inc.",
+        "open": null,
+        "pct_change": "-6.94%",
+        "price": "",
+        "symbol": "FRMI"
+      },
+      {
+        "change": "-2.06",
+        "change_pts": null,
+        "close": null,
+        "name": "Jyong Biotech Ltd.",
+        "open": null,
+        "pct_change": "-6.28%",
+        "price": "",
+        "symbol": "MENS"
+      }
+    ],
+    "scraped_at": "2025-11-21T20:40:37.198505-05:00"
   }
 }
