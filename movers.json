@@ -1603,5 +1603,112 @@
       }
     ],
     "scraped_at": "2025-11-21T20:40:37.198505-05:00"
+  },
+  "2025-11-24": {
+    "gainers": [
+      {
+        "change": "+27.42",
+        "change_pts": null,
+        "close": 6602.99,
+        "name": "Inspire Medical Systems, Inc.",
+        "open": null,
+        "pct_change": "+30.51%",
+        "price": "",
+        "symbol": "INSP"
+      },
+      {
+        "change": "+1.97",
+        "change_pts": null,
+        "close": 6720.5,
+        "name": "Ondas Holdings Inc.",
+        "open": null,
+        "pct_change": "+29.32%",
+        "price": "",
+        "symbol": "ONDS"
+      },
+      {
+        "change": "+3.01",
+        "change_pts": null,
+        "close": 6705.12,
+        "name": "Oscar Health, Inc.",
+        "open": null,
+        "pct_change": "+22.33%",
+        "price": "",
+        "symbol": "OSCR"
+      },
+      {
+        "change": "+5.07",
+        "change_pts": null,
+        "close": 6650.75,
+        "name": "Bitmine Immersion Technologies, Inc.",
+        "open": null,
+        "pct_change": "+19.48%",
+        "price": "",
+        "symbol": "BMNR"
+      },
+      {
+        "change": "+17.85",
+        "change_pts": null,
+        "close": 6721.0,
+        "name": "GRAIL, Inc.",
+        "open": null,
+        "pct_change": "+19.08%",
+        "price": "",
+        "symbol": "GRAL"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-15.23",
+        "change_pts": null,
+        "close": 6720.32,
+        "name": "Arcellx, Inc.",
+        "open": null,
+        "pct_change": "-16.89%",
+        "price": "",
+        "symbol": "ACLX"
+      },
+      {
+        "change": "-1.68",
+        "change_pts": null,
+        "close": 6925.5,
+        "name": "Grindr Inc.",
+        "open": null,
+        "pct_change": "-12.14%",
+        "price": "",
+        "symbol": "GRND"
+      },
+      {
+        "change": "-1.80",
+        "change_pts": null,
+        "close": 6721.25,
+        "name": "Carnival Corporation & plc",
+        "open": null,
+        "pct_change": "-6.78%",
+        "price": "",
+        "symbol": "CCL"
+      },
+      {
+        "change": "-0.80",
+        "change_pts": null,
+        "close": null,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-6.41%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "-4.26",
+        "change_pts": null,
+        "close": 6602.99,
+        "name": "Abercrombie & Fitch Co.",
+        "open": null,
+        "pct_change": "-6.10%",
+        "price": "",
+        "symbol": "ANF"
+      }
+    ],
+    "scraped_at": "2025-11-24T20:40:51.993786-05:00"
   }
 }
