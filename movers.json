@@ -1710,5 +1710,112 @@
       }
     ],
     "scraped_at": "2025-11-24T20:40:51.993786-05:00"
+  },
+  "2025-11-25": {
+    "gainers": [
+      {
+        "change": "+6.69",
+        "change_pts": null,
+        "close": 6602.99,
+        "name": "Kohl's Corporation",
+        "open": null,
+        "pct_change": "+42.53%",
+        "price": "",
+        "symbol": "KSS"
+      },
+      {
+        "change": "+21.83",
+        "change_pts": null,
+        "close": 6705.12,
+        "name": "Symbotic Inc.",
+        "open": null,
+        "pct_change": "+39.36%",
+        "price": "",
+        "symbol": "SYM"
+      },
+      {
+        "change": "+24.63",
+        "change_pts": null,
+        "close": 6602.99,
+        "name": "Abercrombie & Fitch Co.",
+        "open": null,
+        "pct_change": "+37.54%",
+        "price": "",
+        "symbol": "ANF"
+      },
+      {
+        "change": "+4.63",
+        "change_pts": null,
+        "close": 6794.75,
+        "name": "Amentum Holdings, Inc.",
+        "open": null,
+        "pct_change": "+18.25%",
+        "price": "",
+        "symbol": "AMTM"
+      },
+      {
+        "change": "+2.34",
+        "change_pts": null,
+        "close": 6657.0,
+        "name": "ZIM Integrated Shipping Services Ltd.",
+        "open": null,
+        "pct_change": "+13.63%",
+        "price": "",
+        "symbol": "ZIM"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-5.04",
+        "change_pts": null,
+        "close": null,
+        "name": "Jyong Biotech Ltd.",
+        "open": null,
+        "pct_change": "-14.24%",
+        "price": "",
+        "symbol": "MENS"
+      },
+      {
+        "change": "-34.82",
+        "change_pts": null,
+        "close": 6794.0,
+        "name": "Burlington Stores, Inc.",
+        "open": null,
+        "pct_change": "-12.24%",
+        "price": "",
+        "symbol": "BURL"
+      },
+      {
+        "change": "-2.19",
+        "change_pts": null,
+        "close": 6650.75,
+        "name": "Bitmine Immersion Technologies, Inc.",
+        "open": null,
+        "pct_change": "-7.04%",
+        "price": "",
+        "symbol": "BMNR"
+      },
+      {
+        "change": "-1.21",
+        "change_pts": null,
+        "close": 6794.75,
+        "name": "NuScale Power Corporation",
+        "open": null,
+        "pct_change": "-6.07%",
+        "price": "",
+        "symbol": "SMR"
+      },
+      {
+        "change": "-8.20",
+        "change_pts": null,
+        "close": 6794.5,
+        "name": "Belite Bio, Inc",
+        "open": null,
+        "pct_change": "-6.03%",
+        "price": "",
+        "symbol": "BLTE"
+      }
+    ],
+    "scraped_at": "2025-11-25T20:41:00.950761-05:00"
   }
 }
