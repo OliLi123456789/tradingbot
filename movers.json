@@ -1817,5 +1817,112 @@
       }
     ],
     "scraped_at": "2025-11-25T20:41:00.950761-05:00"
+  },
+  "2025-11-26": {
+    "gainers": [
+      {
+        "change": "+10.92",
+        "change_pts": null,
+        "close": 6633.75,
+        "name": "Arrowhead Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "+23.34%",
+        "price": "",
+        "symbol": "ARWR"
+      },
+      {
+        "change": "+1.63",
+        "change_pts": null,
+        "close": 6653.25,
+        "name": "CleanSpark, Inc.",
+        "open": null,
+        "pct_change": "+13.79%",
+        "price": "",
+        "symbol": "CLSK"
+      },
+      {
+        "change": "+9.25",
+        "change_pts": null,
+        "close": null,
+        "name": "Urban Outfitters, Inc.",
+        "open": null,
+        "pct_change": "+13.54%",
+        "price": "",
+        "symbol": "URBN"
+      },
+      {
+        "change": "+3.90",
+        "change_pts": null,
+        "close": 6829.5,
+        "name": "Vera Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+13.25%",
+        "price": "",
+        "symbol": "VERA"
+      },
+      {
+        "change": "+2.22",
+        "change_pts": null,
+        "close": 6808.75,
+        "name": "Fluence Energy, Inc.",
+        "open": null,
+        "pct_change": "+13.24%",
+        "price": "",
+        "symbol": "FLNC"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-17.08",
+        "change_pts": null,
+        "close": 6812.61,
+        "name": "Ambarella, Inc.",
+        "open": null,
+        "pct_change": "-18.78%",
+        "price": "",
+        "symbol": "AMBA"
+      },
+      {
+        "change": "-10.43",
+        "change_pts": null,
+        "close": 6653.25,
+        "name": "Nutanix, Inc.",
+        "open": null,
+        "pct_change": "-17.75%",
+        "price": "",
+        "symbol": "NTNX"
+      },
+      {
+        "change": "-37.76",
+        "change_pts": null,
+        "close": 6720.25,
+        "name": "Zscaler, Inc.",
+        "open": null,
+        "pct_change": "-13.03%",
+        "price": "",
+        "symbol": "ZS"
+      },
+      {
+        "change": "-18.35",
+        "change_pts": null,
+        "close": 6705.12,
+        "name": "Workday, Inc.",
+        "open": null,
+        "pct_change": "-7.85%",
+        "price": "",
+        "symbol": "WDAY"
+      },
+      {
+        "change": "-1.49",
+        "change_pts": null,
+        "close": null,
+        "name": "Hesai Group",
+        "open": null,
+        "pct_change": "-7.37%",
+        "price": "",
+        "symbol": "HSAI"
+      }
+    ],
+    "scraped_at": "2025-11-26T20:40:44.155582-05:00"
   }
 }
