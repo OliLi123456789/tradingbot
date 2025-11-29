@@ -1924,5 +1924,112 @@
       }
     ],
     "scraped_at": "2025-11-26T20:40:44.155582-05:00"
+  },
+  "2025-11-28": {
+    "gainers": [
+      {
+        "change": "+1.13",
+        "change_pts": null,
+        "close": 6812.61,
+        "name": "TMC the metals company Inc.",
+        "open": null,
+        "pct_change": "+19.38%",
+        "price": "",
+        "symbol": "TMC"
+      },
+      {
+        "change": "+1.31",
+        "change_pts": null,
+        "close": 6602.99,
+        "name": "Endeavour Silver Corp.",
+        "open": null,
+        "pct_change": "+15.20%",
+        "price": "",
+        "symbol": "EXK"
+      },
+      {
+        "change": "+1.72",
+        "change_pts": null,
+        "close": 6849.09,
+        "name": "First Majestic Silver Corp.",
+        "open": null,
+        "pct_change": "+12.73%",
+        "price": "",
+        "symbol": "AG"
+      },
+      {
+        "change": "+1.65",
+        "change_pts": null,
+        "close": 6653.25,
+        "name": "CleanSpark, Inc.",
+        "open": null,
+        "pct_change": "+12.27%",
+        "price": "",
+        "symbol": "CLSK"
+      },
+      {
+        "change": "+1.35",
+        "change_pts": null,
+        "close": null,
+        "name": "Ivanhoe Electric Inc.",
+        "open": null,
+        "pct_change": "+10.42%",
+        "price": "",
+        "symbol": "IE"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.81",
+        "change_pts": null,
+        "close": null,
+        "name": "Jyong Biotech Ltd.",
+        "open": null,
+        "pct_change": "-9.36%",
+        "price": "",
+        "symbol": "MENS"
+      },
+      {
+        "change": "-5.01",
+        "change_pts": null,
+        "close": 6633.75,
+        "name": "Arrowhead Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "-8.68%",
+        "price": "",
+        "symbol": "ARWR"
+      },
+      {
+        "change": "-1.67",
+        "change_pts": null,
+        "close": null,
+        "name": "Neptune Insurance Holdings Inc.",
+        "open": null,
+        "pct_change": "-6.68%",
+        "price": "",
+        "symbol": "NP"
+      },
+      {
+        "change": "-3.49",
+        "change_pts": null,
+        "close": 6812.61,
+        "name": "Urban Outfitters, Inc.",
+        "open": null,
+        "pct_change": "-4.50%",
+        "price": "",
+        "symbol": "URBN"
+      },
+      {
+        "change": "-1.70",
+        "change_pts": null,
+        "close": 6849.09,
+        "name": "Zenas BioPharma, Inc.",
+        "open": null,
+        "pct_change": "-4.19%",
+        "price": "",
+        "symbol": "ZBIO"
+      }
+    ],
+    "scraped_at": "2025-11-28T20:40:52.856939-05:00"
   }
 }
