@@ -2031,5 +2031,112 @@
       }
     ],
     "scraped_at": "2025-11-28T20:40:52.856939-05:00"
+  },
+  "2025-12-01": {
+    "gainers": [
+      {
+        "change": "+16.58",
+        "change_pts": null,
+        "close": 6834.63,
+        "name": "Belite Bio, Inc",
+        "open": null,
+        "pct_change": "+12.06%",
+        "price": "",
+        "symbol": "BLTE"
+      },
+      {
+        "change": "+0.70",
+        "change_pts": null,
+        "close": 6832.75,
+        "name": "Bausch Health Companies Inc.",
+        "open": null,
+        "pct_change": "+11.02%",
+        "price": "",
+        "symbol": "BHC"
+      },
+      {
+        "change": "+5.64",
+        "change_pts": null,
+        "close": 6840.2,
+        "name": "Ashland Inc.",
+        "open": null,
+        "pct_change": "+10.76%",
+        "price": "",
+        "symbol": "ASH"
+      },
+      {
+        "change": "+2.55",
+        "change_pts": null,
+        "close": null,
+        "name": "Jyong Biotech Ltd.",
+        "open": null,
+        "pct_change": "+9.38%",
+        "price": "",
+        "symbol": "MENS"
+      },
+      {
+        "change": "+1.57",
+        "change_pts": null,
+        "close": 6602.99,
+        "name": "Bath & Body Works, Inc.",
+        "open": null,
+        "pct_change": "+9.02%",
+        "price": "",
+        "symbol": "BBWI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-17.14",
+        "change_pts": null,
+        "close": null,
+        "name": "BillionToOne, Inc.",
+        "open": null,
+        "pct_change": "-13.17%",
+        "price": "",
+        "symbol": "BLLN"
+      },
+      {
+        "change": "-4.18",
+        "change_pts": null,
+        "close": 6812.63,
+        "name": "Bitmine Immersion Technologies, Inc.",
+        "open": null,
+        "pct_change": "-12.62%",
+        "price": "",
+        "symbol": "BMNR"
+      },
+      {
+        "change": "-12.12",
+        "change_pts": null,
+        "close": 6833.0,
+        "name": "GRAIL, Inc.",
+        "open": null,
+        "pct_change": "-10.98%",
+        "price": "",
+        "symbol": "GRAL"
+      },
+      {
+        "change": "-0.68",
+        "change_pts": null,
+        "close": 6812.63,
+        "name": "TMC the metals company Inc.",
+        "open": null,
+        "pct_change": "-9.70%",
+        "price": "",
+        "symbol": "TMC"
+      },
+      {
+        "change": "-1.46",
+        "change_pts": null,
+        "close": 6648.25,
+        "name": "Eos Energy Enterprises, Inc.",
+        "open": null,
+        "pct_change": "-9.69%",
+        "price": "",
+        "symbol": "EOSE"
+      }
+    ],
+    "scraped_at": "2025-12-01T20:41:18.014914-05:00"
   }
 }
