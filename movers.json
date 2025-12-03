@@ -2138,5 +2138,112 @@
       }
     ],
     "scraped_at": "2025-12-01T20:41:18.014914-05:00"
+  },
+  "2025-12-02": {
+    "gainers": [
+      {
+        "change": "+73.12",
+        "change_pts": null,
+        "close": 6845.5,
+        "name": "MongoDB, Inc.",
+        "open": null,
+        "pct_change": "+22.23%",
+        "price": "",
+        "symbol": "MDB"
+      },
+      {
+        "change": "+1.12",
+        "change_pts": null,
+        "close": 6812.63,
+        "name": "TMC the metals company Inc.",
+        "open": null,
+        "pct_change": "+17.74%",
+        "price": "",
+        "symbol": "TMC"
+      },
+      {
+        "change": "+4.25",
+        "change_pts": null,
+        "close": 6849.25,
+        "name": "Vera Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+12.88%",
+        "price": "",
+        "symbol": "VERA"
+      },
+      {
+        "change": "+2.97",
+        "change_pts": null,
+        "close": 6845.5,
+        "name": "Bitmine Immersion Technologies, Inc.",
+        "open": null,
+        "pct_change": "+10.26%",
+        "price": "",
+        "symbol": "BMNR"
+      },
+      {
+        "change": "+0.85",
+        "change_pts": null,
+        "close": 6812.63,
+        "name": "Lumen Technologies, Inc.",
+        "open": null,
+        "pct_change": "+10.25%",
+        "price": "",
+        "symbol": "LUMN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-18.35",
+        "change_pts": null,
+        "close": 6829.37,
+        "name": "Symbotic Inc.",
+        "open": null,
+        "pct_change": "-21.51%",
+        "price": "",
+        "symbol": "SYM"
+      },
+      {
+        "change": "-7.37",
+        "change_pts": null,
+        "close": 6844.75,
+        "name": "IREN Limited",
+        "open": null,
+        "pct_change": "-15.20%",
+        "price": "",
+        "symbol": "IREN"
+      },
+      {
+        "change": "-5.89",
+        "change_pts": null,
+        "close": 6848.5,
+        "name": "Hut 8 Corp.",
+        "open": null,
+        "pct_change": "-13.52%",
+        "price": "",
+        "symbol": "HUT"
+      },
+      {
+        "change": "-22.25",
+        "change_pts": null,
+        "close": 6829.37,
+        "name": "Astera Labs, Inc.",
+        "open": null,
+        "pct_change": "-13.47%",
+        "price": "",
+        "symbol": "ALAB"
+      },
+      {
+        "change": "-2.05",
+        "change_pts": null,
+        "close": 6849.0,
+        "name": "Cipher Mining Inc.",
+        "open": null,
+        "pct_change": "-10.41%",
+        "price": "",
+        "symbol": "CIFR"
+      }
+    ],
+    "scraped_at": "2025-12-02T20:40:59.980081-05:00"
   }
 }
