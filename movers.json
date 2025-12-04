@@ -2245,5 +2245,112 @@
       }
     ],
     "scraped_at": "2025-12-02T20:40:59.980081-05:00"
+  },
+  "2025-12-03": {
+    "gainers": [
+      {
+        "change": "+3.14",
+        "change_pts": null,
+        "close": 6859.5,
+        "name": "American Eagle Outfitters, Inc.",
+        "open": null,
+        "pct_change": "+15.07%",
+        "price": "",
+        "symbol": "AEO"
+      },
+      {
+        "change": "+3.37",
+        "change_pts": null,
+        "close": 6859.75,
+        "name": "Beam Therapeutics Inc.",
+        "open": null,
+        "pct_change": "+14.42%",
+        "price": "",
+        "symbol": "BEAM"
+      },
+      {
+        "change": "+3.80",
+        "change_pts": null,
+        "close": null,
+        "name": "Spyre Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+13.38%",
+        "price": "",
+        "symbol": "SYRE"
+      },
+      {
+        "change": "+1.69",
+        "change_pts": null,
+        "close": null,
+        "name": "Ivanhoe Electric Inc.",
+        "open": null,
+        "pct_change": "+12.82%",
+        "price": "",
+        "symbol": "IE"
+      },
+      {
+        "change": "+38.60",
+        "change_pts": null,
+        "close": 6863.75,
+        "name": "SiTime Corporation",
+        "open": null,
+        "pct_change": "+12.54%",
+        "price": "",
+        "symbol": "SITM"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-25.87",
+        "change_pts": null,
+        "close": 6864.0,
+        "name": "Pure Storage, Inc.",
+        "open": null,
+        "pct_change": "-27.31%",
+        "price": "",
+        "symbol": "PSTG"
+      },
+      {
+        "change": "-5.54",
+        "change_pts": null,
+        "close": 6864.0,
+        "name": "GitLab Inc.",
+        "open": null,
+        "pct_change": "-12.77%",
+        "price": "",
+        "symbol": "GTLB"
+      },
+      {
+        "change": "-9.47",
+        "change_pts": null,
+        "close": 6863.75,
+        "name": "UL Solutions Inc.",
+        "open": null,
+        "pct_change": "-10.66%",
+        "price": "",
+        "symbol": "ULS"
+      },
+      {
+        "change": "-12.16",
+        "change_pts": null,
+        "close": null,
+        "name": "BillionToOne, Inc.",
+        "open": null,
+        "pct_change": "-10.58%",
+        "price": "",
+        "symbol": "BLLN"
+      },
+      {
+        "change": "-2.15",
+        "change_pts": null,
+        "close": 6819.25,
+        "name": "OneStream, Inc.",
+        "open": null,
+        "pct_change": "-10.39%",
+        "price": "",
+        "symbol": "OS"
+      }
+    ],
+    "scraped_at": "2025-12-03T20:41:11.460772-05:00"
   }
 }
