@@ -2352,5 +2352,112 @@
       }
     ],
     "scraped_at": "2025-12-03T20:41:11.460772-05:00"
+  },
+  "2025-12-04": {
+    "gainers": [
+      {
+        "change": "+3.46",
+        "change_pts": null,
+        "close": 6872.75,
+        "name": "USA Rare Earth, Inc.",
+        "open": null,
+        "pct_change": "+24.68%",
+        "price": "",
+        "symbol": "USAR"
+      },
+      {
+        "change": "+3.65",
+        "change_pts": null,
+        "close": 6846.7,
+        "name": "UiPath Inc.",
+        "open": null,
+        "pct_change": "+24.56%",
+        "price": "",
+        "symbol": "PATH"
+      },
+      {
+        "change": "+2.99",
+        "change_pts": null,
+        "close": null,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "+22.98%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "+11.21",
+        "change_pts": null,
+        "close": 6871.75,
+        "name": "AST SpaceMobile, Inc.",
+        "open": null,
+        "pct_change": "+18.25%",
+        "price": "",
+        "symbol": "ASTS"
+      },
+      {
+        "change": "+3.49",
+        "change_pts": null,
+        "close": 6871.75,
+        "name": "Fluence Energy, Inc.",
+        "open": null,
+        "pct_change": "+17.58%",
+        "price": "",
+        "symbol": "FLNC"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-12.74",
+        "change_pts": null,
+        "close": 6859.5,
+        "name": "Symbotic Inc.",
+        "open": null,
+        "pct_change": "-17.40%",
+        "price": "",
+        "symbol": "SYM"
+      },
+      {
+        "change": "-2.00",
+        "change_pts": null,
+        "close": null,
+        "name": "Pattern Group Inc.",
+        "open": null,
+        "pct_change": "-13.03%",
+        "price": "",
+        "symbol": "PTRN"
+      },
+      {
+        "change": "-10.39",
+        "change_pts": null,
+        "close": null,
+        "name": "PVH Corp.",
+        "open": null,
+        "pct_change": "-11.87%",
+        "price": "",
+        "symbol": "PVH"
+      },
+      {
+        "change": "-30.23",
+        "change_pts": null,
+        "close": 6872.5,
+        "name": "Snowflake Inc.",
+        "open": null,
+        "pct_change": "-11.41%",
+        "price": "",
+        "symbol": "SNOW"
+      },
+      {
+        "change": "-0.79",
+        "change_pts": null,
+        "close": 6857.12,
+        "name": "Lumen Technologies, Inc.",
+        "open": null,
+        "pct_change": "-8.25%",
+        "price": "",
+        "symbol": "LUMN"
+      }
+    ],
+    "scraped_at": "2025-12-04T20:41:05.308842-05:00"
   }
 }
