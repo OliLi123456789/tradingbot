@@ -2459,5 +2459,112 @@
       }
     ],
     "scraped_at": "2025-12-04T20:41:05.308842-05:00"
+  },
+  "2025-12-05": {
+    "gainers": [
+      {
+        "change": "+4.40",
+        "change_pts": null,
+        "close": 6602.99,
+        "name": "DigitalBridge Group, Inc.",
+        "open": null,
+        "pct_change": "+45.27%",
+        "price": "",
+        "symbol": "DBRG"
+      },
+      {
+        "change": "+58.02",
+        "change_pts": null,
+        "close": 6602.99,
+        "name": "Praxis Precision Medicines, Inc.",
+        "open": null,
+        "pct_change": "+30.54%",
+        "price": "",
+        "symbol": "PRAX"
+      },
+      {
+        "change": "+15.84",
+        "change_pts": null,
+        "close": null,
+        "name": "Rubrik, Inc.",
+        "open": null,
+        "pct_change": "+22.49%",
+        "price": "",
+        "symbol": "RBRK"
+      },
+      {
+        "change": "+7.48",
+        "change_pts": null,
+        "close": null,
+        "name": "Victoria's Secret & Co.",
+        "open": null,
+        "pct_change": "+17.99%",
+        "price": "",
+        "symbol": "VSCO"
+      },
+      {
+        "change": "+67.55",
+        "change_pts": null,
+        "close": 6860.0,
+        "name": "Ulta Beauty, Inc.",
+        "open": null,
+        "pct_change": "+12.65%",
+        "price": "",
+        "symbol": "ULTA"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-17.81",
+        "change_pts": null,
+        "close": 6870.4,
+        "name": "Parsons Corporation",
+        "open": null,
+        "pct_change": "-21.09%",
+        "price": "",
+        "symbol": "PSN"
+      },
+      {
+        "change": "-2.71",
+        "change_pts": null,
+        "close": null,
+        "name": "Adaptive Biotechnologies Corporation",
+        "open": null,
+        "pct_change": "-15.52%",
+        "price": "",
+        "symbol": "ADPT"
+      },
+      {
+        "change": "-2.45",
+        "change_pts": null,
+        "close": 6870.4,
+        "name": "SentinelOne, Inc.",
+        "open": null,
+        "pct_change": "-14.44%",
+        "price": "",
+        "symbol": "S"
+      },
+      {
+        "change": "-42.69",
+        "change_pts": null,
+        "close": 6870.4,
+        "name": "Argan, Inc.",
+        "open": null,
+        "pct_change": "-11.98%",
+        "price": "",
+        "symbol": "AGX"
+      },
+      {
+        "change": "-5.38",
+        "change_pts": null,
+        "close": 6870.4,
+        "name": "Doximity, Inc.",
+        "open": null,
+        "pct_change": "-10.49%",
+        "price": "",
+        "symbol": "DOCS"
+      }
+    ],
+    "scraped_at": "2025-12-05T20:40:43.137498-05:00"
   }
 }
