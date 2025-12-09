@@ -2566,5 +2566,112 @@
       }
     ],
     "scraped_at": "2025-12-05T20:40:43.137498-05:00"
+  },
+  "2025-12-08": {
+    "gainers": [
+      {
+        "change": "+11.04",
+        "change_pts": null,
+        "close": 6864.0,
+        "name": "Wave Life Sciences Ltd.",
+        "open": null,
+        "pct_change": "+147.36%",
+        "price": "",
+        "symbol": "WVE"
+      },
+      {
+        "change": "+35.42",
+        "change_pts": null,
+        "close": null,
+        "name": "Structure Therapeutics Inc.",
+        "open": null,
+        "pct_change": "+102.49%",
+        "price": "",
+        "symbol": "GPCR"
+      },
+      {
+        "change": "+27.68",
+        "change_pts": null,
+        "close": null,
+        "name": "Kymera Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+41.55%",
+        "price": "",
+        "symbol": "KYMR"
+      },
+      {
+        "change": "+10.87",
+        "change_pts": null,
+        "close": null,
+        "name": "Terns Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "+37.02%",
+        "price": "",
+        "symbol": "TERN"
+      },
+      {
+        "change": "+6.73",
+        "change_pts": null,
+        "close": 6866.5,
+        "name": "Confluent, Inc.",
+        "open": null,
+        "pct_change": "+29.08%",
+        "price": "",
+        "symbol": "CFLT"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-24.64",
+        "change_pts": null,
+        "close": 6867.0,
+        "name": "Air Products and Chemicals, Inc.",
+        "open": null,
+        "pct_change": "-9.45%",
+        "price": "",
+        "symbol": "APD"
+      },
+      {
+        "change": "-2.57",
+        "change_pts": null,
+        "close": 6863.75,
+        "name": "Comstock Resources, Inc.",
+        "open": null,
+        "pct_change": "-9.39%",
+        "price": "",
+        "symbol": "CRK"
+      },
+      {
+        "change": "-4.09",
+        "change_pts": null,
+        "close": 6866.75,
+        "name": "Lazard, Inc.",
+        "open": null,
+        "pct_change": "-7.47%",
+        "price": "",
+        "symbol": "LAZ"
+      },
+      {
+        "change": "-2.01",
+        "change_pts": null,
+        "close": null,
+        "name": "Legend Biotech Corporation",
+        "open": null,
+        "pct_change": "-7.15%",
+        "price": "",
+        "symbol": "LEGN"
+      },
+      {
+        "change": "-4.18",
+        "change_pts": null,
+        "close": null,
+        "name": "Unilever PLC",
+        "open": null,
+        "pct_change": "-7.03%",
+        "price": "",
+        "symbol": "UL"
+      }
+    ],
+    "scraped_at": "2025-12-08T20:41:02.621953-05:00"
   }
 }
