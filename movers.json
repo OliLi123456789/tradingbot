@@ -2673,5 +2673,112 @@
       }
     ],
     "scraped_at": "2025-12-08T20:41:02.621953-05:00"
+  },
+  "2025-12-09": {
+    "gainers": [
+      {
+        "change": "+2.79",
+        "change_pts": null,
+        "close": 6843.5,
+        "name": "Wave Life Sciences Ltd.",
+        "open": null,
+        "pct_change": "+15.06%",
+        "price": "",
+        "symbol": "WVE"
+      },
+      {
+        "change": "+3.36",
+        "change_pts": null,
+        "close": null,
+        "name": "Galaxy Digital",
+        "open": null,
+        "pct_change": "+12.88%",
+        "price": "",
+        "symbol": "GLXY"
+      },
+      {
+        "change": "+4.86",
+        "change_pts": null,
+        "close": 6843.25,
+        "name": "Pan American Silver Corp.",
+        "open": null,
+        "pct_change": "+11.16%",
+        "price": "",
+        "symbol": "PAAS"
+      },
+      {
+        "change": "+2.39",
+        "change_pts": null,
+        "close": null,
+        "name": "Neptune Insurance Holdings Inc.",
+        "open": null,
+        "pct_change": "+9.83%",
+        "price": "",
+        "symbol": "NP"
+      },
+      {
+        "change": "+11.43",
+        "change_pts": null,
+        "close": null,
+        "name": "Teleflex Incorporated",
+        "open": null,
+        "pct_change": "+9.54%",
+        "price": "",
+        "symbol": "TFX"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-3.76",
+        "change_pts": null,
+        "close": null,
+        "name": "Dyne Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-16.94%",
+        "price": "",
+        "symbol": "DYN"
+      },
+      {
+        "change": "-4.61",
+        "change_pts": null,
+        "close": null,
+        "name": "SLM Corporation",
+        "open": null,
+        "pct_change": "-14.96%",
+        "price": "",
+        "symbol": "SLM"
+      },
+      {
+        "change": "-7.02",
+        "change_pts": null,
+        "close": 6843.5,
+        "name": "Kontoor Brands, Inc.",
+        "open": null,
+        "pct_change": "-9.46%",
+        "price": "",
+        "symbol": "KTB"
+      },
+      {
+        "change": "-4.77",
+        "change_pts": null,
+        "close": 6844.0,
+        "name": "Advance Auto Parts, Inc.",
+        "open": null,
+        "pct_change": "-9.34%",
+        "price": "",
+        "symbol": "AAP"
+      },
+      {
+        "change": "-1.35",
+        "change_pts": null,
+        "close": null,
+        "name": "Graphic Packaging Holding Company",
+        "open": null,
+        "pct_change": "-8.66%",
+        "price": "",
+        "symbol": "GPK"
+      }
+    ],
+    "scraped_at": "2025-12-09T20:41:06.994524-05:00"
   }
 }
