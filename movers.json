@@ -2780,5 +2780,112 @@
       }
     ],
     "scraped_at": "2025-12-09T20:41:06.994524-05:00"
+  },
+  "2025-12-10": {
+    "gainers": [
+      {
+        "change": "+11.66",
+        "change_pts": null,
+        "close": null,
+        "name": "Photronics, Inc.",
+        "open": null,
+        "pct_change": "+45.39%",
+        "price": "",
+        "symbol": "PLAB"
+      },
+      {
+        "change": "+6.35",
+        "change_pts": null,
+        "close": null,
+        "name": "Warby Parker Inc.",
+        "open": null,
+        "pct_change": "+27.35%",
+        "price": "",
+        "symbol": "WRBY"
+      },
+      {
+        "change": "+5.54",
+        "change_pts": null,
+        "close": 6886.68,
+        "name": "Braze, Inc.",
+        "open": null,
+        "pct_change": "+18.08%",
+        "price": "",
+        "symbol": "BRZE"
+      },
+      {
+        "change": "+97.70",
+        "change_pts": null,
+        "close": 6846.58,
+        "name": "GE Vernova Inc.",
+        "open": null,
+        "pct_change": "+15.62%",
+        "price": "",
+        "symbol": "GEV"
+      },
+      {
+        "change": "+4.10",
+        "change_pts": null,
+        "close": 6874.0,
+        "name": "Olema Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "+15.43%",
+        "price": "",
+        "symbol": "OLMA"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.18",
+        "change_pts": null,
+        "close": 6874.0,
+        "name": "Polestar Automotive Holding UK PLC",
+        "open": null,
+        "pct_change": "-22.85%",
+        "price": "",
+        "symbol": "PSNY"
+      },
+      {
+        "change": "-36.17",
+        "change_pts": null,
+        "close": 6886.68,
+        "name": "AeroVironment, Inc.",
+        "open": null,
+        "pct_change": "-12.85%",
+        "price": "",
+        "symbol": "AVAV"
+      },
+      {
+        "change": "-0.89",
+        "change_pts": null,
+        "close": 6886.68,
+        "name": "TMC the metals company Inc.",
+        "open": null,
+        "pct_change": "-11.50%",
+        "price": "",
+        "symbol": "TMC"
+      },
+      {
+        "change": "-2.09",
+        "change_pts": null,
+        "close": 6875.25,
+        "name": "Denali Therapeutics Inc.",
+        "open": null,
+        "pct_change": "-10.63%",
+        "price": "",
+        "symbol": "DNLI"
+      },
+      {
+        "change": "-0.90",
+        "change_pts": null,
+        "close": 6874.0,
+        "name": "Ondas Holdings Inc.",
+        "open": null,
+        "pct_change": "-9.80%",
+        "price": "",
+        "symbol": "ONDS"
+      }
+    ],
+    "scraped_at": "2025-12-10T20:41:14.330987-05:00"
   }
 }
