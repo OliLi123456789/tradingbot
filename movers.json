@@ -2887,5 +2887,112 @@
       }
     ],
     "scraped_at": "2025-12-10T20:41:14.330987-05:00"
+  },
+  "2025-12-11": {
+    "gainers": [
+      {
+        "change": "+4.53",
+        "change_pts": null,
+        "close": 6901.0,
+        "name": "Planet Labs PBC",
+        "open": null,
+        "pct_change": "+35.01%",
+        "price": "",
+        "symbol": "PL"
+      },
+      {
+        "change": "+3.45",
+        "change_pts": null,
+        "close": 6741.75,
+        "name": "Perpetua Resources Corp.",
+        "open": null,
+        "pct_change": "+13.42%",
+        "price": "",
+        "symbol": "PPTA"
+      },
+      {
+        "change": "+2.16",
+        "change_pts": null,
+        "close": 6863.09,
+        "name": "Hecla Mining Company",
+        "open": null,
+        "pct_change": "+12.57%",
+        "price": "",
+        "symbol": "HL"
+      },
+      {
+        "change": "+12.85",
+        "change_pts": null,
+        "close": null,
+        "name": "Rhythm Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "+12.27%",
+        "price": "",
+        "symbol": "RYTM"
+      },
+      {
+        "change": "+2.03",
+        "change_pts": null,
+        "close": 6906.5,
+        "name": "USA Rare Earth, Inc.",
+        "open": null,
+        "pct_change": "+12.13%",
+        "price": "",
+        "symbol": "USAR"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-3.48",
+        "change_pts": null,
+        "close": 6906.5,
+        "name": "Wave Life Sciences Ltd.",
+        "open": null,
+        "pct_change": "-17.20%",
+        "price": "",
+        "symbol": "WVE"
+      },
+      {
+        "change": "-2.10",
+        "change_pts": null,
+        "close": 6906.5,
+        "name": "Polestar Automotive Holding UK PLC",
+        "open": null,
+        "pct_change": "-14.88%",
+        "price": "",
+        "symbol": "PSNY"
+      },
+      {
+        "change": "-24.16",
+        "change_pts": null,
+        "close": 6846.25,
+        "name": "Oracle Corporation",
+        "open": null,
+        "pct_change": "-10.83%",
+        "price": "",
+        "symbol": "ORCL"
+      },
+      {
+        "change": "-12.28",
+        "change_pts": null,
+        "close": 6845.5,
+        "name": "Robinhood Markets, Inc.",
+        "open": null,
+        "pct_change": "-9.05%",
+        "price": "",
+        "symbol": "HOOD"
+      },
+      {
+        "change": "-2.39",
+        "change_pts": null,
+        "close": 6850.25,
+        "name": "Centessa Pharmaceuticals plc",
+        "open": null,
+        "pct_change": "-8.08%",
+        "price": "",
+        "symbol": "CNTA"
+      }
+    ],
+    "scraped_at": "2025-12-11T20:41:09.298237-05:00"
   }
 }
