@@ -2994,5 +2994,112 @@
       }
     ],
     "scraped_at": "2025-12-11T20:41:09.298237-05:00"
+  },
+  "2025-12-12": {
+    "gainers": [
+      {
+        "change": "+2.32",
+        "change_pts": null,
+        "close": 6827.41,
+        "name": "Polestar Automotive Holding UK PLC",
+        "open": null,
+        "pct_change": "+19.32%",
+        "price": "",
+        "symbol": "PSNY"
+      },
+      {
+        "change": "+4.82",
+        "change_pts": null,
+        "close": null,
+        "name": "Clear Secure, Inc.",
+        "open": null,
+        "pct_change": "+13.29%",
+        "price": "",
+        "symbol": "YOU"
+      },
+      {
+        "change": "+1.99",
+        "change_pts": null,
+        "close": 6827.41,
+        "name": "Rivian Automotive, Inc.",
+        "open": null,
+        "pct_change": "+12.11%",
+        "price": "",
+        "symbol": "RIVN"
+      },
+      {
+        "change": "+1.19",
+        "change_pts": null,
+        "close": null,
+        "name": "EverCommerce Inc.",
+        "open": null,
+        "pct_change": "+10.93%",
+        "price": "",
+        "symbol": "EVCM"
+      },
+      {
+        "change": "+17.96",
+        "change_pts": null,
+        "close": 6827.41,
+        "name": "lululemon athletica inc.",
+        "open": null,
+        "pct_change": "+9.60%",
+        "price": "",
+        "symbol": "LULU"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-5.16",
+        "change_pts": null,
+        "close": 6827.41,
+        "name": "Fermi Inc.",
+        "open": null,
+        "pct_change": "-33.84%",
+        "price": "",
+        "symbol": "FRMI"
+      },
+      {
+        "change": "-25.31",
+        "change_pts": null,
+        "close": 6818.26,
+        "name": "Modine Manufacturing Company",
+        "open": null,
+        "pct_change": "-15.32%",
+        "price": "",
+        "symbol": "MOD"
+      },
+      {
+        "change": "-15.58",
+        "change_pts": null,
+        "close": 6865.75,
+        "name": "Oklo Inc.",
+        "open": null,
+        "pct_change": "-15.13%",
+        "price": "",
+        "symbol": "OKLO"
+      },
+      {
+        "change": "-8.01",
+        "change_pts": null,
+        "close": 6827.41,
+        "name": "Solaris Energy Infrastructure, Inc.",
+        "open": null,
+        "pct_change": "-14.81%",
+        "price": "",
+        "symbol": "SEI"
+      },
+      {
+        "change": "-35.43",
+        "change_pts": null,
+        "close": 6827.41,
+        "name": "Sandisk Corporation",
+        "open": null,
+        "pct_change": "-14.66%",
+        "price": "",
+        "symbol": "SNDK"
+      }
+    ],
+    "scraped_at": "2025-12-12T20:40:48.762702-05:00"
   }
 }
