@@ -3101,5 +3101,112 @@
       }
     ],
     "scraped_at": "2025-12-12T20:40:48.762702-05:00"
+  },
+  "2025-12-15": {
+    "gainers": [
+      {
+        "change": "+3.07",
+        "change_pts": null,
+        "close": null,
+        "name": "Immunome, Inc.",
+        "open": null,
+        "pct_change": "+15.69%",
+        "price": "",
+        "symbol": "IMNM"
+      },
+      {
+        "change": "+1.28",
+        "change_pts": null,
+        "close": null,
+        "name": "EverCommerce Inc.",
+        "open": null,
+        "pct_change": "+10.60%",
+        "price": "",
+        "symbol": "EVCM"
+      },
+      {
+        "change": "+1.64",
+        "change_pts": null,
+        "close": 6816.51,
+        "name": "ZIM Integrated Shipping Services Ltd.",
+        "open": null,
+        "pct_change": "+8.74%",
+        "price": "",
+        "symbol": "ZIM"
+      },
+      {
+        "change": "+2.78",
+        "change_pts": null,
+        "close": 6808.5,
+        "name": "Olema Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "+8.41%",
+        "price": "",
+        "symbol": "OLMA"
+      },
+      {
+        "change": "+1.55",
+        "change_pts": null,
+        "close": 6816.51,
+        "name": "American Eagle Outfitters, Inc.",
+        "open": null,
+        "pct_change": "+6.09%",
+        "price": "",
+        "symbol": "AEO"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.05",
+        "change_pts": null,
+        "close": 6807.75,
+        "name": "ReNew Energy Global Plc",
+        "open": null,
+        "pct_change": "-27.15%",
+        "price": "",
+        "symbol": "RNW"
+      },
+      {
+        "change": "-4.88",
+        "change_pts": null,
+        "close": 6816.51,
+        "name": "Applied Digital Corporation",
+        "open": null,
+        "pct_change": "-17.52%",
+        "price": "",
+        "symbol": "APLD"
+      },
+      {
+        "change": "-2.12",
+        "change_pts": null,
+        "close": 6816.51,
+        "name": "CleanSpark, Inc.",
+        "open": null,
+        "pct_change": "-15.07%",
+        "price": "",
+        "symbol": "CLSK"
+      },
+      {
+        "change": "-1.50",
+        "change_pts": null,
+        "close": 6808.75,
+        "name": "Fermi Inc.",
+        "open": null,
+        "pct_change": "-14.87%",
+        "price": "",
+        "symbol": "FRMI"
+      },
+      {
+        "change": "-5.87",
+        "change_pts": null,
+        "close": 6809.25,
+        "name": "Hut 8 Corp.",
+        "open": null,
+        "pct_change": "-14.21%",
+        "price": "",
+        "symbol": "HUT"
+      }
+    ],
+    "scraped_at": "2025-12-15T20:41:07.202197-05:00"
   }
 }
