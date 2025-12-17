@@ -3208,5 +3208,112 @@
       }
     ],
     "scraped_at": "2025-12-15T20:41:07.202197-05:00"
+  },
+  "2025-12-16": {
+    "gainers": [
+      {
+        "change": "+1.15",
+        "change_pts": null,
+        "close": 6850.75,
+        "name": "Fermi Inc.",
+        "open": null,
+        "pct_change": "+13.39%",
+        "price": "",
+        "symbol": "FRMI"
+      },
+      {
+        "change": "+7.73",
+        "change_pts": null,
+        "close": 6850.5,
+        "name": "Affirm Holdings, Inc.",
+        "open": null,
+        "pct_change": "+11.77%",
+        "price": "",
+        "symbol": "AFRM"
+      },
+      {
+        "change": "+6.86",
+        "change_pts": null,
+        "close": null,
+        "name": "Sezzle Inc.",
+        "open": null,
+        "pct_change": "+10.37%",
+        "price": "",
+        "symbol": "SEZL"
+      },
+      {
+        "change": "+7.54",
+        "change_pts": null,
+        "close": 6792.75,
+        "name": "Circle Internet Group",
+        "open": null,
+        "pct_change": "+9.99%",
+        "price": "",
+        "symbol": "CRCL"
+      },
+      {
+        "change": "+0.67",
+        "change_pts": null,
+        "close": 6795.5,
+        "name": "Almonty Industries Inc.",
+        "open": null,
+        "pct_change": "+9.17%",
+        "price": "",
+        "symbol": "ALM"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-1.74",
+        "change_pts": null,
+        "close": 6795.5,
+        "name": "Navan, Inc.",
+        "open": null,
+        "pct_change": "-11.86%",
+        "price": "",
+        "symbol": "NAVN"
+      },
+      {
+        "change": "-3.29",
+        "change_pts": null,
+        "close": 6795.25,
+        "name": "PBF Energy Inc.",
+        "open": null,
+        "pct_change": "-10.99%",
+        "price": "",
+        "symbol": "PBF"
+      },
+      {
+        "change": "-3.63",
+        "change_pts": null,
+        "close": 6848.5,
+        "name": "Amkor Technology, Inc.",
+        "open": null,
+        "pct_change": "-8.27%",
+        "price": "",
+        "symbol": "AMKR"
+      },
+      {
+        "change": "-5.35",
+        "change_pts": null,
+        "close": 6849.0,
+        "name": "Globalstar, Inc.",
+        "open": null,
+        "pct_change": "-7.75%",
+        "price": "",
+        "symbol": "GSAT"
+      },
+      {
+        "change": "-0.66",
+        "change_pts": null,
+        "close": null,
+        "name": "Crescent Energy Company",
+        "open": null,
+        "pct_change": "-7.40%",
+        "price": "",
+        "symbol": "CRGY"
+      }
+    ],
+    "scraped_at": "2025-12-16T20:40:54.384187-05:00"
   }
 }
