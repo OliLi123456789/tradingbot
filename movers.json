@@ -3315,5 +3315,112 @@
       }
     ],
     "scraped_at": "2025-12-16T20:40:54.384187-05:00"
+  },
+  "2025-12-17": {
+    "gainers": [
+      {
+        "change": "+7.78",
+        "change_pts": null,
+        "close": 6790.25,
+        "name": "The Toro Company",
+        "open": null,
+        "pct_change": "+10.71%",
+        "price": "",
+        "symbol": "TTC"
+      },
+      {
+        "change": "+3.31",
+        "change_pts": null,
+        "close": 6797.82,
+        "name": "Hut 8 Corp.",
+        "open": null,
+        "pct_change": "+8.98%",
+        "price": "",
+        "symbol": "HUT"
+      },
+      {
+        "change": "+62.31",
+        "change_pts": null,
+        "close": 6809.77,
+        "name": "Texas Pacific Land Corporation",
+        "open": null,
+        "pct_change": "+7.59%",
+        "price": "",
+        "symbol": "TPL"
+      },
+      {
+        "change": "+1.71",
+        "change_pts": null,
+        "close": 6792.0,
+        "name": "Civitas Resources, Inc.",
+        "open": null,
+        "pct_change": "+6.38%",
+        "price": "",
+        "symbol": "CIVI"
+      },
+      {
+        "change": "+1.14",
+        "change_pts": null,
+        "close": 6790.0,
+        "name": "SM Energy Company",
+        "open": null,
+        "pct_change": "+6.24%",
+        "price": "",
+        "symbol": "SM"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.74",
+        "change_pts": null,
+        "close": 6817.5,
+        "name": "Fluence Energy, Inc.",
+        "open": null,
+        "pct_change": "-12.86%",
+        "price": "",
+        "symbol": "FLNC"
+      },
+      {
+        "change": "-10.64",
+        "change_pts": null,
+        "close": 6790.25,
+        "name": "Bloom Energy Corporation",
+        "open": null,
+        "pct_change": "-12.14%",
+        "price": "",
+        "symbol": "BE"
+      },
+      {
+        "change": "-35.56",
+        "change_pts": null,
+        "close": 6790.5,
+        "name": "Sterling Infrastructure, Inc.",
+        "open": null,
+        "pct_change": "-11.14%",
+        "price": "",
+        "symbol": "STRL"
+      },
+      {
+        "change": "-49.05",
+        "change_pts": null,
+        "close": 6790.5,
+        "name": "IES Holdings, Inc.",
+        "open": null,
+        "pct_change": "-10.96%",
+        "price": "",
+        "symbol": "IESC"
+      },
+      {
+        "change": "-1.42",
+        "change_pts": null,
+        "close": 6790.25,
+        "name": "TeraWulf Inc.",
+        "open": null,
+        "pct_change": "-10.93%",
+        "price": "",
+        "symbol": "WULF"
+      }
+    ],
+    "scraped_at": "2025-12-17T20:40:56.395770-05:00"
   }
 }
