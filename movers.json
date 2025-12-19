@@ -3422,5 +3422,112 @@
       }
     ],
     "scraped_at": "2025-12-17T20:40:56.395770-05:00"
+  },
+  "2025-12-18": {
+    "gainers": [
+      {
+        "change": "+3.04",
+        "change_pts": null,
+        "close": null,
+        "name": "Trump Media & Technology Group Corp.",
+        "open": null,
+        "pct_change": "+66.38%",
+        "price": "",
+        "symbol": "DJTWW"
+      },
+      {
+        "change": "+4.40",
+        "change_pts": null,
+        "close": 6827.25,
+        "name": "Trump Media & Technology Group Corp.",
+        "open": null,
+        "pct_change": "+42.02%",
+        "price": "",
+        "symbol": "DJT"
+      },
+      {
+        "change": "+2.65",
+        "change_pts": null,
+        "close": 6825.75,
+        "name": "Rivian Automotive, Inc.",
+        "open": null,
+        "pct_change": "+15.03%",
+        "price": "",
+        "symbol": "RIVN"
+      },
+      {
+        "change": "+2.11",
+        "change_pts": null,
+        "close": null,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "+12.55%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "+5.96",
+        "change_pts": null,
+        "close": 6807.5,
+        "name": "Rocket Lab Corporation",
+        "open": null,
+        "pct_change": "+11.05%",
+        "price": "",
+        "symbol": "RKLB"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-23.00",
+        "change_pts": null,
+        "close": 6805.0,
+        "name": "Inspire Medical Systems, Inc.",
+        "open": null,
+        "pct_change": "-19.45%",
+        "price": "",
+        "symbol": "INSP"
+      },
+      {
+        "change": "-31.91",
+        "change_pts": null,
+        "close": 6825.75,
+        "name": "Insmed Incorporated",
+        "open": null,
+        "pct_change": "-16.08%",
+        "price": "",
+        "symbol": "INSM"
+      },
+      {
+        "change": "-5.26",
+        "change_pts": null,
+        "close": null,
+        "name": "Birkenstock Holding plc",
+        "open": null,
+        "pct_change": "-11.34%",
+        "price": "",
+        "symbol": "BIRK"
+      },
+      {
+        "change": "-4.78",
+        "change_pts": null,
+        "close": null,
+        "name": "ABM Industries Incorporated",
+        "open": null,
+        "pct_change": "-9.91%",
+        "price": "",
+        "symbol": "ABM"
+      },
+      {
+        "change": "-0.84",
+        "change_pts": null,
+        "close": 6826.0,
+        "name": "Fermi Inc.",
+        "open": null,
+        "pct_change": "-9.27%",
+        "price": "",
+        "symbol": "FRMI"
+      }
+    ],
+    "scraped_at": "2025-12-18T20:41:08.306880-05:00"
   }
 }
