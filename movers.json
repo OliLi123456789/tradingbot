@@ -3529,5 +3529,112 @@
       }
     ],
     "scraped_at": "2025-12-18T20:41:08.306880-05:00"
+  },
+  "2025-12-19": {
+    "gainers": [
+      {
+        "change": "+2.32",
+        "change_pts": null,
+        "close": 6832.91,
+        "name": "Trump Media & Technology Group Corp.",
+        "open": null,
+        "pct_change": "+30.44%",
+        "price": "",
+        "symbol": "DJTWW"
+      },
+      {
+        "change": "+3.29",
+        "change_pts": null,
+        "close": 6834.5,
+        "name": "Amicus Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+30.21%",
+        "price": "",
+        "symbol": "FOLD"
+      },
+      {
+        "change": "+4.58",
+        "change_pts": null,
+        "close": 6610.36,
+        "name": "Firefly Aerospace Inc.",
+        "open": null,
+        "pct_change": "+22.82%",
+        "price": "",
+        "symbol": "FLY"
+      },
+      {
+        "change": "+15.32",
+        "change_pts": null,
+        "close": 6806.75,
+        "name": "CoreWeave, Inc.",
+        "open": null,
+        "pct_change": "+22.64%",
+        "price": "",
+        "symbol": "CRWV"
+      },
+      {
+        "change": "+4.40",
+        "change_pts": null,
+        "close": null,
+        "name": "Edgewise Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+20.80%",
+        "price": "",
+        "symbol": "EWTX"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-15.39",
+        "change_pts": null,
+        "close": 6834.5,
+        "name": "Lamb Weston Holdings, Inc.",
+        "open": null,
+        "pct_change": "-25.94%",
+        "price": "",
+        "symbol": "LW"
+      },
+      {
+        "change": "-10.40",
+        "change_pts": null,
+        "close": null,
+        "name": "Disc Medicine, Inc.",
+        "open": null,
+        "pct_change": "-11.50%",
+        "price": "",
+        "symbol": "IRON"
+      },
+      {
+        "change": "-6.92",
+        "change_pts": null,
+        "close": 6834.5,
+        "name": "NIKE, Inc.",
+        "open": null,
+        "pct_change": "-10.54%",
+        "price": "",
+        "symbol": "NKE"
+      },
+      {
+        "change": "-2.88",
+        "change_pts": null,
+        "close": 6834.5,
+        "name": "Olema Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "-9.35%",
+        "price": "",
+        "symbol": "OLMA"
+      },
+      {
+        "change": "-5.36",
+        "change_pts": null,
+        "close": 6804.0,
+        "name": "KB Home",
+        "open": null,
+        "pct_change": "-8.54%",
+        "price": "",
+        "symbol": "KBH"
+      }
+    ],
+    "scraped_at": "2025-12-19T20:40:45.762780-05:00"
   }
 }
