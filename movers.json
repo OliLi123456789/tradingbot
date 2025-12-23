@@ -3636,5 +3636,112 @@
       }
     ],
     "scraped_at": "2025-12-19T20:40:45.762780-05:00"
+  },
+  "2025-12-22": {
+    "gainers": [
+      {
+        "change": "+7.78",
+        "change_pts": null,
+        "close": 6932.0,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "+24.82%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "+23.78",
+        "change_pts": null,
+        "close": 6931.0,
+        "name": "ABIVAX Société Anonyme",
+        "open": null,
+        "pct_change": "+20.69%",
+        "price": "",
+        "symbol": "ABVX"
+      },
+      {
+        "change": "+5.37",
+        "change_pts": null,
+        "close": 6832.49,
+        "name": "D-Wave Quantum Inc.",
+        "open": null,
+        "pct_change": "+20.02%",
+        "price": "",
+        "symbol": "QBTS"
+      },
+      {
+        "change": "+6.18",
+        "change_pts": null,
+        "close": 6931.5,
+        "name": "Zenas BioPharma, Inc.",
+        "open": null,
+        "pct_change": "+17.10%",
+        "price": "",
+        "symbol": "ZBIO"
+      },
+      {
+        "change": "+27.48",
+        "change_pts": null,
+        "close": null,
+        "name": "UniFirst Corporation",
+        "open": null,
+        "pct_change": "+16.15%",
+        "price": "",
+        "symbol": "UNF"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.61",
+        "change_pts": null,
+        "close": null,
+        "name": "Edgewise Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-18.04%",
+        "price": "",
+        "symbol": "EWTX"
+      },
+      {
+        "change": "-1.30",
+        "change_pts": null,
+        "close": 6878.49,
+        "name": "Trump Media & Technology Group Corp.",
+        "open": null,
+        "pct_change": "-13.08%",
+        "price": "",
+        "symbol": "DJTWW"
+      },
+      {
+        "change": "-1.70",
+        "change_pts": null,
+        "close": 6931.5,
+        "name": "Trump Media & Technology Group Corp.",
+        "open": null,
+        "pct_change": "-10.57%",
+        "price": "",
+        "symbol": "DJT"
+      },
+      {
+        "change": "-50.94",
+        "change_pts": null,
+        "close": 6930.75,
+        "name": "Dillard's, Inc.",
+        "open": null,
+        "pct_change": "-7.68%",
+        "price": "",
+        "symbol": "DDS"
+      },
+      {
+        "change": "-6.31",
+        "change_pts": null,
+        "close": null,
+        "name": "BillionToOne, Inc.",
+        "open": null,
+        "pct_change": "-6.15%",
+        "price": "",
+        "symbol": "BLLN"
+      }
+    ],
+    "scraped_at": "2025-12-22T20:41:11.395773-05:00"
   }
 }
