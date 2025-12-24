@@ -3743,5 +3743,112 @@
       }
     ],
     "scraped_at": "2025-12-22T20:41:11.395773-05:00"
+  },
+  "2025-12-23": {
+    "gainers": [
+      {
+        "change": "+1.10",
+        "change_pts": null,
+        "close": 6958.5,
+        "name": "Polestar Automotive Holding UK PLC",
+        "open": null,
+        "pct_change": "+20.75%",
+        "price": "",
+        "symbol": "PSNYW"
+      },
+      {
+        "change": "+3.16",
+        "change_pts": null,
+        "close": null,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "+14.31%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "+8.04",
+        "change_pts": null,
+        "close": 6800.62,
+        "name": "Structure Therapeutics Inc.",
+        "open": null,
+        "pct_change": "+12.71%",
+        "price": "",
+        "symbol": "GPCR"
+      },
+      {
+        "change": "+2.62",
+        "change_pts": null,
+        "close": 6901.09,
+        "name": "Hycroft Mining Holding Corporation",
+        "open": null,
+        "pct_change": "+10.69%",
+        "price": "",
+        "symbol": "HYMC"
+      },
+      {
+        "change": "+0.62",
+        "change_pts": null,
+        "close": null,
+        "name": "Lionsgate Studios Corp.",
+        "open": null,
+        "pct_change": "+7.42%",
+        "price": "",
+        "symbol": "LION"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-9.22",
+        "change_pts": null,
+        "close": null,
+        "name": "BillionToOne, Inc.",
+        "open": null,
+        "pct_change": "-9.57%",
+        "price": "",
+        "symbol": "BLLN"
+      },
+      {
+        "change": "-3.07",
+        "change_pts": null,
+        "close": 6907.87,
+        "name": "D-Wave Quantum Inc.",
+        "open": null,
+        "pct_change": "-9.54%",
+        "price": "",
+        "symbol": "QBTS"
+      },
+      {
+        "change": "-2.14",
+        "change_pts": null,
+        "close": 6927.5,
+        "name": "Firefly Aerospace Inc.",
+        "open": null,
+        "pct_change": "-7.48%",
+        "price": "",
+        "symbol": "FLY"
+      },
+      {
+        "change": "-2.61",
+        "change_pts": null,
+        "close": 6958.25,
+        "name": "Moderna, Inc.",
+        "open": null,
+        "pct_change": "-7.48%",
+        "price": "",
+        "symbol": "MRNA"
+      },
+      {
+        "change": "-0.93",
+        "change_pts": null,
+        "close": 6893.37,
+        "name": "Eos Energy Enterprises, Inc.",
+        "open": null,
+        "pct_change": "-7.21%",
+        "price": "",
+        "symbol": "EOSE"
+      }
+    ],
+    "scraped_at": "2025-12-23T20:41:11.990605-05:00"
   }
 }
