@@ -3850,5 +3850,112 @@
       }
     ],
     "scraped_at": "2025-12-23T20:41:11.990605-05:00"
+  },
+  "2025-12-24": {
+    "gainers": [
+      {
+        "change": "+5.55",
+        "change_pts": null,
+        "close": null,
+        "name": "Edgewise Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+25.50%",
+        "price": "",
+        "symbol": "EWTX"
+      },
+      {
+        "change": "+1.00",
+        "change_pts": null,
+        "close": 6982.5,
+        "name": "Polestar Automotive Holding UK PLC",
+        "open": null,
+        "pct_change": "+15.62%",
+        "price": "",
+        "symbol": "PSNYW"
+      },
+      {
+        "change": "+4.92",
+        "change_pts": null,
+        "close": null,
+        "name": "Travere Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+13.91%",
+        "price": "",
+        "symbol": "TVTX"
+      },
+      {
+        "change": "+2.05",
+        "change_pts": null,
+        "close": 6982.5,
+        "name": "Polestar Automotive Holding UK PLC",
+        "open": null,
+        "pct_change": "+13.55%",
+        "price": "",
+        "symbol": "PSNY"
+      },
+      {
+        "change": "+1.20",
+        "change_pts": null,
+        "close": 6959.0,
+        "name": "UiPath Inc.",
+        "open": null,
+        "pct_change": "+7.52%",
+        "price": "",
+        "symbol": "PATH"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-7.62",
+        "change_pts": null,
+        "close": 6982.5,
+        "name": "AST SpaceMobile, Inc.",
+        "open": null,
+        "pct_change": "-8.89%",
+        "price": "",
+        "symbol": "ASTS"
+      },
+      {
+        "change": "-2.18",
+        "change_pts": null,
+        "close": 6923.11,
+        "name": "Hycroft Mining Holding Corporation",
+        "open": null,
+        "pct_change": "-8.03%",
+        "price": "",
+        "symbol": "HYMC"
+      },
+      {
+        "change": "-1.60",
+        "change_pts": null,
+        "close": 6923.64,
+        "name": "D-Wave Quantum Inc.",
+        "open": null,
+        "pct_change": "-5.49%",
+        "price": "",
+        "symbol": "QBTS"
+      },
+      {
+        "change": "-1.50",
+        "change_pts": null,
+        "close": 6982.5,
+        "name": "Beta Technologies, Inc.",
+        "open": null,
+        "pct_change": "-4.74%",
+        "price": "",
+        "symbol": "BETA"
+      },
+      {
+        "change": "-1.12",
+        "change_pts": null,
+        "close": 6935.5,
+        "name": "Perpetua Resources Corp.",
+        "open": null,
+        "pct_change": "-4.04%",
+        "price": "",
+        "symbol": "PPTA"
+      }
+    ],
+    "scraped_at": "2025-12-24T20:41:13.142808-05:00"
   }
 }
