@@ -3957,5 +3957,112 @@
       }
     ],
     "scraped_at": "2025-12-24T20:41:13.142808-05:00"
+  },
+  "2025-12-26": {
+    "gainers": [
+      {
+        "change": "+0.79",
+        "change_pts": null,
+        "close": null,
+        "name": "Companhia Paranaense de Energia",
+        "open": null,
+        "pct_change": "+8.92%",
+        "price": "",
+        "symbol": "ELPC"
+      },
+      {
+        "change": "+2.08",
+        "change_pts": null,
+        "close": 6929.94,
+        "name": "Sprott Physical Silver Trust",
+        "open": null,
+        "pct_change": "+8.68%",
+        "price": "",
+        "symbol": "PSLV"
+      },
+      {
+        "change": "+1.59",
+        "change_pts": null,
+        "close": 6804.25,
+        "name": "Zeta Global Holdings Corp.",
+        "open": null,
+        "pct_change": "+8.32%",
+        "price": "",
+        "symbol": "ZETA"
+      },
+      {
+        "change": "+1.47",
+        "change_pts": null,
+        "close": 6929.94,
+        "name": "Coupang, Inc.",
+        "open": null,
+        "pct_change": "+6.45%",
+        "price": "",
+        "symbol": "CPNG"
+      },
+      {
+        "change": "+1.21",
+        "change_pts": null,
+        "close": 6929.94,
+        "name": "XPeng Inc.",
+        "open": null,
+        "pct_change": "+6.18%",
+        "price": "",
+        "symbol": "XPEV"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-3.44",
+        "change_pts": null,
+        "close": null,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-13.98%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "-3.70",
+        "change_pts": null,
+        "close": 6927.5,
+        "name": "Firefly Aerospace Inc.",
+        "open": null,
+        "pct_change": "-13.68%",
+        "price": "",
+        "symbol": "FLY"
+      },
+      {
+        "change": "-0.80",
+        "change_pts": null,
+        "close": 6935.0,
+        "name": "TMC the metals company Inc.",
+        "open": null,
+        "pct_change": "-10.50%",
+        "price": "",
+        "symbol": "TMC"
+      },
+      {
+        "change": "-3.83",
+        "change_pts": null,
+        "close": 6929.94,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "-9.34%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "-2.13",
+        "change_pts": null,
+        "close": 6931.13,
+        "name": "Rigetti Computing, Inc.",
+        "open": null,
+        "pct_change": "-8.69%",
+        "price": "",
+        "symbol": "RGTI"
+      }
+    ],
+    "scraped_at": "2025-12-26T20:41:03.046442-05:00"
   }
 }
