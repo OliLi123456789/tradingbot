@@ -4278,5 +4278,112 @@
       }
     ],
     "scraped_at": "2025-12-30T20:41:12.691398-05:00"
+  },
+  "2025-12-31": {
+    "gainers": [
+      {
+        "change": "+33.85",
+        "change_pts": null,
+        "close": 6893.75,
+        "name": "Axsome Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+22.75%",
+        "price": "",
+        "symbol": "AXSM"
+      },
+      {
+        "change": "+1.88",
+        "change_pts": null,
+        "close": 6893.75,
+        "name": "Polestar Automotive Holding UK PLC",
+        "open": null,
+        "pct_change": "+9.65%",
+        "price": "",
+        "symbol": "PSNY"
+      },
+      {
+        "change": "+0.77",
+        "change_pts": null,
+        "close": 6893.75,
+        "name": "Ondas Holdings Inc.",
+        "open": null,
+        "pct_change": "+8.57%",
+        "price": "",
+        "symbol": "ONDS"
+      },
+      {
+        "change": "+0.67",
+        "change_pts": null,
+        "close": 6893.75,
+        "name": "Trump Media & Technology Group Corp.",
+        "open": null,
+        "pct_change": "+5.33%",
+        "price": "",
+        "symbol": "DJT"
+      },
+      {
+        "change": "+1.08",
+        "change_pts": null,
+        "close": 6893.75,
+        "name": "PBF Energy Inc.",
+        "open": null,
+        "pct_change": "+4.15%",
+        "price": "",
+        "symbol": "PBF"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-35.40",
+        "change_pts": null,
+        "close": 6845.5,
+        "name": "Corcept Therapeutics Incorporated",
+        "open": null,
+        "pct_change": "-50.42%",
+        "price": "",
+        "symbol": "CORT"
+      },
+      {
+        "change": "-1.75",
+        "change_pts": null,
+        "close": 6893.75,
+        "name": "QXO, Inc.",
+        "open": null,
+        "pct_change": "-8.32%",
+        "price": "",
+        "symbol": "QXO"
+      },
+      {
+        "change": "-1.90",
+        "change_pts": null,
+        "close": null,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-8.30%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "-0.40",
+        "change_pts": null,
+        "close": 6856.41,
+        "name": "NIO Inc.",
+        "open": null,
+        "pct_change": "-7.27%",
+        "price": "",
+        "symbol": "NIO"
+      },
+      {
+        "change": "-1.57",
+        "change_pts": null,
+        "close": 6893.75,
+        "name": "Sprott Physical Silver Trust",
+        "open": null,
+        "pct_change": "-6.23%",
+        "price": "",
+        "symbol": "PSLV"
+      }
+    ],
+    "scraped_at": "2025-12-31T20:41:41.477435-05:00"
   }
 }
