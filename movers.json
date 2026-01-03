@@ -4385,5 +4385,112 @@
       }
     ],
     "scraped_at": "2025-12-31T20:41:41.477435-05:00"
+  },
+  "2026-01-02": {
+    "gainers": [
+      {
+        "change": "+3.23",
+        "change_pts": null,
+        "close": 6931.66,
+        "name": "Fluence Energy, Inc.",
+        "open": null,
+        "pct_change": "+16.33%",
+        "price": "",
+        "symbol": "FLNC"
+      },
+      {
+        "change": "+37.86",
+        "change_pts": null,
+        "close": 6858.47,
+        "name": "Sandisk Corporation",
+        "open": null,
+        "pct_change": "+15.95%",
+        "price": "",
+        "symbol": "SNDK"
+      },
+      {
+        "change": "+2.14",
+        "change_pts": null,
+        "close": 6858.47,
+        "name": "NuScale Power Corporation",
+        "open": null,
+        "pct_change": "+15.10%",
+        "price": "",
+        "symbol": "SMR"
+      },
+      {
+        "change": "+19.64",
+        "change_pts": null,
+        "close": 6858.47,
+        "name": "Baidu, Inc.",
+        "open": null,
+        "pct_change": "+15.03%",
+        "price": "",
+        "symbol": "BIDU"
+      },
+      {
+        "change": "+10.84",
+        "change_pts": null,
+        "close": 6858.47,
+        "name": "AST SpaceMobile, Inc.",
+        "open": null,
+        "pct_change": "+14.93%",
+        "price": "",
+        "symbol": "ASTS"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-3.12",
+        "change_pts": null,
+        "close": null,
+        "name": "Paymentus Holdings, Inc.",
+        "open": null,
+        "pct_change": "-9.88%",
+        "price": "",
+        "symbol": "PAY"
+      },
+      {
+        "change": "-3.15",
+        "change_pts": null,
+        "close": 6908.5,
+        "name": "Klaviyo, Inc.",
+        "open": null,
+        "pct_change": "-9.70%",
+        "price": "",
+        "symbol": "KVYO"
+      },
+      {
+        "change": "-3.09",
+        "change_pts": null,
+        "close": 6805.75,
+        "name": "Liquidia Corporation",
+        "open": null,
+        "pct_change": "-8.96%",
+        "price": "",
+        "symbol": "LQDA"
+      },
+      {
+        "change": "-55.50",
+        "change_pts": null,
+        "close": 6858.47,
+        "name": "AppLovin Corporation",
+        "open": null,
+        "pct_change": "-8.24%",
+        "price": "",
+        "symbol": "APP"
+      },
+      {
+        "change": "-1.56",
+        "change_pts": null,
+        "close": 6858.47,
+        "name": "Polestar Automotive Holding UK PLC",
+        "open": null,
+        "pct_change": "-7.30%",
+        "price": "",
+        "symbol": "PSNY"
+      }
+    ],
+    "scraped_at": "2026-01-02T20:40:56.113741-05:00"
   }
 }
