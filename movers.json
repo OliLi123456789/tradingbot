@@ -4492,5 +4492,112 @@
       }
     ],
     "scraped_at": "2026-01-02T20:40:56.113741-05:00"
+  },
+  "2026-01-05": {
+    "gainers": [
+      {
+        "change": "[object Object]",
+        "change_pts": null,
+        "close": null,
+        "name": "[object Object]",
+        "open": null,
+        "pct_change": "[object Object]",
+        "price": "[object Object]",
+        "symbol": "[object Object]"
+      },
+      {
+        "change": "[object Object]",
+        "change_pts": null,
+        "close": null,
+        "name": "[object Object]",
+        "open": null,
+        "pct_change": "[object Object]",
+        "price": "[object Object]",
+        "symbol": "[object Object]"
+      },
+      {
+        "change": "[object Object]",
+        "change_pts": null,
+        "close": null,
+        "name": "[object Object]",
+        "open": null,
+        "pct_change": "[object Object]",
+        "price": "[object Object]",
+        "symbol": "[object Object]"
+      },
+      {
+        "change": "[object Object]",
+        "change_pts": null,
+        "close": null,
+        "name": "[object Object]",
+        "open": null,
+        "pct_change": "[object Object]",
+        "price": "[object Object]",
+        "symbol": "[object Object]"
+      },
+      {
+        "change": "[object Object]",
+        "change_pts": null,
+        "close": null,
+        "name": "[object Object]",
+        "open": null,
+        "pct_change": "[object Object]",
+        "price": "[object Object]",
+        "symbol": "[object Object]"
+      }
+    ],
+    "losers": [
+      {
+        "change": "[object Object]",
+        "change_pts": null,
+        "close": null,
+        "name": "[object Object]",
+        "open": null,
+        "pct_change": "[object Object]",
+        "price": "[object Object]",
+        "symbol": "[object Object]"
+      },
+      {
+        "change": "[object Object]",
+        "change_pts": null,
+        "close": null,
+        "name": "[object Object]",
+        "open": null,
+        "pct_change": "[object Object]",
+        "price": "[object Object]",
+        "symbol": "[object Object]"
+      },
+      {
+        "change": "[object Object]",
+        "change_pts": null,
+        "close": null,
+        "name": "[object Object]",
+        "open": null,
+        "pct_change": "[object Object]",
+        "price": "[object Object]",
+        "symbol": "[object Object]"
+      },
+      {
+        "change": "[object Object]",
+        "change_pts": null,
+        "close": null,
+        "name": "[object Object]",
+        "open": null,
+        "pct_change": "[object Object]",
+        "price": "[object Object]",
+        "symbol": "[object Object]"
+      },
+      {
+        "change": "[object Object]",
+        "change_pts": null,
+        "close": null,
+        "name": "[object Object]",
+        "open": null,
+        "pct_change": "[object Object]",
+        "price": "[object Object]",
+        "symbol": "[object Object]"
+      }
+    ],
+    "scraped_at": "2026-01-05T20:41:12.946183-05:00"
   }
 }
