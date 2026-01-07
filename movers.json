@@ -4599,5 +4599,112 @@
       }
     ],
     "scraped_at": "2026-01-05T20:41:12.946183-05:00"
+  },
+  "2026-01-06": {
+    "gainers": [
+      {
+        "change": "+5.22",
+        "change_pts": null,
+        "close": null,
+        "name": "OneStream, Inc.",
+        "open": null,
+        "pct_change": "+28.38%",
+        "price": "",
+        "symbol": "OS"
+      },
+      {
+        "change": "+75.55",
+        "change_pts": null,
+        "close": 6944.82,
+        "name": "Sandisk Corporation",
+        "open": null,
+        "pct_change": "+27.56%",
+        "price": "",
+        "symbol": "SNDK"
+      },
+      {
+        "change": "+5.99",
+        "change_pts": null,
+        "close": null,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "+22.15%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "+31.50",
+        "change_pts": null,
+        "close": 6915.5,
+        "name": "Western Digital Corporation",
+        "open": null,
+        "pct_change": "+16.77%",
+        "price": "",
+        "symbol": "WDC"
+      },
+      {
+        "change": "+40.59",
+        "change_pts": null,
+        "close": 6945.41,
+        "name": "Seagate Technology Holdings plc",
+        "open": null,
+        "pct_change": "+14.00%",
+        "price": "",
+        "symbol": "STX"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-1.85",
+        "change_pts": null,
+        "close": 6987.25,
+        "name": "McGraw Hill, Inc.",
+        "open": null,
+        "pct_change": "-11.09%",
+        "price": "",
+        "symbol": "MH"
+      },
+      {
+        "change": "-26.84",
+        "change_pts": null,
+        "close": 6987.5,
+        "name": "InterDigital, Inc.",
+        "open": null,
+        "pct_change": "-7.99%",
+        "price": "",
+        "symbol": "IDCC"
+      },
+      {
+        "change": "-2.31",
+        "change_pts": null,
+        "close": 6915.5,
+        "name": "SoFi Technologies, Inc.",
+        "open": null,
+        "pct_change": "-7.87%",
+        "price": "",
+        "symbol": "SOFI"
+      },
+      {
+        "change": "-2.28",
+        "change_pts": null,
+        "close": 6987.5,
+        "name": "PBF Energy Inc.",
+        "open": null,
+        "pct_change": "-7.73%",
+        "price": "",
+        "symbol": "PBF"
+      },
+      {
+        "change": "-6.31",
+        "change_pts": null,
+        "close": 6987.0,
+        "name": "American International Group, Inc.",
+        "open": null,
+        "pct_change": "-7.48%",
+        "price": "",
+        "symbol": "AIG"
+      }
+    ],
+    "scraped_at": "2026-01-06T20:41:10.486038-05:00"
   }
 }
