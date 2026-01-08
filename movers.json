@@ -4706,5 +4706,112 @@
       }
     ],
     "scraped_at": "2026-01-06T20:41:10.486038-05:00"
+  },
+  "2026-01-07": {
+    "gainers": [
+      {
+        "change": "+19.85",
+        "change_pts": null,
+        "close": 6987.0,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "+60.10%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "+22.86",
+        "change_pts": null,
+        "close": null,
+        "name": "Revolution Medicines, Inc.",
+        "open": null,
+        "pct_change": "+28.63%",
+        "price": "",
+        "symbol": "RVMD"
+      },
+      {
+        "change": "+7.39",
+        "change_pts": null,
+        "close": 6989.0,
+        "name": "Crinetics Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "+16.08%",
+        "price": "",
+        "symbol": "CRNX"
+      },
+      {
+        "change": "+15.92",
+        "change_pts": null,
+        "close": 6952.34,
+        "name": "Silicon Motion Technology Corporation",
+        "open": null,
+        "pct_change": "+15.13%",
+        "price": "",
+        "symbol": "SIMO"
+      },
+      {
+        "change": "+5.65",
+        "change_pts": null,
+        "close": 6908.77,
+        "name": "International Seaways, Inc.",
+        "open": null,
+        "pct_change": "+11.66%",
+        "price": "",
+        "symbol": "INSW"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-5.74",
+        "change_pts": null,
+        "close": 6967.0,
+        "name": "Viasat, Inc.",
+        "open": null,
+        "pct_change": "-13.21%",
+        "price": "",
+        "symbol": "VSAT"
+      },
+      {
+        "change": "-10.10",
+        "change_pts": null,
+        "close": 6966.25,
+        "name": "Ambarella, Inc.",
+        "open": null,
+        "pct_change": "-12.52%",
+        "price": "",
+        "symbol": "AMBA"
+      },
+      {
+        "change": "-11.84",
+        "change_pts": null,
+        "close": 6967.0,
+        "name": "AST SpaceMobile, Inc.",
+        "open": null,
+        "pct_change": "-12.13%",
+        "price": "",
+        "symbol": "ASTS"
+      },
+      {
+        "change": "-0.81",
+        "change_pts": null,
+        "close": 6967.25,
+        "name": "Opendoor Technologies Inc.",
+        "open": null,
+        "pct_change": "-11.69%",
+        "price": "",
+        "symbol": "OPEN"
+      },
+      {
+        "change": "-1.20",
+        "change_pts": null,
+        "close": 6942.5,
+        "name": "Super Group (SGHC) Limited",
+        "open": null,
+        "pct_change": "-10.34%",
+        "price": "",
+        "symbol": "SGHC"
+      }
+    ],
+    "scraped_at": "2026-01-07T20:41:11.992979-05:00"
   }
 }
