@@ -4813,5 +4813,112 @@
       }
     ],
     "scraped_at": "2026-01-07T20:41:11.992979-05:00"
+  },
+  "2026-01-08": {
+    "gainers": [
+      {
+        "change": "+2.33",
+        "change_pts": null,
+        "close": 6902.75,
+        "name": "Neogen Corporation",
+        "open": null,
+        "pct_change": "+31.57%",
+        "price": "",
+        "symbol": "NEOG"
+      },
+      {
+        "change": "+1.83",
+        "change_pts": null,
+        "close": 6956.5,
+        "name": "Ondas Holdings Inc.",
+        "open": null,
+        "pct_change": "+15.02%",
+        "price": "",
+        "symbol": "ONDS"
+      },
+      {
+        "change": "+3.91",
+        "change_pts": null,
+        "close": 6962.5,
+        "name": "PBF Energy Inc.",
+        "open": null,
+        "pct_change": "+13.85%",
+        "price": "",
+        "symbol": "PBF"
+      },
+      {
+        "change": "+12.60",
+        "change_pts": null,
+        "close": 6962.5,
+        "name": "Kratos Defense & Security Solutions, Inc.",
+        "open": null,
+        "pct_change": "+13.78%",
+        "price": "",
+        "symbol": "KTOS"
+      },
+      {
+        "change": "+13.84",
+        "change_pts": null,
+        "close": 6914.71,
+        "name": "Bloom Energy Corporation",
+        "open": null,
+        "pct_change": "+12.81%",
+        "price": "",
+        "symbol": "BE"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-11.46",
+        "change_pts": null,
+        "close": 6921.46,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-21.67%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "-5.05",
+        "change_pts": null,
+        "close": 6956.5,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "-13.26%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "-34.06",
+        "change_pts": null,
+        "close": 6913.49,
+        "name": "Ciena Corporation",
+        "open": null,
+        "pct_change": "-13.14%",
+        "price": "",
+        "symbol": "CIEN"
+      },
+      {
+        "change": "-16.52",
+        "change_pts": null,
+        "close": 6847.5,
+        "name": "Teleflex Incorporated",
+        "open": null,
+        "pct_change": "-13.06%",
+        "price": "",
+        "symbol": "TFX"
+      },
+      {
+        "change": "-47.53",
+        "change_pts": null,
+        "close": 6957.25,
+        "name": "Acuity Inc.",
+        "open": null,
+        "pct_change": "-12.85%",
+        "price": "",
+        "symbol": "AYI"
+      }
+    ],
+    "scraped_at": "2026-01-08T20:41:14.047950-05:00"
   }
 }
