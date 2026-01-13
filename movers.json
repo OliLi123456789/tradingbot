@@ -5027,5 +5027,112 @@
       }
     ],
     "scraped_at": "2026-01-09T20:40:57.924457-05:00"
+  },
+  "2026-01-12": {
+    "gainers": [
+      {
+        "change": "+6.14",
+        "change_pts": null,
+        "close": 6966.28,
+        "name": "Beam Therapeutics Inc.",
+        "open": null,
+        "pct_change": "+22.29%",
+        "price": "",
+        "symbol": "BEAM"
+      },
+      {
+        "change": "+5.87",
+        "change_pts": null,
+        "close": 6985.38,
+        "name": "Hycroft Mining Holding Corporation",
+        "open": null,
+        "pct_change": "+21.64%",
+        "price": "",
+        "symbol": "HYMC"
+      },
+      {
+        "change": "+2.38",
+        "change_pts": null,
+        "close": 7003.75,
+        "name": "Kingsoft Cloud Holdings Limited",
+        "open": null,
+        "pct_change": "+21.60%",
+        "price": "",
+        "symbol": "KC"
+      },
+      {
+        "change": "+2.50",
+        "change_pts": null,
+        "close": null,
+        "name": "Adaptive Biotechnologies Corporation",
+        "open": null,
+        "pct_change": "+15.86%",
+        "price": "",
+        "symbol": "ADPT"
+      },
+      {
+        "change": "+13.21",
+        "change_pts": null,
+        "close": null,
+        "name": "BillionToOne, Inc.",
+        "open": null,
+        "pct_change": "+15.37%",
+        "price": "",
+        "symbol": "BLLN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-5.06",
+        "change_pts": null,
+        "close": 7002.25,
+        "name": "Alphatec Holdings, Inc.",
+        "open": null,
+        "pct_change": "-22.34%",
+        "price": "",
+        "symbol": "ATEC"
+      },
+      {
+        "change": "-1.58",
+        "change_pts": null,
+        "close": null,
+        "name": "Nuvation Bio Inc.",
+        "open": null,
+        "pct_change": "-19.65%",
+        "price": "",
+        "symbol": "NUVB"
+      },
+      {
+        "change": "-22.09",
+        "change_pts": null,
+        "close": 6834.6,
+        "name": "Abercrombie & Fitch Co.",
+        "open": null,
+        "pct_change": "-17.69%",
+        "price": "",
+        "symbol": "ANF"
+      },
+      {
+        "change": "-4.10",
+        "change_pts": null,
+        "close": 6977.27,
+        "name": "Apellis Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "-15.02%",
+        "price": "",
+        "symbol": "APLS"
+      },
+      {
+        "change": "-2.64",
+        "change_pts": null,
+        "close": 7003.5,
+        "name": "Summit Therapeutics Inc.",
+        "open": null,
+        "pct_change": "-13.41%",
+        "price": "",
+        "symbol": "SMMT"
+      }
+    ],
+    "scraped_at": "2026-01-12T20:41:01.816072-05:00"
   }
 }
