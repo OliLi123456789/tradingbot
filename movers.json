@@ -5134,5 +5134,112 @@
       }
     ],
     "scraped_at": "2026-01-12T20:41:01.816072-05:00"
+  },
+  "2026-01-13": {
+    "gainers": [
+      {
+        "change": "+31.95",
+        "change_pts": null,
+        "close": null,
+        "name": "TryHard Holdings Limited Ordinary Shares",
+        "open": null,
+        "pct_change": "+138.31%",
+        "price": "",
+        "symbol": "THH"
+      },
+      {
+        "change": "+1.27",
+        "change_pts": null,
+        "close": 6966.28,
+        "name": "Erasca, Inc.",
+        "open": null,
+        "pct_change": "+20.47%",
+        "price": "",
+        "symbol": "ERAS"
+      },
+      {
+        "change": "+15.35",
+        "change_pts": null,
+        "close": 6977.27,
+        "name": "TTM Technologies, Inc.",
+        "open": null,
+        "pct_change": "+19.71%",
+        "price": "",
+        "symbol": "TTMI"
+      },
+      {
+        "change": "+5.76",
+        "change_pts": null,
+        "close": 6999.75,
+        "name": "Moderna, Inc.",
+        "open": null,
+        "pct_change": "+17.02%",
+        "price": "",
+        "symbol": "MRNA"
+      },
+      {
+        "change": "+8.56",
+        "change_pts": null,
+        "close": 6800.62,
+        "name": "Structure Therapeutics Inc.",
+        "open": null,
+        "pct_change": "+12.34%",
+        "price": "",
+        "symbol": "GPCR"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-11.57",
+        "change_pts": null,
+        "close": 6966.28,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-26.23%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "-4.99",
+        "change_pts": null,
+        "close": 6961.24,
+        "name": "Travere Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-14.63%",
+        "price": "",
+        "symbol": "TVTX"
+      },
+      {
+        "change": "-3.18",
+        "change_pts": null,
+        "close": 6999.75,
+        "name": "Progyny, Inc.",
+        "open": null,
+        "pct_change": "-11.19%",
+        "price": "",
+        "symbol": "PGNY"
+      },
+      {
+        "change": "-0.98",
+        "change_pts": null,
+        "close": null,
+        "name": "WeRide Inc.",
+        "open": null,
+        "pct_change": "-10.01%",
+        "price": "",
+        "symbol": "WRD"
+      },
+      {
+        "change": "-1.65",
+        "change_pts": null,
+        "close": null,
+        "name": "Pony AI Inc.",
+        "open": null,
+        "pct_change": "-9.50%",
+        "price": "",
+        "symbol": "PONY"
+      }
+    ],
+    "scraped_at": "2026-01-13T20:41:11.053717-05:00"
   }
 }
