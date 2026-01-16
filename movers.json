@@ -5348,5 +5348,112 @@
       }
     ],
     "scraped_at": "2026-01-14T20:41:02.653191-05:00"
+  },
+  "2026-01-15": {
+    "gainers": [
+      {
+        "change": "+9.14",
+        "change_pts": null,
+        "close": 6989.5,
+        "name": "Figure Technology Solutions, Inc.",
+        "open": null,
+        "pct_change": "+16.37%",
+        "price": "",
+        "symbol": "FIGR"
+      },
+      {
+        "change": "+1.25",
+        "change_pts": null,
+        "close": 6989.75,
+        "name": "Erasca, Inc.",
+        "open": null,
+        "pct_change": "+15.04%",
+        "price": "",
+        "symbol": "ERAS"
+      },
+      {
+        "change": "+3.80",
+        "change_pts": null,
+        "close": null,
+        "name": "Galaxy Digital",
+        "open": null,
+        "pct_change": "+13.48%",
+        "price": "",
+        "symbol": "GLXY"
+      },
+      {
+        "change": "+2.85",
+        "change_pts": null,
+        "close": 6944.47,
+        "name": "Fluence Energy, Inc.",
+        "open": null,
+        "pct_change": "+12.58%",
+        "price": "",
+        "symbol": "FLNC"
+      },
+      {
+        "change": "+37.06",
+        "change_pts": null,
+        "close": 6944.47,
+        "name": "Penumbra, Inc.",
+        "open": null,
+        "pct_change": "+11.82%",
+        "price": "",
+        "symbol": "PEN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-5.11",
+        "change_pts": null,
+        "close": 6966.28,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-14.53%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "-2.77",
+        "change_pts": null,
+        "close": null,
+        "name": "Arcus Biosciences, Inc.",
+        "open": null,
+        "pct_change": "-11.28%",
+        "price": "",
+        "symbol": "RCUS"
+      },
+      {
+        "change": "-8.20",
+        "change_pts": null,
+        "close": 6992.5,
+        "name": "Circle Internet Group",
+        "open": null,
+        "pct_change": "-9.67%",
+        "price": "",
+        "symbol": "CRCL"
+      },
+      {
+        "change": "-3.36",
+        "change_pts": null,
+        "close": 6992.5,
+        "name": "Beam Therapeutics Inc.",
+        "open": null,
+        "pct_change": "-9.49%",
+        "price": "",
+        "symbol": "BEAM"
+      },
+      {
+        "change": "-23.63",
+        "change_pts": null,
+        "close": 6989.75,
+        "name": "Reddit, Inc.",
+        "open": null,
+        "pct_change": "-9.36%",
+        "price": "",
+        "symbol": "RDDT"
+      }
+    ],
+    "scraped_at": "2026-01-15T20:41:08.269286-05:00"
   }
 }
