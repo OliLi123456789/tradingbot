@@ -5455,5 +5455,112 @@
       }
     ],
     "scraped_at": "2026-01-15T20:41:08.269286-05:00"
+  },
+  "2026-01-16": {
+    "gainers": [
+      {
+        "change": "+1.57",
+        "change_pts": null,
+        "close": 6991.75,
+        "name": "ImmunityBio, Inc.",
+        "open": null,
+        "pct_change": "+39.75%",
+        "price": "",
+        "symbol": "IBRX"
+      },
+      {
+        "change": "+54.00",
+        "change_pts": null,
+        "close": 6940.01,
+        "name": "Argan, Inc.",
+        "open": null,
+        "pct_change": "+16.38%",
+        "price": "",
+        "symbol": "AGX"
+      },
+      {
+        "change": "+2.67",
+        "change_pts": null,
+        "close": 7003.0,
+        "name": "Riot Platforms, Inc.",
+        "open": null,
+        "pct_change": "+16.11%",
+        "price": "",
+        "symbol": "RIOT"
+      },
+      {
+        "change": "+14.52",
+        "change_pts": null,
+        "close": 6940.01,
+        "name": "AST SpaceMobile, Inc.",
+        "open": null,
+        "pct_change": "+14.34%",
+        "price": "",
+        "symbol": "ASTS"
+      },
+      {
+        "change": "+8.99",
+        "change_pts": null,
+        "close": 6940.01,
+        "name": "Figure Technology Solutions, Inc.",
+        "open": null,
+        "pct_change": "+13.86%",
+        "price": "",
+        "symbol": "FIGR"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-1.52",
+        "change_pts": null,
+        "close": 6940.01,
+        "name": "Evolution Metals & Technologies Corp.",
+        "open": null,
+        "pct_change": "-15.32%",
+        "price": "",
+        "symbol": "EMAT"
+      },
+      {
+        "change": "-1.46",
+        "change_pts": null,
+        "close": null,
+        "name": "Ermenegildo Zegna N.V.",
+        "open": null,
+        "pct_change": "-13.25%",
+        "price": "",
+        "symbol": "ZGN"
+      },
+      {
+        "change": "-0.84",
+        "change_pts": null,
+        "close": null,
+        "name": "Sasol Limited",
+        "open": null,
+        "pct_change": "-11.75%",
+        "price": "",
+        "symbol": "SSL"
+      },
+      {
+        "change": "-47.41",
+        "change_pts": null,
+        "close": 6940.01,
+        "name": "Talen Energy Corporation",
+        "open": null,
+        "pct_change": "-11.31%",
+        "price": "",
+        "symbol": "TLN"
+      },
+      {
+        "change": "-33.42",
+        "change_pts": null,
+        "close": 7003.0,
+        "name": "Constellation Energy Corporation",
+        "open": null,
+        "pct_change": "-9.80%",
+        "price": "",
+        "symbol": "CEG"
+      }
+    ],
+    "scraped_at": "2026-01-16T20:40:42.248940-05:00"
   }
 }
