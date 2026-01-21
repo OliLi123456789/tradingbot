@@ -5562,5 +5562,112 @@
       }
     ],
     "scraped_at": "2026-01-16T20:40:42.248940-05:00"
+  },
+  "2026-01-20": {
+    "gainers": [
+      {
+        "change": "+8.14",
+        "change_pts": null,
+        "close": 6801.65,
+        "name": "Hycroft Mining Holding Corporation",
+        "open": null,
+        "pct_change": "+23.51%",
+        "price": "",
+        "symbol": "HYMC"
+      },
+      {
+        "change": "+0.96",
+        "change_pts": null,
+        "close": 6940.01,
+        "name": "ImmunityBio, Inc.",
+        "open": null,
+        "pct_change": "+17.39%",
+        "price": "",
+        "symbol": "IBRX"
+      },
+      {
+        "change": "+7.88",
+        "change_pts": null,
+        "close": 6848.25,
+        "name": "Qiagen N.V.",
+        "open": null,
+        "pct_change": "+16.57%",
+        "price": "",
+        "symbol": "QGEN"
+      },
+      {
+        "change": "+1.48",
+        "change_pts": null,
+        "close": 6796.86,
+        "name": "United Microelectronics Corporation",
+        "open": null,
+        "pct_change": "+15.91%",
+        "price": "",
+        "symbol": "UMC"
+      },
+      {
+        "change": "+2.66",
+        "change_pts": null,
+        "close": 6907.5,
+        "name": "IAMGOLD Corporation",
+        "open": null,
+        "pct_change": "+15.49%",
+        "price": "",
+        "symbol": "IAG"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-61.97",
+        "change_pts": null,
+        "close": 6801.85,
+        "name": "AeroVironment, Inc.",
+        "open": null,
+        "pct_change": "-15.77%",
+        "price": "",
+        "symbol": "AVAV"
+      },
+      {
+        "change": "-3.11",
+        "change_pts": null,
+        "close": 6796.86,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-11.34%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "-3.52",
+        "change_pts": null,
+        "close": 6848.0,
+        "name": "Murphy Oil Corporation",
+        "open": null,
+        "pct_change": "-10.38%",
+        "price": "",
+        "symbol": "MUR"
+      },
+      {
+        "change": "-1.08",
+        "change_pts": null,
+        "close": null,
+        "name": "VNET Group, Inc.",
+        "open": null,
+        "pct_change": "-10.18%",
+        "price": "",
+        "symbol": "VNET"
+      },
+      {
+        "change": "-8.44",
+        "change_pts": null,
+        "close": 6852.0,
+        "name": "Roblox Corporation",
+        "open": null,
+        "pct_change": "-9.67%",
+        "price": "",
+        "symbol": "RBLX"
+      }
+    ],
+    "scraped_at": "2026-01-20T20:41:07.187843-05:00"
   }
 }
