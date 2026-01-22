@@ -5669,5 +5669,112 @@
       }
     ],
     "scraped_at": "2026-01-20T20:41:07.187843-05:00"
+  },
+  "2026-01-21": {
+    "gainers": [
+      {
+        "change": "+1.74",
+        "change_pts": null,
+        "close": 6931.0,
+        "name": "Lucid Group, Inc.",
+        "open": null,
+        "pct_change": "+17.88%",
+        "price": "",
+        "symbol": "LCID"
+      },
+      {
+        "change": "+6.83",
+        "change_pts": null,
+        "close": 6931.0,
+        "name": "Moderna, Inc.",
+        "open": null,
+        "pct_change": "+15.88%",
+        "price": "",
+        "symbol": "MRNA"
+      },
+      {
+        "change": "+11.13",
+        "change_pts": null,
+        "close": 6931.0,
+        "name": "ServisFirst Bancshares, Inc.",
+        "open": null,
+        "pct_change": "+14.58%",
+        "price": "",
+        "symbol": "SFBS"
+      },
+      {
+        "change": "+15.83",
+        "change_pts": null,
+        "close": 6885.29,
+        "name": "Rambus Inc.",
+        "open": null,
+        "pct_change": "+14.38%",
+        "price": "",
+        "symbol": "RMBS"
+      },
+      {
+        "change": "+0.97",
+        "change_pts": null,
+        "close": 6940.01,
+        "name": "TMC the metals company Inc.",
+        "open": null,
+        "pct_change": "+13.45%",
+        "price": "",
+        "symbol": "TMC"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-9.05",
+        "change_pts": null,
+        "close": 6929.0,
+        "name": "MakeMyTrip Limited",
+        "open": null,
+        "pct_change": "-12.13%",
+        "price": "",
+        "symbol": "MMYT"
+      },
+      {
+        "change": "-2.66",
+        "change_pts": null,
+        "close": null,
+        "name": "Legend Biotech Corporation",
+        "open": null,
+        "pct_change": "-11.36%",
+        "price": "",
+        "symbol": "LEGN"
+      },
+      {
+        "change": "-2.41",
+        "change_pts": null,
+        "close": 6796.86,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-9.91%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "-14.06",
+        "change_pts": null,
+        "close": 6931.5,
+        "name": "Credo Technology Group Holding Ltd",
+        "open": null,
+        "pct_change": "-9.18%",
+        "price": "",
+        "symbol": "CRDO"
+      },
+      {
+        "change": "-8.94",
+        "change_pts": null,
+        "close": 6926.75,
+        "name": "AST SpaceMobile, Inc.",
+        "open": null,
+        "pct_change": "-7.95%",
+        "price": "",
+        "symbol": "ASTS"
+      }
+    ],
+    "scraped_at": "2026-01-21T20:41:24.618555-05:00"
   }
 }
