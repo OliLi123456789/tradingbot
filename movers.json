@@ -5776,5 +5776,112 @@
       }
     ],
     "scraped_at": "2026-01-21T20:41:24.618555-05:00"
+  },
+  "2026-01-22": {
+    "gainers": [
+      {
+        "change": "+8.86",
+        "change_pts": null,
+        "close": 6949.75,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "+40.44%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "+1.88",
+        "change_pts": null,
+        "close": 6940.01,
+        "name": "Evolution Metals & Technologies Corp.",
+        "open": null,
+        "pct_change": "+23.68%",
+        "price": "",
+        "symbol": "EMAT"
+      },
+      {
+        "change": "+3.15",
+        "change_pts": null,
+        "close": 6953.5,
+        "name": "Critical Metals Corp.",
+        "open": null,
+        "pct_change": "+20.66%",
+        "price": "",
+        "symbol": "CRML"
+      },
+      {
+        "change": "+1.35",
+        "change_pts": null,
+        "close": 6953.0,
+        "name": "Americas Gold and Silver Corporation",
+        "open": null,
+        "pct_change": "+18.93%",
+        "price": "",
+        "symbol": "USAS"
+      },
+      {
+        "change": "+7.12",
+        "change_pts": null,
+        "close": 6913.35,
+        "name": "Hycroft Mining Holding Corporation",
+        "open": null,
+        "pct_change": "+17.99%",
+        "price": "",
+        "symbol": "HYMC"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-15.39",
+        "change_pts": null,
+        "close": 6913.35,
+        "name": "Inspire Medical Systems, Inc.",
+        "open": null,
+        "pct_change": "-16.00%",
+        "price": "",
+        "symbol": "INSP"
+      },
+      {
+        "change": "-12.12",
+        "change_pts": null,
+        "close": 6913.35,
+        "name": "Abbott Laboratories",
+        "open": null,
+        "pct_change": "-10.04%",
+        "price": "",
+        "symbol": "ABT"
+      },
+      {
+        "change": "-4.01",
+        "change_pts": null,
+        "close": 6953.5,
+        "name": "Old Republic International Corporation",
+        "open": null,
+        "pct_change": "-9.30%",
+        "price": "",
+        "symbol": "ORI"
+      },
+      {
+        "change": "-5.36",
+        "change_pts": null,
+        "close": 6913.35,
+        "name": "McCormick & Company, Incorporated",
+        "open": null,
+        "pct_change": "-8.05%",
+        "price": "",
+        "symbol": "MKC"
+      },
+      {
+        "change": "-23.50",
+        "change_pts": null,
+        "close": 6927.41,
+        "name": "GE Aerospace",
+        "open": null,
+        "pct_change": "-7.38%",
+        "price": "",
+        "symbol": "GE"
+      }
+    ],
+    "scraped_at": "2026-01-22T20:40:57.497770-05:00"
   }
 }
