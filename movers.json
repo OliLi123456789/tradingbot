@@ -5883,5 +5883,112 @@
       }
     ],
     "scraped_at": "2026-01-22T20:40:57.497770-05:00"
+  },
+  "2026-01-23": {
+    "gainers": [
+      {
+        "change": "+13.29",
+        "change_pts": null,
+        "close": 6915.61,
+        "name": "Life360, Inc.",
+        "open": null,
+        "pct_change": "+24.25%",
+        "price": "",
+        "symbol": "LIF"
+      },
+      {
+        "change": "+1.12",
+        "change_pts": null,
+        "close": 6915.61,
+        "name": "TMC the metals company Inc.",
+        "open": null,
+        "pct_change": "+13.46%",
+        "price": "",
+        "symbol": "TMC"
+      },
+      {
+        "change": "+2.16",
+        "change_pts": null,
+        "close": 6915.61,
+        "name": "Critical Metals Corp.",
+        "open": null,
+        "pct_change": "+11.70%",
+        "price": "",
+        "symbol": "CRML"
+      },
+      {
+        "change": "+0.81",
+        "change_pts": null,
+        "close": 6915.61,
+        "name": "Americas Gold and Silver Corporation",
+        "open": null,
+        "pct_change": "+9.55%",
+        "price": "",
+        "symbol": "USAS"
+      },
+      {
+        "change": "+1.23",
+        "change_pts": null,
+        "close": 6915.61,
+        "name": "TeraWulf Inc.",
+        "open": null,
+        "pct_change": "+9.54%",
+        "price": "",
+        "symbol": "WULF"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-9.24",
+        "change_pts": null,
+        "close": 6915.61,
+        "name": "Intel Corporation",
+        "open": null,
+        "pct_change": "-17.01%",
+        "price": "",
+        "symbol": "INTC"
+      },
+      {
+        "change": "-9.84",
+        "change_pts": null,
+        "close": 6915.61,
+        "name": "Apogee Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-12.32%",
+        "price": "",
+        "symbol": "APGE"
+      },
+      {
+        "change": "-0.89",
+        "change_pts": null,
+        "close": 6912.82,
+        "name": "ImmunityBio, Inc.",
+        "open": null,
+        "pct_change": "-12.13%",
+        "price": "",
+        "symbol": "IBRX"
+      },
+      {
+        "change": "-0.66",
+        "change_pts": null,
+        "close": 6915.61,
+        "name": "Bausch Health Companies Inc.",
+        "open": null,
+        "pct_change": "-10.05%",
+        "price": "",
+        "symbol": "BHC"
+      },
+      {
+        "change": "-1.12",
+        "change_pts": null,
+        "close": 6915.61,
+        "name": "Navitas Semiconductor Corporation",
+        "open": null,
+        "pct_change": "-9.92%",
+        "price": "",
+        "symbol": "NVTS"
+      }
+    ],
+    "scraped_at": "2026-01-23T20:40:52.786912-05:00"
   }
 }
