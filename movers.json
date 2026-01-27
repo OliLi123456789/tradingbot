@@ -5990,5 +5990,112 @@
       }
     ],
     "scraped_at": "2026-01-23T20:40:52.786912-05:00"
+  },
+  "2026-01-26": {
+    "gainers": [
+      {
+        "change": "+1.79",
+        "change_pts": null,
+        "close": null,
+        "name": "Pattern Group Inc.",
+        "open": null,
+        "pct_change": "+12.54%",
+        "price": "",
+        "symbol": "PTRN"
+      },
+      {
+        "change": "+9.68",
+        "change_pts": null,
+        "close": 6950.23,
+        "name": "Zoom Communications, Inc.",
+        "open": null,
+        "pct_change": "+11.28%",
+        "price": "",
+        "symbol": "ZM"
+      },
+      {
+        "change": "+5.33",
+        "change_pts": null,
+        "close": 6950.23,
+        "name": "DigitalOcean Holdings, Inc.",
+        "open": null,
+        "pct_change": "+9.94%",
+        "price": "",
+        "symbol": "DOCN"
+      },
+      {
+        "change": "+3.92",
+        "change_pts": null,
+        "close": null,
+        "name": "GDS Holdings Limited",
+        "open": null,
+        "pct_change": "+9.20%",
+        "price": "",
+        "symbol": "GDS"
+      },
+      {
+        "change": "+15.91",
+        "change_pts": null,
+        "close": 6950.23,
+        "name": "Cloudflare, Inc.",
+        "open": null,
+        "pct_change": "+9.17%",
+        "price": "",
+        "symbol": "NET"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.54",
+        "change_pts": null,
+        "close": 6940.01,
+        "name": "Evolution Metals & Technologies Corp.",
+        "open": null,
+        "pct_change": "-26.62%",
+        "price": "",
+        "symbol": "EMAT"
+      },
+      {
+        "change": "-1.67",
+        "change_pts": null,
+        "close": 6983.25,
+        "name": "TMC the metals company Inc.",
+        "open": null,
+        "pct_change": "-17.69%",
+        "price": "",
+        "symbol": "TMC"
+      },
+      {
+        "change": "-19.90",
+        "change_pts": null,
+        "close": 6950.23,
+        "name": "Revolution Medicines, Inc.",
+        "open": null,
+        "pct_change": "-16.91%",
+        "price": "",
+        "symbol": "RVMD"
+      },
+      {
+        "change": "-3.88",
+        "change_pts": null,
+        "close": 6940.01,
+        "name": "Firefly Aerospace Inc.",
+        "open": null,
+        "pct_change": "-13.34%",
+        "price": "",
+        "symbol": "FLY"
+      },
+      {
+        "change": "-2.32",
+        "change_pts": null,
+        "close": 6983.25,
+        "name": "Critical Metals Corp.",
+        "open": null,
+        "pct_change": "-11.25%",
+        "price": "",
+        "symbol": "CRML"
+      }
+    ],
+    "scraped_at": "2026-01-26T20:41:20.371972-05:00"
   }
 }
