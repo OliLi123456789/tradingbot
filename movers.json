@@ -6097,5 +6097,112 @@
       }
     ],
     "scraped_at": "2026-01-26T20:41:20.371972-05:00"
+  },
+  "2026-01-27": {
+    "gainers": [
+      {
+        "change": "+3.23",
+        "change_pts": null,
+        "close": 6973.49,
+        "name": "Redwire Corporation",
+        "open": null,
+        "pct_change": "+29.52%",
+        "price": "",
+        "symbol": "RDW"
+      },
+      {
+        "change": "+4.15",
+        "change_pts": null,
+        "close": 6940.01,
+        "name": "Firefly Aerospace Inc.",
+        "open": null,
+        "pct_change": "+16.47%",
+        "price": "",
+        "symbol": "FLY"
+      },
+      {
+        "change": "+14.79",
+        "change_pts": null,
+        "close": 6983.25,
+        "name": "Corning Incorporated",
+        "open": null,
+        "pct_change": "+15.58%",
+        "price": "",
+        "symbol": "GLW"
+      },
+      {
+        "change": "+7.63",
+        "change_pts": null,
+        "close": 6950.23,
+        "name": "IREN Limited",
+        "open": null,
+        "pct_change": "+14.57%",
+        "price": "",
+        "symbol": "IREN"
+      },
+      {
+        "change": "+5.17",
+        "change_pts": null,
+        "close": 6986.25,
+        "name": "Applied Digital Corporation",
+        "open": null,
+        "pct_change": "+14.29%",
+        "price": "",
+        "symbol": "APLD"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-40.23",
+        "change_pts": null,
+        "close": 6978.6,
+        "name": "Commvault Systems, Inc.",
+        "open": null,
+        "pct_change": "-31.10%",
+        "price": "",
+        "symbol": "CVLT"
+      },
+      {
+        "change": "-39.35",
+        "change_pts": null,
+        "close": 6978.6,
+        "name": "Sanmina Corporation",
+        "open": null,
+        "pct_change": "-21.56%",
+        "price": "",
+        "symbol": "SANM"
+      },
+      {
+        "change": "-55.70",
+        "change_pts": null,
+        "close": 7026.5,
+        "name": "Humana Inc.",
+        "open": null,
+        "pct_change": "-21.13%",
+        "price": "",
+        "symbol": "HUM"
+      },
+      {
+        "change": "-22.69",
+        "change_pts": null,
+        "close": 6992.25,
+        "name": "Agilysys, Inc.",
+        "open": null,
+        "pct_change": "-19.98%",
+        "price": "",
+        "symbol": "AGYS"
+      },
+      {
+        "change": "-69.08",
+        "change_pts": null,
+        "close": 7025.75,
+        "name": "UnitedHealth Group Incorporated",
+        "open": null,
+        "pct_change": "-19.65%",
+        "price": "",
+        "symbol": "UNH"
+      }
+    ],
+    "scraped_at": "2026-01-27T20:41:04.431915-05:00"
   }
 }
