@@ -6204,5 +6204,112 @@
       }
     ],
     "scraped_at": "2026-01-27T20:41:04.431915-05:00"
+  },
+  "2026-01-28": {
+    "gainers": [
+      {
+        "change": "+7.84",
+        "change_pts": null,
+        "close": 6988.5,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "+20.97%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "+71.17",
+        "change_pts": null,
+        "close": 6950.23,
+        "name": "Seagate Technology Holdings plc",
+        "open": null,
+        "pct_change": "+19.14%",
+        "price": "",
+        "symbol": "STX"
+      },
+      {
+        "change": "+3.54",
+        "change_pts": null,
+        "close": 6988.75,
+        "name": "Energy Fuels Inc.",
+        "open": null,
+        "pct_change": "+14.66%",
+        "price": "",
+        "symbol": "UUUU"
+      },
+      {
+        "change": "+10.32",
+        "change_pts": null,
+        "close": 7022.75,
+        "name": "Stride, Inc.",
+        "open": null,
+        "pct_change": "+14.25%",
+        "price": "",
+        "symbol": "LRN"
+      },
+      {
+        "change": "+7.28",
+        "change_pts": null,
+        "close": null,
+        "name": "Avnet, Inc.",
+        "open": null,
+        "pct_change": "+13.82%",
+        "price": "",
+        "symbol": "AVT"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-67.68",
+        "change_pts": null,
+        "close": 6978.6,
+        "name": "Carvana Co.",
+        "open": null,
+        "pct_change": "-14.17%",
+        "price": "",
+        "symbol": "CVNA"
+      },
+      {
+        "change": "-5.29",
+        "change_pts": null,
+        "close": 6914.1,
+        "name": "Concentrix Corporation",
+        "open": null,
+        "pct_change": "-12.71%",
+        "price": "",
+        "symbol": "CNXC"
+      },
+      {
+        "change": "-2.92",
+        "change_pts": null,
+        "close": 6996.5,
+        "name": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk",
+        "open": null,
+        "pct_change": "-12.46%",
+        "price": "",
+        "symbol": "TLK"
+      },
+      {
+        "change": "-20.29",
+        "change_pts": null,
+        "close": 7035.75,
+        "name": "Amphenol Corporation",
+        "open": null,
+        "pct_change": "-12.20%",
+        "price": "",
+        "symbol": "APH"
+      },
+      {
+        "change": "-18.09",
+        "change_pts": null,
+        "close": null,
+        "name": "Badger Meter, Inc.",
+        "open": null,
+        "pct_change": "-11.00%",
+        "price": "",
+        "symbol": "BMI"
+      }
+    ],
+    "scraped_at": "2026-01-28T20:41:42.882100-05:00"
   }
 }
