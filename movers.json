@@ -6311,5 +6311,112 @@
       }
     ],
     "scraped_at": "2026-01-28T20:41:42.882100-05:00"
+  },
+  "2026-01-29": {
+    "gainers": [
+      {
+        "change": "+29.82",
+        "change_pts": null,
+        "close": 6949.29,
+        "name": "Modine Manufacturing Company",
+        "open": null,
+        "pct_change": "+20.30%",
+        "price": "",
+        "symbol": "MOD"
+      },
+      {
+        "change": "+7.64",
+        "change_pts": null,
+        "close": 6968.0,
+        "name": "Southwest Airlines Co.",
+        "open": null,
+        "pct_change": "+18.70%",
+        "price": "",
+        "symbol": "LUV"
+      },
+      {
+        "change": "+54.38",
+        "change_pts": null,
+        "close": 6967.5,
+        "name": "Royal Caribbean Cruises Ltd.",
+        "open": null,
+        "pct_change": "+18.65%",
+        "price": "",
+        "symbol": "RCL"
+      },
+      {
+        "change": "+1.94",
+        "change_pts": null,
+        "close": null,
+        "name": "TAL Education Group",
+        "open": null,
+        "pct_change": "+18.03%",
+        "price": "",
+        "symbol": "TAL"
+      },
+      {
+        "change": "+3.67",
+        "change_pts": null,
+        "close": 6967.75,
+        "name": "Viavi Solutions Inc.",
+        "open": null,
+        "pct_change": "+17.45%",
+        "price": "",
+        "symbol": "VIAV"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.23",
+        "change_pts": null,
+        "close": 6969.01,
+        "name": "Joby Aviation, Inc.",
+        "open": null,
+        "pct_change": "-16.68%",
+        "price": "",
+        "symbol": "JOBY"
+      },
+      {
+        "change": "-35.90",
+        "change_pts": null,
+        "close": 6978.25,
+        "name": "SAP SE",
+        "open": null,
+        "pct_change": "-15.20%",
+        "price": "",
+        "symbol": "SAP"
+      },
+      {
+        "change": "-1.02",
+        "change_pts": null,
+        "close": null,
+        "name": "Vizsla Silver Corp.",
+        "open": null,
+        "pct_change": "-14.87%",
+        "price": "",
+        "symbol": "VZLA"
+      },
+      {
+        "change": "-8.55",
+        "change_pts": null,
+        "close": 6956.46,
+        "name": "Las Vegas Sands Corp.",
+        "open": null,
+        "pct_change": "-13.96%",
+        "price": "",
+        "symbol": "LVS"
+      },
+      {
+        "change": "-4.39",
+        "change_pts": null,
+        "close": 6915.61,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-13.61%",
+        "price": "",
+        "symbol": "RGC"
+      }
+    ],
+    "scraped_at": "2026-01-29T20:41:51.873436-05:00"
   }
 }
