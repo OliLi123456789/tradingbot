@@ -6525,5 +6525,112 @@
       }
     ],
     "scraped_at": "2026-01-30T20:41:36.526789-05:00"
+  },
+  "2026-02-02": {
+    "gainers": [
+      {
+        "change": "+89.39",
+        "change_pts": null,
+        "close": 6976.44,
+        "name": "Sandisk Corporation",
+        "open": null,
+        "pct_change": "+15.51%",
+        "price": "",
+        "symbol": "SNDK"
+      },
+      {
+        "change": "+5.74",
+        "change_pts": null,
+        "close": 6939.03,
+        "name": "Twist Bioscience Corporation",
+        "open": null,
+        "pct_change": "+13.98%",
+        "price": "",
+        "symbol": "TWST"
+      },
+      {
+        "change": "+3.29",
+        "change_pts": null,
+        "close": 6915.61,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "+13.17%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "+9.53",
+        "change_pts": null,
+        "close": 7021.25,
+        "name": "ArcBest Corporation",
+        "open": null,
+        "pct_change": "+10.56%",
+        "price": "",
+        "symbol": "ARCB"
+      },
+      {
+        "change": "+14.95",
+        "change_pts": null,
+        "close": 7021.25,
+        "name": "XPO, Inc.",
+        "open": null,
+        "pct_change": "+10.09%",
+        "price": "",
+        "symbol": "XPO"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-27.64",
+        "change_pts": null,
+        "close": 7020.5,
+        "name": "VSE Corporation",
+        "open": null,
+        "pct_change": "-12.65%",
+        "price": "",
+        "symbol": "VSEC"
+      },
+      {
+        "change": "-1.75",
+        "change_pts": null,
+        "close": null,
+        "name": "NIQ Global Intelligence plc",
+        "open": null,
+        "pct_change": "-10.30%",
+        "price": "",
+        "symbol": "NIQ"
+      },
+      {
+        "change": "-9.57",
+        "change_pts": null,
+        "close": 6931.25,
+        "name": "Robinhood Markets, Inc.",
+        "open": null,
+        "pct_change": "-9.62%",
+        "price": "",
+        "symbol": "HOOD"
+      },
+      {
+        "change": "-2.32",
+        "change_pts": null,
+        "close": 7020.0,
+        "name": "Comstock Resources, Inc.",
+        "open": null,
+        "pct_change": "-9.53%",
+        "price": "",
+        "symbol": "CRK"
+      },
+      {
+        "change": "-2.34",
+        "change_pts": null,
+        "close": 6969.01,
+        "name": "Firefly Aerospace Inc.",
+        "open": null,
+        "pct_change": "-9.29%",
+        "price": "",
+        "symbol": "FLY"
+      }
+    ],
+    "scraped_at": "2026-02-02T20:42:00.887223-05:00"
   }
 }
