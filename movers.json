@@ -6739,5 +6739,112 @@
       }
     ],
     "scraped_at": "2026-02-03T20:41:48.000042-05:00"
+  },
+  "2026-02-04": {
+    "gainers": [
+      {
+        "change": "+66.79",
+        "change_pts": null,
+        "close": 6932.75,
+        "name": "Silicon Laboratories Inc.",
+        "open": null,
+        "pct_change": "+48.89%",
+        "price": "",
+        "symbol": "SLAB"
+      },
+      {
+        "change": "+14.39",
+        "change_pts": null,
+        "close": 7017.0,
+        "name": "Enphase Energy, Inc.",
+        "open": null,
+        "pct_change": "+38.60%",
+        "price": "",
+        "symbol": "ENPH"
+      },
+      {
+        "change": "+74.06",
+        "change_pts": null,
+        "close": 6876.09,
+        "name": "Powell Industries, Inc.",
+        "open": null,
+        "pct_change": "+16.34%",
+        "price": "",
+        "symbol": "POWL"
+      },
+      {
+        "change": "+8.29",
+        "change_pts": null,
+        "close": null,
+        "name": "Columbia Sportswear Company",
+        "open": null,
+        "pct_change": "+14.44%",
+        "price": "",
+        "symbol": "COLM"
+      },
+      {
+        "change": "+4.09",
+        "change_pts": null,
+        "close": 7017.0,
+        "name": "Super Micro Computer, Inc.",
+        "open": null,
+        "pct_change": "+13.79%",
+        "price": "",
+        "symbol": "SMCI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-22.16",
+        "change_pts": null,
+        "close": 6876.36,
+        "name": "Mercury Systems, Inc.",
+        "open": null,
+        "pct_change": "-22.32%",
+        "price": "",
+        "symbol": "MRCY"
+      },
+      {
+        "change": "-1.83",
+        "change_pts": null,
+        "close": 7016.5,
+        "name": "Lumen Technologies, Inc.",
+        "open": null,
+        "pct_change": "-21.63%",
+        "price": "",
+        "symbol": "LUMN"
+      },
+      {
+        "change": "-16.12",
+        "change_pts": null,
+        "close": 6927.75,
+        "name": "Boston Scientific Corporation",
+        "open": null,
+        "pct_change": "-17.59%",
+        "price": "",
+        "symbol": "BSX"
+      },
+      {
+        "change": "-9.46",
+        "change_pts": null,
+        "close": 7016.5,
+        "name": "IREN Limited",
+        "open": null,
+        "pct_change": "-17.39%",
+        "price": "",
+        "symbol": "IREN"
+      },
+      {
+        "change": "-41.92",
+        "change_pts": null,
+        "close": 6942.0,
+        "name": "Advanced Micro Devices, Inc.",
+        "open": null,
+        "pct_change": "-17.31%",
+        "price": "",
+        "symbol": "AMD"
+      }
+    ],
+    "scraped_at": "2026-02-04T20:41:56.332610-05:00"
   }
 }
