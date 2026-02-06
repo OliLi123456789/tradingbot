@@ -6846,5 +6846,112 @@
       }
     ],
     "scraped_at": "2026-02-04T20:41:56.332610-05:00"
+  },
+  "2026-02-05": {
+    "gainers": [
+      {
+        "change": "+9.00",
+        "change_pts": null,
+        "close": 6773.0,
+        "name": "Phibro Animal Health Corporation",
+        "open": null,
+        "pct_change": "+21.95%",
+        "price": "",
+        "symbol": "PAHC"
+      },
+      {
+        "change": "+10.73",
+        "change_pts": null,
+        "close": 6773.25,
+        "name": "Kulicke and Soffa Industries, Inc.",
+        "open": null,
+        "pct_change": "+19.27%",
+        "price": "",
+        "symbol": "KLIC"
+      },
+      {
+        "change": "+62.33",
+        "change_pts": null,
+        "close": 6773.25,
+        "name": "SiTime Corporation",
+        "open": null,
+        "pct_change": "+17.91%",
+        "price": "",
+        "symbol": "SITM"
+      },
+      {
+        "change": "+12.30",
+        "change_pts": null,
+        "close": 6796.12,
+        "name": "FormFactor, Inc.",
+        "open": null,
+        "pct_change": "+17.19%",
+        "price": "",
+        "symbol": "FORM"
+      },
+      {
+        "change": "+135.80",
+        "change_pts": null,
+        "close": 6926.0,
+        "name": "McKesson Corporation",
+        "open": null,
+        "pct_change": "+16.52%",
+        "price": "",
+        "symbol": "MCK"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-10.04",
+        "change_pts": null,
+        "close": 6796.12,
+        "name": "Fluence Energy, Inc.",
+        "open": null,
+        "pct_change": "-34.63%",
+        "price": "",
+        "symbol": "FLNC"
+      },
+      {
+        "change": "-17.89",
+        "change_pts": null,
+        "close": null,
+        "name": "Ralliant Corp",
+        "open": null,
+        "pct_change": "-31.79%",
+        "price": "",
+        "symbol": "RAL"
+      },
+      {
+        "change": "-22.95",
+        "change_pts": null,
+        "close": 6922.5,
+        "name": "The Estée Lauder Companies Inc.",
+        "open": null,
+        "pct_change": "-19.19%",
+        "price": "",
+        "symbol": "EL"
+      },
+      {
+        "change": "-1.95",
+        "change_pts": null,
+        "close": 7018.0,
+        "name": "CleanSpark, Inc.",
+        "open": null,
+        "pct_change": "-19.13%",
+        "price": "",
+        "symbol": "CLSK"
+      },
+      {
+        "change": "-1.55",
+        "change_pts": null,
+        "close": 6775.25,
+        "name": "MARA Holdings, Inc.",
+        "open": null,
+        "pct_change": "-18.72%",
+        "price": "",
+        "symbol": "MARA"
+      }
+    ],
+    "scraped_at": "2026-02-05T20:41:53.326096-05:00"
   }
 }
