@@ -6953,5 +6953,112 @@
       }
     ],
     "scraped_at": "2026-02-05T20:41:53.326096-05:00"
+  },
+  "2026-02-06": {
+    "gainers": [
+      {
+        "change": "+5.98",
+        "change_pts": null,
+        "close": 6932.3,
+        "name": "Liberty Global Ltd.",
+        "open": null,
+        "pct_change": "+49.71%",
+        "price": "",
+        "symbol": "LBTYB"
+      },
+      {
+        "change": "+13.26",
+        "change_pts": null,
+        "close": 6876.23,
+        "name": "BILL Holdings, Inc.",
+        "open": null,
+        "pct_change": "+37.16%",
+        "price": "",
+        "symbol": "BILL"
+      },
+      {
+        "change": "+1.83",
+        "change_pts": null,
+        "close": 6900.01,
+        "name": "Lumen Technologies, Inc.",
+        "open": null,
+        "pct_change": "+29.37%",
+        "price": "",
+        "symbol": "LUMN"
+      },
+      {
+        "change": "+27.94",
+        "change_pts": null,
+        "close": 6932.3,
+        "name": "Strategy Inc",
+        "open": null,
+        "pct_change": "+26.11%",
+        "price": "",
+        "symbol": "MSTR"
+      },
+      {
+        "change": "+7.11",
+        "change_pts": null,
+        "close": 6896.7,
+        "name": "Applied Digital Corporation",
+        "open": null,
+        "pct_change": "+25.52%",
+        "price": "",
+        "symbol": "APLD"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-45.12",
+        "change_pts": null,
+        "close": 6932.3,
+        "name": "Molina Healthcare, Inc.",
+        "open": null,
+        "pct_change": "-25.51%",
+        "price": "",
+        "symbol": "MOH"
+      },
+      {
+        "change": "-37.79",
+        "change_pts": null,
+        "close": 6932.3,
+        "name": "Impinj, Inc.",
+        "open": null,
+        "pct_change": "-24.57%",
+        "price": "",
+        "symbol": "PI"
+      },
+      {
+        "change": "-2.26",
+        "change_pts": null,
+        "close": 6932.3,
+        "name": "Stellantis N.V.",
+        "open": null,
+        "pct_change": "-23.69%",
+        "price": "",
+        "symbol": "STLA"
+      },
+      {
+        "change": "-9.37",
+        "change_pts": null,
+        "close": null,
+        "name": "Hub Group, Inc.",
+        "open": null,
+        "pct_change": "-18.25%",
+        "price": "",
+        "symbol": "HUBG"
+      },
+      {
+        "change": "-5.59",
+        "change_pts": null,
+        "close": 6932.3,
+        "name": "Doximity, Inc.",
+        "open": null,
+        "pct_change": "-16.78%",
+        "price": "",
+        "symbol": "DOCS"
+      }
+    ],
+    "scraped_at": "2026-02-06T20:41:43.490118-05:00"
   }
 }
