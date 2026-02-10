@@ -7060,5 +7060,112 @@
       }
     ],
     "scraped_at": "2026-02-06T20:41:43.490118-05:00"
+  },
+  "2026-02-09": {
+    "gainers": [
+      {
+        "change": "+21.41",
+        "change_pts": null,
+        "close": null,
+        "name": "Valaris Limited",
+        "open": null,
+        "pct_change": "+34.31%",
+        "price": "",
+        "symbol": "VAL"
+      },
+      {
+        "change": "+4.60",
+        "change_pts": null,
+        "close": 6939.03,
+        "name": "Bullish",
+        "open": null,
+        "pct_change": "+16.76%",
+        "price": "",
+        "symbol": "BLSH"
+      },
+      {
+        "change": "+2.36",
+        "change_pts": null,
+        "close": 6974.75,
+        "name": "TeraWulf Inc.",
+        "open": null,
+        "pct_change": "+16.51%",
+        "price": "",
+        "symbol": "WULF"
+      },
+      {
+        "change": "+0.88",
+        "change_pts": null,
+        "close": 6897.14,
+        "name": "ImmunityBio, Inc.",
+        "open": null,
+        "pct_change": "+14.55%",
+        "price": "",
+        "symbol": "IBRX"
+      },
+      {
+        "change": "+90.05",
+        "change_pts": null,
+        "close": 6986.24,
+        "name": "Ubiquiti Inc.",
+        "open": null,
+        "pct_change": "+14.47%",
+        "price": "",
+        "symbol": "UI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-12.90",
+        "change_pts": null,
+        "close": 6974.75,
+        "name": "Kyndryl Holdings, Inc.",
+        "open": null,
+        "pct_change": "-54.92%",
+        "price": "",
+        "symbol": "KD"
+      },
+      {
+        "change": "-20.37",
+        "change_pts": null,
+        "close": 6975.0,
+        "name": "monday.com Ltd.",
+        "open": null,
+        "pct_change": "-20.79%",
+        "price": "",
+        "symbol": "MNDY"
+      },
+      {
+        "change": "-2.42",
+        "change_pts": null,
+        "close": 6979.0,
+        "name": "Cleveland-Cliffs Inc.",
+        "open": null,
+        "pct_change": "-16.43%",
+        "price": "",
+        "symbol": "CLF"
+      },
+      {
+        "change": "-3.69",
+        "change_pts": null,
+        "close": 6897.14,
+        "name": "Hims & Hers Health, Inc.",
+        "open": null,
+        "pct_change": "-16.03%",
+        "price": "",
+        "symbol": "HIMS"
+      },
+      {
+        "change": "-2.64",
+        "change_pts": null,
+        "close": 6974.75,
+        "name": "Liberty Global Ltd.",
+        "open": null,
+        "pct_change": "-14.66%",
+        "price": "",
+        "symbol": "LBTYB"
+      }
+    ],
+    "scraped_at": "2026-02-09T20:44:34.929901-05:00"
   }
 }
