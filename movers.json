@@ -7167,5 +7167,112 @@
       }
     ],
     "scraped_at": "2026-02-09T20:44:34.929901-05:00"
+  },
+  "2026-02-10": {
+    "gainers": [
+      {
+        "change": "+30.17",
+        "change_pts": null,
+        "close": null,
+        "name": "UniFirst Corporation",
+        "open": null,
+        "pct_change": "+15.10%",
+        "price": "",
+        "symbol": "UNF"
+      },
+      {
+        "change": "+61.18",
+        "change_pts": null,
+        "close": 6978.25,
+        "name": "Spotify Technology S.A.",
+        "open": null,
+        "pct_change": "+14.75%",
+        "price": "",
+        "symbol": "SPOT"
+      },
+      {
+        "change": "+1.40",
+        "change_pts": null,
+        "close": null,
+        "name": "GCM Grosvenor Inc.",
+        "open": null,
+        "pct_change": "+14.14%",
+        "price": "",
+        "symbol": "GCMG"
+      },
+      {
+        "change": "+15.66",
+        "change_pts": null,
+        "close": 7016.5,
+        "name": "Datadog, Inc.",
+        "open": null,
+        "pct_change": "+13.74%",
+        "price": "",
+        "symbol": "DDOG"
+      },
+      {
+        "change": "+3.29",
+        "change_pts": null,
+        "close": null,
+        "name": "Koninklijke Philips N.V.",
+        "open": null,
+        "pct_change": "+11.11%",
+        "price": "",
+        "symbol": "PHG"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-3.59",
+        "change_pts": null,
+        "close": 6978.25,
+        "name": "Upwork Inc.",
+        "open": null,
+        "pct_change": "-19.08%",
+        "price": "",
+        "symbol": "UPWK"
+      },
+      {
+        "change": "-84.30",
+        "change_pts": null,
+        "close": null,
+        "name": "Medpace Holdings, Inc.",
+        "open": null,
+        "pct_change": "-15.90%",
+        "price": "",
+        "symbol": "MEDP"
+      },
+      {
+        "change": "-1.42",
+        "change_pts": null,
+        "close": 6980.25,
+        "name": "The Goodyear Tire & Rubber Company",
+        "open": null,
+        "pct_change": "-13.50%",
+        "price": "",
+        "symbol": "GT"
+      },
+      {
+        "change": "-4.53",
+        "change_pts": null,
+        "close": 6980.0,
+        "name": "Amentum Holdings, Inc.",
+        "open": null,
+        "pct_change": "-12.38%",
+        "price": "",
+        "symbol": "AMTM"
+      },
+      {
+        "change": "-2.09",
+        "change_pts": null,
+        "close": 6897.14,
+        "name": "Hims & Hers Health, Inc.",
+        "open": null,
+        "pct_change": "-10.81%",
+        "price": "",
+        "symbol": "HIMS"
+      }
+    ],
+    "scraped_at": "2026-02-10T20:44:24.663496-05:00"
   }
 }
