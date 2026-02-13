@@ -7381,5 +7381,112 @@
       }
     ],
     "scraped_at": "2026-02-11T20:42:51.507216-05:00"
+  },
+  "2026-02-12": {
+    "gainers": [
+      {
+        "change": "+6.73",
+        "change_pts": null,
+        "close": 6941.47,
+        "name": "Fastly, Inc.",
+        "open": null,
+        "pct_change": "+72.29%",
+        "price": "",
+        "symbol": "FSLY"
+      },
+      {
+        "change": "+15.64",
+        "change_pts": null,
+        "close": 6948.0,
+        "name": "Cognex Corporation",
+        "open": null,
+        "pct_change": "+36.35%",
+        "price": "",
+        "symbol": "CGNX"
+      },
+      {
+        "change": "+39.35",
+        "change_pts": null,
+        "close": 6857.0,
+        "name": "IPG Photonics Corporation",
+        "open": null,
+        "pct_change": "+35.48%",
+        "price": "",
+        "symbol": "IPGP"
+      },
+      {
+        "change": "+20.92",
+        "change_pts": null,
+        "close": null,
+        "name": "Sphere Entertainment Co.",
+        "open": null,
+        "pct_change": "+22.07%",
+        "price": "",
+        "symbol": "SPHR"
+      },
+      {
+        "change": "+3.93",
+        "change_pts": null,
+        "close": 6987.5,
+        "name": "Iridium Communications Inc.",
+        "open": null,
+        "pct_change": "+21.29%",
+        "price": "",
+        "symbol": "IRDM"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-53.06",
+        "change_pts": null,
+        "close": null,
+        "name": "ICON Public Limited Company",
+        "open": null,
+        "pct_change": "-39.85%",
+        "price": "",
+        "symbol": "ICLR"
+      },
+      {
+        "change": "-3.34",
+        "change_pts": null,
+        "close": null,
+        "name": "RXO, Inc.",
+        "open": null,
+        "pct_change": "-20.45%",
+        "price": "",
+        "symbol": "RXO"
+      },
+      {
+        "change": "-89.90",
+        "change_pts": null,
+        "close": 7016.5,
+        "name": "AppLovin Corporation",
+        "open": null,
+        "pct_change": "-19.68%",
+        "price": "",
+        "symbol": "APP"
+      },
+      {
+        "change": "-3.56",
+        "change_pts": null,
+        "close": 6848.25,
+        "name": "The Magnum Ice Cream Company N.",
+        "open": null,
+        "pct_change": "-17.92%",
+        "price": "",
+        "symbol": "MICC"
+      },
+      {
+        "change": "-3.56",
+        "change_pts": null,
+        "close": 6857.5,
+        "name": "Baxter International Inc.",
+        "open": null,
+        "pct_change": "-15.99%",
+        "price": "",
+        "symbol": "BAX"
+      }
+    ],
+    "scraped_at": "2026-02-12T20:43:05.040346-05:00"
   }
 }
