@@ -7488,5 +7488,112 @@
       }
     ],
     "scraped_at": "2026-02-12T20:43:05.040346-05:00"
+  },
+  "2026-02-13": {
+    "gainers": [
+      {
+        "change": "+2.28",
+        "change_pts": null,
+        "close": 6939.03,
+        "name": "Evolution Metals & Technologies Corp.",
+        "open": null,
+        "pct_change": "+29.92%",
+        "price": "",
+        "symbol": "EMAT"
+      },
+      {
+        "change": "+9.80",
+        "change_pts": null,
+        "close": null,
+        "name": "Tri Pointe Homes, Inc.",
+        "open": null,
+        "pct_change": "+26.80%",
+        "price": "",
+        "symbol": "TPH"
+      },
+      {
+        "change": "+3.73",
+        "change_pts": null,
+        "close": 6836.17,
+        "name": "Rivian Automotive, Inc.",
+        "open": null,
+        "pct_change": "+26.64%",
+        "price": "",
+        "symbol": "RIVN"
+      },
+      {
+        "change": "+10.91",
+        "change_pts": null,
+        "close": 6836.17,
+        "name": "Magna International Inc.",
+        "open": null,
+        "pct_change": "+18.87%",
+        "price": "",
+        "symbol": "MGA"
+      },
+      {
+        "change": "+23.23",
+        "change_pts": null,
+        "close": 6836.17,
+        "name": "Coinbase Global, Inc.",
+        "open": null,
+        "pct_change": "+16.46%",
+        "price": "",
+        "symbol": "COIN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-15.70",
+        "change_pts": null,
+        "close": null,
+        "name": "Disc Medicine, Inc.",
+        "open": null,
+        "pct_change": "-21.91%",
+        "price": "",
+        "symbol": "IRON"
+      },
+      {
+        "change": "-14.93",
+        "change_pts": null,
+        "close": null,
+        "name": "Bright Horizons Family Solutions Inc.",
+        "open": null,
+        "pct_change": "-18.25%",
+        "price": "",
+        "symbol": "BFAM"
+      },
+      {
+        "change": "-10.98",
+        "change_pts": null,
+        "close": 6836.17,
+        "name": "Fortune Brands Innovations, Inc.",
+        "open": null,
+        "pct_change": "-17.62%",
+        "price": "",
+        "symbol": "FBIN"
+      },
+      {
+        "change": "-3.12",
+        "change_pts": null,
+        "close": 6836.17,
+        "name": "Pinterest, Inc.",
+        "open": null,
+        "pct_change": "-16.83%",
+        "price": "",
+        "symbol": "PINS"
+      },
+      {
+        "change": "-2.23",
+        "change_pts": null,
+        "close": 6944.47,
+        "name": "Callaway Golf Company",
+        "open": null,
+        "pct_change": "-15.05%",
+        "price": "",
+        "symbol": "CALY"
+      }
+    ],
+    "scraped_at": "2026-02-13T20:41:43.616317-05:00"
   }
 }
