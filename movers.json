@@ -7595,5 +7595,112 @@
       }
     ],
     "scraped_at": "2026-02-13T20:41:43.616317-05:00"
+  },
+  "2026-02-17": {
+    "gainers": [
+      {
+        "change": "+44.54",
+        "change_pts": null,
+        "close": 6954.75,
+        "name": "Masimo Corporation",
+        "open": null,
+        "pct_change": "+34.22%",
+        "price": "",
+        "symbol": "MASI"
+      },
+      {
+        "change": "+5.65",
+        "change_pts": null,
+        "close": 6850.75,
+        "name": "ZIM Integrated Shipping Services Ltd.",
+        "open": null,
+        "pct_change": "+25.45%",
+        "price": "",
+        "symbol": "ZIM"
+      },
+      {
+        "change": "+5.61",
+        "change_pts": null,
+        "close": null,
+        "name": "eToro Group Ltd.",
+        "open": null,
+        "pct_change": "+20.43%",
+        "price": "",
+        "symbol": "ETOR"
+      },
+      {
+        "change": "+9.62",
+        "change_pts": null,
+        "close": null,
+        "name": "Disc Medicine, Inc.",
+        "open": null,
+        "pct_change": "+17.19%",
+        "price": "",
+        "symbol": "IRON"
+      },
+      {
+        "change": "+13.20",
+        "change_pts": null,
+        "close": null,
+        "name": "Knife River Corporation",
+        "open": null,
+        "pct_change": "+16.34%",
+        "price": "",
+        "symbol": "KNF"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-15.96",
+        "change_pts": null,
+        "close": 6853.0,
+        "name": "Franklin Electric Co., Inc.",
+        "open": null,
+        "pct_change": "-14.65%",
+        "price": "",
+        "symbol": "FELE"
+      },
+      {
+        "change": "-21.42",
+        "change_pts": null,
+        "close": 6851.5,
+        "name": "Genuine Parts Company",
+        "open": null,
+        "pct_change": "-14.56%",
+        "price": "",
+        "symbol": "GPC"
+      },
+      {
+        "change": "-23.00",
+        "change_pts": null,
+        "close": 6851.75,
+        "name": "Herc Holdings Inc.",
+        "open": null,
+        "pct_change": "-13.29%",
+        "price": "",
+        "symbol": "HRI"
+      },
+      {
+        "change": "-19.05",
+        "change_pts": null,
+        "close": 6851.0,
+        "name": "IPG Photonics Corporation",
+        "open": null,
+        "pct_change": "-12.38%",
+        "price": "",
+        "symbol": "IPGP"
+      },
+      {
+        "change": "-4.36",
+        "change_pts": null,
+        "close": 6777.47,
+        "name": "Liquidia Corporation",
+        "open": null,
+        "pct_change": "-11.41%",
+        "price": "",
+        "symbol": "LQDA"
+      }
+    ],
+    "scraped_at": "2026-02-17T20:42:07.101677-05:00"
   }
 }
