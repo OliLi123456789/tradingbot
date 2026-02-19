@@ -7702,5 +7702,112 @@
       }
     ],
     "scraped_at": "2026-02-17T20:42:07.101677-05:00"
+  },
+  "2026-02-18": {
+    "gainers": [
+      {
+        "change": "+2.53",
+        "change_pts": null,
+        "close": 6898.75,
+        "name": "ImmunityBio, Inc.",
+        "open": null,
+        "pct_change": "+42.06%",
+        "price": "",
+        "symbol": "IBRX"
+      },
+      {
+        "change": "+2.84",
+        "change_pts": null,
+        "close": 6836.17,
+        "name": "Evolution Metals & Technologies Corp.",
+        "open": null,
+        "pct_change": "+27.63%",
+        "price": "",
+        "symbol": "EMAT"
+      },
+      {
+        "change": "+7.08",
+        "change_pts": null,
+        "close": 6777.07,
+        "name": "Hycroft Mining Holding Corporation",
+        "open": null,
+        "pct_change": "+21.07%",
+        "price": "",
+        "symbol": "HYMC"
+      },
+      {
+        "change": "+5.11",
+        "change_pts": null,
+        "close": 6895.25,
+        "name": "Global-E Online Ltd.",
+        "open": null,
+        "pct_change": "+17.21%",
+        "price": "",
+        "symbol": "GLBE"
+      },
+      {
+        "change": "+1.87",
+        "change_pts": null,
+        "close": 6895.25,
+        "name": "Liberty Global Ltd.",
+        "open": null,
+        "pct_change": "+16.76%",
+        "price": "",
+        "symbol": "LBTYA"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-16.49",
+        "change_pts": null,
+        "close": 6897.0,
+        "name": "Axcelis Technologies, Inc.",
+        "open": null,
+        "pct_change": "-16.74%",
+        "price": "",
+        "symbol": "ACLS"
+      },
+      {
+        "change": "-6.46",
+        "change_pts": null,
+        "close": 6896.0,
+        "name": "The Vita Coco Company, Inc.",
+        "open": null,
+        "pct_change": "-11.43%",
+        "price": "",
+        "symbol": "COCO"
+      },
+      {
+        "change": "-6.28",
+        "change_pts": null,
+        "close": 6891.5,
+        "name": "HF Sinclair Corporation",
+        "open": null,
+        "pct_change": "-10.86%",
+        "price": "",
+        "symbol": "DINO"
+      },
+      {
+        "change": "-1.29",
+        "change_pts": null,
+        "close": null,
+        "name": "VNET Group, Inc.",
+        "open": null,
+        "pct_change": "-9.38%",
+        "price": "",
+        "symbol": "VNET"
+      },
+      {
+        "change": "-8.85",
+        "change_pts": null,
+        "close": 6895.0,
+        "name": "Mercury General Corporation",
+        "open": null,
+        "pct_change": "-9.20%",
+        "price": "",
+        "symbol": "MCY"
+      }
+    ],
+    "scraped_at": "2026-02-18T20:42:10.537432-05:00"
   }
 }
