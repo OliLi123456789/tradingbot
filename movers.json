@@ -7809,5 +7809,112 @@
       }
     ],
     "scraped_at": "2026-02-18T20:42:10.537432-05:00"
+  },
+  "2026-02-19": {
+    "gainers": [
+      {
+        "change": "+3.53",
+        "change_pts": null,
+        "close": 6878.0,
+        "name": "Remitly Global, Inc.",
+        "open": null,
+        "pct_change": "+25.94%",
+        "price": "",
+        "symbol": "RELY"
+      },
+      {
+        "change": "+3.03",
+        "change_pts": null,
+        "close": null,
+        "name": "Herbalife Ltd.",
+        "open": null,
+        "pct_change": "+18.32%",
+        "price": "",
+        "symbol": "HLF"
+      },
+      {
+        "change": "+11.39",
+        "change_pts": null,
+        "close": 6890.25,
+        "name": "UL Solutions Inc.",
+        "open": null,
+        "pct_change": "+15.99%",
+        "price": "",
+        "symbol": "ULS"
+      },
+      {
+        "change": "+1.89",
+        "change_pts": null,
+        "close": 6890.5,
+        "name": "Americold Realty Trust, Inc.",
+        "open": null,
+        "pct_change": "+15.75%",
+        "price": "",
+        "symbol": "COLD"
+      },
+      {
+        "change": "+10.78",
+        "change_pts": null,
+        "close": 6939.25,
+        "name": "Omnicom Group Inc.",
+        "open": null,
+        "pct_change": "+15.36%",
+        "price": "",
+        "symbol": "OMC"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-5.10",
+        "change_pts": null,
+        "close": 6890.25,
+        "name": "Klarna Group plc",
+        "open": null,
+        "pct_change": "-26.91%",
+        "price": "",
+        "symbol": "KLAR"
+      },
+      {
+        "change": "-26.56",
+        "change_pts": null,
+        "close": 6890.25,
+        "name": "Avis Budget Group, Inc.",
+        "open": null,
+        "pct_change": "-21.54%",
+        "price": "",
+        "symbol": "CAR"
+      },
+      {
+        "change": "-28.53",
+        "change_pts": null,
+        "close": 6890.5,
+        "name": "EPAM Systems, Inc.",
+        "open": null,
+        "pct_change": "-17.01%",
+        "price": "",
+        "symbol": "EPAM"
+      },
+      {
+        "change": "-36.97",
+        "change_pts": null,
+        "close": null,
+        "name": "Pool Corporation",
+        "open": null,
+        "pct_change": "-14.48%",
+        "price": "",
+        "symbol": "POOL"
+      },
+      {
+        "change": "-5.58",
+        "change_pts": null,
+        "close": 6836.17,
+        "name": "Corcept Therapeutics Incorporated",
+        "open": null,
+        "pct_change": "-14.01%",
+        "price": "",
+        "symbol": "CORT"
+      }
+    ],
+    "scraped_at": "2026-02-19T20:42:11.359310-05:00"
   }
 }
