@@ -7916,5 +7916,112 @@
       }
     ],
     "scraped_at": "2026-02-19T20:42:11.359310-05:00"
+  },
+  "2026-02-20": {
+    "gainers": [
+      {
+        "change": "+10.11",
+        "change_pts": null,
+        "close": 6901.79,
+        "name": "RingCentral, Inc.",
+        "open": null,
+        "pct_change": "+34.40%",
+        "price": "",
+        "symbol": "RNG"
+      },
+      {
+        "change": "+7.96",
+        "change_pts": null,
+        "close": null,
+        "name": "Legence Corp.",
+        "open": null,
+        "pct_change": "+16.84%",
+        "price": "",
+        "symbol": "LGN"
+      },
+      {
+        "change": "+0.98",
+        "change_pts": null,
+        "close": 6909.51,
+        "name": "Telix Pharmaceuticals Limited",
+        "open": null,
+        "pct_change": "+14.61%",
+        "price": "",
+        "symbol": "TLX"
+      },
+      {
+        "change": "+5.40",
+        "change_pts": null,
+        "close": 6909.51,
+        "name": "Spyre Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+14.28%",
+        "price": "",
+        "symbol": "SYRE"
+      },
+      {
+        "change": "+1.37",
+        "change_pts": null,
+        "close": 6909.51,
+        "name": "Fortuna Mining Corp.",
+        "open": null,
+        "pct_change": "+12.57%",
+        "price": "",
+        "symbol": "FSM"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-12.54",
+        "change_pts": null,
+        "close": 6909.51,
+        "name": "JFrog Ltd.",
+        "open": null,
+        "pct_change": "-24.94%",
+        "price": "",
+        "symbol": "FROG"
+      },
+      {
+        "change": "-3.13",
+        "change_pts": null,
+        "close": null,
+        "name": "DNOW Inc.",
+        "open": null,
+        "pct_change": "-19.13%",
+        "price": "",
+        "symbol": "DNOW"
+      },
+      {
+        "change": "-3.37",
+        "change_pts": null,
+        "close": 6901.67,
+        "name": "The Chemours Company",
+        "open": null,
+        "pct_change": "-16.51%",
+        "price": "",
+        "symbol": "CC"
+      },
+      {
+        "change": "-15.42",
+        "change_pts": null,
+        "close": 6909.51,
+        "name": "Akamai Technologies, Inc.",
+        "open": null,
+        "pct_change": "-14.07%",
+        "price": "",
+        "symbol": "AKAM"
+      },
+      {
+        "change": "-4.29",
+        "change_pts": null,
+        "close": 6915.61,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-12.82%",
+        "price": "",
+        "symbol": "RGC"
+      }
+    ],
+    "scraped_at": "2026-02-20T20:41:34.889890-05:00"
   }
 }
