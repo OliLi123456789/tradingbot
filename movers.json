@@ -8023,5 +8023,112 @@
       }
     ],
     "scraped_at": "2026-02-20T20:41:34.889890-05:00"
+  },
+  "2026-02-23": {
+    "gainers": [
+      {
+        "change": "+49.64",
+        "change_pts": null,
+        "close": 6837.75,
+        "name": "Arcellx, Inc.",
+        "open": null,
+        "pct_change": "+77.43%",
+        "price": "",
+        "symbol": "ACLX"
+      },
+      {
+        "change": "+1.13",
+        "change_pts": null,
+        "close": 6859.25,
+        "name": "ImmunityBio, Inc.",
+        "open": null,
+        "pct_change": "+12.99%",
+        "price": "",
+        "symbol": "IBRX"
+      },
+      {
+        "change": "+2.04",
+        "change_pts": null,
+        "close": null,
+        "name": "Veris Residential, Inc.",
+        "open": null,
+        "pct_change": "+12.16%",
+        "price": "",
+        "symbol": "VRE"
+      },
+      {
+        "change": "+3.43",
+        "change_pts": null,
+        "close": 6859.0,
+        "name": "Viking Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+11.05%",
+        "price": "",
+        "symbol": "VKTX"
+      },
+      {
+        "change": "+1.56",
+        "change_pts": null,
+        "close": 6860.75,
+        "name": "USA Rare Earth, Inc.",
+        "open": null,
+        "pct_change": "+9.05%",
+        "price": "",
+        "symbol": "USAR"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-7.79",
+        "change_pts": null,
+        "close": 6859.5,
+        "name": "Novo Nordisk A/S",
+        "open": null,
+        "pct_change": "-16.43%",
+        "price": "",
+        "symbol": "NVO"
+      },
+      {
+        "change": "-13.32",
+        "change_pts": null,
+        "close": null,
+        "name": "BillionToOne, Inc.",
+        "open": null,
+        "pct_change": "-15.59%",
+        "price": "",
+        "symbol": "BLLN"
+      },
+      {
+        "change": "-33.81",
+        "change_pts": null,
+        "close": 6859.5,
+        "name": "International Business Machines Corporation",
+        "open": null,
+        "pct_change": "-13.15%",
+        "price": "",
+        "symbol": "IBM"
+      },
+      {
+        "change": "-4.92",
+        "change_pts": null,
+        "close": 6909.51,
+        "name": "RingCentral, Inc.",
+        "open": null,
+        "pct_change": "-12.46%",
+        "price": "",
+        "symbol": "RNG"
+      },
+      {
+        "change": "-6.13",
+        "change_pts": null,
+        "close": 6860.75,
+        "name": "StepStone Group Inc.",
+        "open": null,
+        "pct_change": "-12.24%",
+        "price": "",
+        "symbol": "STEP"
+      }
+    ],
+    "scraped_at": "2026-02-23T20:42:13.656063-05:00"
   }
 }
