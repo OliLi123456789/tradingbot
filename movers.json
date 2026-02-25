@@ -8130,5 +8130,112 @@
       }
     ],
     "scraped_at": "2026-02-23T20:42:13.656063-05:00"
+  },
+  "2026-02-24": {
+    "gainers": [
+      {
+        "change": "+56.48",
+        "change_pts": null,
+        "close": 6890.07,
+        "name": "Keysight Technologies, Inc.",
+        "open": null,
+        "pct_change": "+23.05%",
+        "price": "",
+        "symbol": "KEYS"
+      },
+      {
+        "change": "+1.72",
+        "change_pts": null,
+        "close": 6909.25,
+        "name": "ImmunityBio, Inc.",
+        "open": null,
+        "pct_change": "+17.50%",
+        "price": "",
+        "symbol": "IBRX"
+      },
+      {
+        "change": "+10.55",
+        "change_pts": null,
+        "close": 6890.07,
+        "name": "Ultra Clean Holdings, Inc.",
+        "open": null,
+        "pct_change": "+17.18%",
+        "price": "",
+        "symbol": "UCTT"
+      },
+      {
+        "change": "+5.68",
+        "change_pts": null,
+        "close": 6910.0,
+        "name": "Leonardo DRS, Inc.",
+        "open": null,
+        "pct_change": "+14.89%",
+        "price": "",
+        "symbol": "DRS"
+      },
+      {
+        "change": "+3.96",
+        "change_pts": null,
+        "close": 6868.0,
+        "name": "Beam Therapeutics Inc.",
+        "open": null,
+        "pct_change": "+13.98%",
+        "price": "",
+        "symbol": "BEAM"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-17.68",
+        "change_pts": null,
+        "close": 6910.25,
+        "name": "CECO Environmental Corp.",
+        "open": null,
+        "pct_change": "-22.76%",
+        "price": "",
+        "symbol": "CECO"
+      },
+      {
+        "change": "-12.71",
+        "change_pts": null,
+        "close": 6910.5,
+        "name": "Xometry, Inc.",
+        "open": null,
+        "pct_change": "-22.24%",
+        "price": "",
+        "symbol": "XMTR"
+      },
+      {
+        "change": "-11.54",
+        "change_pts": null,
+        "close": 6868.0,
+        "name": "Whirlpool Corporation",
+        "open": null,
+        "pct_change": "-13.87%",
+        "price": "",
+        "symbol": "WHR"
+      },
+      {
+        "change": "-18.53",
+        "change_pts": null,
+        "close": null,
+        "name": "Armstrong World Industries, Inc.",
+        "open": null,
+        "pct_change": "-9.61%",
+        "price": "",
+        "symbol": "AWI"
+      },
+      {
+        "change": "-8.14",
+        "change_pts": null,
+        "close": null,
+        "name": "Planet Fitness, Inc.",
+        "open": null,
+        "pct_change": "-8.97%",
+        "price": "",
+        "symbol": "PLNT"
+      }
+    ],
+    "scraped_at": "2026-02-24T20:41:59.221264-05:00"
   }
 }
