@@ -8237,5 +8237,112 @@
       }
     ],
     "scraped_at": "2026-02-24T20:41:59.221264-05:00"
+  },
+  "2026-02-25": {
+    "gainers": [
+      {
+        "change": "+13.04",
+        "change_pts": null,
+        "close": null,
+        "name": "Clear Secure, Inc.",
+        "open": null,
+        "pct_change": "+38.96%",
+        "price": "",
+        "symbol": "YOU"
+      },
+      {
+        "change": "+21.63",
+        "change_pts": null,
+        "close": 6950.75,
+        "name": "Circle Internet Group",
+        "open": null,
+        "pct_change": "+35.24%",
+        "price": "",
+        "symbol": "CRCL"
+      },
+      {
+        "change": "+17.87",
+        "change_pts": null,
+        "close": 6945.75,
+        "name": "CAVA Group, Inc.",
+        "open": null,
+        "pct_change": "+26.36%",
+        "price": "",
+        "symbol": "CAVA"
+      },
+      {
+        "change": "+1.28",
+        "change_pts": null,
+        "close": null,
+        "name": "CCC Intelligent Solutions Holdings Inc.",
+        "open": null,
+        "pct_change": "+25.30%",
+        "price": "",
+        "symbol": "CCC"
+      },
+      {
+        "change": "+25.89",
+        "change_pts": null,
+        "close": null,
+        "name": "Everus Construction Group, Inc.",
+        "open": null,
+        "pct_change": "+24.84%",
+        "price": "",
+        "symbol": "ECG"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.04",
+        "change_pts": null,
+        "close": 6951.5,
+        "name": "ImmunityBio, Inc.",
+        "open": null,
+        "pct_change": "-17.66%",
+        "price": "",
+        "symbol": "IBRX"
+      },
+      {
+        "change": "-3.01",
+        "change_pts": null,
+        "close": 6947.5,
+        "name": "Intuitive Machines, Inc.",
+        "open": null,
+        "pct_change": "-15.93%",
+        "price": "",
+        "symbol": "LUNR"
+      },
+      {
+        "change": "-15.99",
+        "change_pts": null,
+        "close": 6946.0,
+        "name": "Diageo plc",
+        "open": null,
+        "pct_change": "-15.65%",
+        "price": "",
+        "symbol": "DEO"
+      },
+      {
+        "change": "-13.18",
+        "change_pts": null,
+        "close": 6914.75,
+        "name": "GoDaddy Inc.",
+        "open": null,
+        "pct_change": "-14.28%",
+        "price": "",
+        "symbol": "GDDY"
+      },
+      {
+        "change": "-33.09",
+        "change_pts": null,
+        "close": 6945.25,
+        "name": "First Solar, Inc.",
+        "open": null,
+        "pct_change": "-13.61%",
+        "price": "",
+        "symbol": "FSLR"
+      }
+    ],
+    "scraped_at": "2026-02-25T20:41:48.454238-05:00"
   }
 }
