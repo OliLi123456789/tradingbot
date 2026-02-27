@@ -8344,5 +8344,112 @@
       }
     ],
     "scraped_at": "2026-02-25T20:41:48.454238-05:00"
+  },
+  "2026-02-26": {
+    "gainers": [
+      {
+        "change": "+22.08",
+        "change_pts": null,
+        "close": null,
+        "name": "Sezzle Inc.",
+        "open": null,
+        "pct_change": "+35.26%",
+        "price": "",
+        "symbol": "SEZL"
+      },
+      {
+        "change": "+22.31",
+        "change_pts": null,
+        "close": 6893.0,
+        "name": "LeMaitre Vascular, Inc.",
+        "open": null,
+        "pct_change": "+24.41%",
+        "price": "",
+        "symbol": "LMAT"
+      },
+      {
+        "change": "+2.17",
+        "change_pts": null,
+        "close": 6890.75,
+        "name": "First Advantage Corporation",
+        "open": null,
+        "pct_change": "+22.79%",
+        "price": "",
+        "symbol": "FA"
+      },
+      {
+        "change": "+7.20",
+        "change_pts": null,
+        "close": 6890.75,
+        "name": "IonQ, Inc.",
+        "open": null,
+        "pct_change": "+21.43%",
+        "price": "",
+        "symbol": "IONQ"
+      },
+      {
+        "change": "+1.33",
+        "change_pts": null,
+        "close": 6890.75,
+        "name": "Hudson Pacific Properties, Inc.",
+        "open": null,
+        "pct_change": "+20.91%",
+        "price": "",
+        "symbol": "HPP"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.39",
+        "change_pts": null,
+        "close": 6890.75,
+        "name": "Eos Energy Enterprises, Inc.",
+        "open": null,
+        "pct_change": "-39.44%",
+        "price": "",
+        "symbol": "EOSE"
+      },
+      {
+        "change": "-11.43",
+        "change_pts": null,
+        "close": 6891.43,
+        "name": "ACM Research, Inc.",
+        "open": null,
+        "pct_change": "-16.69%",
+        "price": "",
+        "symbol": "ACMR"
+      },
+      {
+        "change": "-8.96",
+        "change_pts": null,
+        "close": 6893.25,
+        "name": "Shift4 Payments, Inc.",
+        "open": null,
+        "pct_change": "-15.62%",
+        "price": "",
+        "symbol": "FOUR"
+      },
+      {
+        "change": "-2.03",
+        "change_pts": null,
+        "close": 6891.25,
+        "name": "FS KKR Capital Corp.",
+        "open": null,
+        "pct_change": "-15.24%",
+        "price": "",
+        "symbol": "FSK"
+      },
+      {
+        "change": "-16.43",
+        "change_pts": null,
+        "close": null,
+        "name": "Mirum Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "-15.13%",
+        "price": "",
+        "symbol": "MIRM"
+      }
+    ],
+    "scraped_at": "2026-02-26T20:41:36.291250-05:00"
   }
 }
