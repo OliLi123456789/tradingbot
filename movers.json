@@ -8451,5 +8451,112 @@
       }
     ],
     "scraped_at": "2026-02-26T20:41:36.291250-05:00"
+  },
+  "2026-02-27": {
+    "gainers": [
+      {
+        "change": "+30.54",
+        "change_pts": null,
+        "close": 6878.88,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "+56.88%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "+4.74",
+        "change_pts": null,
+        "close": null,
+        "name": "The Baldwin Insurance Group, Inc.",
+        "open": null,
+        "pct_change": "+25.64%",
+        "price": "",
+        "symbol": "BWIN"
+      },
+      {
+        "change": "+2.98",
+        "change_pts": null,
+        "close": 6878.88,
+        "name": "FIGS, Inc.",
+        "open": null,
+        "pct_change": "+23.90%",
+        "price": "",
+        "symbol": "FIGS"
+      },
+      {
+        "change": "+26.63",
+        "change_pts": null,
+        "close": 6878.88,
+        "name": "Dell Technologies Inc.",
+        "open": null,
+        "pct_change": "+21.93%",
+        "price": "",
+        "symbol": "DELL"
+      },
+      {
+        "change": "+2.33",
+        "change_pts": null,
+        "close": 6878.88,
+        "name": "Paramount Skydance Corporation",
+        "open": null,
+        "pct_change": "+20.84%",
+        "price": "",
+        "symbol": "PSKY"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-7.17",
+        "change_pts": null,
+        "close": 6878.88,
+        "name": "Sunrun Inc.",
+        "open": null,
+        "pct_change": "-35.11%",
+        "price": "",
+        "symbol": "RUN"
+      },
+      {
+        "change": "-8.76",
+        "change_pts": null,
+        "close": 6878.88,
+        "name": "Figure Technology Solutions, Inc.",
+        "open": null,
+        "pct_change": "-25.73%",
+        "price": "",
+        "symbol": "FIGR"
+      },
+      {
+        "change": "-18.07",
+        "change_pts": null,
+        "close": 6878.88,
+        "name": "CoreWeave, Inc.",
+        "open": null,
+        "pct_change": "-18.51%",
+        "price": "",
+        "symbol": "CRWV"
+      },
+      {
+        "change": "-20.02",
+        "change_pts": null,
+        "close": null,
+        "name": "Arcosa, Inc.",
+        "open": null,
+        "pct_change": "-15.70%",
+        "price": "",
+        "symbol": "ACA"
+      },
+      {
+        "change": "-14.01",
+        "change_pts": null,
+        "close": null,
+        "name": "Tutor Perini Corporation",
+        "open": null,
+        "pct_change": "-15.67%",
+        "price": "",
+        "symbol": "TPC"
+      }
+    ],
+    "scraped_at": "2026-02-27T20:41:18.837823-05:00"
   }
 }
