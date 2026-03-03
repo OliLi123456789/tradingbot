@@ -8558,5 +8558,112 @@
       }
     ],
     "scraped_at": "2026-02-27T20:41:18.837823-05:00"
+  },
+  "2026-03-02": {
+    "gainers": [
+      {
+        "change": "+2.19",
+        "change_pts": null,
+        "close": 6909.51,
+        "name": "Evolution Metals & Technologies Corp.",
+        "open": null,
+        "pct_change": "+27.48%",
+        "price": "",
+        "symbol": "EMAT"
+      },
+      {
+        "change": "+2.04",
+        "change_pts": null,
+        "close": 6865.25,
+        "name": "Ocular Therapeutix, Inc.",
+        "open": null,
+        "pct_change": "+22.82%",
+        "price": "",
+        "symbol": "OCUL"
+      },
+      {
+        "change": "+8.42",
+        "change_pts": null,
+        "close": 6878.88,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "+22.22%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "+18.28",
+        "change_pts": null,
+        "close": 6871.25,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "+21.70%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "+11.50",
+        "change_pts": null,
+        "close": 6878.88,
+        "name": "nLIGHT, Inc.",
+        "open": null,
+        "pct_change": "+20.47%",
+        "price": "",
+        "symbol": "LASR"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-28.48",
+        "change_pts": null,
+        "close": 6871.25,
+        "name": "Turning Point Brands, Inc.",
+        "open": null,
+        "pct_change": "-20.79%",
+        "price": "",
+        "symbol": "TPB"
+      },
+      {
+        "change": "-3.07",
+        "change_pts": null,
+        "close": 6837.0,
+        "name": "The AES Corporation",
+        "open": null,
+        "pct_change": "-17.77%",
+        "price": "",
+        "symbol": "AES"
+      },
+      {
+        "change": "-43.93",
+        "change_pts": null,
+        "close": 6828.0,
+        "name": "AeroVironment, Inc.",
+        "open": null,
+        "pct_change": "-17.42%",
+        "price": "",
+        "symbol": "AVAV"
+      },
+      {
+        "change": "-10.41",
+        "change_pts": null,
+        "close": 6865.25,
+        "name": "e.l.f. Beauty, Inc.",
+        "open": null,
+        "pct_change": "-11.31%",
+        "price": "",
+        "symbol": "ELF"
+      },
+      {
+        "change": "-0.90",
+        "change_pts": null,
+        "close": 6870.5,
+        "name": "ADT Inc.",
+        "open": null,
+        "pct_change": "-11.22%",
+        "price": "",
+        "symbol": "ADT"
+      }
+    ],
+    "scraped_at": "2026-03-02T20:42:37.115620-05:00"
   }
 }
