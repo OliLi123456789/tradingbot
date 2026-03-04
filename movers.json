@@ -8665,5 +8665,112 @@
       }
     ],
     "scraped_at": "2026-03-02T20:42:37.115620-05:00"
+  },
+  "2026-03-03": {
+    "gainers": [
+      {
+        "change": "+13.36",
+        "change_pts": null,
+        "close": 6796.0,
+        "name": "Kontoor Brands, Inc.",
+        "open": null,
+        "pct_change": "+20.61%",
+        "price": "",
+        "symbol": "KTB"
+      },
+      {
+        "change": "+3.06",
+        "change_pts": null,
+        "close": 6802.25,
+        "name": "Ingram Micro Holding Corporation",
+        "open": null,
+        "pct_change": "+14.33%",
+        "price": "",
+        "symbol": "INGM"
+      },
+      {
+        "change": "+2.70",
+        "change_pts": null,
+        "close": 6796.57,
+        "name": "Intapp, Inc.",
+        "open": null,
+        "pct_change": "+11.52%",
+        "price": "",
+        "symbol": "INTA"
+      },
+      {
+        "change": "+7.80",
+        "change_pts": null,
+        "close": null,
+        "name": "Tidewater Inc.",
+        "open": null,
+        "pct_change": "+9.77%",
+        "price": "",
+        "symbol": "TDW"
+      },
+      {
+        "change": "+19.98",
+        "change_pts": null,
+        "close": 6828.0,
+        "name": "AeroVironment, Inc.",
+        "open": null,
+        "pct_change": "+9.59%",
+        "price": "",
+        "symbol": "AVAV"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-72.28",
+        "change_pts": null,
+        "close": 6881.62,
+        "name": "MongoDB, Inc.",
+        "open": null,
+        "pct_change": "-22.24%",
+        "price": "",
+        "symbol": "MDB"
+      },
+      {
+        "change": "-3.30",
+        "change_pts": null,
+        "close": 6800.5,
+        "name": "StoneCo Ltd.",
+        "open": null,
+        "pct_change": "-19.38%",
+        "price": "",
+        "symbol": "STNE"
+      },
+      {
+        "change": "-9.82",
+        "change_pts": null,
+        "close": 6802.25,
+        "name": "Life360, Inc.",
+        "open": null,
+        "pct_change": "-18.26%",
+        "price": "",
+        "symbol": "LIF"
+      },
+      {
+        "change": "-17.39",
+        "change_pts": null,
+        "close": 6768.25,
+        "name": "Sea Limited",
+        "open": null,
+        "pct_change": "-16.53%",
+        "price": "",
+        "symbol": "SE"
+      },
+      {
+        "change": "-33.69",
+        "change_pts": null,
+        "close": null,
+        "name": "Alamo Group Inc.",
+        "open": null,
+        "pct_change": "-15.42%",
+        "price": "",
+        "symbol": "ALG"
+      }
+    ],
+    "scraped_at": "2026-03-03T20:41:40.574613-05:00"
   }
 }
