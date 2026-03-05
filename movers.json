@@ -8772,5 +8772,112 @@
       }
     ],
     "scraped_at": "2026-03-03T20:41:40.574613-05:00"
+  },
+  "2026-03-04": {
+    "gainers": [
+      {
+        "change": "+2.77",
+        "change_pts": null,
+        "close": 6878.25,
+        "name": "Stevanato Group S.p.A.",
+        "open": null,
+        "pct_change": "+18.81%",
+        "price": "",
+        "symbol": "STVN"
+      },
+      {
+        "change": "+3.66",
+        "change_pts": null,
+        "close": null,
+        "name": "Galaxy Digital",
+        "open": null,
+        "pct_change": "+17.70%",
+        "price": "",
+        "symbol": "GLXY"
+      },
+      {
+        "change": "+7.97",
+        "change_pts": null,
+        "close": 6881.0,
+        "name": "Moderna, Inc.",
+        "open": null,
+        "pct_change": "+15.99%",
+        "price": "",
+        "symbol": "MRNA"
+      },
+      {
+        "change": "+4.33",
+        "change_pts": null,
+        "close": 6877.5,
+        "name": "SSR Mining Inc.",
+        "open": null,
+        "pct_change": "+14.97%",
+        "price": "",
+        "symbol": "SSRM"
+      },
+      {
+        "change": "+26.57",
+        "change_pts": null,
+        "close": 6792.0,
+        "name": "Coinbase Global, Inc.",
+        "open": null,
+        "pct_change": "+14.57%",
+        "price": "",
+        "symbol": "COIN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-1.00",
+        "change_pts": null,
+        "close": 6870.25,
+        "name": "ImmunityBio, Inc.",
+        "open": null,
+        "pct_change": "-10.00%",
+        "price": "",
+        "symbol": "IBRX"
+      },
+      {
+        "change": "-0.70",
+        "change_pts": null,
+        "close": 6909.51,
+        "name": "Evolution Metals & Technologies Corp.",
+        "open": null,
+        "pct_change": "-7.65%",
+        "price": "",
+        "symbol": "EMAT"
+      },
+      {
+        "change": "-3.05",
+        "change_pts": null,
+        "close": 6881.62,
+        "name": "JFrog Ltd.",
+        "open": null,
+        "pct_change": "-7.22%",
+        "price": "",
+        "symbol": "FROG"
+      },
+      {
+        "change": "-1.87",
+        "change_pts": null,
+        "close": 6854.26,
+        "name": "Brown-Forman Corporation",
+        "open": null,
+        "pct_change": "-6.65%",
+        "price": "",
+        "symbol": "BF-B"
+      },
+      {
+        "change": "-2.63",
+        "change_pts": null,
+        "close": 6882.75,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "-6.30%",
+        "price": "",
+        "symbol": "AXTI"
+      }
+    ],
+    "scraped_at": "2026-03-04T20:41:43.415391-05:00"
   }
 }
