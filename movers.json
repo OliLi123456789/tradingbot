@@ -8879,5 +8879,112 @@
       }
     ],
     "scraped_at": "2026-03-04T20:41:43.415391-05:00"
+  },
+  "2026-03-05": {
+    "gainers": [
+      {
+        "change": "+3.76",
+        "change_pts": null,
+        "close": 6834.5,
+        "name": "Sable Offshore Corp.",
+        "open": null,
+        "pct_change": "+37.26%",
+        "price": "",
+        "symbol": "SOC"
+      },
+      {
+        "change": "+4.48",
+        "change_pts": null,
+        "close": null,
+        "name": "Tango Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+36.28%",
+        "price": "",
+        "symbol": "TNGX"
+      },
+      {
+        "change": "+4.62",
+        "change_pts": null,
+        "close": 6836.0,
+        "name": "The Trade Desk, Inc.",
+        "open": null,
+        "pct_change": "+18.36%",
+        "price": "",
+        "symbol": "TTD"
+      },
+      {
+        "change": "+30.29",
+        "change_pts": null,
+        "close": 6830.71,
+        "name": "Expedia Group, Inc.",
+        "open": null,
+        "pct_change": "+13.69%",
+        "price": "",
+        "symbol": "EXPE"
+      },
+      {
+        "change": "+31.50",
+        "change_pts": null,
+        "close": null,
+        "name": "UniFirst Corporation",
+        "open": null,
+        "pct_change": "+13.62%",
+        "price": "",
+        "symbol": "UNF"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-3.12",
+        "change_pts": null,
+        "close": 6886.25,
+        "name": "American Eagle Outfitters, Inc.",
+        "open": null,
+        "pct_change": "-13.90%",
+        "price": "",
+        "symbol": "AEO"
+      },
+      {
+        "change": "-6.61",
+        "change_pts": null,
+        "close": 6791.0,
+        "name": "Hycroft Mining Holding Corporation",
+        "open": null,
+        "pct_change": "-13.86%",
+        "price": "",
+        "symbol": "HYMC"
+      },
+      {
+        "change": "-2.02",
+        "change_pts": null,
+        "close": null,
+        "name": "Ivanhoe Electric Inc.",
+        "open": null,
+        "pct_change": "-12.90%",
+        "price": "",
+        "symbol": "IE"
+      },
+      {
+        "change": "-44.25",
+        "change_pts": null,
+        "close": 6830.71,
+        "name": "Ciena Corporation",
+        "open": null,
+        "pct_change": "-12.88%",
+        "price": "",
+        "symbol": "CIEN"
+      },
+      {
+        "change": "-61.76",
+        "change_pts": null,
+        "close": 6836.0,
+        "name": "IES Holdings, Inc.",
+        "open": null,
+        "pct_change": "-12.66%",
+        "price": "",
+        "symbol": "IESC"
+      }
+    ],
+    "scraped_at": "2026-03-05T20:41:46.059772-05:00"
   }
 }
