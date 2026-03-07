@@ -8986,5 +8986,112 @@
       }
     ],
     "scraped_at": "2026-03-05T20:41:46.059772-05:00"
+  },
+  "2026-03-06": {
+    "gainers": [
+      {
+        "change": "+8.42",
+        "change_pts": null,
+        "close": 6740.02,
+        "name": "Day One Biopharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "+65.88%",
+        "price": "",
+        "symbol": "DAWN"
+      },
+      {
+        "change": "+5.78",
+        "change_pts": null,
+        "close": 6740.02,
+        "name": "Samsara Inc.",
+        "open": null,
+        "pct_change": "+19.54%",
+        "price": "",
+        "symbol": "IOT"
+      },
+      {
+        "change": "+13.89",
+        "change_pts": null,
+        "close": 6751.86,
+        "name": "Marvell Technology, Inc.",
+        "open": null,
+        "pct_change": "+18.35%",
+        "price": "",
+        "symbol": "MRVL"
+      },
+      {
+        "change": "+1.25",
+        "change_pts": null,
+        "close": 6909.51,
+        "name": "Evolution Metals & Technologies Corp.",
+        "open": null,
+        "pct_change": "+14.69%",
+        "price": "",
+        "symbol": "EMAT"
+      },
+      {
+        "change": "+0.55",
+        "change_pts": null,
+        "close": 6752.58,
+        "name": "Iovance Biotherapeutics, Inc.",
+        "open": null,
+        "pct_change": "+12.01%",
+        "price": "",
+        "symbol": "IOVA"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.30",
+        "change_pts": null,
+        "close": 6740.02,
+        "name": "Ingram Micro Holding Corporation",
+        "open": null,
+        "pct_change": "-16.31%",
+        "price": "",
+        "symbol": "INGM"
+      },
+      {
+        "change": "-24.80",
+        "change_pts": null,
+        "close": 6770.35,
+        "name": "Bloom Energy Corporation",
+        "open": null,
+        "pct_change": "-15.50%",
+        "price": "",
+        "symbol": "BE"
+      },
+      {
+        "change": "-3.92",
+        "change_pts": null,
+        "close": 6740.02,
+        "name": "The Gap, Inc.",
+        "open": null,
+        "pct_change": "-14.41%",
+        "price": "",
+        "symbol": "GAP"
+      },
+      {
+        "change": "-92.38",
+        "change_pts": null,
+        "close": 6740.02,
+        "name": "Lumentum Holdings Inc.",
+        "open": null,
+        "pct_change": "-14.19%",
+        "price": "",
+        "symbol": "LITE"
+      },
+      {
+        "change": "-5.99",
+        "change_pts": null,
+        "close": 6740.02,
+        "name": "Jefferies Financial Group Inc.",
+        "open": null,
+        "pct_change": "-13.53%",
+        "price": "",
+        "symbol": "JEF"
+      }
+    ],
+    "scraped_at": "2026-03-06T20:41:27.774935-05:00"
   }
 }
