@@ -9093,5 +9093,112 @@
       }
     ],
     "scraped_at": "2026-03-06T20:41:27.774935-05:00"
+  },
+  "2026-03-09": {
+    "gainers": [
+      {
+        "change": "+23.67",
+        "change_pts": null,
+        "close": null,
+        "name": "Garden Stage Limited",
+        "open": null,
+        "pct_change": "+248.11%",
+        "price": "",
+        "symbol": "GSIW"
+      },
+      {
+        "change": "+20.82",
+        "change_pts": null,
+        "close": 6795.99,
+        "name": "Xenon Pharmaceuticals Inc.",
+        "open": null,
+        "pct_change": "+49.64%",
+        "price": "",
+        "symbol": "XENE"
+      },
+      {
+        "change": "+6.42",
+        "change_pts": null,
+        "close": 6740.02,
+        "name": "Hims & Hers Health, Inc.",
+        "open": null,
+        "pct_change": "+40.79%",
+        "price": "",
+        "symbol": "HIMS"
+      },
+      {
+        "change": "+14.03",
+        "change_pts": null,
+        "close": null,
+        "name": "Dianthus Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+21.52%",
+        "price": "",
+        "symbol": "DNTH"
+      },
+      {
+        "change": "+6.19",
+        "change_pts": null,
+        "close": 6757.21,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "+19.12%",
+        "price": "",
+        "symbol": "AXTI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-1.59",
+        "change_pts": null,
+        "close": 6743.75,
+        "name": "Evolution Metals & Technologies Corp.",
+        "open": null,
+        "pct_change": "-16.29%",
+        "price": "",
+        "symbol": "EMAT"
+      },
+      {
+        "change": "-5.13",
+        "change_pts": null,
+        "close": 6788.0,
+        "name": "PBF Energy Inc.",
+        "open": null,
+        "pct_change": "-11.86%",
+        "price": "",
+        "symbol": "PBF"
+      },
+      {
+        "change": "-0.97",
+        "change_pts": null,
+        "close": 6780.5,
+        "name": "Venture Global, Inc.",
+        "open": null,
+        "pct_change": "-7.77%",
+        "price": "",
+        "symbol": "VG"
+      },
+      {
+        "change": "-14.39",
+        "change_pts": null,
+        "close": 6785.25,
+        "name": "Gulfport Energy Corporation",
+        "open": null,
+        "pct_change": "-6.81%",
+        "price": "",
+        "symbol": "GPOR"
+      },
+      {
+        "change": "-0.80",
+        "change_pts": null,
+        "close": 6881.62,
+        "name": "Paramount Skydance Corporation",
+        "open": null,
+        "pct_change": "-6.67%",
+        "price": "",
+        "symbol": "PSKY"
+      }
+    ],
+    "scraped_at": "2026-03-09T21:41:28.467746-04:00"
   }
 }
