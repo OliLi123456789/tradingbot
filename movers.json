@@ -9200,5 +9200,112 @@
       }
     ],
     "scraped_at": "2026-03-09T21:41:28.467746-04:00"
+  },
+  "2026-03-10": {
+    "gainers": [
+      {
+        "change": "+6.95",
+        "change_pts": null,
+        "close": 6784.28,
+        "name": "Figure Technology Solutions, Inc.",
+        "open": null,
+        "pct_change": "+21.29%",
+        "price": "",
+        "symbol": "FIGR"
+      },
+      {
+        "change": "+0.76",
+        "change_pts": null,
+        "close": 6824.75,
+        "name": "NIO Inc.",
+        "open": null,
+        "pct_change": "+15.38%",
+        "price": "",
+        "symbol": "NIO"
+      },
+      {
+        "change": "+5.74",
+        "change_pts": null,
+        "close": 6813.75,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "+14.89%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "+1.44",
+        "change_pts": null,
+        "close": null,
+        "name": "VNET Group, Inc.",
+        "open": null,
+        "pct_change": "+14.71%",
+        "price": "",
+        "symbol": "VNET"
+      },
+      {
+        "change": "+5.99",
+        "change_pts": null,
+        "close": null,
+        "name": "Maze Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+13.30%",
+        "price": "",
+        "symbol": "MAZE"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-6.14",
+        "change_pts": null,
+        "close": 6813.25,
+        "name": "Garden Stage Limited",
+        "open": null,
+        "pct_change": "-18.49%",
+        "price": "",
+        "symbol": "GSIW"
+      },
+      {
+        "change": "-18.27",
+        "change_pts": null,
+        "close": 6824.25,
+        "name": "BioNTech SE",
+        "open": null,
+        "pct_change": "-17.88%",
+        "price": "",
+        "symbol": "BNTX"
+      },
+      {
+        "change": "-6.92",
+        "change_pts": null,
+        "close": 6812.75,
+        "name": "Centene Corporation",
+        "open": null,
+        "pct_change": "-15.97%",
+        "price": "",
+        "symbol": "CNC"
+      },
+      {
+        "change": "-156.05",
+        "change_pts": null,
+        "close": 6813.25,
+        "name": "Fair Isaac Corporation",
+        "open": null,
+        "pct_change": "-10.83%",
+        "price": "",
+        "symbol": "FICO"
+      },
+      {
+        "change": "-8.33",
+        "change_pts": null,
+        "close": 6889.0,
+        "name": "Enlight Renewable Energy Ltd",
+        "open": null,
+        "pct_change": "-10.63%",
+        "price": "",
+        "symbol": "ENLT"
+      }
+    ],
+    "scraped_at": "2026-03-10T21:41:31.750810-04:00"
   }
 }
