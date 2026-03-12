@@ -9307,5 +9307,112 @@
       }
     ],
     "scraped_at": "2026-03-10T21:41:31.750810-04:00"
+  },
+  "2026-03-11": {
+    "gainers": [
+      {
+        "change": "+2.16",
+        "change_pts": null,
+        "close": 6775.8,
+        "name": "Navitas Semiconductor Corporation",
+        "open": null,
+        "pct_change": "+24.88%",
+        "price": "",
+        "symbol": "NVTS"
+      },
+      {
+        "change": "+15.56",
+        "change_pts": null,
+        "close": 6732.5,
+        "name": "Nebius Group N.V.",
+        "open": null,
+        "pct_change": "+16.14%",
+        "price": "",
+        "symbol": "NBIS"
+      },
+      {
+        "change": "+2.17",
+        "change_pts": null,
+        "close": 6732.0,
+        "name": "Sable Offshore Corp.",
+        "open": null,
+        "pct_change": "+15.06%",
+        "price": "",
+        "symbol": "SOC"
+      },
+      {
+        "change": "+1.31",
+        "change_pts": null,
+        "close": null,
+        "name": "Pattern Group Inc.",
+        "open": null,
+        "pct_change": "+11.79%",
+        "price": "",
+        "symbol": "PTRN"
+      },
+      {
+        "change": "+3.06",
+        "change_pts": null,
+        "close": 6949.75,
+        "name": "Caesars Entertainment, Inc.",
+        "open": null,
+        "pct_change": "+11.76%",
+        "price": "",
+        "symbol": "CZR"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-3.15",
+        "change_pts": null,
+        "close": 6775.8,
+        "name": "Garden Stage Limited",
+        "open": null,
+        "pct_change": "-11.64%",
+        "price": "",
+        "symbol": "GSIW"
+      },
+      {
+        "change": "-2.08",
+        "change_pts": null,
+        "close": 6734.25,
+        "name": "Harmony Gold Mining Company Limited",
+        "open": null,
+        "pct_change": "-10.98%",
+        "price": "",
+        "symbol": "HMY"
+      },
+      {
+        "change": "-1.81",
+        "change_pts": null,
+        "close": null,
+        "name": "BW LPG Limited",
+        "open": null,
+        "pct_change": "-10.49%",
+        "price": "",
+        "symbol": "BWLP"
+      },
+      {
+        "change": "-119.92",
+        "change_pts": null,
+        "close": 6734.0,
+        "name": "Fair Isaac Corporation",
+        "open": null,
+        "pct_change": "-9.33%",
+        "price": "",
+        "symbol": "FICO"
+      },
+      {
+        "change": "-1.74",
+        "change_pts": null,
+        "close": 6759.77,
+        "name": "The Campbell's Company",
+        "open": null,
+        "pct_change": "-7.05%",
+        "price": "",
+        "symbol": "CPB"
+      }
+    ],
+    "scraped_at": "2026-03-11T21:42:25.930649-04:00"
   }
 }
