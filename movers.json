@@ -9414,5 +9414,112 @@
       }
     ],
     "scraped_at": "2026-03-11T21:42:25.930649-04:00"
+  },
+  "2026-03-12": {
+    "gainers": [
+      {
+        "change": "+7.66",
+        "change_pts": null,
+        "close": 6708.75,
+        "name": "Celanese Corporation",
+        "open": null,
+        "pct_change": "+14.75%",
+        "price": "",
+        "symbol": "CE"
+      },
+      {
+        "change": "+15.87",
+        "change_pts": null,
+        "close": 6709.25,
+        "name": "CF Industries Holdings, Inc.",
+        "open": null,
+        "pct_change": "+13.21%",
+        "price": "",
+        "symbol": "CF"
+      },
+      {
+        "change": "+2.63",
+        "change_pts": null,
+        "close": 6708.5,
+        "name": "Firefly Aerospace Inc.",
+        "open": null,
+        "pct_change": "+12.77%",
+        "price": "",
+        "symbol": "FLY"
+      },
+      {
+        "change": "+6.96",
+        "change_pts": null,
+        "close": 6709.25,
+        "name": "LyondellBasell Industries N.V.",
+        "open": null,
+        "pct_change": "+10.33%",
+        "price": "",
+        "symbol": "LYB"
+      },
+      {
+        "change": "+2.24",
+        "change_pts": null,
+        "close": 6898.75,
+        "name": "Olin Corporation",
+        "open": null,
+        "pct_change": "+9.42%",
+        "price": "",
+        "symbol": "OLN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.58",
+        "change_pts": null,
+        "close": 6706.25,
+        "name": "Netskope, Inc.",
+        "open": null,
+        "pct_change": "-21.27%",
+        "price": "",
+        "symbol": "NTSK"
+      },
+      {
+        "change": "-4.40",
+        "change_pts": null,
+        "close": 6775.8,
+        "name": "Garden Stage Limited",
+        "open": null,
+        "pct_change": "-18.39%",
+        "price": "",
+        "symbol": "GSIW"
+      },
+      {
+        "change": "-8.97",
+        "change_pts": null,
+        "close": null,
+        "name": "VEON Ltd.",
+        "open": null,
+        "pct_change": "-16.84%",
+        "price": "",
+        "symbol": "VEON"
+      },
+      {
+        "change": "-20.82",
+        "change_pts": null,
+        "close": 6706.25,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "-16.39%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "-2.41",
+        "change_pts": null,
+        "close": null,
+        "name": "Grupo Aeroméxico, S.A.B. de C.V.",
+        "open": null,
+        "pct_change": "-14.90%",
+        "price": "",
+        "symbol": "AERO"
+      }
+    ],
+    "scraped_at": "2026-03-12T21:41:42.110673-04:00"
   }
 }
