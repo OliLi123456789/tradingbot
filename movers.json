@@ -9521,5 +9521,112 @@
       }
     ],
     "scraped_at": "2026-03-12T21:41:42.110673-04:00"
+  },
+  "2026-03-13": {
+    "gainers": [
+      {
+        "change": "+3.68",
+        "change_pts": null,
+        "close": null,
+        "name": "Neptune Insurance Holdings Inc.",
+        "open": null,
+        "pct_change": "+20.23%",
+        "price": "",
+        "symbol": "NP"
+      },
+      {
+        "change": "+2.68",
+        "change_pts": null,
+        "close": 6632.19,
+        "name": "PEDEVCO Corp.",
+        "open": null,
+        "pct_change": "+17.29%",
+        "price": "",
+        "symbol": "PED"
+      },
+      {
+        "change": "+6.29",
+        "change_pts": null,
+        "close": null,
+        "name": "VEON Ltd.",
+        "open": null,
+        "pct_change": "+14.20%",
+        "price": "",
+        "symbol": "VEON"
+      },
+      {
+        "change": "+1.29",
+        "change_pts": null,
+        "close": 6632.19,
+        "name": "Klarna Group plc",
+        "open": null,
+        "pct_change": "+8.82%",
+        "price": "",
+        "symbol": "KLAR"
+      },
+      {
+        "change": "+0.87",
+        "change_pts": null,
+        "close": null,
+        "name": "Kyivstar Group Ltd.",
+        "open": null,
+        "pct_change": "+8.53%",
+        "price": "",
+        "symbol": "KYIV"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-88.98",
+        "change_pts": null,
+        "close": 6703.0,
+        "name": "Ulta Beauty, Inc.",
+        "open": null,
+        "pct_change": "-14.24%",
+        "price": "",
+        "symbol": "ULTA"
+      },
+      {
+        "change": "-6.31",
+        "change_pts": null,
+        "close": 6632.19,
+        "name": "Methanex Corporation",
+        "open": null,
+        "pct_change": "-10.87%",
+        "price": "",
+        "symbol": "MEOH"
+      },
+      {
+        "change": "-46.21",
+        "change_pts": null,
+        "close": null,
+        "name": "Credit Acceptance Corporation",
+        "open": null,
+        "pct_change": "-9.35%",
+        "price": "",
+        "symbol": "CACC"
+      },
+      {
+        "change": "-9.38",
+        "change_pts": null,
+        "close": 6632.19,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "-8.83%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "-1.35",
+        "change_pts": null,
+        "close": 6910.25,
+        "name": "Equinox Gold Corp.",
+        "open": null,
+        "pct_change": "-8.48%",
+        "price": "",
+        "symbol": "EQX"
+      }
+    ],
+    "scraped_at": "2026-03-13T21:41:37.501880-04:00"
   }
 }
