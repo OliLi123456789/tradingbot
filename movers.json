@@ -9628,5 +9628,112 @@
       }
     ],
     "scraped_at": "2026-03-13T21:41:37.501880-04:00"
+  },
+  "2026-03-16": {
+    "gainers": [
+      {
+        "change": "+9.29",
+        "change_pts": null,
+        "close": null,
+        "name": "National Storage Affiliates Trust",
+        "open": null,
+        "pct_change": "+30.03%",
+        "price": "",
+        "symbol": "NSA"
+      },
+      {
+        "change": "+16.90",
+        "change_pts": null,
+        "close": 6740.0,
+        "name": "Nebius Group N.V.",
+        "open": null,
+        "pct_change": "+14.96%",
+        "price": "",
+        "symbol": "NBIS"
+      },
+      {
+        "change": "+2.82",
+        "change_pts": null,
+        "close": 6696.89,
+        "name": "Bitmine Immersion Technologies, Inc.",
+        "open": null,
+        "pct_change": "+13.73%",
+        "price": "",
+        "symbol": "BMNR"
+      },
+      {
+        "change": "+1.08",
+        "change_pts": null,
+        "close": 6699.38,
+        "name": "BioCryst Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "+13.14%",
+        "price": "",
+        "symbol": "BCRX"
+      },
+      {
+        "change": "+2.41",
+        "change_pts": null,
+        "close": 6737.5,
+        "name": "National Storage Affiliates Trust",
+        "open": null,
+        "pct_change": "+11.87%",
+        "price": "",
+        "symbol": "NSA-PA"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.10",
+        "change_pts": null,
+        "close": null,
+        "name": "10x Genomics, Inc.",
+        "open": null,
+        "pct_change": "-11.18%",
+        "price": "",
+        "symbol": "TXG"
+      },
+      {
+        "change": "-0.98",
+        "change_pts": null,
+        "close": null,
+        "name": "VNET Group, Inc.",
+        "open": null,
+        "pct_change": "-9.32%",
+        "price": "",
+        "symbol": "VNET"
+      },
+      {
+        "change": "-1.79",
+        "change_pts": null,
+        "close": 6656.58,
+        "name": "PayPay Corporation",
+        "open": null,
+        "pct_change": "-8.47%",
+        "price": "",
+        "symbol": "PAYP"
+      },
+      {
+        "change": "-1.79",
+        "change_pts": null,
+        "close": 6697.25,
+        "name": "Fastly, Inc.",
+        "open": null,
+        "pct_change": "-7.28%",
+        "price": "",
+        "symbol": "FSLY"
+      },
+      {
+        "change": "-1.00",
+        "change_pts": null,
+        "close": 6741.5,
+        "name": "Klarna Group plc",
+        "open": null,
+        "pct_change": "-6.29%",
+        "price": "",
+        "symbol": "KLAR"
+      }
+    ],
+    "scraped_at": "2026-03-16T21:41:58.231346-04:00"
   }
 }
