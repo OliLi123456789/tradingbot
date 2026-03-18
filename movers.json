@@ -9735,5 +9735,112 @@
       }
     ],
     "scraped_at": "2026-03-16T21:41:58.231346-04:00"
+  },
+  "2026-03-17": {
+    "gainers": [
+      {
+        "change": "+6.84",
+        "change_pts": null,
+        "close": null,
+        "name": "Telesat Corporation",
+        "open": null,
+        "pct_change": "+19.27%",
+        "price": "",
+        "symbol": "TSAT"
+      },
+      {
+        "change": "+139.83",
+        "change_pts": null,
+        "close": 6701.27,
+        "name": "Elbit Systems Ltd.",
+        "open": null,
+        "pct_change": "+15.99%",
+        "price": "",
+        "symbol": "ESLT"
+      },
+      {
+        "change": "+9.13",
+        "change_pts": null,
+        "close": 6716.09,
+        "name": "Lemonade, Inc.",
+        "open": null,
+        "pct_change": "+15.81%",
+        "price": "",
+        "symbol": "LMND"
+      },
+      {
+        "change": "+1.05",
+        "change_pts": null,
+        "close": null,
+        "name": "Bitdeer Technologies Group",
+        "open": null,
+        "pct_change": "+12.80%",
+        "price": "",
+        "symbol": "BTDR"
+      },
+      {
+        "change": "+6.20",
+        "change_pts": null,
+        "close": 6785.75,
+        "name": "Solaris Energy Infrastructure, Inc.",
+        "open": null,
+        "pct_change": "+10.88%",
+        "price": "",
+        "symbol": "SEI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-3.72",
+        "change_pts": null,
+        "close": 6817.0,
+        "name": "Tencent Music Entertainment Group",
+        "open": null,
+        "pct_change": "-24.65%",
+        "price": "",
+        "symbol": "TME"
+      },
+      {
+        "change": "-6.61",
+        "change_pts": null,
+        "close": null,
+        "name": "Academy Sports and Outdoors, Inc.",
+        "open": null,
+        "pct_change": "-11.70%",
+        "price": "",
+        "symbol": "ASO"
+      },
+      {
+        "change": "-9.79",
+        "change_pts": null,
+        "close": 6784.25,
+        "name": "Semtech Corporation",
+        "open": null,
+        "pct_change": "-11.00%",
+        "price": "",
+        "symbol": "SMTC"
+      },
+      {
+        "change": "-12.82",
+        "change_pts": null,
+        "close": 6716.09,
+        "name": "Credo Technology Group Holding Ltd",
+        "open": null,
+        "pct_change": "-10.97%",
+        "price": "",
+        "symbol": "CRDO"
+      },
+      {
+        "change": "-7.95",
+        "change_pts": null,
+        "close": null,
+        "name": "Freshpet, Inc.",
+        "open": null,
+        "pct_change": "-10.55%",
+        "price": "",
+        "symbol": "FRPT"
+      }
+    ],
+    "scraped_at": "2026-03-17T21:42:36.972369-04:00"
   }
 }
