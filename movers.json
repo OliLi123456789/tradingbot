@@ -9842,5 +9842,112 @@
       }
     ],
     "scraped_at": "2026-03-17T21:42:36.972369-04:00"
+  },
+  "2026-03-18": {
+    "gainers": [
+      {
+        "change": "+3.41",
+        "change_pts": null,
+        "close": 6874.75,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "+14.85%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "+1.88",
+        "change_pts": null,
+        "close": 6624.7,
+        "name": "Venture Global, Inc.",
+        "open": null,
+        "pct_change": "+14.50%",
+        "price": "",
+        "symbol": "VG"
+      },
+      {
+        "change": "+3.38",
+        "change_pts": null,
+        "close": null,
+        "name": "Andersen Group Inc.",
+        "open": null,
+        "pct_change": "+13.58%",
+        "price": "",
+        "symbol": "ANDG"
+      },
+      {
+        "change": "+2.95",
+        "change_pts": null,
+        "close": null,
+        "name": "Heartflow, Inc.",
+        "open": null,
+        "pct_change": "+13.10%",
+        "price": "",
+        "symbol": "HTFL"
+      },
+      {
+        "change": "+1.66",
+        "change_pts": null,
+        "close": 6669.25,
+        "name": "Kingsoft Cloud Holdings Limited",
+        "open": null,
+        "pct_change": "+12.65%",
+        "price": "",
+        "symbol": "KC"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.24",
+        "change_pts": null,
+        "close": 6674.0,
+        "name": "SailPoint, Inc.",
+        "open": null,
+        "pct_change": "-15.23%",
+        "price": "",
+        "symbol": "SAIL"
+      },
+      {
+        "change": "-21.35",
+        "change_pts": null,
+        "close": null,
+        "name": "Boyd Group Services Inc.",
+        "open": null,
+        "pct_change": "-13.21%",
+        "price": "",
+        "symbol": "BGSI"
+      },
+      {
+        "change": "-3.84",
+        "change_pts": null,
+        "close": null,
+        "name": "Seabridge Gold Inc.",
+        "open": null,
+        "pct_change": "-12.45%",
+        "price": "",
+        "symbol": "SA"
+      },
+      {
+        "change": "-1.19",
+        "change_pts": null,
+        "close": 6816.63,
+        "name": "NovaGold Resources Inc.",
+        "open": null,
+        "pct_change": "-12.22%",
+        "price": "",
+        "symbol": "NG"
+      },
+      {
+        "change": "-9.11",
+        "change_pts": null,
+        "close": 6672.52,
+        "name": "Rocket Lab Corporation",
+        "open": null,
+        "pct_change": "-11.59%",
+        "price": "",
+        "symbol": "RKLB"
+      }
+    ],
+    "scraped_at": "2026-03-18T21:43:27.587129-04:00"
   }
 }
