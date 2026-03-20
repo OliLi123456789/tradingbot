@@ -9949,5 +9949,112 @@
       }
     ],
     "scraped_at": "2026-03-18T21:43:27.587129-04:00"
+  },
+  "2026-03-19": {
+    "gainers": [
+      {
+        "change": "+9.33",
+        "change_pts": null,
+        "close": 6716.09,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "+19.13%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "+24.12",
+        "change_pts": null,
+        "close": 6670.0,
+        "name": "Tower Semiconductor Ltd.",
+        "open": null,
+        "pct_change": "+16.99%",
+        "price": "",
+        "symbol": "TSEM"
+      },
+      {
+        "change": "+1.81",
+        "change_pts": null,
+        "close": null,
+        "name": "Vermilion Energy Inc.",
+        "open": null,
+        "pct_change": "+14.35%",
+        "price": "",
+        "symbol": "VET"
+      },
+      {
+        "change": "+5.71",
+        "change_pts": null,
+        "close": 6673.0,
+        "name": "Scholar Rock Holding Corporation",
+        "open": null,
+        "pct_change": "+14.35%",
+        "price": "",
+        "symbol": "SRRK"
+      },
+      {
+        "change": "+10.79",
+        "change_pts": null,
+        "close": 6669.0,
+        "name": "Signet Jewelers Limited",
+        "open": null,
+        "pct_change": "+13.70%",
+        "price": "",
+        "symbol": "SIG"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.48",
+        "change_pts": null,
+        "close": 6606.49,
+        "name": "Hycroft Mining Holding Corporation",
+        "open": null,
+        "pct_change": "-12.36%",
+        "price": "",
+        "symbol": "HYMC"
+      },
+      {
+        "change": "-5.69",
+        "change_pts": null,
+        "close": 6677.5,
+        "name": "Century Aluminum Company",
+        "open": null,
+        "pct_change": "-10.28%",
+        "price": "",
+        "symbol": "CENX"
+      },
+      {
+        "change": "-5.73",
+        "change_pts": null,
+        "close": null,
+        "name": "First American Financial Corporation",
+        "open": null,
+        "pct_change": "-8.96%",
+        "price": "",
+        "symbol": "FAF"
+      },
+      {
+        "change": "-5.58",
+        "change_pts": null,
+        "close": 6701.18,
+        "name": "Alcoa Corporation",
+        "open": null,
+        "pct_change": "-8.69%",
+        "price": "",
+        "symbol": "AA"
+      },
+      {
+        "change": "-6.61",
+        "change_pts": null,
+        "close": 6675.25,
+        "name": "LandBridge Company LLC",
+        "open": null,
+        "pct_change": "-8.51%",
+        "price": "",
+        "symbol": "LB"
+      }
+    ],
+    "scraped_at": "2026-03-19T21:41:53.611170-04:00"
   }
 }
