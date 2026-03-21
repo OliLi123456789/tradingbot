@@ -10056,5 +10056,112 @@
       }
     ],
     "scraped_at": "2026-03-19T21:41:53.611170-04:00"
+  },
+  "2026-03-20": {
+    "gainers": [
+      {
+        "change": "+6.87",
+        "change_pts": null,
+        "close": 6506.48,
+        "name": "Planet Labs PBC",
+        "open": null,
+        "pct_change": "+25.48%",
+        "price": "",
+        "symbol": "PL"
+      },
+      {
+        "change": "+0.88",
+        "change_pts": null,
+        "close": 6506.48,
+        "name": "Polestar Automotive Holding UK PLC",
+        "open": null,
+        "pct_change": "+20.14%",
+        "price": "",
+        "symbol": "PSNYW"
+      },
+      {
+        "change": "+3.39",
+        "change_pts": null,
+        "close": 6506.48,
+        "name": "York Space Systems Inc.",
+        "open": null,
+        "pct_change": "+19.17%",
+        "price": "",
+        "symbol": "YSS"
+      },
+      {
+        "change": "+2.03",
+        "change_pts": null,
+        "close": 6506.48,
+        "name": "Liberty Global Ltd.",
+        "open": null,
+        "pct_change": "+16.72%",
+        "price": "",
+        "symbol": "LBTYB"
+      },
+      {
+        "change": "+6.07",
+        "change_pts": null,
+        "close": 6688.25,
+        "name": "SolarEdge Technologies, Inc.",
+        "open": null,
+        "pct_change": "+13.29%",
+        "price": "",
+        "symbol": "SEDG"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-10.26",
+        "change_pts": null,
+        "close": 6664.25,
+        "name": "Super Micro Computer, Inc.",
+        "open": null,
+        "pct_change": "-33.32%",
+        "price": "",
+        "symbol": "SMCI"
+      },
+      {
+        "change": "-14.38",
+        "change_pts": null,
+        "close": 6506.48,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "-14.11%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "-25.59",
+        "change_pts": null,
+        "close": 6587.96,
+        "name": "Vicor Corporation",
+        "open": null,
+        "pct_change": "-13.46%",
+        "price": "",
+        "symbol": "VICR"
+      },
+      {
+        "change": "-21.12",
+        "change_pts": null,
+        "close": 6670.75,
+        "name": "Vistra Corp.",
+        "open": null,
+        "pct_change": "-12.64%",
+        "price": "",
+        "symbol": "VST"
+      },
+      {
+        "change": "-2.76",
+        "change_pts": null,
+        "close": null,
+        "name": "Flowco Holdings Inc.",
+        "open": null,
+        "pct_change": "-11.29%",
+        "price": "",
+        "symbol": "FLOC"
+      }
+    ],
+    "scraped_at": "2026-03-20T21:41:25.221233-04:00"
   }
 }
