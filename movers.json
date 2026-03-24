@@ -10163,5 +10163,112 @@
       }
     ],
     "scraped_at": "2026-03-20T21:41:25.221233-04:00"
+  },
+  "2026-03-23": {
+    "gainers": [
+      {
+        "change": "+4.21",
+        "change_pts": null,
+        "close": 6656.58,
+        "name": "PayPay Corporation",
+        "open": null,
+        "pct_change": "+21.16%",
+        "price": "",
+        "symbol": "PAYP"
+      },
+      {
+        "change": "+13.20",
+        "change_pts": null,
+        "close": 6605.5,
+        "name": "Apogee Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+19.99%",
+        "price": "",
+        "symbol": "APGE"
+      },
+      {
+        "change": "+10.20",
+        "change_pts": null,
+        "close": 6581.0,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "+18.81%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "+3.55",
+        "change_pts": null,
+        "close": 6581.0,
+        "name": "Fastly, Inc.",
+        "open": null,
+        "pct_change": "+14.09%",
+        "price": "",
+        "symbol": "FSLY"
+      },
+      {
+        "change": "+2.48",
+        "change_pts": null,
+        "close": 6581.0,
+        "name": "Intuitive Machines, Inc.",
+        "open": null,
+        "pct_change": "+13.91%",
+        "price": "",
+        "symbol": "LUNR"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.96",
+        "change_pts": null,
+        "close": 6506.48,
+        "name": "SolarEdge Technologies, Inc.",
+        "open": null,
+        "pct_change": "-9.60%",
+        "price": "",
+        "symbol": "SEDG"
+      },
+      {
+        "change": "-2.15",
+        "change_pts": null,
+        "close": 6874.75,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-7.87%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "-6.63",
+        "change_pts": null,
+        "close": 6549.5,
+        "name": "The Estée Lauder Companies Inc.",
+        "open": null,
+        "pct_change": "-7.72%",
+        "price": "",
+        "symbol": "EL"
+      },
+      {
+        "change": "-3.35",
+        "change_pts": null,
+        "close": 6506.48,
+        "name": "Enphase Energy, Inc.",
+        "open": null,
+        "pct_change": "-7.59%",
+        "price": "",
+        "symbol": "ENPH"
+      },
+      {
+        "change": "-2.34",
+        "change_pts": null,
+        "close": 6863.5,
+        "name": "Liberty Energy Inc.",
+        "open": null,
+        "pct_change": "-7.44%",
+        "price": "",
+        "symbol": "LBRT"
+      }
+    ],
+    "scraped_at": "2026-03-23T21:41:54.338175-04:00"
   }
 }
