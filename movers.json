@@ -10270,5 +10270,112 @@
       }
     ],
     "scraped_at": "2026-03-23T21:41:54.338175-04:00"
+  },
+  "2026-03-24": {
+    "gainers": [
+      {
+        "change": "+8.47",
+        "change_pts": null,
+        "close": 6664.0,
+        "name": "Shift4 Payments, Inc.",
+        "open": null,
+        "pct_change": "+19.24%",
+        "price": "",
+        "symbol": "FOUR"
+      },
+      {
+        "change": "+18.14",
+        "change_pts": null,
+        "close": 6662.5,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "+18.94%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "+9.09",
+        "change_pts": null,
+        "close": 6664.0,
+        "name": "Warrior Met Coal, Inc.",
+        "open": null,
+        "pct_change": "+10.51%",
+        "price": "",
+        "symbol": "HCC"
+      },
+      {
+        "change": "+1.87",
+        "change_pts": null,
+        "close": 6664.0,
+        "name": "The Chemours Company",
+        "open": null,
+        "pct_change": "+10.11%",
+        "price": "",
+        "symbol": "CC"
+      },
+      {
+        "change": "+8.62",
+        "change_pts": null,
+        "close": 6909.51,
+        "name": "Axcelis Technologies, Inc.",
+        "open": null,
+        "pct_change": "+10.05%",
+        "price": "",
+        "symbol": "ACLS"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-1.99",
+        "change_pts": null,
+        "close": 6598.75,
+        "name": "ImmunityBio, Inc.",
+        "open": null,
+        "pct_change": "-21.12%",
+        "price": "",
+        "symbol": "IBRX"
+      },
+      {
+        "change": "-25.45",
+        "change_pts": null,
+        "close": 6593.4,
+        "name": "Circle Internet Group",
+        "open": null,
+        "pct_change": "-20.09%",
+        "price": "",
+        "symbol": "CRCL"
+      },
+      {
+        "change": "-2.26",
+        "change_pts": null,
+        "close": 6647.5,
+        "name": "ADMA Biologics, Inc.",
+        "open": null,
+        "pct_change": "-16.63%",
+        "price": "",
+        "symbol": "ADMA"
+      },
+      {
+        "change": "-3.34",
+        "change_pts": null,
+        "close": null,
+        "name": "Hesai Group",
+        "open": null,
+        "pct_change": "-14.16%",
+        "price": "",
+        "symbol": "HSAI"
+      },
+      {
+        "change": "-2.20",
+        "change_pts": null,
+        "close": 6662.5,
+        "name": "Almonty Industries Inc.",
+        "open": null,
+        "pct_change": "-13.02%",
+        "price": "",
+        "symbol": "ALM"
+      }
+    ],
+    "scraped_at": "2026-03-24T21:42:40.624498-04:00"
   }
 }
