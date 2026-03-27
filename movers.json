@@ -10484,5 +10484,112 @@
       }
     ],
     "scraped_at": "2026-03-25T21:44:01.992680-04:00"
+  },
+  "2026-03-26": {
+    "gainers": [
+      {
+        "change": "+17.01",
+        "change_pts": null,
+        "close": 6477.16,
+        "name": "Kodiak Sciences Inc.",
+        "open": null,
+        "pct_change": "+74.77%",
+        "price": "",
+        "symbol": "KOD"
+      },
+      {
+        "change": "+3.96",
+        "change_pts": null,
+        "close": 6547.25,
+        "name": "Navan, Inc.",
+        "open": null,
+        "pct_change": "+43.28%",
+        "price": "",
+        "symbol": "NAVN"
+      },
+      {
+        "change": "+16.02",
+        "change_pts": null,
+        "close": 6548.75,
+        "name": "Avis Budget Group, Inc.",
+        "open": null,
+        "pct_change": "+12.97%",
+        "price": "",
+        "symbol": "CAR"
+      },
+      {
+        "change": "+56.83",
+        "change_pts": null,
+        "close": 6617.99,
+        "name": "Madrigal Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "+12.30%",
+        "price": "",
+        "symbol": "MDGL"
+      },
+      {
+        "change": "+0.81",
+        "change_pts": null,
+        "close": 6506.48,
+        "name": "NextDecade Corporation",
+        "open": null,
+        "pct_change": "+11.04%",
+        "price": "",
+        "symbol": "NEXT"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-28.04",
+        "change_pts": null,
+        "close": 6587.96,
+        "name": "Vicor Corporation",
+        "open": null,
+        "pct_change": "-15.08%",
+        "price": "",
+        "symbol": "VICR"
+      },
+      {
+        "change": "-16.99",
+        "change_pts": null,
+        "close": 6547.0,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "-14.85%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "-1.67",
+        "change_pts": null,
+        "close": null,
+        "name": "Pony AI Inc.",
+        "open": null,
+        "pct_change": "-14.66%",
+        "price": "",
+        "symbol": "PONY"
+      },
+      {
+        "change": "-13.59",
+        "change_pts": null,
+        "close": null,
+        "name": "Karman Holdings Inc.",
+        "open": null,
+        "pct_change": "-13.64%",
+        "price": "",
+        "symbol": "KRMN"
+      },
+      {
+        "change": "-8.84",
+        "change_pts": null,
+        "close": 6581.0,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "-13.13%",
+        "price": "",
+        "symbol": "AXTI"
+      }
+    ],
+    "scraped_at": "2026-03-26T21:43:57.518451-04:00"
   }
 }
