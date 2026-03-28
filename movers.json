@@ -10591,5 +10591,112 @@
       }
     ],
     "scraped_at": "2026-03-26T21:43:57.518451-04:00"
+  },
+  "2026-03-27": {
+    "gainers": [
+      {
+        "change": "+155.77",
+        "change_pts": null,
+        "close": 6368.85,
+        "name": "Argan, Inc.",
+        "open": null,
+        "pct_change": "+37.91%",
+        "price": "",
+        "symbol": "AGX"
+      },
+      {
+        "change": "+2.32",
+        "change_pts": null,
+        "close": 6368.85,
+        "name": "Unity Software Inc.",
+        "open": null,
+        "pct_change": "+13.54%",
+        "price": "",
+        "symbol": "U"
+      },
+      {
+        "change": "+2.99",
+        "change_pts": null,
+        "close": 6368.85,
+        "name": "Advantage Solutions Inc.",
+        "open": null,
+        "pct_change": "+13.27%",
+        "price": "",
+        "symbol": "ADV"
+      },
+      {
+        "change": "+0.96",
+        "change_pts": null,
+        "close": 6647.5,
+        "name": "ADMA Biologics, Inc.",
+        "open": null,
+        "pct_change": "+11.58%",
+        "price": "",
+        "symbol": "ADMA"
+      },
+      {
+        "change": "+5.76",
+        "change_pts": null,
+        "close": 6368.85,
+        "name": "Methanex Corporation",
+        "open": null,
+        "pct_change": "+9.69%",
+        "price": "",
+        "symbol": "MEOH"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-3.11",
+        "change_pts": null,
+        "close": 6386.22,
+        "name": "Firefly Aerospace Inc.",
+        "open": null,
+        "pct_change": "-11.58%",
+        "price": "",
+        "symbol": "FLY"
+      },
+      {
+        "change": "-5.96",
+        "change_pts": null,
+        "close": 6853.6,
+        "name": "Clear Secure, Inc.",
+        "open": null,
+        "pct_change": "-11.16%",
+        "price": "",
+        "symbol": "YOU"
+      },
+      {
+        "change": "-9.19",
+        "change_pts": null,
+        "close": 6376.85,
+        "name": "AST SpaceMobile, Inc.",
+        "open": null,
+        "pct_change": "-10.46%",
+        "price": "",
+        "symbol": "ASTS"
+      },
+      {
+        "change": "-3.93",
+        "change_pts": null,
+        "close": null,
+        "name": "Hinge Health, Inc.",
+        "open": null,
+        "pct_change": "-9.78%",
+        "price": "",
+        "symbol": "HNGE"
+      },
+      {
+        "change": "-1.53",
+        "change_pts": null,
+        "close": 6593.8,
+        "name": "Zeta Global Holdings Corp.",
+        "open": null,
+        "pct_change": "-9.51%",
+        "price": "",
+        "symbol": "ZETA"
+      }
+    ],
+    "scraped_at": "2026-03-27T21:42:17.305785-04:00"
   }
 }
