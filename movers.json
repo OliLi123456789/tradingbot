@@ -10698,5 +10698,112 @@
       }
     ],
     "scraped_at": "2026-03-27T21:42:17.305785-04:00"
+  },
+  "2026-03-30": {
+    "gainers": [
+      {
+        "change": "+65.53",
+        "change_pts": null,
+        "close": null,
+        "name": "United Therapeutics Corporation",
+        "open": null,
+        "pct_change": "+12.53%",
+        "price": "",
+        "symbol": "UTHR"
+      },
+      {
+        "change": "+1.87",
+        "change_pts": null,
+        "close": 6742.51,
+        "name": "Bath & Body Works, Inc.",
+        "open": null,
+        "pct_change": "+11.13%",
+        "price": "",
+        "symbol": "BBWI"
+      },
+      {
+        "change": "+2.98",
+        "change_pts": null,
+        "close": null,
+        "name": "Calumet, Inc.",
+        "open": null,
+        "pct_change": "+9.30%",
+        "price": "",
+        "symbol": "CLMT"
+      },
+      {
+        "change": "+3.09",
+        "change_pts": null,
+        "close": null,
+        "name": "Guardian Pharmacy Services, Inc.",
+        "open": null,
+        "pct_change": "+9.05%",
+        "price": "",
+        "symbol": "GRDN"
+      },
+      {
+        "change": "+1.20",
+        "change_pts": null,
+        "close": null,
+        "name": "Adecoagro S.A.",
+        "open": null,
+        "pct_change": "+8.54%",
+        "price": "",
+        "symbol": "AGRO"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.59",
+        "change_pts": null,
+        "close": null,
+        "name": "Alumis Inc.",
+        "open": null,
+        "pct_change": "-18.51%",
+        "price": "",
+        "symbol": "ALMS"
+      },
+      {
+        "change": "-10.32",
+        "change_pts": null,
+        "close": 6856.0,
+        "name": "nLIGHT, Inc.",
+        "open": null,
+        "pct_change": "-16.04%",
+        "price": "",
+        "symbol": "LASR"
+      },
+      {
+        "change": "-12.50",
+        "change_pts": null,
+        "close": 6368.85,
+        "name": "Sysco Corporation",
+        "open": null,
+        "pct_change": "-15.28%",
+        "price": "",
+        "symbol": "SYY"
+      },
+      {
+        "change": "-2.60",
+        "change_pts": null,
+        "close": null,
+        "name": "NextNav Inc.",
+        "open": null,
+        "pct_change": "-14.55%",
+        "price": "",
+        "symbol": "NN"
+      },
+      {
+        "change": "-3.21",
+        "change_pts": null,
+        "close": 6432.5,
+        "name": "Applied Digital Corporation",
+        "open": null,
+        "pct_change": "-13.53%",
+        "price": "",
+        "symbol": "APLD"
+      }
+    ],
+    "scraped_at": "2026-03-30T21:43:41.637362-04:00"
   }
 }
