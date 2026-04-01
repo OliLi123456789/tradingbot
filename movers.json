@@ -10805,5 +10805,112 @@
       }
     ],
     "scraped_at": "2026-03-30T21:43:41.637362-04:00"
+  },
+  "2026-03-31": {
+    "gainers": [
+      {
+        "change": "+23.14",
+        "change_pts": null,
+        "close": 6495.21,
+        "name": "Apellis Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "+135.40%",
+        "price": "",
+        "symbol": "APLS"
+      },
+      {
+        "change": "+12.14",
+        "change_pts": null,
+        "close": null,
+        "name": "Centessa Pharmaceuticals plc",
+        "open": null,
+        "pct_change": "+44.02%",
+        "price": "",
+        "symbol": "CNTA"
+      },
+      {
+        "change": "+4.85",
+        "change_pts": null,
+        "close": 6386.22,
+        "name": "Firefly Aerospace Inc.",
+        "open": null,
+        "pct_change": "+20.53%",
+        "price": "",
+        "symbol": "FLY"
+      },
+      {
+        "change": "+5.21",
+        "change_pts": null,
+        "close": null,
+        "name": "Alkermes plc",
+        "open": null,
+        "pct_change": "+17.28%",
+        "price": "",
+        "symbol": "ALKS"
+      },
+      {
+        "change": "+45.75",
+        "change_pts": null,
+        "close": null,
+        "name": "Praxis Precision Medicines, Inc.",
+        "open": null,
+        "pct_change": "+16.55%",
+        "price": "",
+        "symbol": "PRAX"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.73",
+        "change_pts": null,
+        "close": 6582.75,
+        "name": "Peabody Energy Corporation",
+        "open": null,
+        "pct_change": "-7.65%",
+        "price": "",
+        "symbol": "BTU"
+      },
+      {
+        "change": "-1.32",
+        "change_pts": null,
+        "close": 6588.75,
+        "name": "Sable Offshore Corp.",
+        "open": null,
+        "pct_change": "-7.40%",
+        "price": "",
+        "symbol": "SOC"
+      },
+      {
+        "change": "-1.13",
+        "change_pts": null,
+        "close": 6513.95,
+        "name": "Venture Global, Inc.",
+        "open": null,
+        "pct_change": "-6.69%",
+        "price": "",
+        "symbol": "VG"
+      },
+      {
+        "change": "-19.34",
+        "change_pts": null,
+        "close": 6343.72,
+        "name": "Constellation Energy Corporation",
+        "open": null,
+        "pct_change": "-6.48%",
+        "price": "",
+        "symbol": "CEG"
+      },
+      {
+        "change": "-3.28",
+        "change_pts": null,
+        "close": 6583.0,
+        "name": "McCormick & Company, Incorporated",
+        "open": null,
+        "pct_change": "-6.11%",
+        "price": "",
+        "symbol": "MKC"
+      }
+    ],
+    "scraped_at": "2026-03-31T21:43:16.629699-04:00"
   }
 }
