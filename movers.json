@@ -10912,5 +10912,112 @@
       }
     ],
     "scraped_at": "2026-03-31T21:43:16.629699-04:00"
+  },
+  "2026-04-01": {
+    "gainers": [
+      {
+        "change": "+8.29",
+        "change_pts": null,
+        "close": null,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "+32.60%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "+24.40",
+        "change_pts": null,
+        "close": 6576.25,
+        "name": "Avis Budget Group, Inc.",
+        "open": null,
+        "pct_change": "+16.75%",
+        "price": "",
+        "symbol": "CAR"
+      },
+      {
+        "change": "+4.69",
+        "change_pts": null,
+        "close": 6628.25,
+        "name": "Kodiak Sciences Inc.",
+        "open": null,
+        "pct_change": "+12.30%",
+        "price": "",
+        "symbol": "KOD"
+      },
+      {
+        "change": "+3.30",
+        "change_pts": null,
+        "close": 6610.0,
+        "name": "Fastly, Inc.",
+        "open": null,
+        "pct_change": "+11.36%",
+        "price": "",
+        "symbol": "FSLY"
+      },
+      {
+        "change": "+2.74",
+        "change_pts": null,
+        "close": null,
+        "name": "Constellium SE",
+        "open": null,
+        "pct_change": "+11.15%",
+        "price": "",
+        "symbol": "CSTM"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-26.97",
+        "change_pts": null,
+        "close": 6573.25,
+        "name": "RH",
+        "open": null,
+        "pct_change": "-19.29%",
+        "price": "",
+        "symbol": "RH"
+      },
+      {
+        "change": "-9.84",
+        "change_pts": null,
+        "close": 6628.75,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "-17.27%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "-8.19",
+        "change_pts": null,
+        "close": 6570.25,
+        "name": "NIKE, Inc.",
+        "open": null,
+        "pct_change": "-15.51%",
+        "price": "",
+        "symbol": "NKE"
+      },
+      {
+        "change": "-1.82",
+        "change_pts": null,
+        "close": 6573.25,
+        "name": "Sable Offshore Corp.",
+        "open": null,
+        "pct_change": "-11.02%",
+        "price": "",
+        "symbol": "SOC"
+      },
+      {
+        "change": "-3.78",
+        "change_pts": null,
+        "close": null,
+        "name": "Lamb Weston Holdings, Inc.",
+        "open": null,
+        "pct_change": "-8.94%",
+        "price": "",
+        "symbol": "LW"
+      }
+    ],
+    "scraped_at": "2026-04-01T21:43:15.039878-04:00"
   }
 }
