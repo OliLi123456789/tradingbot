@@ -11126,5 +11126,112 @@
       }
     ],
     "scraped_at": "2026-04-02T21:43:22.652915-04:00"
+  },
+  "2026-04-06": {
+    "gainers": [
+      {
+        "change": "+12.76",
+        "change_pts": null,
+        "close": null,
+        "name": "Soleno Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+32.31%",
+        "price": "",
+        "symbol": "SLNO"
+      },
+      {
+        "change": "+22.18",
+        "change_pts": null,
+        "close": 6635.25,
+        "name": "Avis Budget Group, Inc.",
+        "open": null,
+        "pct_change": "+11.65%",
+        "price": "",
+        "symbol": "CAR"
+      },
+      {
+        "change": "+13.87",
+        "change_pts": null,
+        "close": null,
+        "name": "Boot Barn Holdings, Inc.",
+        "open": null,
+        "pct_change": "+10.26%",
+        "price": "",
+        "symbol": "BOOT"
+      },
+      {
+        "change": "+6.78",
+        "change_pts": null,
+        "close": 6611.83,
+        "name": "Kratos Defense & Security Solutions, Inc.",
+        "open": null,
+        "pct_change": "+10.07%",
+        "price": "",
+        "symbol": "KTOS"
+      },
+      {
+        "change": "+1.56",
+        "change_pts": null,
+        "close": 6606.49,
+        "name": "Amprius Technologies, Inc.",
+        "open": null,
+        "pct_change": "+9.75%",
+        "price": "",
+        "symbol": "AMPX"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-10.85",
+        "change_pts": null,
+        "close": 6556.43,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "-20.53%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "-2.18",
+        "change_pts": null,
+        "close": 6656.58,
+        "name": "PayPay Corporation",
+        "open": null,
+        "pct_change": "-10.37%",
+        "price": "",
+        "symbol": "PAYP"
+      },
+      {
+        "change": "-1.26",
+        "change_pts": null,
+        "close": 6635.75,
+        "name": "FIGS, Inc.",
+        "open": null,
+        "pct_change": "-8.59%",
+        "price": "",
+        "symbol": "FIGS"
+      },
+      {
+        "change": "-1.19",
+        "change_pts": null,
+        "close": 6634.75,
+        "name": "Sable Offshore Corp.",
+        "open": null,
+        "pct_change": "-7.74%",
+        "price": "",
+        "symbol": "SOC"
+      },
+      {
+        "change": "-3.66",
+        "change_pts": null,
+        "close": 6582.69,
+        "name": "SolarEdge Technologies, Inc.",
+        "open": null,
+        "pct_change": "-7.51%",
+        "price": "",
+        "symbol": "SEDG"
+      }
+    ],
+    "scraped_at": "2026-04-06T21:44:08.508872-04:00"
   }
 }
