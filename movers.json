@@ -11233,5 +11233,112 @@
       }
     ],
     "scraped_at": "2026-04-06T21:44:08.508872-04:00"
+  },
+  "2026-04-07": {
+    "gainers": [
+      {
+        "change": "+42.55",
+        "change_pts": null,
+        "close": 6801.0,
+        "name": "Avis Budget Group, Inc.",
+        "open": null,
+        "pct_change": "+20.01%",
+        "price": "",
+        "symbol": "CAR"
+      },
+      {
+        "change": "+2.99",
+        "change_pts": null,
+        "close": null,
+        "name": "Alignment Healthcare, Inc.",
+        "open": null,
+        "pct_change": "+16.01%",
+        "price": "",
+        "symbol": "ALHC"
+      },
+      {
+        "change": "+4.22",
+        "change_pts": null,
+        "close": null,
+        "name": "Enliven Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+10.84%",
+        "price": "",
+        "symbol": "ELVN"
+      },
+      {
+        "change": "+1.05",
+        "change_pts": null,
+        "close": null,
+        "name": "Paramount Skydance Corporation",
+        "open": null,
+        "pct_change": "+10.66%",
+        "price": "",
+        "symbol": "PSKY"
+      },
+      {
+        "change": "+10.19",
+        "change_pts": null,
+        "close": 6803.0,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "+9.48%",
+        "price": "",
+        "symbol": "AAOI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-7.11",
+        "change_pts": null,
+        "close": null,
+        "name": "Veradermics, Incorporated",
+        "open": null,
+        "pct_change": "-11.14%",
+        "price": "",
+        "symbol": "MANE"
+      },
+      {
+        "change": "-1.52",
+        "change_pts": null,
+        "close": 6801.0,
+        "name": "Mach Natural Resources LP",
+        "open": null,
+        "pct_change": "-10.74%",
+        "price": "",
+        "symbol": "MNR"
+      },
+      {
+        "change": "-1.01",
+        "change_pts": null,
+        "close": 6807.25,
+        "name": "NuScale Power Corporation",
+        "open": null,
+        "pct_change": "-9.93%",
+        "price": "",
+        "symbol": "SMR"
+      },
+      {
+        "change": "-40.20",
+        "change_pts": null,
+        "close": 6582.69,
+        "name": "Axon Enterprise, Inc.",
+        "open": null,
+        "pct_change": "-9.73%",
+        "price": "",
+        "symbol": "AXON"
+      },
+      {
+        "change": "-2.97",
+        "change_pts": null,
+        "close": null,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-9.63%",
+        "price": "",
+        "symbol": "RGC"
+      }
+    ],
+    "scraped_at": "2026-04-07T21:43:58.726452-04:00"
   }
 }
