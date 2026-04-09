@@ -11340,5 +11340,112 @@
       }
     ],
     "scraped_at": "2026-04-07T21:43:58.726452-04:00"
+  },
+  "2026-04-08": {
+    "gainers": [
+      {
+        "change": "+7.72",
+        "change_pts": null,
+        "close": 6556.43,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "+16.98%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "+8.77",
+        "change_pts": null,
+        "close": 6815.5,
+        "name": "Hut 8 Corp.",
+        "open": null,
+        "pct_change": "+16.65%",
+        "price": "",
+        "symbol": "HUT"
+      },
+      {
+        "change": "+2.14",
+        "change_pts": null,
+        "close": 6806.25,
+        "name": "USA Rare Earth, Inc.",
+        "open": null,
+        "pct_change": "+14.62%",
+        "price": "",
+        "symbol": "USAR"
+      },
+      {
+        "change": "+1.92",
+        "change_pts": null,
+        "close": 6582.69,
+        "name": "Riot Platforms, Inc.",
+        "open": null,
+        "pct_change": "+13.53%",
+        "price": "",
+        "symbol": "RIOT"
+      },
+      {
+        "change": "+25.01",
+        "change_pts": null,
+        "close": 6807.25,
+        "name": "VSE Corporation",
+        "open": null,
+        "pct_change": "+13.45%",
+        "price": "",
+        "symbol": "VSEC"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.21",
+        "change_pts": null,
+        "close": 6582.69,
+        "name": "APA Corporation",
+        "open": null,
+        "pct_change": "-9.80%",
+        "price": "",
+        "symbol": "APA"
+      },
+      {
+        "change": "-1.55",
+        "change_pts": null,
+        "close": 6814.0,
+        "name": "Venture Global, Inc.",
+        "open": null,
+        "pct_change": "-9.69%",
+        "price": "",
+        "symbol": "VG"
+      },
+      {
+        "change": "-3.64",
+        "change_pts": null,
+        "close": 6782.81,
+        "name": "Murphy Oil Corporation",
+        "open": null,
+        "pct_change": "-8.52%",
+        "price": "",
+        "symbol": "MUR"
+      },
+      {
+        "change": "-1.14",
+        "change_pts": null,
+        "close": 6809.75,
+        "name": "Sasol Limited",
+        "open": null,
+        "pct_change": "-8.38%",
+        "price": "",
+        "symbol": "SSL"
+      },
+      {
+        "change": "-6.61",
+        "change_pts": null,
+        "close": 6409.75,
+        "name": "Wix.com Ltd.",
+        "open": null,
+        "pct_change": "-8.16%",
+        "price": "",
+        "symbol": "WIX"
+      }
+    ],
+    "scraped_at": "2026-04-08T21:43:10.872607-04:00"
   }
 }
