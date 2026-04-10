@@ -11447,5 +11447,112 @@
       }
     ],
     "scraped_at": "2026-04-08T21:43:10.872607-04:00"
+  },
+  "2026-04-09": {
+    "gainers": [
+      {
+        "change": "+1.36",
+        "change_pts": null,
+        "close": 6555.45,
+        "name": "Eos Energy Enterprises, Inc.",
+        "open": null,
+        "pct_change": "+29.63%",
+        "price": "",
+        "symbol": "EOSE"
+      },
+      {
+        "change": "+8.06",
+        "change_pts": null,
+        "close": 6863.25,
+        "name": "York Space Systems Inc.",
+        "open": null,
+        "pct_change": "+28.84%",
+        "price": "",
+        "symbol": "YSS"
+      },
+      {
+        "change": "+9.94",
+        "change_pts": null,
+        "close": 6801.5,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "+18.69%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "+35.73",
+        "change_pts": null,
+        "close": 6864.75,
+        "name": "Avis Budget Group, Inc.",
+        "open": null,
+        "pct_change": "+13.67%",
+        "price": "",
+        "symbol": "CAR"
+      },
+      {
+        "change": "+3.46",
+        "change_pts": null,
+        "close": 6524.5,
+        "name": "Brown-Forman Corporation",
+        "open": null,
+        "pct_change": "+12.89%",
+        "price": "",
+        "symbol": "BF-B"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-70.31",
+        "change_pts": null,
+        "close": 6814.0,
+        "name": "Texas Pacific Land Corporation",
+        "open": null,
+        "pct_change": "-15.68%",
+        "price": "",
+        "symbol": "TPL"
+      },
+      {
+        "change": "-10.68",
+        "change_pts": null,
+        "close": null,
+        "name": "Qualys, Inc.",
+        "open": null,
+        "pct_change": "-12.23%",
+        "price": "",
+        "symbol": "QLYS"
+      },
+      {
+        "change": "-17.75",
+        "change_pts": null,
+        "close": 6867.75,
+        "name": "Snowflake Inc.",
+        "open": null,
+        "pct_change": "-11.83%",
+        "price": "",
+        "symbol": "SNOW"
+      },
+      {
+        "change": "-15.62",
+        "change_pts": null,
+        "close": 6814.0,
+        "name": "Zscaler, Inc.",
+        "open": null,
+        "pct_change": "-11.33%",
+        "price": "",
+        "symbol": "ZS"
+      },
+      {
+        "change": "-8.28",
+        "change_pts": null,
+        "close": 6799.5,
+        "name": "Okta, Inc.",
+        "open": null,
+        "pct_change": "-10.89%",
+        "price": "",
+        "symbol": "OKTA"
+      }
+    ],
+    "scraped_at": "2026-04-09T21:45:17.746956-04:00"
   }
 }
