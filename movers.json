@@ -11554,5 +11554,112 @@
       }
     ],
     "scraped_at": "2026-04-09T21:45:17.746956-04:00"
+  },
+  "2026-04-10": {
+    "gainers": [
+      {
+        "change": "+1.92",
+        "change_pts": null,
+        "close": 6801.5,
+        "name": "Organon & Co.",
+        "open": null,
+        "pct_change": "+27.79%",
+        "price": "",
+        "symbol": "OGN"
+      },
+      {
+        "change": "+1.31",
+        "change_pts": null,
+        "close": 6816.89,
+        "name": "Xanadu Quantum Technologies Limited",
+        "open": null,
+        "pct_change": "+17.12%",
+        "price": "",
+        "symbol": "XNDU"
+      },
+      {
+        "change": "+19.59",
+        "change_pts": null,
+        "close": 6801.5,
+        "name": "Astera Labs, Inc.",
+        "open": null,
+        "pct_change": "+15.13%",
+        "price": "",
+        "symbol": "ALAB"
+      },
+      {
+        "change": "+8.82",
+        "change_pts": null,
+        "close": null,
+        "name": "Veradermics, Incorporated",
+        "open": null,
+        "pct_change": "+14.70%",
+        "price": "",
+        "symbol": "MANE"
+      },
+      {
+        "change": "+13.96",
+        "change_pts": null,
+        "close": null,
+        "name": "TTM Technologies, Inc.",
+        "open": null,
+        "pct_change": "+12.98%",
+        "price": "",
+        "symbol": "TTMI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-6.39",
+        "change_pts": null,
+        "close": 6582.69,
+        "name": "Fastly, Inc.",
+        "open": null,
+        "pct_change": "-21.69%",
+        "price": "",
+        "symbol": "FSLY"
+      },
+      {
+        "change": "-18.26",
+        "change_pts": null,
+        "close": 6816.89,
+        "name": "Akamai Technologies, Inc.",
+        "open": null,
+        "pct_change": "-16.66%",
+        "price": "",
+        "symbol": "AKAM"
+      },
+      {
+        "change": "-149.98",
+        "change_pts": null,
+        "close": 6816.89,
+        "name": "Fair Isaac Corporation",
+        "open": null,
+        "pct_change": "-13.99%",
+        "price": "",
+        "symbol": "FICO"
+      },
+      {
+        "change": "-9.41",
+        "change_pts": null,
+        "close": null,
+        "name": "Sezzle Inc.",
+        "open": null,
+        "pct_change": "-13.62%",
+        "price": "",
+        "symbol": "SEZL"
+      },
+      {
+        "change": "-26.06",
+        "change_pts": null,
+        "close": 6814.0,
+        "name": "Cloudflare, Inc.",
+        "open": null,
+        "pct_change": "-13.50%",
+        "price": "",
+        "symbol": "NET"
+      }
+    ],
+    "scraped_at": "2026-04-10T21:43:39.327326-04:00"
   }
 }
