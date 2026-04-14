@@ -11661,5 +11661,112 @@
       }
     ],
     "scraped_at": "2026-04-10T21:43:39.327326-04:00"
+  },
+  "2026-04-13": {
+    "gainers": [
+      {
+        "change": "+39.87",
+        "change_pts": null,
+        "close": 6368.85,
+        "name": "Revolution Medicines, Inc.",
+        "open": null,
+        "pct_change": "+41.35%",
+        "price": "",
+        "symbol": "RVMD"
+      },
+      {
+        "change": "+2.53",
+        "change_pts": null,
+        "close": 6923.0,
+        "name": "Xanadu Quantum Technologies Limited",
+        "open": null,
+        "pct_change": "+28.24%",
+        "price": "",
+        "symbol": "XNDU"
+      },
+      {
+        "change": "+71.07",
+        "change_pts": null,
+        "close": 6924.5,
+        "name": "Avis Budget Group, Inc.",
+        "open": null,
+        "pct_change": "+23.69%",
+        "price": "",
+        "symbol": "CAR"
+      },
+      {
+        "change": "+11.98",
+        "change_pts": null,
+        "close": null,
+        "name": "Spyre Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+23.36%",
+        "price": "",
+        "symbol": "SYRE"
+      },
+      {
+        "change": "+2.74",
+        "change_pts": null,
+        "close": 6924.25,
+        "name": "Almonty Industries Inc.",
+        "open": null,
+        "pct_change": "+15.32%",
+        "price": "",
+        "symbol": "ALM"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.11",
+        "change_pts": null,
+        "close": null,
+        "name": "GFL Environmental Inc.",
+        "open": null,
+        "pct_change": "-9.55%",
+        "price": "",
+        "symbol": "GFL"
+      },
+      {
+        "change": "-3.37",
+        "change_pts": null,
+        "close": 6816.89,
+        "name": "Fastenal Company",
+        "open": null,
+        "pct_change": "-6.85%",
+        "price": "",
+        "symbol": "FAST"
+      },
+      {
+        "change": "-14.08",
+        "change_pts": null,
+        "close": null,
+        "name": "The Boston Beer Company, Inc.",
+        "open": null,
+        "pct_change": "-5.47%",
+        "price": "",
+        "symbol": "SAM"
+      },
+      {
+        "change": "-6.42",
+        "change_pts": null,
+        "close": null,
+        "name": "Nextpower Inc.",
+        "open": null,
+        "pct_change": "-5.44%",
+        "price": "",
+        "symbol": "NXT"
+      },
+      {
+        "change": "-3.02",
+        "change_pts": null,
+        "close": 6816.89,
+        "name": "Dutch Bros Inc.",
+        "open": null,
+        "pct_change": "-5.40%",
+        "price": "",
+        "symbol": "BROS"
+      }
+    ],
+    "scraped_at": "2026-04-13T21:43:22.938005-04:00"
   }
 }
