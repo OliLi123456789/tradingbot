@@ -11768,5 +11768,112 @@
       }
     ],
     "scraped_at": "2026-04-13T21:43:22.938005-04:00"
+  },
+  "2026-04-14": {
+    "gainers": [
+      {
+        "change": "+11.43",
+        "change_pts": null,
+        "close": null,
+        "name": "Travere Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+37.23%",
+        "price": "",
+        "symbol": "TVTX"
+      },
+      {
+        "change": "+3.34",
+        "change_pts": null,
+        "close": 7010.0,
+        "name": "Xanadu Quantum Technologies Limited",
+        "open": null,
+        "pct_change": "+29.07%",
+        "price": "",
+        "symbol": "XNDU"
+      },
+      {
+        "change": "+42.36",
+        "change_pts": null,
+        "close": 6582.69,
+        "name": "Bloom Energy Corporation",
+        "open": null,
+        "pct_change": "+23.98%",
+        "price": "",
+        "symbol": "BE"
+      },
+      {
+        "change": "+6.00",
+        "change_pts": null,
+        "close": 6582.69,
+        "name": "IonQ, Inc.",
+        "open": null,
+        "pct_change": "+20.16%",
+        "price": "",
+        "symbol": "IONQ"
+      },
+      {
+        "change": "+25.16",
+        "change_pts": null,
+        "close": 6816.89,
+        "name": "Credo Technology Group Holding Ltd",
+        "open": null,
+        "pct_change": "+18.73%",
+        "price": "",
+        "symbol": "CRDO"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-7.42",
+        "change_pts": null,
+        "close": 6816.89,
+        "name": "CarMax, Inc.",
+        "open": null,
+        "pct_change": "-15.12%",
+        "price": "",
+        "symbol": "KMX"
+      },
+      {
+        "change": "-3.42",
+        "change_pts": null,
+        "close": 6909.55,
+        "name": "Fastly, Inc.",
+        "open": null,
+        "pct_change": "-14.03%",
+        "price": "",
+        "symbol": "FSLY"
+      },
+      {
+        "change": "-10.48",
+        "change_pts": null,
+        "close": 6802.0,
+        "name": "AST SpaceMobile, Inc.",
+        "open": null,
+        "pct_change": "-10.59%",
+        "price": "",
+        "symbol": "ASTS"
+      },
+      {
+        "change": "-6.42",
+        "change_pts": null,
+        "close": 6802.0,
+        "name": "DigitalOcean Holdings, Inc.",
+        "open": null,
+        "pct_change": "-8.04%",
+        "price": "",
+        "symbol": "DOCN"
+      },
+      {
+        "change": "-7.06",
+        "change_pts": null,
+        "close": null,
+        "name": "Valaris Limited",
+        "open": null,
+        "pct_change": "-7.13%",
+        "price": "",
+        "symbol": "VAL"
+      }
+    ],
+    "scraped_at": "2026-04-14T21:43:47.590502-04:00"
   }
 }
