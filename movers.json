@@ -12089,5 +12089,112 @@
       }
     ],
     "scraped_at": "2026-04-16T21:43:46.535933-04:00"
+  },
+  "2026-04-17": {
+    "gainers": [
+      {
+        "change": "+2.36",
+        "change_pts": null,
+        "close": null,
+        "name": "Maase Inc.",
+        "open": null,
+        "pct_change": "+31.55%",
+        "price": "",
+        "symbol": "MAAS"
+      },
+      {
+        "change": "+2.92",
+        "change_pts": null,
+        "close": null,
+        "name": "MaxLinear, Inc.",
+        "open": null,
+        "pct_change": "+12.51%",
+        "price": "",
+        "symbol": "MXL"
+      },
+      {
+        "change": "+1.38",
+        "change_pts": null,
+        "close": null,
+        "name": "Lionsgate Studios Corp.",
+        "open": null,
+        "pct_change": "+12.47%",
+        "price": "",
+        "symbol": "LION"
+      },
+      {
+        "change": "+13.49",
+        "change_pts": null,
+        "close": null,
+        "name": "Construction Partners, Inc.",
+        "open": null,
+        "pct_change": "+12.03%",
+        "price": "",
+        "symbol": "ROAD"
+      },
+      {
+        "change": "+1.85",
+        "change_pts": null,
+        "close": 7126.06,
+        "name": "Infleqtion, Inc.",
+        "open": null,
+        "pct_change": "+11.88%",
+        "price": "",
+        "symbol": "INFQ"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-36.75",
+        "change_pts": null,
+        "close": null,
+        "name": "Badger Meter, Inc.",
+        "open": null,
+        "pct_change": "-24.13%",
+        "price": "",
+        "symbol": "BMI"
+      },
+      {
+        "change": "-5.47",
+        "change_pts": null,
+        "close": 7126.06,
+        "name": "PBF Energy Inc.",
+        "open": null,
+        "pct_change": "-12.83%",
+        "price": "",
+        "symbol": "PBF"
+      },
+      {
+        "change": "-5.22",
+        "change_pts": null,
+        "close": null,
+        "name": "Delek US Holdings, Inc.",
+        "open": null,
+        "pct_change": "-12.30%",
+        "price": "",
+        "symbol": "DK"
+      },
+      {
+        "change": "-9.02",
+        "change_pts": null,
+        "close": 6986.54,
+        "name": "LyondellBasell Industries N.V.",
+        "open": null,
+        "pct_change": "-11.98%",
+        "price": "",
+        "symbol": "LYB"
+      },
+      {
+        "change": "-4.32",
+        "change_pts": null,
+        "close": 6525.75,
+        "name": "Dow Inc.",
+        "open": null,
+        "pct_change": "-10.82%",
+        "price": "",
+        "symbol": "DOW"
+      }
+    ],
+    "scraped_at": "2026-04-17T21:44:04.768671-04:00"
   }
 }
