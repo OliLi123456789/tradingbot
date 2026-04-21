@@ -12196,5 +12196,112 @@
       }
     ],
     "scraped_at": "2026-04-17T21:44:04.768671-04:00"
+  },
+  "2026-04-20": {
+    "gainers": [
+      {
+        "change": "+114.94",
+        "change_pts": null,
+        "close": 7160.25,
+        "name": "Avis Budget Group, Inc.",
+        "open": null,
+        "pct_change": "+23.27%",
+        "price": "",
+        "symbol": "CAR"
+      },
+      {
+        "change": "+5.46",
+        "change_pts": null,
+        "close": null,
+        "name": "MaxLinear, Inc.",
+        "open": null,
+        "pct_change": "+20.78%",
+        "price": "",
+        "symbol": "MXL"
+      },
+      {
+        "change": "+79.52",
+        "change_pts": null,
+        "close": null,
+        "name": "TopBuild Corp.",
+        "open": null,
+        "pct_change": "+19.38%",
+        "price": "",
+        "symbol": "BLD"
+      },
+      {
+        "change": "+3.90",
+        "change_pts": null,
+        "close": null,
+        "name": "Legend Biotech Corporation",
+        "open": null,
+        "pct_change": "+18.42%",
+        "price": "",
+        "symbol": "LEGN"
+      },
+      {
+        "change": "+15.49",
+        "change_pts": null,
+        "close": 7089.75,
+        "name": "Nektar Therapeutics",
+        "open": null,
+        "pct_change": "+18.25%",
+        "price": "",
+        "symbol": "NKTR"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-1.15",
+        "change_pts": null,
+        "close": 7161.75,
+        "name": "Fermi Inc.",
+        "open": null,
+        "pct_change": "-17.56%",
+        "price": "",
+        "symbol": "FRMI"
+      },
+      {
+        "change": "-1.82",
+        "change_pts": null,
+        "close": null,
+        "name": "Babcock & Wilcox Enterprises, Inc.",
+        "open": null,
+        "pct_change": "-9.91%",
+        "price": "",
+        "symbol": "BW"
+      },
+      {
+        "change": "-2.57",
+        "change_pts": null,
+        "close": 7161.75,
+        "name": "Xanadu Quantum Technologies Limited",
+        "open": null,
+        "pct_change": "-8.51%",
+        "price": "",
+        "symbol": "XNDU"
+      },
+      {
+        "change": "-1.42",
+        "change_pts": null,
+        "close": 7157.75,
+        "name": "Infleqtion, Inc.",
+        "open": null,
+        "pct_change": "-8.15%",
+        "price": "",
+        "symbol": "INFQ"
+      },
+      {
+        "change": "-0.55",
+        "change_pts": null,
+        "close": 7158.0,
+        "name": "Lucid Group, Inc.",
+        "open": null,
+        "pct_change": "-7.53%",
+        "price": "",
+        "symbol": "LCID"
+      }
+    ],
+    "scraped_at": "2026-04-20T21:44:00.431696-04:00"
   }
 }
