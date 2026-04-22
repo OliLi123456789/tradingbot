@@ -12303,5 +12303,112 @@
       }
     ],
     "scraped_at": "2026-04-20T21:44:00.431696-04:00"
+  },
+  "2026-04-21": {
+    "gainers": [
+      {
+        "change": "+105.17",
+        "change_pts": null,
+        "close": 7135.75,
+        "name": "Avis Budget Group, Inc.",
+        "open": null,
+        "pct_change": "+17.27%",
+        "price": "",
+        "symbol": "CAR"
+      },
+      {
+        "change": "+2.13",
+        "change_pts": null,
+        "close": 6801.25,
+        "name": "Navitas Semiconductor Corporation",
+        "open": null,
+        "pct_change": "+16.14%",
+        "price": "",
+        "symbol": "NVTS"
+      },
+      {
+        "change": "+48.89",
+        "change_pts": null,
+        "close": 7135.75,
+        "name": "Valmont Industries, Inc.",
+        "open": null,
+        "pct_change": "+11.93%",
+        "price": "",
+        "symbol": "VMI"
+      },
+      {
+        "change": "+13.82",
+        "change_pts": null,
+        "close": 7136.25,
+        "name": "Mueller Industries, Inc.",
+        "open": null,
+        "pct_change": "+11.43%",
+        "price": "",
+        "symbol": "MLI"
+      },
+      {
+        "change": "+1.44",
+        "change_pts": null,
+        "close": null,
+        "name": "Pitney Bowes Inc.",
+        "open": null,
+        "pct_change": "+10.92%",
+        "price": "",
+        "symbol": "PBI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.73",
+        "change_pts": null,
+        "close": 7136.0,
+        "name": "Xanadu Quantum Technologies Limited",
+        "open": null,
+        "pct_change": "-17.12%",
+        "price": "",
+        "symbol": "XNDU"
+      },
+      {
+        "change": "-30.75",
+        "change_pts": null,
+        "close": 7135.75,
+        "name": "VSE Corporation",
+        "open": null,
+        "pct_change": "-13.66%",
+        "price": "",
+        "symbol": "VSEC"
+      },
+      {
+        "change": "-1.36",
+        "change_pts": null,
+        "close": 7064.01,
+        "name": "NovaGold Resources Inc.",
+        "open": null,
+        "pct_change": "-12.65%",
+        "price": "",
+        "symbol": "NG"
+      },
+      {
+        "change": "-1.26",
+        "change_pts": null,
+        "close": null,
+        "name": "Maase Inc.",
+        "open": null,
+        "pct_change": "-12.19%",
+        "price": "",
+        "symbol": "MAAS"
+      },
+      {
+        "change": "-5.24",
+        "change_pts": null,
+        "close": 7136.25,
+        "name": "Tractor Supply Company",
+        "open": null,
+        "pct_change": "-11.69%",
+        "price": "",
+        "symbol": "TSCO"
+      }
+    ],
+    "scraped_at": "2026-04-21T21:44:21.036532-04:00"
   }
 }
