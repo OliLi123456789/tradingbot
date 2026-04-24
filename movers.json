@@ -12517,5 +12517,112 @@
       }
     ],
     "scraped_at": "2026-04-22T21:43:00.240777-04:00"
+  },
+  "2026-04-23": {
+    "gainers": [
+      {
+        "change": "+183.99",
+        "change_pts": null,
+        "close": 6816.89,
+        "name": "United Rentals, Inc.",
+        "open": null,
+        "pct_change": "+22.92%",
+        "price": "",
+        "symbol": "URI"
+      },
+      {
+        "change": "+45.92",
+        "change_pts": null,
+        "close": 7157.0,
+        "name": "Texas Instruments Incorporated",
+        "open": null,
+        "pct_change": "+19.43%",
+        "price": "",
+        "symbol": "TXN"
+      },
+      {
+        "change": "+2.49",
+        "change_pts": null,
+        "close": 7153.25,
+        "name": "PENN Entertainment, Inc.",
+        "open": null,
+        "pct_change": "+16.86%",
+        "price": "",
+        "symbol": "PENN"
+      },
+      {
+        "change": "+3.05",
+        "change_pts": null,
+        "close": null,
+        "name": "EquipmentShare.com Inc.",
+        "open": null,
+        "pct_change": "+14.20%",
+        "price": "",
+        "symbol": "EQPT"
+      },
+      {
+        "change": "+21.70",
+        "change_pts": null,
+        "close": 7155.75,
+        "name": "Molina Healthcare, Inc.",
+        "open": null,
+        "pct_change": "+14.18%",
+        "price": "",
+        "symbol": "MOH"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-214.80",
+        "change_pts": null,
+        "close": 7157.0,
+        "name": "Avis Budget Group, Inc.",
+        "open": null,
+        "pct_change": "-48.38%",
+        "price": "",
+        "symbol": "CAR"
+      },
+      {
+        "change": "-115.04",
+        "change_pts": null,
+        "close": 7155.25,
+        "name": "Medpace Holdings, Inc.",
+        "open": null,
+        "pct_change": "-22.63%",
+        "price": "",
+        "symbol": "MEDP"
+      },
+      {
+        "change": "-7.74",
+        "change_pts": null,
+        "close": 7156.0,
+        "name": "York Space Systems Inc.",
+        "open": null,
+        "pct_change": "-17.81%",
+        "price": "",
+        "symbol": "YSS"
+      },
+      {
+        "change": "-18.29",
+        "change_pts": null,
+        "close": 7132.75,
+        "name": "ServiceNow, Inc.",
+        "open": null,
+        "pct_change": "-17.75%",
+        "price": "",
+        "symbol": "NOW"
+      },
+      {
+        "change": "-5.90",
+        "change_pts": null,
+        "close": 7156.5,
+        "name": "Xanadu Quantum Technologies Limited",
+        "open": null,
+        "pct_change": "-16.98%",
+        "price": "",
+        "symbol": "XNDU"
+      }
+    ],
+    "scraped_at": "2026-04-23T21:43:14.373570-04:00"
   }
 }
