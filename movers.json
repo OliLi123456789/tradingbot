@@ -12624,5 +12624,112 @@
       }
     ],
     "scraped_at": "2026-04-23T21:43:14.373570-04:00"
+  },
+  "2026-04-24": {
+    "gainers": [
+      {
+        "change": "+26.07",
+        "change_pts": null,
+        "close": 7148.0,
+        "name": "MaxLinear, Inc.",
+        "open": null,
+        "pct_change": "+76.12%",
+        "price": "",
+        "symbol": "MXL"
+      },
+      {
+        "change": "+2.66",
+        "change_pts": null,
+        "close": 7083.0,
+        "name": "Organon & Co.",
+        "open": null,
+        "pct_change": "+30.93%",
+        "price": "",
+        "symbol": "OGN"
+      },
+      {
+        "change": "+3.38",
+        "change_pts": null,
+        "close": 7165.08,
+        "name": "POET Technologies Inc.",
+        "open": null,
+        "pct_change": "+28.84%",
+        "price": "",
+        "symbol": "POET"
+      },
+      {
+        "change": "+23.92",
+        "change_pts": null,
+        "close": 7165.08,
+        "name": "Sensient Technologies Corporation",
+        "open": null,
+        "pct_change": "+24.11%",
+        "price": "",
+        "symbol": "SXT"
+      },
+      {
+        "change": "+15.76",
+        "change_pts": null,
+        "close": 7150.75,
+        "name": "Intel Corporation",
+        "open": null,
+        "pct_change": "+23.60%",
+        "price": "",
+        "symbol": "INTC"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-14.52",
+        "change_pts": null,
+        "close": null,
+        "name": "Liberty Broadband Corporation",
+        "open": null,
+        "pct_change": "-25.74%",
+        "price": "",
+        "symbol": "LBRDA"
+      },
+      {
+        "change": "-14.53",
+        "change_pts": null,
+        "close": null,
+        "name": "Liberty Broadband Corporation",
+        "open": null,
+        "pct_change": "-25.73%",
+        "price": "",
+        "symbol": "LBRDK"
+      },
+      {
+        "change": "-61.65",
+        "change_pts": null,
+        "close": 7165.08,
+        "name": "Charter Communications, Inc.",
+        "open": null,
+        "pct_change": "-25.50%",
+        "price": "",
+        "symbol": "CHTR"
+      },
+      {
+        "change": "-2.33",
+        "change_pts": null,
+        "close": 7165.08,
+        "name": "StoneCo Ltd.",
+        "open": null,
+        "pct_change": "-16.01%",
+        "price": "",
+        "symbol": "STNE"
+      },
+      {
+        "change": "-4.65",
+        "change_pts": null,
+        "close": 7165.08,
+        "name": "York Space Systems Inc.",
+        "open": null,
+        "pct_change": "-13.02%",
+        "price": "",
+        "symbol": "YSS"
+      }
+    ],
+    "scraped_at": "2026-04-24T21:43:15.377966-04:00"
   }
 }
