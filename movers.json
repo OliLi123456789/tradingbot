@@ -12731,5 +12731,112 @@
       }
     ],
     "scraped_at": "2026-04-24T21:43:15.377966-04:00"
+  },
+  "2026-04-27": {
+    "gainers": [
+      {
+        "change": "+32.26",
+        "change_pts": null,
+        "close": null,
+        "name": "Veradermics, Incorporated",
+        "open": null,
+        "pct_change": "+47.55%",
+        "price": "",
+        "symbol": "MANE"
+      },
+      {
+        "change": "+1.90",
+        "change_pts": null,
+        "close": 7083.0,
+        "name": "Organon & Co.",
+        "open": null,
+        "pct_change": "+16.87%",
+        "price": "",
+        "symbol": "OGN"
+      },
+      {
+        "change": "+7.36",
+        "change_pts": null,
+        "close": null,
+        "name": "Oruka Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+10.66%",
+        "price": "",
+        "symbol": "ORKA"
+      },
+      {
+        "change": "+1.36",
+        "change_pts": null,
+        "close": 7215.5,
+        "name": "Uranium Energy Corp.",
+        "open": null,
+        "pct_change": "+9.68%",
+        "price": "",
+        "symbol": "UEC"
+      },
+      {
+        "change": "+0.85",
+        "change_pts": null,
+        "close": 7214.25,
+        "name": "Cleveland-Cliffs Inc.",
+        "open": null,
+        "pct_change": "+8.71%",
+        "price": "",
+        "symbol": "CLF"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-8.67",
+        "change_pts": null,
+        "close": 7148.0,
+        "name": "MaxLinear, Inc.",
+        "open": null,
+        "pct_change": "-14.37%",
+        "price": "",
+        "symbol": "MXL"
+      },
+      {
+        "change": "-2.35",
+        "change_pts": null,
+        "close": 7213.0,
+        "name": "Erasca, Inc.",
+        "open": null,
+        "pct_change": "-10.93%",
+        "price": "",
+        "symbol": "ERAS"
+      },
+      {
+        "change": "-17.09",
+        "change_pts": null,
+        "close": 6991.29,
+        "name": "Rambus Inc.",
+        "open": null,
+        "pct_change": "-10.79%",
+        "price": "",
+        "symbol": "RMBS"
+      },
+      {
+        "change": "-16.39",
+        "change_pts": null,
+        "close": 7215.75,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "-10.11%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "-25.69",
+        "change_pts": null,
+        "close": null,
+        "name": "Bel Fuse Inc.",
+        "open": null,
+        "pct_change": "-9.29%",
+        "price": "",
+        "symbol": "BELFB"
+      }
+    ],
+    "scraped_at": "2026-04-27T21:43:26.560377-04:00"
   }
 }
