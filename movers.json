@@ -12838,5 +12838,112 @@
       }
     ],
     "scraped_at": "2026-04-27T21:43:26.560377-04:00"
+  },
+  "2026-04-28": {
+    "gainers": [
+      {
+        "change": "+10.24",
+        "change_pts": null,
+        "close": null,
+        "name": "Kiniksa Pharmaceuticals International, plc",
+        "open": null,
+        "pct_change": "+23.48%",
+        "price": "",
+        "symbol": "KNSA"
+      },
+      {
+        "change": "+1.87",
+        "change_pts": null,
+        "close": null,
+        "name": "Maase Inc.",
+        "open": null,
+        "pct_change": "+21.37%",
+        "price": "",
+        "symbol": "MAAS"
+      },
+      {
+        "change": "+7.88",
+        "change_pts": null,
+        "close": 7176.75,
+        "name": "Omnicell, Inc.",
+        "open": null,
+        "pct_change": "+20.94%",
+        "price": "",
+        "symbol": "OMCL"
+      },
+      {
+        "change": "+27.38",
+        "change_pts": null,
+        "close": 7211.25,
+        "name": "Sanmina Corporation",
+        "open": null,
+        "pct_change": "+14.56%",
+        "price": "",
+        "symbol": "SANM"
+      },
+      {
+        "change": "+9.37",
+        "change_pts": null,
+        "close": 7179.25,
+        "name": "CECO Environmental Corp.",
+        "open": null,
+        "pct_change": "+14.43%",
+        "price": "",
+        "symbol": "CECO"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-9.63",
+        "change_pts": null,
+        "close": 7142.06,
+        "name": "Vistance Networks, Inc.",
+        "open": null,
+        "pct_change": "-49.31%",
+        "price": "",
+        "symbol": "VISN"
+      },
+      {
+        "change": "-9.25",
+        "change_pts": null,
+        "close": 7213.0,
+        "name": "Erasca, Inc.",
+        "open": null,
+        "pct_change": "-48.30%",
+        "price": "",
+        "symbol": "ERAS"
+      },
+      {
+        "change": "-29.89",
+        "change_pts": null,
+        "close": 6991.29,
+        "name": "Rambus Inc.",
+        "open": null,
+        "pct_change": "-21.17%",
+        "price": "",
+        "symbol": "RMBS"
+      },
+      {
+        "change": "-3.18",
+        "change_pts": null,
+        "close": 7165.08,
+        "name": "Navitas Semiconductor Corporation",
+        "open": null,
+        "pct_change": "-17.38%",
+        "price": "",
+        "symbol": "NVTS"
+      },
+      {
+        "change": "-60.67",
+        "change_pts": null,
+        "close": 7160.75,
+        "name": "Celestica Inc.",
+        "open": null,
+        "pct_change": "-14.37%",
+        "price": "",
+        "symbol": "CLS"
+      }
+    ],
+    "scraped_at": "2026-04-28T21:44:08.576173-04:00"
   }
 }
