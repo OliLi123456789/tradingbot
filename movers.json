@@ -12945,5 +12945,112 @@
       }
     ],
     "scraped_at": "2026-04-28T21:44:08.576173-04:00"
+  },
+  "2026-04-29": {
+    "gainers": [
+      {
+        "change": "+68.32",
+        "change_pts": null,
+        "close": 7196.75,
+        "name": "Silicon Motion Technology Corporation",
+        "open": null,
+        "pct_change": "+45.80%",
+        "price": "",
+        "symbol": "SIMO"
+      },
+      {
+        "change": "+15.51",
+        "change_pts": null,
+        "close": 7148.0,
+        "name": "MaxLinear, Inc.",
+        "open": null,
+        "pct_change": "+29.82%",
+        "price": "",
+        "symbol": "MXL"
+      },
+      {
+        "change": "+15.32",
+        "change_pts": null,
+        "close": 7198.0,
+        "name": "The Vita Coco Company, Inc.",
+        "open": null,
+        "pct_change": "+29.67%",
+        "price": "",
+        "symbol": "COCO"
+      },
+      {
+        "change": "+4.80",
+        "change_pts": null,
+        "close": 7135.95,
+        "name": "Extreme Networks, Inc.",
+        "open": null,
+        "pct_change": "+28.15%",
+        "price": "",
+        "symbol": "EXTR"
+      },
+      {
+        "change": "+61.68",
+        "change_pts": null,
+        "close": 7196.0,
+        "name": "Bloom Energy Corporation",
+        "open": null,
+        "pct_change": "+27.25%",
+        "price": "",
+        "symbol": "BE"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-73.80",
+        "change_pts": null,
+        "close": 7197.0,
+        "name": "Teradyne, Inc.",
+        "open": null,
+        "pct_change": "-19.41%",
+        "price": "",
+        "symbol": "TER"
+      },
+      {
+        "change": "-2.83",
+        "change_pts": null,
+        "close": 7149.5,
+        "name": "SoFi Technologies, Inc.",
+        "open": null,
+        "pct_change": "-15.39%",
+        "price": "",
+        "symbol": "SOFI"
+      },
+      {
+        "change": "-21.97",
+        "change_pts": null,
+        "close": null,
+        "name": "SiteOne Landscape Supply, Inc.",
+        "open": null,
+        "pct_change": "-15.37%",
+        "price": "",
+        "symbol": "SITE"
+      },
+      {
+        "change": "-9.77",
+        "change_pts": null,
+        "close": 7197.0,
+        "name": "Lemonade, Inc.",
+        "open": null,
+        "pct_change": "-14.85%",
+        "price": "",
+        "symbol": "LMND"
+      },
+      {
+        "change": "-7.85",
+        "change_pts": null,
+        "close": null,
+        "name": "Ashland Inc.",
+        "open": null,
+        "pct_change": "-13.77%",
+        "price": "",
+        "symbol": "ASH"
+      }
+    ],
+    "scraped_at": "2026-04-29T21:44:10.110672-04:00"
   }
 }
