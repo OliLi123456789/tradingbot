@@ -13052,5 +13052,112 @@
       }
     ],
     "scraped_at": "2026-04-29T21:44:10.110672-04:00"
+  },
+  "2026-04-30": {
+    "gainers": [
+      {
+        "change": "+5.12",
+        "change_pts": null,
+        "close": null,
+        "name": "Garrett Motion Inc.",
+        "open": null,
+        "pct_change": "+24.99%",
+        "price": "",
+        "symbol": "GTX"
+      },
+      {
+        "change": "+26.71",
+        "change_pts": null,
+        "close": null,
+        "name": "Glaukos Corporation",
+        "open": null,
+        "pct_change": "+22.84%",
+        "price": "",
+        "symbol": "GKOS"
+      },
+      {
+        "change": "+2.33",
+        "change_pts": null,
+        "close": 7257.75,
+        "name": "Vistance Networks, Inc.",
+        "open": null,
+        "pct_change": "+22.21%",
+        "price": "",
+        "symbol": "VISN"
+      },
+      {
+        "change": "+24.88",
+        "change_pts": null,
+        "close": 7262.25,
+        "name": "Impinj, Inc.",
+        "open": null,
+        "pct_change": "+20.73%",
+        "price": "",
+        "symbol": "PI"
+      },
+      {
+        "change": "+67.05",
+        "change_pts": null,
+        "close": null,
+        "name": "MYR Group Inc.",
+        "open": null,
+        "pct_change": "+19.85%",
+        "price": "",
+        "symbol": "MYRG"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-6.54",
+        "change_pts": null,
+        "close": 7263.5,
+        "name": "Option Care Health, Inc.",
+        "open": null,
+        "pct_change": "-24.34%",
+        "price": "",
+        "symbol": "OPCH"
+      },
+      {
+        "change": "-27.49",
+        "change_pts": null,
+        "close": 7138.8,
+        "name": "Check Point Software Technologies Ltd.",
+        "open": null,
+        "pct_change": "-19.64%",
+        "price": "",
+        "symbol": "CHKP"
+      },
+      {
+        "change": "-20.57",
+        "change_pts": null,
+        "close": null,
+        "name": "United States Lime & Minerals, Inc.",
+        "open": null,
+        "pct_change": "-16.04%",
+        "price": "",
+        "symbol": "USLM"
+      },
+      {
+        "change": "-56.12",
+        "change_pts": null,
+        "close": 7209.01,
+        "name": "InterDigital, Inc.",
+        "open": null,
+        "pct_change": "-15.91%",
+        "price": "",
+        "symbol": "IDCC"
+      },
+      {
+        "change": "-18.28",
+        "change_pts": null,
+        "close": null,
+        "name": "Choice Hotels International, Inc.",
+        "open": null,
+        "pct_change": "-15.58%",
+        "price": "",
+        "symbol": "CHH"
+      }
+    ],
+    "scraped_at": "2026-04-30T21:43:49.566531-04:00"
   }
 }
