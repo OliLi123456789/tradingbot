@@ -13159,5 +13159,112 @@
       }
     ],
     "scraped_at": "2026-04-30T21:43:49.566531-04:00"
+  },
+  "2026-05-01": {
+    "gainers": [
+      {
+        "change": "+20.29",
+        "change_pts": null,
+        "close": 7142.53,
+        "name": "Atlassian Corporation",
+        "open": null,
+        "pct_change": "+29.58%",
+        "price": "",
+        "symbol": "TEAM"
+      },
+      {
+        "change": "+7.02",
+        "change_pts": null,
+        "close": 7230.12,
+        "name": "Xanadu Quantum Technologies Limited",
+        "open": null,
+        "pct_change": "+24.12%",
+        "price": "",
+        "symbol": "XNDU"
+      },
+      {
+        "change": "+35.28",
+        "change_pts": null,
+        "close": 7230.12,
+        "name": "Twilio Inc.",
+        "open": null,
+        "pct_change": "+23.83%",
+        "price": "",
+        "symbol": "TWLO"
+      },
+      {
+        "change": "+16.78",
+        "change_pts": null,
+        "close": 7230.12,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "+21.18%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "+1.60",
+        "change_pts": null,
+        "close": 7209.01,
+        "name": "SoundHound AI, Inc.",
+        "open": null,
+        "pct_change": "+20.10%",
+        "price": "",
+        "symbol": "SOUN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-5.34",
+        "change_pts": null,
+        "close": 7230.12,
+        "name": "Summit Therapeutics Inc.",
+        "open": null,
+        "pct_change": "-24.91%",
+        "price": "",
+        "symbol": "SMMT"
+      },
+      {
+        "change": "-10.13",
+        "change_pts": null,
+        "close": 7136.0,
+        "name": "Roblox Corporation",
+        "open": null,
+        "pct_change": "-18.33%",
+        "price": "",
+        "symbol": "RBLX"
+      },
+      {
+        "change": "-10.75",
+        "change_pts": null,
+        "close": null,
+        "name": "Atmus Filtration Technologies Inc.",
+        "open": null,
+        "pct_change": "-16.96%",
+        "price": "",
+        "symbol": "ATMU"
+      },
+      {
+        "change": "-3.94",
+        "change_pts": null,
+        "close": null,
+        "name": "Ryan Specialty Holdings, Inc.",
+        "open": null,
+        "pct_change": "-11.33%",
+        "price": "",
+        "symbol": "RYAN"
+      },
+      {
+        "change": "-6.68",
+        "change_pts": null,
+        "close": 7230.12,
+        "name": "Dolby Laboratories, Inc.",
+        "open": null,
+        "pct_change": "-10.41%",
+        "price": "",
+        "symbol": "DLB"
+      }
+    ],
+    "scraped_at": "2026-05-01T21:42:36.237232-04:00"
   }
 }
