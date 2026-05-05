@@ -13266,5 +13266,112 @@
       }
     ],
     "scraped_at": "2026-05-01T21:42:36.237232-04:00"
+  },
+  "2026-05-04": {
+    "gainers": [
+      {
+        "change": "+3.41",
+        "change_pts": null,
+        "close": 7233.0,
+        "name": "Global Business Travel Group, Inc.",
+        "open": null,
+        "pct_change": "+57.50%",
+        "price": "",
+        "symbol": "GBTG"
+      },
+      {
+        "change": "+19.83",
+        "change_pts": null,
+        "close": 7200.75,
+        "name": "Circle Internet Group",
+        "open": null,
+        "pct_change": "+19.89%",
+        "price": "",
+        "symbol": "CRCL"
+      },
+      {
+        "change": "+19.33",
+        "change_pts": null,
+        "close": 7232.75,
+        "name": "Celcuity Inc.",
+        "open": null,
+        "pct_change": "+15.38%",
+        "price": "",
+        "symbol": "CELC"
+      },
+      {
+        "change": "+21.93",
+        "change_pts": null,
+        "close": 7232.75,
+        "name": "Nebius Group N.V.",
+        "open": null,
+        "pct_change": "+14.20%",
+        "price": "",
+        "symbol": "NBIS"
+      },
+      {
+        "change": "+2.91",
+        "change_pts": null,
+        "close": null,
+        "name": "Legend Biotech Corporation",
+        "open": null,
+        "pct_change": "+12.34%",
+        "price": "",
+        "symbol": "LEGN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-22.13",
+        "change_pts": null,
+        "close": 7233.0,
+        "name": "Xanadu Quantum Technologies Limited",
+        "open": null,
+        "pct_change": "-61.27%",
+        "price": "",
+        "symbol": "XNDU"
+      },
+      {
+        "change": "-9.95",
+        "change_pts": null,
+        "close": 6816.89,
+        "name": "GXO Logistics, Inc.",
+        "open": null,
+        "pct_change": "-17.70%",
+        "price": "",
+        "symbol": "GXO"
+      },
+      {
+        "change": "-11.26",
+        "change_pts": null,
+        "close": 7233.5,
+        "name": "United Parcel Service, Inc.",
+        "open": null,
+        "pct_change": "-10.47%",
+        "price": "",
+        "symbol": "UPS"
+      },
+      {
+        "change": "-2.69",
+        "change_pts": null,
+        "close": 7229.25,
+        "name": "GameStop Corp.",
+        "open": null,
+        "pct_change": "-10.14%",
+        "price": "",
+        "symbol": "GME"
+      },
+      {
+        "change": "-1.89",
+        "change_pts": null,
+        "close": null,
+        "name": "RXO, Inc.",
+        "open": null,
+        "pct_change": "-9.65%",
+        "price": "",
+        "symbol": "RXO"
+      }
+    ],
+    "scraped_at": "2026-05-04T21:44:09.810735-04:00"
   }
 }
