@@ -13373,5 +13373,112 @@
       }
     ],
     "scraped_at": "2026-05-04T21:44:09.810735-04:00"
+  },
+  "2026-05-05": {
+    "gainers": [
+      {
+        "change": "+276.51",
+        "change_pts": null,
+        "close": 7266.59,
+        "name": "Sterling Infrastructure, Inc.",
+        "open": null,
+        "pct_change": "+52.22%",
+        "price": "",
+        "symbol": "STRL"
+      },
+      {
+        "change": "+43.96",
+        "change_pts": null,
+        "close": 7259.22,
+        "name": "DigitalOcean Holdings, Inc.",
+        "open": null,
+        "pct_change": "+40.40%",
+        "price": "",
+        "symbol": "DOCN"
+      },
+      {
+        "change": "+4.18",
+        "change_pts": null,
+        "close": 7265.01,
+        "name": "Cipher Digital Inc.",
+        "open": null,
+        "pct_change": "+23.37%",
+        "price": "",
+        "symbol": "CIFR"
+      },
+      {
+        "change": "+6.56",
+        "change_pts": null,
+        "close": null,
+        "name": "Edgewise Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+20.86%",
+        "price": "",
+        "symbol": "EWTX"
+      },
+      {
+        "change": "+4.87",
+        "change_pts": null,
+        "close": 7200.77,
+        "name": "Fastly, Inc.",
+        "open": null,
+        "pct_change": "+17.72%",
+        "price": "",
+        "symbol": "FSLY"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-31.49",
+        "change_pts": null,
+        "close": 7305.5,
+        "name": "IPG Photonics Corporation",
+        "open": null,
+        "pct_change": "-25.74%",
+        "price": "",
+        "symbol": "IPGP"
+      },
+      {
+        "change": "-5.80",
+        "change_pts": null,
+        "close": 7304.0,
+        "name": "Adeia Inc.",
+        "open": null,
+        "pct_change": "-17.26%",
+        "price": "",
+        "symbol": "ADEA"
+      },
+      {
+        "change": "-48.13",
+        "change_pts": null,
+        "close": 7303.25,
+        "name": "OSI Systems, Inc.",
+        "open": null,
+        "pct_change": "-17.01%",
+        "price": "",
+        "symbol": "OSIS"
+      },
+      {
+        "change": "-19.92",
+        "change_pts": null,
+        "close": 7242.0,
+        "name": "Shopify Inc.",
+        "open": null,
+        "pct_change": "-15.62%",
+        "price": "",
+        "symbol": "SHOP"
+      },
+      {
+        "change": "-7.41",
+        "change_pts": null,
+        "close": null,
+        "name": "Procore Technologies, Inc.",
+        "open": null,
+        "pct_change": "-11.93%",
+        "price": "",
+        "symbol": "PCOR"
+      }
+    ],
+    "scraped_at": "2026-05-05T21:43:47.244575-04:00"
   }
 }
