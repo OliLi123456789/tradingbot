@@ -13480,5 +13480,112 @@
       }
     ],
     "scraped_at": "2026-05-05T21:43:47.244575-04:00"
+  },
+  "2026-05-06": {
+    "gainers": [
+      {
+        "change": "+38.28",
+        "change_pts": null,
+        "close": 7338.27,
+        "name": "Flex Ltd.",
+        "open": null,
+        "pct_change": "+39.69%",
+        "price": "",
+        "symbol": "FLEX"
+      },
+      {
+        "change": "+28.44",
+        "change_pts": null,
+        "close": 7379.25,
+        "name": "Hut 8 Corp.",
+        "open": null,
+        "pct_change": "+35.34%",
+        "price": "",
+        "symbol": "HUT"
+      },
+      {
+        "change": "+1.98",
+        "change_pts": null,
+        "close": 7386.0,
+        "name": "Compass, Inc.",
+        "open": null,
+        "pct_change": "+27.27%",
+        "price": "",
+        "symbol": "COMP"
+      },
+      {
+        "change": "+12.47",
+        "change_pts": null,
+        "close": null,
+        "name": "Veeco Instruments Inc.",
+        "open": null,
+        "pct_change": "+25.17%",
+        "price": "",
+        "symbol": "VECO"
+      },
+      {
+        "change": "+8.22",
+        "change_pts": null,
+        "close": 7381.5,
+        "name": "Veracyte, Inc.",
+        "open": null,
+        "pct_change": "+24.93%",
+        "price": "",
+        "symbol": "VCYT"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-101.69",
+        "change_pts": null,
+        "close": 7386.0,
+        "name": "Primoris Services Corporation",
+        "open": null,
+        "pct_change": "-50.11%",
+        "price": "",
+        "symbol": "PRIM"
+      },
+      {
+        "change": "-7.52",
+        "change_pts": null,
+        "close": null,
+        "name": "Klaviyo, Inc.",
+        "open": null,
+        "pct_change": "-32.23%",
+        "price": "",
+        "symbol": "KVYO"
+      },
+      {
+        "change": "-22.01",
+        "change_pts": null,
+        "close": 7379.25,
+        "name": "TransMedics Group, Inc.",
+        "open": null,
+        "pct_change": "-23.19%",
+        "price": "",
+        "symbol": "TMDX"
+      },
+      {
+        "change": "-28.16",
+        "change_pts": null,
+        "close": 7200.75,
+        "name": "NICE Ltd.",
+        "open": null,
+        "pct_change": "-22.53%",
+        "price": "",
+        "symbol": "NICE"
+      },
+      {
+        "change": "-27.80",
+        "change_pts": null,
+        "close": 7386.5,
+        "name": "CDW Corporation",
+        "open": null,
+        "pct_change": "-20.32%",
+        "price": "",
+        "symbol": "CDW"
+      }
+    ],
+    "scraped_at": "2026-05-06T21:44:17.156393-04:00"
   }
 }
