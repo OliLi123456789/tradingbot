@@ -13587,5 +13587,112 @@
       }
     ],
     "scraped_at": "2026-05-06T21:44:17.156393-04:00"
+  },
+  "2026-05-07": {
+    "gainers": [
+      {
+        "change": "+5.41",
+        "change_pts": null,
+        "close": 7397.25,
+        "name": "Fluence Energy, Inc.",
+        "open": null,
+        "pct_change": "+39.90%",
+        "price": "",
+        "symbol": "FLNC"
+      },
+      {
+        "change": "+22.10",
+        "change_pts": null,
+        "close": 7376.75,
+        "name": "Xometry, Inc.",
+        "open": null,
+        "pct_change": "+39.18%",
+        "price": "",
+        "symbol": "XMTR"
+      },
+      {
+        "change": "+30.95",
+        "change_pts": null,
+        "close": 7377.0,
+        "name": "AAON, Inc.",
+        "open": null,
+        "pct_change": "+31.49%",
+        "price": "",
+        "symbol": "AAON"
+      },
+      {
+        "change": "+45.02",
+        "change_pts": null,
+        "close": 7341.68,
+        "name": "Datadog, Inc.",
+        "open": null,
+        "pct_change": "+31.33%",
+        "price": "",
+        "symbol": "DDOG"
+      },
+      {
+        "change": "+3.70",
+        "change_pts": null,
+        "close": 7365.9,
+        "name": "Himax Technologies, Inc.",
+        "open": null,
+        "pct_change": "+30.01%",
+        "price": "",
+        "symbol": "HIMX"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-12.07",
+        "change_pts": null,
+        "close": 7379.25,
+        "name": "Fastly, Inc.",
+        "open": null,
+        "pct_change": "-38.23%",
+        "price": "",
+        "symbol": "FSLY"
+      },
+      {
+        "change": "-19.95",
+        "change_pts": null,
+        "close": null,
+        "name": "Planet Fitness, Inc.",
+        "open": null,
+        "pct_change": "-31.19%",
+        "price": "",
+        "symbol": "PLNT"
+      },
+      {
+        "change": "-27.28",
+        "change_pts": null,
+        "close": 7376.75,
+        "name": "Shake Shack Inc.",
+        "open": null,
+        "pct_change": "-28.26%",
+        "price": "",
+        "symbol": "SHAK"
+      },
+      {
+        "change": "-82.55",
+        "change_pts": null,
+        "close": null,
+        "name": "Installed Building Products, Inc.",
+        "open": null,
+        "pct_change": "-27.57%",
+        "price": "",
+        "symbol": "IBP"
+      },
+      {
+        "change": "-6.08",
+        "change_pts": null,
+        "close": 7165.08,
+        "name": "Amprius Technologies, Inc.",
+        "open": null,
+        "pct_change": "-27.40%",
+        "price": "",
+        "symbol": "AMPX"
+      }
+    ],
+    "scraped_at": "2026-05-07T21:44:16.370380-04:00"
   }
 }
