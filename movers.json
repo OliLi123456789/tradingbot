@@ -13694,5 +13694,112 @@
       }
     ],
     "scraped_at": "2026-05-07T21:44:16.370380-04:00"
+  },
+  "2026-05-08": {
+    "gainers": [
+      {
+        "change": "+39.25",
+        "change_pts": null,
+        "close": 7398.93,
+        "name": "Innodata Inc.",
+        "open": null,
+        "pct_change": "+86.00%",
+        "price": "",
+        "symbol": "INOD"
+      },
+      {
+        "change": "+26.89",
+        "change_pts": null,
+        "close": 7387.25,
+        "name": "Rocket Lab Corporation",
+        "open": null,
+        "pct_change": "+34.22%",
+        "price": "",
+        "symbol": "RKLB"
+      },
+      {
+        "change": "+5.19",
+        "change_pts": null,
+        "close": 7398.93,
+        "name": "Fluence Energy, Inc.",
+        "open": null,
+        "pct_change": "+27.36%",
+        "price": "",
+        "symbol": "FLNC"
+      },
+      {
+        "change": "+31.02",
+        "change_pts": null,
+        "close": 7398.93,
+        "name": "Akamai Technologies, Inc.",
+        "open": null,
+        "pct_change": "+26.58%",
+        "price": "",
+        "symbol": "AKAM"
+      },
+      {
+        "change": "+1.65",
+        "change_pts": null,
+        "close": 7398.93,
+        "name": "Eos Energy Enterprises, Inc.",
+        "open": null,
+        "pct_change": "+25.94%",
+        "price": "",
+        "symbol": "EOSE"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-60.66",
+        "change_pts": null,
+        "close": 7387.25,
+        "name": "Cloudflare, Inc.",
+        "open": null,
+        "pct_change": "-23.62%",
+        "price": "",
+        "symbol": "NET"
+      },
+      {
+        "change": "-46.38",
+        "change_pts": null,
+        "close": 7398.93,
+        "name": "HubSpot, Inc.",
+        "open": null,
+        "pct_change": "-19.03%",
+        "price": "",
+        "symbol": "HUBS"
+      },
+      {
+        "change": "-3.69",
+        "change_pts": null,
+        "close": null,
+        "name": "Caris Life Sciences, Inc.",
+        "open": null,
+        "pct_change": "-18.60%",
+        "price": "",
+        "symbol": "CAI"
+      },
+      {
+        "change": "-7.77",
+        "change_pts": null,
+        "close": 7398.93,
+        "name": "Fluor Corporation",
+        "open": null,
+        "pct_change": "-15.21%",
+        "price": "",
+        "symbol": "FLR"
+      },
+      {
+        "change": "-194.83",
+        "change_pts": null,
+        "close": null,
+        "name": "Mettler-Toledo International Inc.",
+        "open": null,
+        "pct_change": "-14.77%",
+        "price": "",
+        "symbol": "MTD"
+      }
+    ],
+    "scraped_at": "2026-05-08T21:43:01.461111-04:00"
   }
 }
