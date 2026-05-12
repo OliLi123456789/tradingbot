@@ -13801,5 +13801,112 @@
       }
     ],
     "scraped_at": "2026-05-08T21:43:01.461111-04:00"
+  },
+  "2026-05-11": {
+    "gainers": [
+      {
+        "change": "+4.37",
+        "change_pts": null,
+        "close": null,
+        "name": "Babcock & Wilcox Enterprises, Inc.",
+        "open": null,
+        "pct_change": "+30.06%",
+        "price": "",
+        "symbol": "BW"
+      },
+      {
+        "change": "+2.94",
+        "change_pts": null,
+        "close": 7424.5,
+        "name": "POET Technologies Inc.",
+        "open": null,
+        "pct_change": "+26.87%",
+        "price": "",
+        "symbol": "POET"
+      },
+      {
+        "change": "+10.74",
+        "change_pts": null,
+        "close": null,
+        "name": "Liquidia Corporation",
+        "open": null,
+        "pct_change": "+25.35%",
+        "price": "",
+        "symbol": "LQDA"
+      },
+      {
+        "change": "+4.45",
+        "change_pts": null,
+        "close": 7412.84,
+        "name": "Navitas Semiconductor Corporation",
+        "open": null,
+        "pct_change": "+24.45%",
+        "price": "",
+        "symbol": "NVTS"
+      },
+      {
+        "change": "+35.96",
+        "change_pts": null,
+        "close": 7424.75,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "+24.14%",
+        "price": "",
+        "symbol": "AAOI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-103.49",
+        "change_pts": null,
+        "close": 7398.93,
+        "name": "Ubiquiti Inc.",
+        "open": null,
+        "pct_change": "-12.29%",
+        "price": "",
+        "symbol": "UI"
+      },
+      {
+        "change": "-6.05",
+        "change_pts": null,
+        "close": 7387.25,
+        "name": "IREN Limited",
+        "open": null,
+        "pct_change": "-9.89%",
+        "price": "",
+        "symbol": "IREN"
+      },
+      {
+        "change": "-4.87",
+        "change_pts": null,
+        "close": null,
+        "name": "Workiva Inc.",
+        "open": null,
+        "pct_change": "-9.50%",
+        "price": "",
+        "symbol": "WK"
+      },
+      {
+        "change": "-5.67",
+        "change_pts": null,
+        "close": 7423.25,
+        "name": "e.l.f. Beauty, Inc.",
+        "open": null,
+        "pct_change": "-9.32%",
+        "price": "",
+        "symbol": "ELF"
+      },
+      {
+        "change": "-2.54",
+        "change_pts": null,
+        "close": null,
+        "name": "Legend Biotech Corporation",
+        "open": null,
+        "pct_change": "-9.03%",
+        "price": "",
+        "symbol": "LEGN"
+      }
+    ],
+    "scraped_at": "2026-05-11T21:44:10.982528-04:00"
   }
 }
