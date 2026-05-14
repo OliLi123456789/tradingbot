@@ -14015,5 +14015,112 @@
       }
     ],
     "scraped_at": "2026-05-12T21:45:13.406641-04:00"
+  },
+  "2026-05-13": {
+    "gainers": [
+      {
+        "change": "+20.22",
+        "change_pts": null,
+        "close": null,
+        "name": "Robinhood Ventures Fund I",
+        "open": null,
+        "pct_change": "+37.80%",
+        "price": "",
+        "symbol": "RVI"
+      },
+      {
+        "change": "+7.07",
+        "change_pts": null,
+        "close": 7483.75,
+        "name": "Ouster, Inc.",
+        "open": null,
+        "pct_change": "+26.09%",
+        "price": "",
+        "symbol": "OUST"
+      },
+      {
+        "change": "+2.26",
+        "change_pts": null,
+        "close": null,
+        "name": "VNET Group, Inc.",
+        "open": null,
+        "pct_change": "+25.06%",
+        "price": "",
+        "symbol": "VNET"
+      },
+      {
+        "change": "+49.94",
+        "change_pts": null,
+        "close": 7433.75,
+        "name": "Tower Semiconductor Ltd.",
+        "open": null,
+        "pct_change": "+22.61%",
+        "price": "",
+        "symbol": "TSEM"
+      },
+      {
+        "change": "+34.85",
+        "change_pts": null,
+        "close": 7483.25,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "+18.51%",
+        "price": "",
+        "symbol": "AAOI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-20.56",
+        "change_pts": null,
+        "close": 7480.25,
+        "name": "Wix.com Ltd.",
+        "open": null,
+        "pct_change": "-27.10%",
+        "price": "",
+        "symbol": "WIX"
+      },
+      {
+        "change": "-6.57",
+        "change_pts": null,
+        "close": null,
+        "name": "Resideo Technologies, Inc.",
+        "open": null,
+        "pct_change": "-17.91%",
+        "price": "",
+        "symbol": "REZI"
+      },
+      {
+        "change": "-4.88",
+        "change_pts": null,
+        "close": null,
+        "name": "Birkenstock Holding plc",
+        "open": null,
+        "pct_change": "-12.86%",
+        "price": "",
+        "symbol": "BIRK"
+      },
+      {
+        "change": "-2.07",
+        "change_pts": null,
+        "close": null,
+        "name": "Caris Life Sciences, Inc.",
+        "open": null,
+        "pct_change": "-12.35%",
+        "price": "",
+        "symbol": "CAI"
+      },
+      {
+        "change": "-13.54",
+        "change_pts": null,
+        "close": null,
+        "name": "Boyd Group Services Inc.",
+        "open": null,
+        "pct_change": "-12.13%",
+        "price": "",
+        "symbol": "BGSI"
+      }
+    ],
+    "scraped_at": "2026-05-13T21:47:16.685908-04:00"
   }
 }
