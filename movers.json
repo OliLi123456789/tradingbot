@@ -14122,5 +14122,112 @@
       }
     ],
     "scraped_at": "2026-05-13T21:47:16.685908-04:00"
+  },
+  "2026-05-14": {
+    "gainers": [
+      {
+        "change": "+6.38",
+        "change_pts": null,
+        "close": 7518.75,
+        "name": "POET Technologies Inc.",
+        "open": null,
+        "pct_change": "+44.34%",
+        "price": "",
+        "symbol": "POET"
+      },
+      {
+        "change": "+2.35",
+        "change_pts": null,
+        "close": 7500.5,
+        "name": "Ondas Inc.",
+        "open": null,
+        "pct_change": "+26.52%",
+        "price": "",
+        "symbol": "ONDS"
+      },
+      {
+        "change": "+1.37",
+        "change_pts": null,
+        "close": 7506.5,
+        "name": "Fermi Inc.",
+        "open": null,
+        "pct_change": "+22.83%",
+        "price": "",
+        "symbol": "FRMI"
+      },
+      {
+        "change": "+2.53",
+        "change_pts": null,
+        "close": 7501.24,
+        "name": "Redwire Corporation",
+        "open": null,
+        "pct_change": "+22.12%",
+        "price": "",
+        "symbol": "RDW"
+      },
+      {
+        "change": "+2.19",
+        "change_pts": null,
+        "close": 7499.0,
+        "name": "PureCycle Technologies, Inc.",
+        "open": null,
+        "pct_change": "+21.47%",
+        "price": "",
+        "symbol": "PCT"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-5.38",
+        "change_pts": null,
+        "close": 7504.5,
+        "name": "Doximity, Inc.",
+        "open": null,
+        "pct_change": "-23.00%",
+        "price": "",
+        "symbol": "DOCS"
+      },
+      {
+        "change": "-1.84",
+        "change_pts": null,
+        "close": null,
+        "name": "NIQ Global Intelligence plc",
+        "open": null,
+        "pct_change": "-18.33%",
+        "price": "",
+        "symbol": "NIQ"
+      },
+      {
+        "change": "-3.29",
+        "change_pts": null,
+        "close": 7408.51,
+        "name": "Lightwave Logic, Inc.",
+        "open": null,
+        "pct_change": "-18.03%",
+        "price": "",
+        "symbol": "LWLG"
+      },
+      {
+        "change": "-2.30",
+        "change_pts": null,
+        "close": null,
+        "name": "RXO, Inc.",
+        "open": null,
+        "pct_change": "-11.61%",
+        "price": "",
+        "symbol": "RXO"
+      },
+      {
+        "change": "-5.88",
+        "change_pts": null,
+        "close": null,
+        "name": "Prestige Consumer Healthcare Inc.",
+        "open": null,
+        "pct_change": "-11.35%",
+        "price": "",
+        "symbol": "PBH"
+      }
+    ],
+    "scraped_at": "2026-05-14T21:45:52.444552-04:00"
   }
 }
