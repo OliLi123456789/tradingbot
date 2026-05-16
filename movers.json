@@ -14229,5 +14229,112 @@
       }
     ],
     "scraped_at": "2026-05-14T21:45:52.444552-04:00"
+  },
+  "2026-05-15": {
+    "gainers": [
+      {
+        "change": "+11.52",
+        "change_pts": null,
+        "close": 7408.5,
+        "name": "SolarEdge Technologies, Inc.",
+        "open": null,
+        "pct_change": "+22.93%",
+        "price": "",
+        "symbol": "SEDG"
+      },
+      {
+        "change": "+2.68",
+        "change_pts": null,
+        "close": 7408.5,
+        "name": "Figma, Inc.",
+        "open": null,
+        "pct_change": "+13.24%",
+        "price": "",
+        "symbol": "FIG"
+      },
+      {
+        "change": "+1.64",
+        "change_pts": null,
+        "close": null,
+        "name": "The Magnum Ice Cream Company N.",
+        "open": null,
+        "pct_change": "+10.92%",
+        "price": "",
+        "symbol": "MICC"
+      },
+      {
+        "change": "+4.88",
+        "change_pts": null,
+        "close": 7422.25,
+        "name": "Enphase Energy, Inc.",
+        "open": null,
+        "pct_change": "+10.16%",
+        "price": "",
+        "symbol": "ENPH"
+      },
+      {
+        "change": "+1.38",
+        "change_pts": null,
+        "close": 7408.5,
+        "name": "Sable Offshore Corp.",
+        "open": null,
+        "pct_change": "+10.04%",
+        "price": "",
+        "symbol": "SOC"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.60",
+        "change_pts": null,
+        "close": 7408.5,
+        "name": "POET Technologies Inc.",
+        "open": null,
+        "pct_change": "-22.36%",
+        "price": "",
+        "symbol": "POET"
+      },
+      {
+        "change": "-4.31",
+        "change_pts": null,
+        "close": 7495.25,
+        "name": "Tango Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-17.33%",
+        "price": "",
+        "symbol": "TNGX"
+      },
+      {
+        "change": "-4.92",
+        "change_pts": null,
+        "close": 7408.5,
+        "name": "York Space Systems Inc.",
+        "open": null,
+        "pct_change": "-17.00%",
+        "price": "",
+        "symbol": "YSS"
+      },
+      {
+        "change": "-1.65",
+        "change_pts": null,
+        "close": null,
+        "name": "DLocal Limited",
+        "open": null,
+        "pct_change": "-13.03%",
+        "price": "",
+        "symbol": "DLO"
+      },
+      {
+        "change": "-0.90",
+        "change_pts": null,
+        "close": 7408.5,
+        "name": "Americas Gold and Silver Corporation",
+        "open": null,
+        "pct_change": "-12.59%",
+        "price": "",
+        "symbol": "USAS"
+      }
+    ],
+    "scraped_at": "2026-05-15T21:43:38.648708-04:00"
   }
 }
