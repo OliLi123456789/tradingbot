@@ -14336,5 +14336,112 @@
       }
     ],
     "scraped_at": "2026-05-15T21:43:38.648708-04:00"
+  },
+  "2026-05-18": {
+    "gainers": [
+      {
+        "change": "+8.11",
+        "change_pts": null,
+        "close": 7416.75,
+        "name": "LiveRamp Holdings, Inc.",
+        "open": null,
+        "pct_change": "+27.34%",
+        "price": "",
+        "symbol": "RAMP"
+      },
+      {
+        "change": "+13.47",
+        "change_pts": null,
+        "close": null,
+        "name": "Brady Corporation",
+        "open": null,
+        "pct_change": "+18.98%",
+        "price": "",
+        "symbol": "BRC"
+      },
+      {
+        "change": "+34.29",
+        "change_pts": null,
+        "close": null,
+        "name": "Bio-Rad Laboratories, Inc.",
+        "open": null,
+        "pct_change": "+13.85%",
+        "price": "",
+        "symbol": "BIO"
+      },
+      {
+        "change": "+2.00",
+        "change_pts": null,
+        "close": 7408.5,
+        "name": "Zeta Global Holdings Corp.",
+        "open": null,
+        "pct_change": "+11.63%",
+        "price": "",
+        "symbol": "ZETA"
+      },
+      {
+        "change": "+3.94",
+        "change_pts": null,
+        "close": null,
+        "name": "Voyager Technologies, Inc.",
+        "open": null,
+        "pct_change": "+11.44%",
+        "price": "",
+        "symbol": "VOYG"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-15.93",
+        "change_pts": null,
+        "close": 7422.5,
+        "name": "Aehr Test Systems, Inc.",
+        "open": null,
+        "pct_change": "-16.01%",
+        "price": "",
+        "symbol": "AEHR"
+      },
+      {
+        "change": "-17.90",
+        "change_pts": null,
+        "close": 7444.25,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "-14.46%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "-3.12",
+        "change_pts": null,
+        "close": 7413.75,
+        "name": "USA Rare Earth, Inc.",
+        "open": null,
+        "pct_change": "-12.77%",
+        "price": "",
+        "symbol": "USAR"
+      },
+      {
+        "change": "-1.76",
+        "change_pts": null,
+        "close": 7421.0,
+        "name": "POET Technologies Inc.",
+        "open": null,
+        "pct_change": "-11.02%",
+        "price": "",
+        "symbol": "POET"
+      },
+      {
+        "change": "-2.76",
+        "change_pts": null,
+        "close": 7408.5,
+        "name": "Hims & Hers Health, Inc.",
+        "open": null,
+        "pct_change": "-11.02%",
+        "price": "",
+        "symbol": "HIMS"
+      }
+    ],
+    "scraped_at": "2026-05-18T21:48:00.721465-04:00"
   }
 }
