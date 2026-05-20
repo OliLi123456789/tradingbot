@@ -14443,5 +14443,112 @@
       }
     ],
     "scraped_at": "2026-05-18T21:48:00.721465-04:00"
+  },
+  "2026-05-19": {
+    "gainers": [
+      {
+        "change": "+28.68",
+        "change_pts": null,
+        "close": 7379.0,
+        "name": "Astera Labs, Inc.",
+        "open": null,
+        "pct_change": "+13.30%",
+        "price": "",
+        "symbol": "ALAB"
+      },
+      {
+        "change": "+8.74",
+        "change_pts": null,
+        "close": 7361.75,
+        "name": "Agilysys, Inc.",
+        "open": null,
+        "pct_change": "+12.45%",
+        "price": "",
+        "symbol": "AGYS"
+      },
+      {
+        "change": "+2.03",
+        "change_pts": null,
+        "close": null,
+        "name": "RXO, Inc.",
+        "open": null,
+        "pct_change": "+10.63%",
+        "price": "",
+        "symbol": "RXO"
+      },
+      {
+        "change": "+1.55",
+        "change_pts": null,
+        "close": 7363.5,
+        "name": "Cmb.Tech NV",
+        "open": null,
+        "pct_change": "+10.29%",
+        "price": "",
+        "symbol": "CMBT"
+      },
+      {
+        "change": "+1.25",
+        "change_pts": null,
+        "close": 7434.5,
+        "name": "CleanSpark, Inc.",
+        "open": null,
+        "pct_change": "+9.30%",
+        "price": "",
+        "symbol": "CLSK"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-8.09",
+        "change_pts": null,
+        "close": null,
+        "name": "Blue Bird Corporation",
+        "open": null,
+        "pct_change": "-11.12%",
+        "price": "",
+        "symbol": "BLBD"
+      },
+      {
+        "change": "-3.14",
+        "change_pts": null,
+        "close": null,
+        "name": "Warby Parker Inc.",
+        "open": null,
+        "pct_change": "-10.96%",
+        "price": "",
+        "symbol": "WRBY"
+      },
+      {
+        "change": "-1.98",
+        "change_pts": null,
+        "close": 7375.43,
+        "name": "Aya Gold & Silver Inc.",
+        "open": null,
+        "pct_change": "-10.70%",
+        "price": "",
+        "symbol": "AYA"
+      },
+      {
+        "change": "-0.68",
+        "change_pts": null,
+        "close": 7364.25,
+        "name": "Fermi Inc.",
+        "open": null,
+        "pct_change": "-10.38%",
+        "price": "",
+        "symbol": "FRMI"
+      },
+      {
+        "change": "-1.29",
+        "change_pts": null,
+        "close": 7365.25,
+        "name": "Uranium Energy Corp.",
+        "open": null,
+        "pct_change": "-9.77%",
+        "price": "",
+        "symbol": "UEC"
+      }
+    ],
+    "scraped_at": "2026-05-19T21:49:07.287051-04:00"
   }
 }
