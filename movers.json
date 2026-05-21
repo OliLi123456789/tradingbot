@@ -14550,5 +14550,112 @@
       }
     ],
     "scraped_at": "2026-05-19T21:49:07.287051-04:00"
+  },
+  "2026-05-20": {
+    "gainers": [
+      {
+        "change": "+9.27",
+        "change_pts": null,
+        "close": 7431.75,
+        "name": "Immunovant, Inc.",
+        "open": null,
+        "pct_change": "+35.26%",
+        "price": "",
+        "symbol": "IMVT"
+      },
+      {
+        "change": "+1.82",
+        "change_pts": null,
+        "close": 7420.0,
+        "name": "T1 Energy Inc.",
+        "open": null,
+        "pct_change": "+26.45%",
+        "price": "",
+        "symbol": "TE"
+      },
+      {
+        "change": "+2.41",
+        "change_pts": null,
+        "close": 7433.0,
+        "name": "Xanadu Quantum Technologies Limited",
+        "open": null,
+        "pct_change": "+20.56%",
+        "price": "",
+        "symbol": "XNDU"
+      },
+      {
+        "change": "+3.57",
+        "change_pts": null,
+        "close": 7419.25,
+        "name": "Navitas Semiconductor Corporation",
+        "open": null,
+        "pct_change": "+18.40%",
+        "price": "",
+        "symbol": "NVTS"
+      },
+      {
+        "change": "+43.22",
+        "change_pts": null,
+        "close": 7432.25,
+        "name": "Astera Labs, Inc.",
+        "open": null,
+        "pct_change": "+17.69%",
+        "price": "",
+        "symbol": "ALAB"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-3.75",
+        "change_pts": null,
+        "close": null,
+        "name": "GDS Holdings Limited",
+        "open": null,
+        "pct_change": "-9.28%",
+        "price": "",
+        "symbol": "GDS"
+      },
+      {
+        "change": "-8.58",
+        "change_pts": null,
+        "close": null,
+        "name": "Hasbro, Inc.",
+        "open": null,
+        "pct_change": "-8.83%",
+        "price": "",
+        "symbol": "HAS"
+      },
+      {
+        "change": "-1.95",
+        "change_pts": null,
+        "close": null,
+        "name": "EquipmentShare.com Inc.",
+        "open": null,
+        "pct_change": "-8.71%",
+        "price": "",
+        "symbol": "EQPT"
+      },
+      {
+        "change": "-1.70",
+        "change_pts": null,
+        "close": 7421.75,
+        "name": "Bilibili Inc.",
+        "open": null,
+        "pct_change": "-8.50%",
+        "price": "",
+        "symbol": "BILI"
+      },
+      {
+        "change": "-8.27",
+        "change_pts": null,
+        "close": 7397.5,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "-7.33%",
+        "price": "",
+        "symbol": "AXTI"
+      }
+    ],
+    "scraped_at": "2026-05-20T21:48:02.969260-04:00"
   }
 }
