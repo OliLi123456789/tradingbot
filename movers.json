@@ -14657,5 +14657,112 @@
       }
     ],
     "scraped_at": "2026-05-20T21:48:02.969260-04:00"
+  },
+  "2026-05-21": {
+    "gainers": [
+      {
+        "change": "+6.44",
+        "change_pts": null,
+        "close": 7445.72,
+        "name": "D-Wave Quantum Inc.",
+        "open": null,
+        "pct_change": "+33.37%",
+        "price": "",
+        "symbol": "QBTS"
+      },
+      {
+        "change": "+3.52",
+        "change_pts": null,
+        "close": 7478.5,
+        "name": "Infleqtion, Inc.",
+        "open": null,
+        "pct_change": "+31.48%",
+        "price": "",
+        "symbol": "INFQ"
+      },
+      {
+        "change": "+5.19",
+        "change_pts": null,
+        "close": 7445.72,
+        "name": "Rigetti Computing, Inc.",
+        "open": null,
+        "pct_change": "+30.72%",
+        "price": "",
+        "symbol": "RGTI"
+      },
+      {
+        "change": "+8.50",
+        "change_pts": null,
+        "close": 7446.25,
+        "name": "Applied Digital Corporation",
+        "open": null,
+        "pct_change": "+21.51%",
+        "price": "",
+        "symbol": "APLD"
+      },
+      {
+        "change": "+6.46",
+        "change_pts": null,
+        "close": null,
+        "name": "Birkenstock Holding plc",
+        "open": null,
+        "pct_change": "+19.45%",
+        "price": "",
+        "symbol": "BIRK"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-76.86",
+        "change_pts": null,
+        "close": 7441.5,
+        "name": "Intuit Inc.",
+        "open": null,
+        "pct_change": "-20.02%",
+        "price": "",
+        "symbol": "INTU"
+      },
+      {
+        "change": "-13.36",
+        "change_pts": null,
+        "close": 7483.5,
+        "name": "EchoStar Corporation",
+        "open": null,
+        "pct_change": "-9.42%",
+        "price": "",
+        "symbol": "SATS"
+      },
+      {
+        "change": "-1.80",
+        "change_pts": null,
+        "close": null,
+        "name": "NextNav Inc.",
+        "open": null,
+        "pct_change": "-7.79%",
+        "price": "",
+        "symbol": "NN"
+      },
+      {
+        "change": "-8.11",
+        "change_pts": null,
+        "close": null,
+        "name": "Valaris Limited",
+        "open": null,
+        "pct_change": "-7.40%",
+        "price": "",
+        "symbol": "VAL"
+      },
+      {
+        "change": "-9.51",
+        "change_pts": null,
+        "close": 7432.5,
+        "name": "Walmart Inc.",
+        "open": null,
+        "pct_change": "-7.27%",
+        "price": "",
+        "symbol": "WMT"
+      }
+    ],
+    "scraped_at": "2026-05-21T21:48:04.865432-04:00"
   }
 }
