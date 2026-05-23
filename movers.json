@@ -14764,5 +14764,112 @@
       }
     ],
     "scraped_at": "2026-05-21T21:48:04.865432-04:00"
+  },
+  "2026-05-22": {
+    "gainers": [
+      {
+        "change": "+4.87",
+        "change_pts": null,
+        "close": 7473.47,
+        "name": "Navitas Semiconductor Corporation",
+        "open": null,
+        "pct_change": "+19.98%",
+        "price": "",
+        "symbol": "NVTS"
+      },
+      {
+        "change": "+4.38",
+        "change_pts": null,
+        "close": 7445.72,
+        "name": "Rigetti Computing, Inc.",
+        "open": null,
+        "pct_change": "+19.87%",
+        "price": "",
+        "symbol": "RGTI"
+      },
+      {
+        "change": "+1.26",
+        "change_pts": null,
+        "close": 7432.5,
+        "name": "BlackBerry Limited",
+        "open": null,
+        "pct_change": "+18.95%",
+        "price": "",
+        "symbol": "BB"
+      },
+      {
+        "change": "+42.39",
+        "change_pts": null,
+        "close": 7441.25,
+        "name": "Dell Technologies Inc.",
+        "open": null,
+        "pct_change": "+16.77%",
+        "price": "",
+        "symbol": "DELL"
+      },
+      {
+        "change": "+19.81",
+        "change_pts": null,
+        "close": 7431.0,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "+16.37%",
+        "price": "",
+        "symbol": "AXTI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-34.10",
+        "change_pts": null,
+        "close": 7473.47,
+        "name": "Futu Holdings Limited",
+        "open": null,
+        "pct_change": "-27.53%",
+        "price": "",
+        "symbol": "FUTU"
+      },
+      {
+        "change": "-3.78",
+        "change_pts": null,
+        "close": null,
+        "name": "CAE Inc.",
+        "open": null,
+        "pct_change": "-14.03%",
+        "price": "",
+        "symbol": "CAE"
+      },
+      {
+        "change": "-18.80",
+        "change_pts": null,
+        "close": null,
+        "name": "Glaukos Corporation",
+        "open": null,
+        "pct_change": "-13.52%",
+        "price": "",
+        "symbol": "GKOS"
+      },
+      {
+        "change": "-4.15",
+        "change_pts": null,
+        "close": 7408.5,
+        "name": "Fervo Energy Company",
+        "open": null,
+        "pct_change": "-9.76%",
+        "price": "",
+        "symbol": "FRVO"
+      },
+      {
+        "change": "-25.08",
+        "change_pts": null,
+        "close": 7473.47,
+        "name": "Cerebras Systems Inc.",
+        "open": null,
+        "pct_change": "-8.90%",
+        "price": "",
+        "symbol": "CBRS"
+      }
+    ],
+    "scraped_at": "2026-05-22T21:43:43.102655-04:00"
   }
 }
