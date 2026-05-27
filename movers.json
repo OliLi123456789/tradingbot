@@ -14871,5 +14871,112 @@
       }
     ],
     "scraped_at": "2026-05-22T21:43:43.102655-04:00"
+  },
+  "2026-05-26": {
+    "gainers": [
+      {
+        "change": "+5.32",
+        "change_pts": null,
+        "close": null,
+        "name": "Braiin Limited",
+        "open": null,
+        "pct_change": "+74.20%",
+        "price": "",
+        "symbol": "BRAI"
+      },
+      {
+        "change": "+2.37",
+        "change_pts": null,
+        "close": 7519.12,
+        "name": "T1 Energy Inc.",
+        "open": null,
+        "pct_change": "+29.33%",
+        "price": "",
+        "symbol": "TE"
+      },
+      {
+        "change": "+4.53",
+        "change_pts": null,
+        "close": 7432.5,
+        "name": "Redwire Corporation",
+        "open": null,
+        "pct_change": "+25.90%",
+        "price": "",
+        "symbol": "RDW"
+      },
+      {
+        "change": "+64.96",
+        "change_pts": null,
+        "close": 7541.5,
+        "name": "Vicor Corporation",
+        "open": null,
+        "pct_change": "+24.24%",
+        "price": "",
+        "symbol": "VICR"
+      },
+      {
+        "change": "+17.94",
+        "change_pts": null,
+        "close": 7541.5,
+        "name": "Futu Holdings Limited",
+        "open": null,
+        "pct_change": "+19.99%",
+        "price": "",
+        "symbol": "FUTU"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-0.87",
+        "change_pts": null,
+        "close": 7473.47,
+        "name": "Evolution Metals & Technologies Corp.",
+        "open": null,
+        "pct_change": "-10.89%",
+        "price": "",
+        "symbol": "EMAT"
+      },
+      {
+        "change": "-306.39",
+        "change_pts": null,
+        "close": 7541.75,
+        "name": "AutoZone, Inc.",
+        "open": null,
+        "pct_change": "-8.99%",
+        "price": "",
+        "symbol": "AZO"
+      },
+      {
+        "change": "-3.38",
+        "change_pts": null,
+        "close": 7541.5,
+        "name": "Intuitive Machines, Inc.",
+        "open": null,
+        "pct_change": "-8.85%",
+        "price": "",
+        "symbol": "LUNR"
+      },
+      {
+        "change": "-1.24",
+        "change_pts": null,
+        "close": 7546.5,
+        "name": "POET Technologies Inc.",
+        "open": null,
+        "pct_change": "-8.50%",
+        "price": "",
+        "symbol": "POET"
+      },
+      {
+        "change": "-1.19",
+        "change_pts": null,
+        "close": 7546.75,
+        "name": "Kingsoft Cloud Holdings Limited",
+        "open": null,
+        "pct_change": "-8.37%",
+        "price": "",
+        "symbol": "KC"
+      }
+    ],
+    "scraped_at": "2026-05-26T21:50:26.625212-04:00"
   }
 }
