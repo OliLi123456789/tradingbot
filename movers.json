@@ -14978,5 +14978,112 @@
       }
     ],
     "scraped_at": "2026-05-26T21:50:26.625212-04:00"
+  },
+  "2026-05-27": {
+    "gainers": [
+      {
+        "change": "+108.66",
+        "change_pts": null,
+        "close": 7545.25,
+        "name": "Dycom Industries, Inc.",
+        "open": null,
+        "pct_change": "+25.84%",
+        "price": "",
+        "symbol": "DY"
+      },
+      {
+        "change": "+5.46",
+        "change_pts": null,
+        "close": 7520.52,
+        "name": "Intuitive Machines, Inc.",
+        "open": null,
+        "pct_change": "+15.66%",
+        "price": "",
+        "symbol": "LUNR"
+      },
+      {
+        "change": "+8.08",
+        "change_pts": null,
+        "close": 7519.13,
+        "name": "IREN Limited",
+        "open": null,
+        "pct_change": "+13.52%",
+        "price": "",
+        "symbol": "IREN"
+      },
+      {
+        "change": "+2.50",
+        "change_pts": null,
+        "close": 7546.25,
+        "name": "Manchester United plc",
+        "open": null,
+        "pct_change": "+12.68%",
+        "price": "",
+        "symbol": "MANU"
+      },
+      {
+        "change": "+2.03",
+        "change_pts": null,
+        "close": 7545.5,
+        "name": "PENN Entertainment, Inc.",
+        "open": null,
+        "pct_change": "+11.90%",
+        "price": "",
+        "symbol": "PENN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-58.19",
+        "change_pts": null,
+        "close": 7543.25,
+        "name": "Zscaler, Inc.",
+        "open": null,
+        "pct_change": "-31.52%",
+        "price": "",
+        "symbol": "ZS"
+      },
+      {
+        "change": "-10.24",
+        "change_pts": null,
+        "close": 7530.0,
+        "name": "Wolfspeed, Inc.",
+        "open": null,
+        "pct_change": "-13.93%",
+        "price": "",
+        "symbol": "WOLF"
+      },
+      {
+        "change": "-1.70",
+        "change_pts": null,
+        "close": 7520.36,
+        "name": "Braiin Limited",
+        "open": null,
+        "pct_change": "-13.61%",
+        "price": "",
+        "symbol": "BRAI"
+      },
+      {
+        "change": "-7.18",
+        "change_pts": null,
+        "close": 7546.25,
+        "name": "Boston Scientific Corporation",
+        "open": null,
+        "pct_change": "-12.46%",
+        "price": "",
+        "symbol": "BSX"
+      },
+      {
+        "change": "-10.03",
+        "change_pts": null,
+        "close": 7545.25,
+        "name": "PDD Holdings Inc.",
+        "open": null,
+        "pct_change": "-10.38%",
+        "price": "",
+        "symbol": "PDD"
+      }
+    ],
+    "scraped_at": "2026-05-27T21:43:17.338942-04:00"
   }
 }
