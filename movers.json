@@ -15085,5 +15085,112 @@
       }
     ],
     "scraped_at": "2026-05-27T21:43:17.338942-04:00"
+  },
+  "2026-05-28": {
+    "gainers": [
+      {
+        "change": "+63.94",
+        "change_pts": null,
+        "close": 7574.75,
+        "name": "Snowflake Inc.",
+        "open": null,
+        "pct_change": "+36.48%",
+        "price": "",
+        "symbol": "SNOW"
+      },
+      {
+        "change": "+2.87",
+        "change_pts": null,
+        "close": 7523.5,
+        "name": "Braiin Limited",
+        "open": null,
+        "pct_change": "+26.60%",
+        "price": "",
+        "symbol": "BRAI"
+      },
+      {
+        "change": "+3.45",
+        "change_pts": null,
+        "close": null,
+        "name": "ChronoScale Corporation",
+        "open": null,
+        "pct_change": "+23.25%",
+        "price": "",
+        "symbol": "CHRN"
+      },
+      {
+        "change": "+2.45",
+        "change_pts": null,
+        "close": 7576.5,
+        "name": "Ondas Inc.",
+        "open": null,
+        "pct_change": "+22.69%",
+        "price": "",
+        "symbol": "ONDS"
+      },
+      {
+        "change": "+3.69",
+        "change_pts": null,
+        "close": 7398.93,
+        "name": "Amprius Technologies, Inc.",
+        "open": null,
+        "pct_change": "+21.50%",
+        "price": "",
+        "symbol": "AMPX"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-19.49",
+        "change_pts": null,
+        "close": null,
+        "name": "Photronics, Inc.",
+        "open": null,
+        "pct_change": "-36.42%",
+        "price": "",
+        "symbol": "PLAB"
+      },
+      {
+        "change": "-12.70",
+        "change_pts": null,
+        "close": 7576.75,
+        "name": "Everpure, Inc.",
+        "open": null,
+        "pct_change": "-14.81%",
+        "price": "",
+        "symbol": "P"
+      },
+      {
+        "change": "-7.91",
+        "change_pts": null,
+        "close": 7566.59,
+        "name": "Firefly Aerospace Inc.",
+        "open": null,
+        "pct_change": "-13.81%",
+        "price": "",
+        "symbol": "FLY"
+      },
+      {
+        "change": "-4.84",
+        "change_pts": null,
+        "close": 7577.5,
+        "name": "ATS Corporation",
+        "open": null,
+        "pct_change": "-13.72%",
+        "price": "",
+        "symbol": "ATS"
+      },
+      {
+        "change": "-2.13",
+        "change_pts": null,
+        "close": 7575.0,
+        "name": "Manchester United plc",
+        "open": null,
+        "pct_change": "-9.59%",
+        "price": "",
+        "symbol": "MANU"
+      }
+    ],
+    "scraped_at": "2026-05-28T21:47:57.821993-04:00"
   }
 }
