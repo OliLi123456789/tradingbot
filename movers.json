@@ -15192,5 +15192,112 @@
       }
     ],
     "scraped_at": "2026-05-28T21:47:57.821993-04:00"
+  },
+  "2026-05-29": {
+    "gainers": [
+      {
+        "change": "+103.86",
+        "change_pts": null,
+        "close": 7441.25,
+        "name": "Dell Technologies Inc.",
+        "open": null,
+        "pct_change": "+32.76%",
+        "price": "",
+        "symbol": "DELL"
+      },
+      {
+        "change": "+28.55",
+        "change_pts": null,
+        "close": 7590.38,
+        "name": "Okta, Inc.",
+        "open": null,
+        "pct_change": "+30.14%",
+        "price": "",
+        "symbol": "OKTA"
+      },
+      {
+        "change": "+31.89",
+        "change_pts": null,
+        "close": 7590.37,
+        "name": "NetApp, Inc.",
+        "open": null,
+        "pct_change": "+22.39%",
+        "price": "",
+        "symbol": "NTAP"
+      },
+      {
+        "change": "+5.09",
+        "change_pts": null,
+        "close": 7580.06,
+        "name": "BBB Foods Inc.",
+        "open": null,
+        "pct_change": "+15.55%",
+        "price": "",
+        "symbol": "TBBB"
+      },
+      {
+        "change": "+14.32",
+        "change_pts": null,
+        "close": 7580.06,
+        "name": "Atlassian Corporation",
+        "open": null,
+        "pct_change": "+15.35%",
+        "price": "",
+        "symbol": "TEAM"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-19.66",
+        "change_pts": null,
+        "close": 7580.06,
+        "name": "Ambarella, Inc.",
+        "open": null,
+        "pct_change": "-21.41%",
+        "price": "",
+        "symbol": "AMBA"
+      },
+      {
+        "change": "-3.85",
+        "change_pts": null,
+        "close": 7523.75,
+        "name": "The Gap, Inc.",
+        "open": null,
+        "pct_change": "-15.40%",
+        "price": "",
+        "symbol": "GAP"
+      },
+      {
+        "change": "-19.68",
+        "change_pts": null,
+        "close": 7441.5,
+        "name": "AST SpaceMobile, Inc.",
+        "open": null,
+        "pct_change": "-14.79%",
+        "price": "",
+        "symbol": "ASTS"
+      },
+      {
+        "change": "-8.36",
+        "change_pts": null,
+        "close": 7408.5,
+        "name": "Karman Holdings Inc.",
+        "open": null,
+        "pct_change": "-12.69%",
+        "price": "",
+        "symbol": "KRMN"
+      },
+      {
+        "change": "-2.12",
+        "change_pts": null,
+        "close": null,
+        "name": "American Eagle Outfitters, Inc.",
+        "open": null,
+        "pct_change": "-11.83%",
+        "price": "",
+        "symbol": "AEO"
+      }
+    ],
+    "scraped_at": "2026-05-29T21:44:40.141958-04:00"
   }
 }
