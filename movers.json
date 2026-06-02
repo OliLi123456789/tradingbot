@@ -15299,5 +15299,112 @@
       }
     ],
     "scraped_at": "2026-05-29T21:44:40.141958-04:00"
+  },
+  "2026-06-01": {
+    "gainers": [
+      {
+        "change": "+8.27",
+        "change_pts": null,
+        "close": 7583.5,
+        "name": "Fluence Energy, Inc.",
+        "open": null,
+        "pct_change": "+43.80%",
+        "price": "",
+        "symbol": "FLNC"
+      },
+      {
+        "change": "+13.05",
+        "change_pts": null,
+        "close": 7583.0,
+        "name": "Taylor Morrison Home Corporation",
+        "open": null,
+        "pct_change": "+22.31%",
+        "price": "",
+        "symbol": "TMHC"
+      },
+      {
+        "change": "+68.33",
+        "change_pts": null,
+        "close": 7583.0,
+        "name": "MongoDB, Inc.",
+        "open": null,
+        "pct_change": "+20.36%",
+        "price": "",
+        "symbol": "MDB"
+      },
+      {
+        "change": "+36.90",
+        "change_pts": null,
+        "close": 7582.75,
+        "name": "Twilio Inc.",
+        "open": null,
+        "pct_change": "+19.36%",
+        "price": "",
+        "symbol": "TWLO"
+      },
+      {
+        "change": "+7.09",
+        "change_pts": null,
+        "close": null,
+        "name": "SK Telecom Co., Ltd.",
+        "open": null,
+        "pct_change": "+18.99%",
+        "price": "",
+        "symbol": "SKM"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-3.95",
+        "change_pts": null,
+        "close": 7579.5,
+        "name": "Polestar Automotive Holding UK PLC",
+        "open": null,
+        "pct_change": "-17.11%",
+        "price": "",
+        "symbol": "PSNY"
+      },
+      {
+        "change": "-17.38",
+        "change_pts": null,
+        "close": 7584.25,
+        "name": "Nuvalent, Inc.",
+        "open": null,
+        "pct_change": "-15.74%",
+        "price": "",
+        "symbol": "NUVL"
+      },
+      {
+        "change": "-3.87",
+        "change_pts": null,
+        "close": 7432.5,
+        "name": "Redwire Corporation",
+        "open": null,
+        "pct_change": "-15.74%",
+        "price": "",
+        "symbol": "RDW"
+      },
+      {
+        "change": "-21.09",
+        "change_pts": null,
+        "close": 7591.19,
+        "name": "Rocket Lab Corporation",
+        "open": null,
+        "pct_change": "-14.70%",
+        "price": "",
+        "symbol": "RKLB"
+      },
+      {
+        "change": "-1.03",
+        "change_pts": null,
+        "close": null,
+        "name": "Polibeli Group Ltd",
+        "open": null,
+        "pct_change": "-14.31%",
+        "price": "",
+        "symbol": "PLBL"
+      }
+    ],
+    "scraped_at": "2026-06-01T21:57:28.761457-04:00"
   }
 }
