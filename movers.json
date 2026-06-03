@@ -15406,5 +15406,112 @@
       }
     ],
     "scraped_at": "2026-06-01T21:57:28.761457-04:00"
+  },
+  "2026-06-02": {
+    "gainers": [
+      {
+        "change": "+10.77",
+        "change_pts": null,
+        "close": null,
+        "name": "Legend Biotech Corporation",
+        "open": null,
+        "pct_change": "+42.22%",
+        "price": "",
+        "symbol": "LEGN"
+      },
+      {
+        "change": "+71.36",
+        "change_pts": null,
+        "close": 7590.64,
+        "name": "Marvell Technology, Inc.",
+        "open": null,
+        "pct_change": "+32.52%",
+        "price": "",
+        "symbol": "MRVL"
+      },
+      {
+        "change": "+19.38",
+        "change_pts": null,
+        "close": 7619.75,
+        "name": "Aehr Test Systems, Inc.",
+        "open": null,
+        "pct_change": "+20.70%",
+        "price": "",
+        "symbol": "AEHR"
+      },
+      {
+        "change": "+9.15",
+        "change_pts": null,
+        "close": 7619.75,
+        "name": "Hewlett Packard Enterprise Company",
+        "open": null,
+        "pct_change": "+19.47%",
+        "price": "",
+        "symbol": "HPE"
+      },
+      {
+        "change": "+10.94",
+        "change_pts": null,
+        "close": 7524.0,
+        "name": "Penguin Solutions, Inc.",
+        "open": null,
+        "pct_change": "+18.32%",
+        "price": "",
+        "symbol": "PENG"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-57.19",
+        "change_pts": null,
+        "close": 7620.5,
+        "name": "ABIVAX Société Anonyme",
+        "open": null,
+        "pct_change": "-44.10%",
+        "price": "",
+        "symbol": "ABVX"
+      },
+      {
+        "change": "-31.54",
+        "change_pts": null,
+        "close": 7619.75,
+        "name": "Celcuity Inc.",
+        "open": null,
+        "pct_change": "-25.65%",
+        "price": "",
+        "symbol": "CELC"
+      },
+      {
+        "change": "-77.08",
+        "change_pts": null,
+        "close": 7397.73,
+        "name": "Praxis Precision Medicines, Inc.",
+        "open": null,
+        "pct_change": "-23.00%",
+        "price": "",
+        "symbol": "PRAX"
+      },
+      {
+        "change": "-1.85",
+        "change_pts": null,
+        "close": 7523.5,
+        "name": "Braiin Limited",
+        "open": null,
+        "pct_change": "-15.75%",
+        "price": "",
+        "symbol": "BRAI"
+      },
+      {
+        "change": "-10.25",
+        "change_pts": null,
+        "close": 7619.75,
+        "name": "Xometry, Inc.",
+        "open": null,
+        "pct_change": "-10.76%",
+        "price": "",
+        "symbol": "XMTR"
+      }
+    ],
+    "scraped_at": "2026-06-02T22:01:08.055605-04:00"
   }
 }
