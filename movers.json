@@ -15513,5 +15513,112 @@
       }
     ],
     "scraped_at": "2026-06-02T22:01:08.055605-04:00"
+  },
+  "2026-06-03": {
+    "gainers": [
+      {
+        "change": "+17.65",
+        "change_pts": null,
+        "close": 7544.25,
+        "name": "ABIVAX Société Anonyme",
+        "open": null,
+        "pct_change": "+24.34%",
+        "price": "",
+        "symbol": "ABVX"
+      },
+      {
+        "change": "+4.98",
+        "change_pts": null,
+        "close": 7565.22,
+        "name": "Navitas Semiconductor Corporation",
+        "open": null,
+        "pct_change": "+19.26%",
+        "price": "",
+        "symbol": "NVTS"
+      },
+      {
+        "change": "+1.96",
+        "change_pts": null,
+        "close": 7543.25,
+        "name": "MiniMed Group, Inc.",
+        "open": null,
+        "pct_change": "+15.94%",
+        "price": "",
+        "symbol": "MMED"
+      },
+      {
+        "change": "+1.56",
+        "change_pts": null,
+        "close": 7543.25,
+        "name": "POET Technologies Inc.",
+        "open": null,
+        "pct_change": "+11.29%",
+        "price": "",
+        "symbol": "POET"
+      },
+      {
+        "change": "+4.65",
+        "change_pts": null,
+        "close": 7545.5,
+        "name": "Versigent PLC",
+        "open": null,
+        "pct_change": "+10.30%",
+        "price": "",
+        "symbol": "VGNT"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-1.97",
+        "change_pts": null,
+        "close": 7543.25,
+        "name": "Ondas Inc.",
+        "open": null,
+        "pct_change": "-14.51%",
+        "price": "",
+        "symbol": "ONDS"
+      },
+      {
+        "change": "-5.74",
+        "change_pts": null,
+        "close": 7593.75,
+        "name": "Intuitive Machines, Inc.",
+        "open": null,
+        "pct_change": "-14.51%",
+        "price": "",
+        "symbol": "LUNR"
+      },
+      {
+        "change": "-3.79",
+        "change_pts": null,
+        "close": null,
+        "name": "Mineralys Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-13.14%",
+        "price": "",
+        "symbol": "MLYS"
+      },
+      {
+        "change": "-1.22",
+        "change_pts": null,
+        "close": 7546.75,
+        "name": "Eos Energy Enterprises, Inc.",
+        "open": null,
+        "pct_change": "-12.95%",
+        "price": "",
+        "symbol": "EOSE"
+      },
+      {
+        "change": "-2.13",
+        "change_pts": null,
+        "close": 7543.5,
+        "name": "Xanadu Quantum Technologies Limited",
+        "open": null,
+        "pct_change": "-12.58%",
+        "price": "",
+        "symbol": "XNDU"
+      }
+    ],
+    "scraped_at": "2026-06-03T22:00:01.504241-04:00"
   }
 }
