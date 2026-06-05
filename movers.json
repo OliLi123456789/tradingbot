@@ -15620,5 +15620,112 @@
       }
     ],
     "scraped_at": "2026-06-03T22:00:01.504241-04:00"
+  },
+  "2026-06-04": {
+    "gainers": [
+      {
+        "change": "+4.32",
+        "change_pts": null,
+        "close": 7555.0,
+        "name": "ChronoScale Corporation",
+        "open": null,
+        "pct_change": "+22.69%",
+        "price": "",
+        "symbol": "CHRN"
+      },
+      {
+        "change": "+14.78",
+        "change_pts": null,
+        "close": 7554.0,
+        "name": "ABIVAX Société Anonyme",
+        "open": null,
+        "pct_change": "+16.39%",
+        "price": "",
+        "symbol": "ABVX"
+      },
+      {
+        "change": "+3.10",
+        "change_pts": null,
+        "close": 7555.0,
+        "name": "Oscar Health, Inc.",
+        "open": null,
+        "pct_change": "+15.12%",
+        "price": "",
+        "symbol": "OSCR"
+      },
+      {
+        "change": "+2.81",
+        "change_pts": null,
+        "close": 7555.0,
+        "name": "Redwire Corporation",
+        "open": null,
+        "pct_change": "+15.09%",
+        "price": "",
+        "symbol": "RDW"
+      },
+      {
+        "change": "+2.09",
+        "change_pts": null,
+        "close": 7553.75,
+        "name": "Adaptive Biotechnologies Corporation",
+        "open": null,
+        "pct_change": "+13.07%",
+        "price": "",
+        "symbol": "ADPT"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-19.84",
+        "change_pts": null,
+        "close": 7553.75,
+        "name": "PVH Corp.",
+        "open": null,
+        "pct_change": "-20.24%",
+        "price": "",
+        "symbol": "PVH"
+      },
+      {
+        "change": "-2.37",
+        "change_pts": null,
+        "close": 7554.75,
+        "name": "Netskope, Inc.",
+        "open": null,
+        "pct_change": "-19.11%",
+        "price": "",
+        "symbol": "NTSK"
+      },
+      {
+        "change": "-30.72",
+        "change_pts": null,
+        "close": 7553.75,
+        "name": "Five Below, Inc.",
+        "open": null,
+        "pct_change": "-13.78%",
+        "price": "",
+        "symbol": "FIVE"
+      },
+      {
+        "change": "-84.74",
+        "change_pts": null,
+        "close": 7555.0,
+        "name": "Ciena Corporation",
+        "open": null,
+        "pct_change": "-13.66%",
+        "price": "",
+        "symbol": "CIEN"
+      },
+      {
+        "change": "-60.32",
+        "change_pts": null,
+        "close": 7553.75,
+        "name": "Broadcom Inc.",
+        "open": null,
+        "pct_change": "-12.59%",
+        "price": "",
+        "symbol": "AVGO"
+      }
+    ],
+    "scraped_at": "2026-06-04T21:51:49.183705-04:00"
   }
 }
