@@ -15727,5 +15727,112 @@
       }
     ],
     "scraped_at": "2026-06-04T21:51:49.183705-04:00"
+  },
+  "2026-06-05": {
+    "gainers": [
+      {
+        "change": "+5.32",
+        "change_pts": null,
+        "close": 7383.74,
+        "name": "The Cooper Companies, Inc.",
+        "open": null,
+        "pct_change": "+8.58%",
+        "price": "",
+        "symbol": "COO"
+      },
+      {
+        "change": "+2.66",
+        "change_pts": null,
+        "close": 7383.74,
+        "name": "ABM Industries Incorporated",
+        "open": null,
+        "pct_change": "+6.67%",
+        "price": "",
+        "symbol": "ABM"
+      },
+      {
+        "change": "+9.01",
+        "change_pts": null,
+        "close": 7383.74,
+        "name": "ArcBest Corporation",
+        "open": null,
+        "pct_change": "+6.17%",
+        "price": "",
+        "symbol": "ARCB"
+      },
+      {
+        "change": "+1.41",
+        "change_pts": null,
+        "close": 7383.74,
+        "name": "Neptune Insurance Holdings Inc.",
+        "open": null,
+        "pct_change": "+5.86%",
+        "price": "",
+        "symbol": "NP"
+      },
+      {
+        "change": "+49.05",
+        "change_pts": null,
+        "close": 7383.74,
+        "name": "argenx SE",
+        "open": null,
+        "pct_change": "+5.82%",
+        "price": "",
+        "symbol": "ARGX"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-11.31",
+        "change_pts": null,
+        "close": 7383.74,
+        "name": "Planet Labs PBC",
+        "open": null,
+        "pct_change": "-25.98%",
+        "price": "",
+        "symbol": "PL"
+      },
+      {
+        "change": "-3.62",
+        "change_pts": null,
+        "close": 7383.74,
+        "name": "POET Technologies Inc.",
+        "open": null,
+        "pct_change": "-23.36%",
+        "price": "",
+        "symbol": "POET"
+      },
+      {
+        "change": "-4.37",
+        "change_pts": null,
+        "close": 7383.74,
+        "name": "Almonty Industries Inc.",
+        "open": null,
+        "pct_change": "-21.13%",
+        "price": "",
+        "symbol": "ALM"
+      },
+      {
+        "change": "-2.23",
+        "change_pts": null,
+        "close": 7383.74,
+        "name": "T1 Energy Inc.",
+        "open": null,
+        "pct_change": "-19.13%",
+        "price": "",
+        "symbol": "TE"
+      },
+      {
+        "change": "-4.33",
+        "change_pts": null,
+        "close": 7383.74,
+        "name": "ChronoScale Corporation",
+        "open": null,
+        "pct_change": "-18.54%",
+        "price": "",
+        "symbol": "CHRN"
+      }
+    ],
+    "scraped_at": "2026-06-05T21:46:55.647215-04:00"
   }
 }
