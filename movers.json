@@ -15834,5 +15834,112 @@
       }
     ],
     "scraped_at": "2026-06-05T21:46:55.647215-04:00"
+  },
+  "2026-06-08": {
+    "gainers": [
+      {
+        "change": "+10.71",
+        "change_pts": null,
+        "close": 7413.0,
+        "name": "Tango Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+52.97%",
+        "price": "",
+        "symbol": "TNGX"
+      },
+      {
+        "change": "+5.37",
+        "change_pts": null,
+        "close": 7415.75,
+        "name": "Galaxy Digital",
+        "open": null,
+        "pct_change": "+21.36%",
+        "price": "",
+        "symbol": "GLXY"
+      },
+      {
+        "change": "+36.82",
+        "change_pts": null,
+        "close": 7413.75,
+        "name": "Cerebras Systems Inc.",
+        "open": null,
+        "pct_change": "+18.32%",
+        "price": "",
+        "symbol": "CBRS"
+      },
+      {
+        "change": "+1.46",
+        "change_pts": null,
+        "close": 7414.0,
+        "name": "MARA Holdings, Inc.",
+        "open": null,
+        "pct_change": "+11.85%",
+        "price": "",
+        "symbol": "MARA"
+      },
+      {
+        "change": "+2.88",
+        "change_pts": null,
+        "close": 7414.0,
+        "name": "Oscar Health, Inc.",
+        "open": null,
+        "pct_change": "+11.75%",
+        "price": "",
+        "symbol": "OSCR"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-13.35",
+        "change_pts": null,
+        "close": 7415.75,
+        "name": "Brady Corporation",
+        "open": null,
+        "pct_change": "-15.06%",
+        "price": "",
+        "symbol": "BRC"
+      },
+      {
+        "change": "-74.74",
+        "change_pts": null,
+        "close": 7413.25,
+        "name": "Argan, Inc.",
+        "open": null,
+        "pct_change": "-10.76%",
+        "price": "",
+        "symbol": "AGX"
+      },
+      {
+        "change": "-1.47",
+        "change_pts": null,
+        "close": 7414.0,
+        "name": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk",
+        "open": null,
+        "pct_change": "-9.46%",
+        "price": "",
+        "symbol": "TLK"
+      },
+      {
+        "change": "-3.26",
+        "change_pts": null,
+        "close": 7415.75,
+        "name": "Fervo Energy Company",
+        "open": null,
+        "pct_change": "-8.76%",
+        "price": "",
+        "symbol": "FRVO"
+      },
+      {
+        "change": "-13.88",
+        "change_pts": null,
+        "close": 7414.5,
+        "name": "The Ensign Group, Inc.",
+        "open": null,
+        "pct_change": "-8.15%",
+        "price": "",
+        "symbol": "ENSG"
+      }
+    ],
+    "scraped_at": "2026-06-08T21:44:20.371917-04:00"
   }
 }
