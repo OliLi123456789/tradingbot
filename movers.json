@@ -15941,5 +15941,112 @@
       }
     ],
     "scraped_at": "2026-06-08T21:44:20.371917-04:00"
+  },
+  "2026-06-09": {
+    "gainers": [
+      {
+        "change": "+34.76",
+        "change_pts": null,
+        "close": 7387.5,
+        "name": "Nuvalent, Inc.",
+        "open": null,
+        "pct_change": "+39.28%",
+        "price": "",
+        "symbol": "NUVL"
+      },
+      {
+        "change": "+3.85",
+        "change_pts": null,
+        "close": 7383.25,
+        "name": "Alignment Healthcare, Inc.",
+        "open": null,
+        "pct_change": "+25.08%",
+        "price": "",
+        "symbol": "ALHC"
+      },
+      {
+        "change": "+14.91",
+        "change_pts": null,
+        "close": 7388.0,
+        "name": "CECO Environmental Corp.",
+        "open": null,
+        "pct_change": "+18.52%",
+        "price": "",
+        "symbol": "CECO"
+      },
+      {
+        "change": "+5.39",
+        "change_pts": null,
+        "close": 7383.25,
+        "name": "Intercorp Financial Services Inc.",
+        "open": null,
+        "pct_change": "+11.43%",
+        "price": "",
+        "symbol": "IFS"
+      },
+      {
+        "change": "+2.81",
+        "change_pts": null,
+        "close": 7385.75,
+        "name": "DraftKings Inc.",
+        "open": null,
+        "pct_change": "+11.34%",
+        "price": "",
+        "symbol": "DKNG"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-34.01",
+        "change_pts": null,
+        "close": 7384.25,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "-17.29%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "-1.96",
+        "change_pts": null,
+        "close": 7388.0,
+        "name": "Uranium Energy Corp.",
+        "open": null,
+        "pct_change": "-15.54%",
+        "price": "",
+        "symbol": "UEC"
+      },
+      {
+        "change": "-18.92",
+        "change_pts": null,
+        "close": 7388.0,
+        "name": "Primoris Services Corporation",
+        "open": null,
+        "pct_change": "-15.40%",
+        "price": "",
+        "symbol": "PRIM"
+      },
+      {
+        "change": "-2.83",
+        "change_pts": null,
+        "close": 7389.0,
+        "name": "Redwire Corporation",
+        "open": null,
+        "pct_change": "-15.24%",
+        "price": "",
+        "symbol": "RDW"
+      },
+      {
+        "change": "-12.42",
+        "change_pts": null,
+        "close": 7386.65,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "-13.68%",
+        "price": "",
+        "symbol": "AXTI"
+      }
+    ],
+    "scraped_at": "2026-06-09T21:50:28.715042-04:00"
   }
 }
