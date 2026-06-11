@@ -16048,5 +16048,112 @@
       }
     ],
     "scraped_at": "2026-06-09T21:50:28.715042-04:00"
+  },
+  "2026-06-10": {
+    "gainers": [
+      {
+        "change": "+1.27",
+        "change_pts": null,
+        "close": 7299.0,
+        "name": "Fermi Inc.",
+        "open": null,
+        "pct_change": "+22.60%",
+        "price": "",
+        "symbol": "FRMI"
+      },
+      {
+        "change": "+154.42",
+        "change_pts": null,
+        "close": 7299.0,
+        "name": "Casey's General Stores, Inc.",
+        "open": null,
+        "pct_change": "+20.29%",
+        "price": "",
+        "symbol": "CASY"
+      },
+      {
+        "change": "+0.86",
+        "change_pts": null,
+        "close": 7302.25,
+        "name": "Polibeli Group Ltd",
+        "open": null,
+        "pct_change": "+16.36%",
+        "price": "",
+        "symbol": "PLBL"
+      },
+      {
+        "change": "+0.62",
+        "change_pts": null,
+        "close": 7301.0,
+        "name": "Webull Corporation",
+        "open": null,
+        "pct_change": "+11.27%",
+        "price": "",
+        "symbol": "BULL"
+      },
+      {
+        "change": "+55.83",
+        "change_pts": null,
+        "close": 7301.25,
+        "name": "Murphy USA Inc.",
+        "open": null,
+        "pct_change": "+10.04%",
+        "price": "",
+        "symbol": "MUSA"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-11.37",
+        "change_pts": null,
+        "close": 7301.25,
+        "name": "Super Micro Computer, Inc.",
+        "open": null,
+        "pct_change": "-27.98%",
+        "price": "",
+        "symbol": "SMCI"
+      },
+      {
+        "change": "-5.94",
+        "change_pts": null,
+        "close": 7299.25,
+        "name": "Lazard, Inc.",
+        "open": null,
+        "pct_change": "-12.56%",
+        "price": "",
+        "symbol": "LAZ"
+      },
+      {
+        "change": "-2.41",
+        "change_pts": null,
+        "close": 7298.0,
+        "name": "X-Energy, Inc.",
+        "open": null,
+        "pct_change": "-11.80%",
+        "price": "",
+        "symbol": "XE"
+      },
+      {
+        "change": "-1.23",
+        "change_pts": null,
+        "close": 7301.0,
+        "name": "Uranium Energy Corp.",
+        "open": null,
+        "pct_change": "-11.55%",
+        "price": "",
+        "symbol": "UEC"
+      },
+      {
+        "change": "-2.04",
+        "change_pts": null,
+        "close": 7298.75,
+        "name": "Himax Technologies, Inc.",
+        "open": null,
+        "pct_change": "-11.17%",
+        "price": "",
+        "symbol": "HIMX"
+      }
+    ],
+    "scraped_at": "2026-06-10T21:57:58.065111-04:00"
   }
 }
