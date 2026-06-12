@@ -16155,5 +16155,112 @@
       }
     ],
     "scraped_at": "2026-06-10T21:57:58.065111-04:00"
+  },
+  "2026-06-11": {
+    "gainers": [
+      {
+        "change": "+6.10",
+        "change_pts": null,
+        "close": 7402.25,
+        "name": "York Space Systems Inc.",
+        "open": null,
+        "pct_change": "+22.09%",
+        "price": "",
+        "symbol": "YSS"
+      },
+      {
+        "change": "+11.21",
+        "change_pts": null,
+        "close": 7401.25,
+        "name": "Viasat, Inc.",
+        "open": null,
+        "pct_change": "+18.23%",
+        "price": "",
+        "symbol": "VSAT"
+      },
+      {
+        "change": "+5.95",
+        "change_pts": null,
+        "close": 7412.5,
+        "name": "Firefly Aerospace Inc.",
+        "open": null,
+        "pct_change": "+17.80%",
+        "price": "",
+        "symbol": "FLY"
+      },
+      {
+        "change": "+11.87",
+        "change_pts": null,
+        "close": 7398.25,
+        "name": "Ichor Holdings, Ltd.",
+        "open": null,
+        "pct_change": "+16.45%",
+        "price": "",
+        "symbol": "ICHR"
+      },
+      {
+        "change": "+6.59",
+        "change_pts": null,
+        "close": 7401.75,
+        "name": "Voyager Technologies, Inc.",
+        "open": null,
+        "pct_change": "+15.96%",
+        "price": "",
+        "symbol": "VOYG"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-5.36",
+        "change_pts": null,
+        "close": 7398.25,
+        "name": "Dana Incorporated",
+        "open": null,
+        "pct_change": "-15.11%",
+        "price": "",
+        "symbol": "DAN"
+      },
+      {
+        "change": "-16.69",
+        "change_pts": null,
+        "close": 7397.25,
+        "name": "PTC Inc.",
+        "open": null,
+        "pct_change": "-12.36%",
+        "price": "",
+        "symbol": "PTC"
+      },
+      {
+        "change": "-0.87",
+        "change_pts": null,
+        "close": 7402.25,
+        "name": "PureCycle Technologies, Inc.",
+        "open": null,
+        "pct_change": "-8.75%",
+        "price": "",
+        "symbol": "PCT"
+      },
+      {
+        "change": "-17.33",
+        "change_pts": null,
+        "close": 7397.75,
+        "name": "Oracle Corporation",
+        "open": null,
+        "pct_change": "-8.61%",
+        "price": "",
+        "symbol": "ORCL"
+      },
+      {
+        "change": "-15.71",
+        "change_pts": null,
+        "close": 7398.25,
+        "name": "Autodesk, Inc.",
+        "open": null,
+        "pct_change": "-7.10%",
+        "price": "",
+        "symbol": "ADSK"
+      }
+    ],
+    "scraped_at": "2026-06-11T21:55:28.069465-04:00"
   }
 }
