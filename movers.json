@@ -16262,5 +16262,112 @@
       }
     ],
     "scraped_at": "2026-06-11T21:55:28.069465-04:00"
+  },
+  "2026-06-12": {
+    "gainers": [
+      {
+        "change": "+24.02",
+        "change_pts": null,
+        "close": 7431.46,
+        "name": "Roku, Inc.",
+        "open": null,
+        "pct_change": "+20.08%",
+        "price": "",
+        "symbol": "ROKU"
+      },
+      {
+        "change": "+1.15",
+        "change_pts": null,
+        "close": 7431.46,
+        "name": "Polibeli Group Ltd",
+        "open": null,
+        "pct_change": "+17.51%",
+        "price": "",
+        "symbol": "PLBL"
+      },
+      {
+        "change": "+2.02",
+        "change_pts": null,
+        "close": null,
+        "name": "Maase Inc.",
+        "open": null,
+        "pct_change": "+15.73%",
+        "price": "",
+        "symbol": "MAAS"
+      },
+      {
+        "change": "+3.25",
+        "change_pts": null,
+        "close": 7431.46,
+        "name": "Alumis Inc.",
+        "open": null,
+        "pct_change": "+15.55%",
+        "price": "",
+        "symbol": "ALMS"
+      },
+      {
+        "change": "+5.77",
+        "change_pts": null,
+        "close": 7431.46,
+        "name": "Enliven Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+14.30%",
+        "price": "",
+        "symbol": "ELVN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-7.50",
+        "change_pts": null,
+        "close": 7431.46,
+        "name": "Firefly Aerospace Inc.",
+        "open": null,
+        "pct_change": "-19.05%",
+        "price": "",
+        "symbol": "FLY"
+      },
+      {
+        "change": "-6.03",
+        "change_pts": null,
+        "close": 7431.46,
+        "name": "York Space Systems Inc.",
+        "open": null,
+        "pct_change": "-17.88%",
+        "price": "",
+        "symbol": "YSS"
+      },
+      {
+        "change": "-15.15",
+        "change_pts": null,
+        "close": 7431.46,
+        "name": "AST SpaceMobile, Inc.",
+        "open": null,
+        "pct_change": "-15.53%",
+        "price": "",
+        "symbol": "ASTS"
+      },
+      {
+        "change": "-6.72",
+        "change_pts": null,
+        "close": 7431.46,
+        "name": "Voyager Technologies, Inc.",
+        "open": null,
+        "pct_change": "-14.04%",
+        "price": "",
+        "symbol": "VOYG"
+      },
+      {
+        "change": "-4.02",
+        "change_pts": null,
+        "close": 7431.46,
+        "name": "Intuitive Machines, Inc.",
+        "open": null,
+        "pct_change": "-13.12%",
+        "price": "",
+        "symbol": "LUNR"
+      }
+    ],
+    "scraped_at": "2026-06-12T21:51:05.441483-04:00"
   }
 }
