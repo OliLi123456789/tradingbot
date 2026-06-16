@@ -16369,5 +16369,112 @@
       }
     ],
     "scraped_at": "2026-06-12T21:51:05.441483-04:00"
+  },
+  "2026-06-15": {
+    "gainers": [
+      {
+        "change": "+2.15",
+        "change_pts": null,
+        "close": 7617.75,
+        "name": "Xanadu Quantum Technologies Limited",
+        "open": null,
+        "pct_change": "+18.24%",
+        "price": "",
+        "symbol": "XNDU"
+      },
+      {
+        "change": "+90.61",
+        "change_pts": null,
+        "close": 7615.5,
+        "name": "Western Digital Corporation",
+        "open": null,
+        "pct_change": "+16.10%",
+        "price": "",
+        "symbol": "WDC"
+      },
+      {
+        "change": "+13.56",
+        "change_pts": null,
+        "close": 7554.29,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "+13.95%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "+1.77",
+        "change_pts": null,
+        "close": 7617.75,
+        "name": "GPGI, Inc.",
+        "open": null,
+        "pct_change": "+13.83%",
+        "price": "",
+        "symbol": "GPGI"
+      },
+      {
+        "change": "+5.95",
+        "change_pts": null,
+        "close": 7616.5,
+        "name": "Wolfspeed, Inc.",
+        "open": null,
+        "pct_change": "+13.79%",
+        "price": "",
+        "symbol": "WOLF"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-11.09",
+        "change_pts": null,
+        "close": 7616.75,
+        "name": "Fox Corporation",
+        "open": null,
+        "pct_change": "-16.84%",
+        "price": "",
+        "symbol": "FOXA"
+      },
+      {
+        "change": "-8.97",
+        "change_pts": null,
+        "close": 7616.5,
+        "name": "Fox Corporation",
+        "open": null,
+        "pct_change": "-15.22%",
+        "price": "",
+        "symbol": "FOX"
+      },
+      {
+        "change": "-14.17",
+        "change_pts": null,
+        "close": 7617.0,
+        "name": "Stride, Inc.",
+        "open": null,
+        "pct_change": "-14.50%",
+        "price": "",
+        "symbol": "LRN"
+      },
+      {
+        "change": "-1.47",
+        "change_pts": null,
+        "close": 7617.25,
+        "name": "McGraw Hill, Inc.",
+        "open": null,
+        "pct_change": "-12.50%",
+        "price": "",
+        "symbol": "MH"
+      },
+      {
+        "change": "-1.61",
+        "change_pts": null,
+        "close": 7615.75,
+        "name": "Sasol Limited",
+        "open": null,
+        "pct_change": "-12.38%",
+        "price": "",
+        "symbol": "SSL"
+      }
+    ],
+    "scraped_at": "2026-06-15T22:00:59.343669-04:00"
   }
 }
