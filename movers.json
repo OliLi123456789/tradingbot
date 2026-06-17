@@ -16476,5 +16476,112 @@
       }
     ],
     "scraped_at": "2026-06-15T22:00:59.343669-04:00"
+  },
+  "2026-06-16": {
+    "gainers": [
+      {
+        "change": "+1.99",
+        "change_pts": null,
+        "close": 7603.25,
+        "name": "Lionsgate Studios Corp.",
+        "open": null,
+        "pct_change": "+13.85%",
+        "price": "",
+        "symbol": "LION"
+      },
+      {
+        "change": "+1.80",
+        "change_pts": null,
+        "close": 7602.75,
+        "name": "Magnite, Inc.",
+        "open": null,
+        "pct_change": "+10.75%",
+        "price": "",
+        "symbol": "MGNI"
+      },
+      {
+        "change": "+2.89",
+        "change_pts": null,
+        "close": 7602.75,
+        "name": "SSR Mining Inc.",
+        "open": null,
+        "pct_change": "+9.99%",
+        "price": "",
+        "symbol": "SSRM"
+      },
+      {
+        "change": "+10.30",
+        "change_pts": null,
+        "close": 7603.75,
+        "name": "CoreWeave, Inc.",
+        "open": null,
+        "pct_change": "+9.65%",
+        "price": "",
+        "symbol": "CRWV"
+      },
+      {
+        "change": "+1.61",
+        "change_pts": null,
+        "close": 7603.25,
+        "name": "Bath & Body Works, Inc.",
+        "open": null,
+        "pct_change": "+8.27%",
+        "price": "",
+        "symbol": "BBWI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-11.63",
+        "change_pts": null,
+        "close": 7603.0,
+        "name": "Gildan Activewear Inc.",
+        "open": null,
+        "pct_change": "-18.77%",
+        "price": "",
+        "symbol": "GIL"
+      },
+      {
+        "change": "-2.71",
+        "change_pts": null,
+        "close": 7602.75,
+        "name": "Huntsman Corporation",
+        "open": null,
+        "pct_change": "-17.05%",
+        "price": "",
+        "symbol": "HUN"
+      },
+      {
+        "change": "-17.79",
+        "change_pts": null,
+        "close": 7554.29,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "-16.06%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "-1.16",
+        "change_pts": null,
+        "close": 7600.25,
+        "name": "Polibeli Group Ltd",
+        "open": null,
+        "pct_change": "-13.30%",
+        "price": "",
+        "symbol": "PLBL"
+      },
+      {
+        "change": "-20.74",
+        "change_pts": null,
+        "close": 7603.5,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "-10.83%",
+        "price": "",
+        "symbol": "AAOI"
+      }
+    ],
+    "scraped_at": "2026-06-16T21:57:48.976497-04:00"
   }
 }
