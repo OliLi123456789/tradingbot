@@ -16583,5 +16583,112 @@
       }
     ],
     "scraped_at": "2026-06-16T21:57:48.976497-04:00"
+  },
+  "2026-06-17": {
+    "gainers": [
+      {
+        "change": "+21.17",
+        "change_pts": null,
+        "close": 7559.5,
+        "name": "uniQure N.V.",
+        "open": null,
+        "pct_change": "+78.44%",
+        "price": "",
+        "symbol": "QURE"
+      },
+      {
+        "change": "+2.06",
+        "change_pts": null,
+        "close": null,
+        "name": "Maase Inc.",
+        "open": null,
+        "pct_change": "+12.97%",
+        "price": "",
+        "symbol": "MAAS"
+      },
+      {
+        "change": "+1.53",
+        "change_pts": null,
+        "close": 7554.75,
+        "name": "Biohaven Ltd.",
+        "open": null,
+        "pct_change": "+12.66%",
+        "price": "",
+        "symbol": "BHVN"
+      },
+      {
+        "change": "+0.79",
+        "change_pts": null,
+        "close": 7555.0,
+        "name": "Eos Energy Enterprises, Inc.",
+        "open": null,
+        "pct_change": "+11.60%",
+        "price": "",
+        "symbol": "EOSE"
+      },
+      {
+        "change": "+6.40",
+        "change_pts": null,
+        "close": 7554.75,
+        "name": "Moderna, Inc.",
+        "open": null,
+        "pct_change": "+11.55%",
+        "price": "",
+        "symbol": "MRNA"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.51",
+        "change_pts": null,
+        "close": 7552.75,
+        "name": "SL Science Holding Limited Ordinary Shares",
+        "open": null,
+        "pct_change": "-28.23%",
+        "price": "",
+        "symbol": "SLBT"
+      },
+      {
+        "change": "-1.91",
+        "change_pts": null,
+        "close": 7554.75,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-11.42%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "-7.18",
+        "change_pts": null,
+        "close": 7555.5,
+        "name": "Carvana Co.",
+        "open": null,
+        "pct_change": "-10.25%",
+        "price": "",
+        "symbol": "CVNA"
+      },
+      {
+        "change": "-0.89",
+        "change_pts": null,
+        "close": 7559.5,
+        "name": "Mobileye Global Inc.",
+        "open": null,
+        "pct_change": "-9.25%",
+        "price": "",
+        "symbol": "MBLY"
+      },
+      {
+        "change": "-4.68",
+        "change_pts": null,
+        "close": 7552.75,
+        "name": "CarMax, Inc.",
+        "open": null,
+        "pct_change": "-8.98%",
+        "price": "",
+        "symbol": "KMX"
+      }
+    ],
+    "scraped_at": "2026-06-17T21:58:35.145505-04:00"
   }
 }
