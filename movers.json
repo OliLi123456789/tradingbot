@@ -16690,5 +16690,112 @@
       }
     ],
     "scraped_at": "2026-06-17T21:58:35.145505-04:00"
+  },
+  "2026-06-18": {
+    "gainers": [
+      {
+        "change": "+3.19",
+        "change_pts": null,
+        "close": 7550.75,
+        "name": "Butterfly Network, Inc.",
+        "open": null,
+        "pct_change": "+55.87%",
+        "price": "",
+        "symbol": "BFLY"
+      },
+      {
+        "change": "+8.72",
+        "change_pts": null,
+        "close": 7550.75,
+        "name": "Wolfspeed, Inc.",
+        "open": null,
+        "pct_change": "+17.91%",
+        "price": "",
+        "symbol": "WOLF"
+      },
+      {
+        "change": "+1.14",
+        "change_pts": null,
+        "close": 7559.5,
+        "name": "QuantumScape Corporation",
+        "open": null,
+        "pct_change": "+16.52%",
+        "price": "",
+        "symbol": "QS"
+      },
+      {
+        "change": "+43.92",
+        "change_pts": null,
+        "close": 7559.5,
+        "name": "Bloom Energy Corporation",
+        "open": null,
+        "pct_change": "+15.41%",
+        "price": "",
+        "symbol": "BE"
+      },
+      {
+        "change": "+5.85",
+        "change_pts": null,
+        "close": 7550.75,
+        "name": "Ouster, Inc.",
+        "open": null,
+        "pct_change": "+14.37%",
+        "price": "",
+        "symbol": "OUST"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.81",
+        "change_pts": null,
+        "close": 7550.75,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-18.96%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "-28.03",
+        "change_pts": null,
+        "close": 7551.25,
+        "name": "Accenture plc",
+        "open": null,
+        "pct_change": "-17.97%",
+        "price": "",
+        "symbol": "ACN"
+      },
+      {
+        "change": "-5.59",
+        "change_pts": null,
+        "close": 7550.75,
+        "name": "Legend Biotech Corporation",
+        "open": null,
+        "pct_change": "-16.68%",
+        "price": "",
+        "symbol": "LEGN"
+      },
+      {
+        "change": "-4.32",
+        "change_pts": null,
+        "close": 7550.75,
+        "name": "Tango Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-13.38%",
+        "price": "",
+        "symbol": "TNGX"
+      },
+      {
+        "change": "-11.06",
+        "change_pts": null,
+        "close": 7559.5,
+        "name": "EPAM Systems, Inc.",
+        "open": null,
+        "pct_change": "-12.61%",
+        "price": "",
+        "symbol": "EPAM"
+      }
+    ],
+    "scraped_at": "2026-06-18T22:04:33.247429-04:00"
   }
 }
