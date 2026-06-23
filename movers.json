@@ -16797,5 +16797,112 @@
       }
     ],
     "scraped_at": "2026-06-18T22:04:33.247429-04:00"
+  },
+  "2026-06-22": {
+    "gainers": [
+      {
+        "change": "+12.19",
+        "change_pts": null,
+        "close": 7525.75,
+        "name": "Definium Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+49.80%",
+        "price": "",
+        "symbol": "DFTX"
+      },
+      {
+        "change": "+42.17",
+        "change_pts": null,
+        "close": 7525.75,
+        "name": "Apogee Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+46.66%",
+        "price": "",
+        "symbol": "APGE"
+      },
+      {
+        "change": "+13.04",
+        "change_pts": null,
+        "close": 7535.0,
+        "name": "Oruka Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+18.03%",
+        "price": "",
+        "symbol": "ORKA"
+      },
+      {
+        "change": "+3.28",
+        "change_pts": null,
+        "close": 7531.25,
+        "name": "The Baldwin Insurance Group, Inc.",
+        "open": null,
+        "pct_change": "+16.21%",
+        "price": "",
+        "symbol": "BWIN"
+      },
+      {
+        "change": "+4.80",
+        "change_pts": null,
+        "close": 7532.5,
+        "name": "Super Micro Computer, Inc.",
+        "open": null,
+        "pct_change": "+15.66%",
+        "price": "",
+        "symbol": "SMCI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-30.43",
+        "change_pts": null,
+        "close": 7534.75,
+        "name": "Space Exploration Technologies Corp.",
+        "open": null,
+        "pct_change": "-16.45%",
+        "price": "",
+        "symbol": "SPCX"
+      },
+      {
+        "change": "-1.50",
+        "change_pts": null,
+        "close": 7531.25,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-12.49%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "-4.30",
+        "change_pts": null,
+        "close": 7528.5,
+        "name": "Alamos Gold Inc.",
+        "open": null,
+        "pct_change": "-11.83%",
+        "price": "",
+        "symbol": "AGI"
+      },
+      {
+        "change": "-18.28",
+        "change_pts": null,
+        "close": 7533.0,
+        "name": "AeroVironment, Inc.",
+        "open": null,
+        "pct_change": "-10.78%",
+        "price": "",
+        "symbol": "AVAV"
+      },
+      {
+        "change": "-3.97",
+        "change_pts": null,
+        "close": 7531.5,
+        "name": "Gold Fields Limited",
+        "open": null,
+        "pct_change": "-10.28%",
+        "price": "",
+        "symbol": "GFI"
+      }
+    ],
+    "scraped_at": "2026-06-22T21:47:35.409230-04:00"
   }
 }
