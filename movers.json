@@ -17011,5 +17011,112 @@
       }
     ],
     "scraped_at": "2026-06-23T21:46:51.147809-04:00"
+  },
+  "2026-06-24": {
+    "gainers": [
+      {
+        "change": "+8.78",
+        "change_pts": null,
+        "close": 7459.25,
+        "name": "KB Home",
+        "open": null,
+        "pct_change": "+16.65%",
+        "price": "",
+        "symbol": "KBH"
+      },
+      {
+        "change": "+5.95",
+        "change_pts": null,
+        "close": 7459.75,
+        "name": "Definium Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+16.45%",
+        "price": "",
+        "symbol": "DFTX"
+      },
+      {
+        "change": "+5.55",
+        "change_pts": null,
+        "close": 7458.75,
+        "name": "Shift4 Payments, Inc.",
+        "open": null,
+        "pct_change": "+14.35%",
+        "price": "",
+        "symbol": "FOUR"
+      },
+      {
+        "change": "+13.69",
+        "change_pts": null,
+        "close": 7465.75,
+        "name": "Veradermics, Incorporated",
+        "open": null,
+        "pct_change": "+13.21%",
+        "price": "",
+        "symbol": "MANE"
+      },
+      {
+        "change": "+1.61",
+        "change_pts": null,
+        "close": 7463.0,
+        "name": "Sunrun Inc.",
+        "open": null,
+        "pct_change": "+12.57%",
+        "price": "",
+        "symbol": "RUN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.52",
+        "change_pts": null,
+        "close": 7465.75,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-22.74%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "-44.29",
+        "change_pts": null,
+        "close": 7462.5,
+        "name": "Cerebras Systems Inc.",
+        "open": null,
+        "pct_change": "-19.54%",
+        "price": "",
+        "symbol": "CBRS"
+      },
+      {
+        "change": "-3.08",
+        "change_pts": null,
+        "close": 7459.25,
+        "name": "Navitas Semiconductor Corporation",
+        "open": null,
+        "pct_change": "-14.39%",
+        "price": "",
+        "symbol": "NVTS"
+      },
+      {
+        "change": "-3.69",
+        "change_pts": null,
+        "close": 7459.25,
+        "name": "ChronoScale Corporation",
+        "open": null,
+        "pct_change": "-14.29%",
+        "price": "",
+        "symbol": "CHRN"
+      },
+      {
+        "change": "-1.02",
+        "change_pts": null,
+        "close": 7459.25,
+        "name": "NovaGold Resources Inc.",
+        "open": null,
+        "pct_change": "-14.13%",
+        "price": "",
+        "symbol": "NG"
+      }
+    ],
+    "scraped_at": "2026-06-24T21:49:03.035864-04:00"
   }
 }
