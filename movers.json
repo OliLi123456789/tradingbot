@@ -17225,5 +17225,112 @@
       }
     ],
     "scraped_at": "2026-06-25T21:51:04.827853-04:00"
+  },
+  "2026-06-26": {
+    "gainers": [
+      {
+        "change": "+1.86",
+        "change_pts": null,
+        "close": 7354.02,
+        "name": "SELLAS Life Sciences Group, Inc.",
+        "open": null,
+        "pct_change": "+17.66%",
+        "price": "",
+        "symbol": "SLS"
+      },
+      {
+        "change": "+0.80",
+        "change_pts": null,
+        "close": 7354.02,
+        "name": "Lucid Group, Inc.",
+        "open": null,
+        "pct_change": "+15.62%",
+        "price": "",
+        "symbol": "LCID"
+      },
+      {
+        "change": "+7.52",
+        "change_pts": null,
+        "close": 7354.02,
+        "name": "Moderna, Inc.",
+        "open": null,
+        "pct_change": "+12.59%",
+        "price": "",
+        "symbol": "MRNA"
+      },
+      {
+        "change": "+0.92",
+        "change_pts": null,
+        "close": 7354.02,
+        "name": "ImmunityBio, Inc.",
+        "open": null,
+        "pct_change": "+11.81%",
+        "price": "",
+        "symbol": "IBRX"
+      },
+      {
+        "change": "+0.52",
+        "change_pts": null,
+        "close": 7354.02,
+        "name": "CCC Intelligent Solutions Holdings Inc.",
+        "open": null,
+        "pct_change": "+11.58%",
+        "price": "",
+        "symbol": "CCC"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.68",
+        "change_pts": null,
+        "close": null,
+        "name": "Maase Inc.",
+        "open": null,
+        "pct_change": "-26.82%",
+        "price": "",
+        "symbol": "MAAS"
+      },
+      {
+        "change": "-28.09",
+        "change_pts": null,
+        "close": 7354.02,
+        "name": "ON Semiconductor Corporation",
+        "open": null,
+        "pct_change": "-23.66%",
+        "price": "",
+        "symbol": "ON"
+      },
+      {
+        "change": "-1.81",
+        "change_pts": null,
+        "close": 7354.02,
+        "name": "DSC Holdings Ltd.",
+        "open": null,
+        "pct_change": "-19.98%",
+        "price": "",
+        "symbol": "DSC"
+      },
+      {
+        "change": "-57.16",
+        "change_pts": null,
+        "close": 7354.02,
+        "name": "Bloom Energy Corporation",
+        "open": null,
+        "pct_change": "-18.49%",
+        "price": "",
+        "symbol": "BE"
+      },
+      {
+        "change": "-1.01",
+        "change_pts": null,
+        "close": 7354.02,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-13.48%",
+        "price": "",
+        "symbol": "RGC"
+      }
+    ],
+    "scraped_at": "2026-06-26T21:46:18.454226-04:00"
   }
 }
