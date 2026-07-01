@@ -17439,5 +17439,112 @@
       }
     ],
     "scraped_at": "2026-06-29T21:48:59.542385-04:00"
+  },
+  "2026-06-30": {
+    "gainers": [
+      {
+        "change": "+37.11",
+        "change_pts": null,
+        "close": 7535.25,
+        "name": "ABIVAX Société Anonyme",
+        "open": null,
+        "pct_change": "+38.60%",
+        "price": "",
+        "symbol": "ABVX"
+      },
+      {
+        "change": "+18.79",
+        "change_pts": null,
+        "close": 7536.0,
+        "name": "Ambarella, Inc.",
+        "open": null,
+        "pct_change": "+28.04%",
+        "price": "",
+        "symbol": "AMBA"
+      },
+      {
+        "change": "+6.21",
+        "change_pts": null,
+        "close": 7505.0,
+        "name": "FuelCell Energy, Inc.",
+        "open": null,
+        "pct_change": "+20.84%",
+        "price": "",
+        "symbol": "FCEL"
+      },
+      {
+        "change": "+26.07",
+        "change_pts": null,
+        "close": 7535.25,
+        "name": "AeroVironment, Inc.",
+        "open": null,
+        "pct_change": "+18.76%",
+        "price": "",
+        "symbol": "AVAV"
+      },
+      {
+        "change": "+19.56",
+        "change_pts": null,
+        "close": 7543.25,
+        "name": "MaxLinear, Inc.",
+        "open": null,
+        "pct_change": "+18.03%",
+        "price": "",
+        "symbol": "MXL"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-13.43",
+        "change_pts": null,
+        "close": 7536.75,
+        "name": "Circle Internet Group",
+        "open": null,
+        "pct_change": "-17.68%",
+        "price": "",
+        "symbol": "CRCL"
+      },
+      {
+        "change": "-5.51",
+        "change_pts": null,
+        "close": 7535.0,
+        "name": "Heartflow, Inc.",
+        "open": null,
+        "pct_change": "-15.81%",
+        "price": "",
+        "symbol": "HTFL"
+      },
+      {
+        "change": "-6.39",
+        "change_pts": null,
+        "close": 7535.25,
+        "name": "The Vita Coco Company, Inc.",
+        "open": null,
+        "pct_change": "-8.81%",
+        "price": "",
+        "symbol": "COCO"
+      },
+      {
+        "change": "-2.54",
+        "change_pts": null,
+        "close": 7535.25,
+        "name": "Fervo Energy Company",
+        "open": null,
+        "pct_change": "-7.99%",
+        "price": "",
+        "symbol": "FRVO"
+      },
+      {
+        "change": "-2.05",
+        "change_pts": null,
+        "close": 7535.5,
+        "name": "Kardigan, Inc.",
+        "open": null,
+        "pct_change": "-7.92%",
+        "price": "",
+        "symbol": "KARD"
+      }
+    ],
+    "scraped_at": "2026-06-30T21:53:05.652385-04:00"
   }
 }
