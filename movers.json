@@ -17546,5 +17546,112 @@
       }
     ],
     "scraped_at": "2026-06-30T21:53:05.652385-04:00"
+  },
+  "2026-07-01": {
+    "gainers": [
+      {
+        "change": "+2.19",
+        "change_pts": null,
+        "close": 7551.0,
+        "name": "DSC Holdings Ltd.",
+        "open": null,
+        "pct_change": "+39.67%",
+        "price": "",
+        "symbol": "DSC"
+      },
+      {
+        "change": "+1.94",
+        "change_pts": null,
+        "close": 7551.25,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "+31.86%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "+26.64",
+        "change_pts": null,
+        "close": 7541.75,
+        "name": "Freedom Holdings Corp.",
+        "open": null,
+        "pct_change": "+20.42%",
+        "price": "",
+        "symbol": "FRHC"
+      },
+      {
+        "change": "+2.62",
+        "change_pts": null,
+        "close": 7354.02,
+        "name": "Maase Inc.",
+        "open": null,
+        "pct_change": "+20.15%",
+        "price": "",
+        "symbol": "MAAS"
+      },
+      {
+        "change": "+24.18",
+        "change_pts": null,
+        "close": 7551.5,
+        "name": "Reddit, Inc.",
+        "open": null,
+        "pct_change": "+13.93%",
+        "price": "",
+        "symbol": "RDDT"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.58",
+        "change_pts": null,
+        "close": 7541.75,
+        "name": "ChronoScale Corporation",
+        "open": null,
+        "pct_change": "-20.61%",
+        "price": "",
+        "symbol": "CHRN"
+      },
+      {
+        "change": "-47.00",
+        "change_pts": null,
+        "close": 7550.75,
+        "name": "Nebius Group N.V.",
+        "open": null,
+        "pct_change": "-17.02%",
+        "price": "",
+        "symbol": "NBIS"
+      },
+      {
+        "change": "-13.85",
+        "change_pts": null,
+        "close": 7550.75,
+        "name": "CoreWeave, Inc.",
+        "open": null,
+        "pct_change": "-13.92%",
+        "price": "",
+        "symbol": "CRWV"
+      },
+      {
+        "change": "-5.31",
+        "change_pts": null,
+        "close": 7550.25,
+        "name": "Boost Run, Inc.",
+        "open": null,
+        "pct_change": "-13.68%",
+        "price": "",
+        "symbol": "BRUN"
+      },
+      {
+        "change": "-34.80",
+        "change_pts": null,
+        "close": 7498.85,
+        "name": "Corning Incorporated",
+        "open": null,
+        "pct_change": "-13.62%",
+        "price": "",
+        "symbol": "GLW"
+      }
+    ],
+    "scraped_at": "2026-07-01T21:49:13.236151-04:00"
   }
 }
