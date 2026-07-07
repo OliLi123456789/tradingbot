@@ -17760,5 +17760,112 @@
       }
     ],
     "scraped_at": "2026-07-02T21:43:04.891959-04:00"
+  },
+  "2026-07-06": {
+    "gainers": [
+      {
+        "change": "+1.49",
+        "change_pts": null,
+        "close": 7583.25,
+        "name": "DSC Holdings Ltd.",
+        "open": null,
+        "pct_change": "+21.38%",
+        "price": "",
+        "symbol": "DSC"
+      },
+      {
+        "change": "+8.60",
+        "change_pts": null,
+        "close": 7583.25,
+        "name": "ChipMOS TECHNOLOGIES INC.",
+        "open": null,
+        "pct_change": "+13.45%",
+        "price": "",
+        "symbol": "IMOS"
+      },
+      {
+        "change": "+5.09",
+        "change_pts": null,
+        "close": 7541.93,
+        "name": "IREN Limited",
+        "open": null,
+        "pct_change": "+13.11%",
+        "price": "",
+        "symbol": "IREN"
+      },
+      {
+        "change": "+6.90",
+        "change_pts": null,
+        "close": 7525.07,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "+12.19%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "+8.61",
+        "change_pts": null,
+        "close": 7581.75,
+        "name": "Quantinuum Inc.",
+        "open": null,
+        "pct_change": "+11.55%",
+        "price": "",
+        "symbol": "QNT"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-12.14",
+        "change_pts": null,
+        "close": 7541.93,
+        "name": "Solstice Advanced Materials, Inc.",
+        "open": null,
+        "pct_change": "-15.14%",
+        "price": "",
+        "symbol": "SOLS"
+      },
+      {
+        "change": "-0.76",
+        "change_pts": null,
+        "close": 7581.75,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-11.93%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "-5.20",
+        "change_pts": null,
+        "close": 7583.0,
+        "name": "Advance Auto Parts, Inc.",
+        "open": null,
+        "pct_change": "-8.45%",
+        "price": "",
+        "symbol": "AAP"
+      },
+      {
+        "change": "-7.72",
+        "change_pts": null,
+        "close": 7582.0,
+        "name": "UL Solutions Inc.",
+        "open": null,
+        "pct_change": "-7.96%",
+        "price": "",
+        "symbol": "ULS"
+      },
+      {
+        "change": "-12.28",
+        "change_pts": null,
+        "close": 7581.75,
+        "name": "Sphere Entertainment Co.",
+        "open": null,
+        "pct_change": "-7.50%",
+        "price": "",
+        "symbol": "SPHR"
+      }
+    ],
+    "scraped_at": "2026-07-06T21:42:39.889216-04:00"
   }
 }
