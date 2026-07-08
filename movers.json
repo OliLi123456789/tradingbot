@@ -17867,5 +17867,112 @@
       }
     ],
     "scraped_at": "2026-07-06T21:42:39.889216-04:00"
+  },
+  "2026-07-07": {
+    "gainers": [
+      {
+        "change": "+41.50",
+        "change_pts": null,
+        "close": 7503.85,
+        "name": "Crinetics Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "+98.74%",
+        "price": "",
+        "symbol": "CRNX"
+      },
+      {
+        "change": "+6.62",
+        "change_pts": null,
+        "close": 7556.25,
+        "name": "Agios Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "+17.71%",
+        "price": "",
+        "symbol": "AGIO"
+      },
+      {
+        "change": "+1.18",
+        "change_pts": null,
+        "close": 7557.75,
+        "name": "NIQ Global Intelligence plc",
+        "open": null,
+        "pct_change": "+12.02%",
+        "price": "",
+        "symbol": "NIQ"
+      },
+      {
+        "change": "+6.89",
+        "change_pts": null,
+        "close": 7505.13,
+        "name": "Bandwidth Inc.",
+        "open": null,
+        "pct_change": "+11.36%",
+        "price": "",
+        "symbol": "BAND"
+      },
+      {
+        "change": "+3.42",
+        "change_pts": null,
+        "close": 7557.75,
+        "name": "Viking Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+8.83%",
+        "price": "",
+        "symbol": "VKTX"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-3.65",
+        "change_pts": null,
+        "close": 7558.0,
+        "name": "Rivian Automotive, Inc.",
+        "open": null,
+        "pct_change": "-18.12%",
+        "price": "",
+        "symbol": "RIVN"
+      },
+      {
+        "change": "-4.08",
+        "change_pts": null,
+        "close": 7504.08,
+        "name": "Fervo Energy Company",
+        "open": null,
+        "pct_change": "-14.63%",
+        "price": "",
+        "symbol": "FRVO"
+      },
+      {
+        "change": "-14.75",
+        "change_pts": null,
+        "close": 7556.5,
+        "name": "Ultra Clean Holdings, Inc.",
+        "open": null,
+        "pct_change": "-13.98%",
+        "price": "",
+        "symbol": "UCTT"
+      },
+      {
+        "change": "-7.73",
+        "change_pts": null,
+        "close": 7483.23,
+        "name": "Cohu, Inc.",
+        "open": null,
+        "pct_change": "-13.17%",
+        "price": "",
+        "symbol": "COHU"
+      },
+      {
+        "change": "-5.77",
+        "change_pts": null,
+        "close": 7556.5,
+        "name": "Ouster, Inc.",
+        "open": null,
+        "pct_change": "-11.58%",
+        "price": "",
+        "symbol": "OUST"
+      }
+    ],
+    "scraped_at": "2026-07-07T21:42:19.889033-04:00"
   }
 }
