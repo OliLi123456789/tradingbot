@@ -17974,5 +17974,112 @@
       }
     ],
     "scraped_at": "2026-07-07T21:42:19.889033-04:00"
+  },
+  "2026-07-08": {
+    "gainers": [
+      {
+        "change": "+15.76",
+        "change_pts": null,
+        "close": 7482.71,
+        "name": "Penguin Solutions, Inc.",
+        "open": null,
+        "pct_change": "+25.13%",
+        "price": "",
+        "symbol": "PENG"
+      },
+      {
+        "change": "+2.59",
+        "change_pts": null,
+        "close": 7535.0,
+        "name": "TeraWulf Inc.",
+        "open": null,
+        "pct_change": "+12.80%",
+        "price": "",
+        "symbol": "WULF"
+      },
+      {
+        "change": "+7.11",
+        "change_pts": null,
+        "close": 7535.0,
+        "name": "Par Pacific Holdings, Inc.",
+        "open": null,
+        "pct_change": "+11.57%",
+        "price": "",
+        "symbol": "PARR"
+      },
+      {
+        "change": "+1.08",
+        "change_pts": null,
+        "close": 7532.25,
+        "name": "Kingsoft Cloud Holdings Limited",
+        "open": null,
+        "pct_change": "+11.44%",
+        "price": "",
+        "symbol": "KC"
+      },
+      {
+        "change": "+10.13",
+        "change_pts": null,
+        "close": 7533.5,
+        "name": "Ultra Clean Holdings, Inc.",
+        "open": null,
+        "pct_change": "+11.16%",
+        "price": "",
+        "symbol": "UCTT"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.54",
+        "change_pts": null,
+        "close": 7552.75,
+        "name": "Polibeli Group Ltd",
+        "open": null,
+        "pct_change": "-25.37%",
+        "price": "",
+        "symbol": "PLBL"
+      },
+      {
+        "change": "-4.02",
+        "change_pts": null,
+        "close": 7532.75,
+        "name": "Alignment Healthcare, Inc.",
+        "open": null,
+        "pct_change": "-16.72%",
+        "price": "",
+        "symbol": "ALHC"
+      },
+      {
+        "change": "-2.57",
+        "change_pts": null,
+        "close": 7354.02,
+        "name": "Maase Inc.",
+        "open": null,
+        "pct_change": "-15.48%",
+        "price": "",
+        "symbol": "MAAS"
+      },
+      {
+        "change": "-1.42",
+        "change_pts": null,
+        "close": 7534.25,
+        "name": "IQM Quantum Computers Oyj",
+        "open": null,
+        "pct_change": "-11.02%",
+        "price": "",
+        "symbol": "IQMX"
+      },
+      {
+        "change": "-7.26",
+        "change_pts": null,
+        "close": 7534.75,
+        "name": "Synchrony Financial",
+        "open": null,
+        "pct_change": "-9.61%",
+        "price": "",
+        "symbol": "SYF"
+      }
+    ],
+    "scraped_at": "2026-07-08T21:43:39.327674-04:00"
   }
 }
