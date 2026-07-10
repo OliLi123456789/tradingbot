@@ -18081,5 +18081,112 @@
       }
     ],
     "scraped_at": "2026-07-08T21:43:39.327674-04:00"
+  },
+  "2026-07-09": {
+    "gainers": [
+      {
+        "change": "+16.03",
+        "change_pts": null,
+        "close": 7579.0,
+        "name": "nLIGHT, Inc.",
+        "open": null,
+        "pct_change": "+27.32%",
+        "price": "",
+        "symbol": "LASR"
+      },
+      {
+        "change": "+3.78",
+        "change_pts": null,
+        "close": 7488.25,
+        "name": "Fervo Energy Company",
+        "open": null,
+        "pct_change": "+16.04%",
+        "price": "",
+        "symbol": "FRVO"
+      },
+      {
+        "change": "+11.84",
+        "change_pts": null,
+        "close": 7579.0,
+        "name": "BridgeBio Pharma, Inc.",
+        "open": null,
+        "pct_change": "+15.12%",
+        "price": "",
+        "symbol": "BBIO"
+      },
+      {
+        "change": "+5.63",
+        "change_pts": null,
+        "close": null,
+        "name": "10x Genomics, Inc.",
+        "open": null,
+        "pct_change": "+15.03%",
+        "price": "",
+        "symbol": "TXG"
+      },
+      {
+        "change": "+1.77",
+        "change_pts": null,
+        "close": 7578.0,
+        "name": "Bitdeer Technologies Group",
+        "open": null,
+        "pct_change": "+14.09%",
+        "price": "",
+        "symbol": "BTDR"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-20.19",
+        "change_pts": null,
+        "close": 7543.64,
+        "name": "Ionis Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "-23.90%",
+        "price": "",
+        "symbol": "IONS"
+      },
+      {
+        "change": "-1.05",
+        "change_pts": null,
+        "close": 7552.75,
+        "name": "Polibeli Group Ltd",
+        "open": null,
+        "pct_change": "-14.06%",
+        "price": "",
+        "symbol": "PLBL"
+      },
+      {
+        "change": "-17.94",
+        "change_pts": null,
+        "close": 7578.0,
+        "name": "Granite Construction Incorporated",
+        "open": null,
+        "pct_change": "-12.50%",
+        "price": "",
+        "symbol": "GVA"
+      },
+      {
+        "change": "-1.18",
+        "change_pts": null,
+        "close": 7354.02,
+        "name": "StubHub Holdings, Inc.",
+        "open": null,
+        "pct_change": "-9.29%",
+        "price": "",
+        "symbol": "STUB"
+      },
+      {
+        "change": "-3.28",
+        "change_pts": null,
+        "close": null,
+        "name": "MDA Space Ltd.",
+        "open": null,
+        "pct_change": "-8.48%",
+        "price": "",
+        "symbol": "MDA"
+      }
+    ],
+    "scraped_at": "2026-07-09T21:43:52.253868-04:00"
   }
 }
