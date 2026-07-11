@@ -18188,5 +18188,112 @@
       }
     ],
     "scraped_at": "2026-07-09T21:43:52.253868-04:00"
+  },
+  "2026-07-10": {
+    "gainers": [
+      {
+        "change": "+1.70",
+        "change_pts": null,
+        "close": 7575.39,
+        "name": "Polibeli Group Ltd",
+        "open": null,
+        "pct_change": "+26.48%",
+        "price": "",
+        "symbol": "PLBL"
+      },
+      {
+        "change": "+2.65",
+        "change_pts": null,
+        "close": 7575.39,
+        "name": "EquipmentShare.com Inc.",
+        "open": null,
+        "pct_change": "+16.56%",
+        "price": "",
+        "symbol": "EQPT"
+      },
+      {
+        "change": "+1.91",
+        "change_pts": null,
+        "close": 7575.39,
+        "name": "Almonty Industries Inc.",
+        "open": null,
+        "pct_change": "+12.99%",
+        "price": "",
+        "symbol": "ALM"
+      },
+      {
+        "change": "+1.64",
+        "change_pts": null,
+        "close": 7575.39,
+        "name": "Vodafone Group Public Limited Company",
+        "open": null,
+        "pct_change": "+12.54%",
+        "price": "",
+        "symbol": "VOD"
+      },
+      {
+        "change": "+25.49",
+        "change_pts": null,
+        "close": 7575.39,
+        "name": "WD-40 Company",
+        "open": null,
+        "pct_change": "+10.65%",
+        "price": "",
+        "symbol": "WDFC"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-8.29",
+        "change_pts": null,
+        "close": 7575.39,
+        "name": "Moderna, Inc.",
+        "open": null,
+        "pct_change": "-10.83%",
+        "price": "",
+        "symbol": "MRNA"
+      },
+      {
+        "change": "-0.73",
+        "change_pts": null,
+        "close": 7575.39,
+        "name": "Fermi Inc.",
+        "open": null,
+        "pct_change": "-9.97%",
+        "price": "",
+        "symbol": "FRMI"
+      },
+      {
+        "change": "-6.02",
+        "change_pts": null,
+        "close": 7575.39,
+        "name": "Ionis Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "-9.37%",
+        "price": "",
+        "symbol": "IONS"
+      },
+      {
+        "change": "-6.00",
+        "change_pts": null,
+        "close": 7575.39,
+        "name": "Tarsus Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "-9.35%",
+        "price": "",
+        "symbol": "TARS"
+      },
+      {
+        "change": "-7.59",
+        "change_pts": null,
+        "close": 7575.39,
+        "name": "Arrowhead Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "-9.04%",
+        "price": "",
+        "symbol": "ARWR"
+      }
+    ],
+    "scraped_at": "2026-07-10T21:42:14.933796-04:00"
   }
 }
