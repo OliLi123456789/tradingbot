@@ -18295,5 +18295,112 @@
       }
     ],
     "scraped_at": "2026-07-10T21:42:14.933796-04:00"
+  },
+  "2026-07-13": {
+    "gainers": [
+      {
+        "change": "+2.54",
+        "change_pts": null,
+        "close": 7620.25,
+        "name": "Figma, Inc.",
+        "open": null,
+        "pct_change": "+12.03%",
+        "price": "",
+        "symbol": "FIG"
+      },
+      {
+        "change": "+1.84",
+        "change_pts": null,
+        "close": 7558.2,
+        "name": "Northern Oil and Gas, Inc.",
+        "open": null,
+        "pct_change": "+9.94%",
+        "price": "",
+        "symbol": "NOG"
+      },
+      {
+        "change": "+3.19",
+        "change_pts": null,
+        "close": 7620.25,
+        "name": "Robert Half Inc.",
+        "open": null,
+        "pct_change": "+9.85%",
+        "price": "",
+        "symbol": "RHI"
+      },
+      {
+        "change": "+1.12",
+        "change_pts": null,
+        "close": null,
+        "name": "Venture Global, Inc.",
+        "open": null,
+        "pct_change": "+9.15%",
+        "price": "",
+        "symbol": "VG"
+      },
+      {
+        "change": "+7.30",
+        "change_pts": null,
+        "close": 7620.25,
+        "name": "Atlassian Corporation",
+        "open": null,
+        "pct_change": "+8.22%",
+        "price": "",
+        "symbol": "TEAM"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.22",
+        "change_pts": null,
+        "close": 7354.02,
+        "name": "Maase Inc.",
+        "open": null,
+        "pct_change": "-14.36%",
+        "price": "",
+        "symbol": "MAAS"
+      },
+      {
+        "change": "-0.83",
+        "change_pts": null,
+        "close": 7620.25,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-14.12%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "-242.80",
+        "change_pts": null,
+        "close": 7620.25,
+        "name": "Sandisk Corporation",
+        "open": null,
+        "pct_change": "-12.67%",
+        "price": "",
+        "symbol": "SNDK"
+      },
+      {
+        "change": "-64.13",
+        "change_pts": null,
+        "close": 7575.39,
+        "name": "AppLovin Corporation",
+        "open": null,
+        "pct_change": "-12.65%",
+        "price": "",
+        "symbol": "APP"
+      },
+      {
+        "change": "-50.92",
+        "change_pts": null,
+        "close": 7620.25,
+        "name": "Astera Labs, Inc.",
+        "open": null,
+        "pct_change": "-12.33%",
+        "price": "",
+        "symbol": "ALAB"
+      }
+    ],
+    "scraped_at": "2026-07-13T21:41:57.637686-04:00"
   }
 }
