@@ -18402,5 +18402,112 @@
       }
     ],
     "scraped_at": "2026-07-13T21:41:57.637686-04:00"
+  },
+  "2026-07-14": {
+    "gainers": [
+      {
+        "change": "+41.57",
+        "change_pts": null,
+        "close": 7620.25,
+        "name": "SK hynix Inc.",
+        "open": null,
+        "pct_change": "+27.29%",
+        "price": "",
+        "symbol": "SKHY"
+      },
+      {
+        "change": "+3.29",
+        "change_pts": null,
+        "close": 7555.75,
+        "name": "ChronoScale Holdings Corporation",
+        "open": null,
+        "pct_change": "+16.68%",
+        "price": "",
+        "symbol": "CHRN"
+      },
+      {
+        "change": "+7.11",
+        "change_pts": null,
+        "close": 7620.25,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "+14.09%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "+0.70",
+        "change_pts": null,
+        "close": 7601.0,
+        "name": "AtaiBeckley Inc.",
+        "open": null,
+        "pct_change": "+14.08%",
+        "price": "",
+        "symbol": "ATAI"
+      },
+      {
+        "change": "+22.14",
+        "change_pts": null,
+        "close": 7475.08,
+        "name": "Sezzle Inc.",
+        "open": null,
+        "pct_change": "+13.82%",
+        "price": "",
+        "symbol": "SEZL"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-73.16",
+        "change_pts": null,
+        "close": 7597.75,
+        "name": "International Business Machines Corporation",
+        "open": null,
+        "pct_change": "-25.21%",
+        "price": "",
+        "symbol": "IBM"
+      },
+      {
+        "change": "-2.70",
+        "change_pts": null,
+        "close": 7601.0,
+        "name": "Polestar Automotive Holding UK PLC",
+        "open": null,
+        "pct_change": "-14.99%",
+        "price": "",
+        "symbol": "PSNY"
+      },
+      {
+        "change": "-3.83",
+        "change_pts": null,
+        "close": 7602.25,
+        "name": "Denali Therapeutics Inc.",
+        "open": null,
+        "pct_change": "-14.46%",
+        "price": "",
+        "symbol": "DNLI"
+      },
+      {
+        "change": "-1.58",
+        "change_pts": null,
+        "close": 7602.0,
+        "name": "Telefonaktiebolaget LM Ericsson (publ)",
+        "open": null,
+        "pct_change": "-13.48%",
+        "price": "",
+        "symbol": "ERIC"
+      },
+      {
+        "change": "-17.08",
+        "change_pts": null,
+        "close": 7601.25,
+        "name": "Biogen Inc.",
+        "open": null,
+        "pct_change": "-8.17%",
+        "price": "",
+        "symbol": "BIIB"
+      }
+    ],
+    "scraped_at": "2026-07-14T21:41:50.190677-04:00"
   }
 }
