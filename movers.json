@@ -18509,5 +18509,112 @@
       }
     ],
     "scraped_at": "2026-07-14T21:41:50.190677-04:00"
+  },
+  "2026-07-15": {
+    "gainers": [
+      {
+        "change": "+1.33",
+        "change_pts": null,
+        "close": 7611.25,
+        "name": "Lucid Group, Inc.",
+        "open": null,
+        "pct_change": "+28.79%",
+        "price": "",
+        "symbol": "LCID"
+      },
+      {
+        "change": "+6.62",
+        "change_pts": null,
+        "close": 7607.25,
+        "name": "ChronoScale Holdings Corporation",
+        "open": null,
+        "pct_change": "+28.77%",
+        "price": "",
+        "symbol": "CHRN"
+      },
+      {
+        "change": "+15.78",
+        "change_pts": null,
+        "close": 7611.0,
+        "name": "Aehr Test Systems, Inc.",
+        "open": null,
+        "pct_change": "+21.91%",
+        "price": "",
+        "symbol": "AEHR"
+      },
+      {
+        "change": "+2.46",
+        "change_pts": null,
+        "close": 7354.02,
+        "name": "Maase Inc.",
+        "open": null,
+        "pct_change": "+17.43%",
+        "price": "",
+        "symbol": "MAAS"
+      },
+      {
+        "change": "+8.15",
+        "change_pts": null,
+        "close": 7611.0,
+        "name": "PayPal Holdings, Inc.",
+        "open": null,
+        "pct_change": "+17.20%",
+        "price": "",
+        "symbol": "PYPL"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-19.54",
+        "change_pts": null,
+        "close": 7611.0,
+        "name": "Celcuity Inc.",
+        "open": null,
+        "pct_change": "-17.60%",
+        "price": "",
+        "symbol": "CELC"
+      },
+      {
+        "change": "-11.35",
+        "change_pts": null,
+        "close": 7572.4,
+        "name": "Pentair plc",
+        "open": null,
+        "pct_change": "-15.00%",
+        "price": "",
+        "symbol": "PNR"
+      },
+      {
+        "change": "-6.32",
+        "change_pts": null,
+        "close": 7572.4,
+        "name": "Universal Technical Institute, Inc.",
+        "open": null,
+        "pct_change": "-13.55%",
+        "price": "",
+        "symbol": "UTI"
+      },
+      {
+        "change": "-16.36",
+        "change_pts": null,
+        "close": 7611.0,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "-13.04%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "-16.29",
+        "change_pts": null,
+        "close": 7611.75,
+        "name": "Covista Inc.",
+        "open": null,
+        "pct_change": "-12.33%",
+        "price": "",
+        "symbol": "CVSA"
+      }
+    ],
+    "scraped_at": "2026-07-15T21:42:18.669854-04:00"
   }
 }
