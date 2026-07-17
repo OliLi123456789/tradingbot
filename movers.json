@@ -18616,5 +18616,112 @@
       }
     ],
     "scraped_at": "2026-07-15T21:42:18.669854-04:00"
+  },
+  "2026-07-16": {
+    "gainers": [
+      {
+        "change": "+10.59",
+        "change_pts": null,
+        "close": 7553.0,
+        "name": "CareDx, Inc.",
+        "open": null,
+        "pct_change": "+35.60%",
+        "price": "",
+        "symbol": "CDNA"
+      },
+      {
+        "change": "+1.79",
+        "change_pts": null,
+        "close": 7546.75,
+        "name": "AtaiBeckley Inc.",
+        "open": null,
+        "pct_change": "+33.40%",
+        "price": "",
+        "symbol": "ATAI"
+      },
+      {
+        "change": "+12.63",
+        "change_pts": null,
+        "close": 7553.0,
+        "name": "ManpowerGroup Inc.",
+        "open": null,
+        "pct_change": "+32.37%",
+        "price": "",
+        "symbol": "MAN"
+      },
+      {
+        "change": "+4.38",
+        "change_pts": null,
+        "close": 7354.02,
+        "name": "Maase Inc.",
+        "open": null,
+        "pct_change": "+26.43%",
+        "price": "",
+        "symbol": "MAAS"
+      },
+      {
+        "change": "+4.63",
+        "change_pts": null,
+        "close": 7544.0,
+        "name": "Robert Half Inc.",
+        "open": null,
+        "pct_change": "+12.62%",
+        "price": "",
+        "symbol": "RHI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-11.30",
+        "change_pts": null,
+        "close": 7545.25,
+        "name": "AST SpaceMobile, Inc.",
+        "open": null,
+        "pct_change": "-17.04%",
+        "price": "",
+        "symbol": "ASTS"
+      },
+      {
+        "change": "-14.44",
+        "change_pts": null,
+        "close": 7542.5,
+        "name": "MaxLinear, Inc.",
+        "open": null,
+        "pct_change": "-16.25%",
+        "price": "",
+        "symbol": "MXL"
+      },
+      {
+        "change": "-1.91",
+        "change_pts": null,
+        "close": 7553.0,
+        "name": "ERock, Inc.",
+        "open": null,
+        "pct_change": "-15.84%",
+        "price": "",
+        "symbol": "EROC"
+      },
+      {
+        "change": "-7.85",
+        "change_pts": null,
+        "close": 7548.5,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "-14.69%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "-17.87",
+        "change_pts": null,
+        "close": 7546.75,
+        "name": "Veradermics, Incorporated",
+        "open": null,
+        "pct_change": "-14.45%",
+        "price": "",
+        "symbol": "MANE"
+      }
+    ],
+    "scraped_at": "2026-07-16T21:42:24.589760-04:00"
   }
 }
