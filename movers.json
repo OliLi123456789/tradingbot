@@ -18723,5 +18723,112 @@
       }
     ],
     "scraped_at": "2026-07-16T21:42:24.589760-04:00"
+  },
+  "2026-07-17": {
+    "gainers": [
+      {
+        "change": "+0.90",
+        "change_pts": null,
+        "close": 7457.69,
+        "name": "Lucid Group, Inc.",
+        "open": null,
+        "pct_change": "+13.93%",
+        "price": "",
+        "symbol": "LCID"
+      },
+      {
+        "change": "+1.44",
+        "change_pts": null,
+        "close": 7457.69,
+        "name": "SELLAS Life Sciences Group, Inc.",
+        "open": null,
+        "pct_change": "+12.26%",
+        "price": "",
+        "symbol": "SLS"
+      },
+      {
+        "change": "+9.66",
+        "change_pts": null,
+        "close": 7457.69,
+        "name": "Oruka Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+11.63%",
+        "price": "",
+        "symbol": "ORKA"
+      },
+      {
+        "change": "+10.25",
+        "change_pts": null,
+        "close": 7457.69,
+        "name": "Dianthus Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+10.75%",
+        "price": "",
+        "symbol": "DNTH"
+      },
+      {
+        "change": "+4.76",
+        "change_pts": null,
+        "close": 7457.69,
+        "name": "Hemab Therapeutics Holdings, Inc.",
+        "open": null,
+        "pct_change": "+10.69%",
+        "price": "",
+        "symbol": "COAG"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-56.91",
+        "change_pts": null,
+        "close": 7457.69,
+        "name": "Intuitive Surgical, Inc.",
+        "open": null,
+        "pct_change": "-14.15%",
+        "price": "",
+        "symbol": "ISRG"
+      },
+      {
+        "change": "-34.54",
+        "change_pts": null,
+        "close": 7457.69,
+        "name": "Cadence Design Systems, Inc.",
+        "open": null,
+        "pct_change": "-9.47%",
+        "price": "",
+        "symbol": "CDNS"
+      },
+      {
+        "change": "-5.56",
+        "change_pts": null,
+        "close": 7457.69,
+        "name": "Penguin Solutions, Inc.",
+        "open": null,
+        "pct_change": "-8.43%",
+        "price": "",
+        "symbol": "PENG"
+      },
+      {
+        "change": "-32.76",
+        "change_pts": null,
+        "close": 7457.69,
+        "name": "Synopsys, Inc.",
+        "open": null,
+        "pct_change": "-7.85%",
+        "price": "",
+        "symbol": "SNPS"
+      },
+      {
+        "change": "-5.40",
+        "change_pts": null,
+        "close": 7457.69,
+        "name": "Netflix, Inc.",
+        "open": null,
+        "pct_change": "-7.26%",
+        "price": "",
+        "symbol": "NFLX"
+      }
+    ],
+    "scraped_at": "2026-07-17T21:42:01.159707-04:00"
   }
 }
