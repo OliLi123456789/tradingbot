@@ -18830,5 +18830,112 @@
       }
     ],
     "scraped_at": "2026-07-17T21:42:01.159707-04:00"
+  },
+  "2026-07-20": {
+    "gainers": [
+      {
+        "change": "+0.87",
+        "change_pts": null,
+        "close": 7490.75,
+        "name": "Archer Aviation Inc.",
+        "open": null,
+        "pct_change": "+19.59%",
+        "price": "",
+        "symbol": "ACHR"
+      },
+      {
+        "change": "+6.58",
+        "change_pts": null,
+        "close": 7491.5,
+        "name": "IREN Limited",
+        "open": null,
+        "pct_change": "+19.57%",
+        "price": "",
+        "symbol": "IREN"
+      },
+      {
+        "change": "+2.98",
+        "change_pts": null,
+        "close": 7496.25,
+        "name": "Cipher Digital Inc.",
+        "open": null,
+        "pct_change": "+16.97%",
+        "price": "",
+        "symbol": "CIFR"
+      },
+      {
+        "change": "+1.64",
+        "change_pts": null,
+        "close": 7495.75,
+        "name": "X-Energy, Inc.",
+        "open": null,
+        "pct_change": "+11.70%",
+        "price": "",
+        "symbol": "XE"
+      },
+      {
+        "change": "+1.39",
+        "change_pts": null,
+        "close": 7496.75,
+        "name": "CleanSpark, Inc.",
+        "open": null,
+        "pct_change": "+10.67%",
+        "price": "",
+        "symbol": "CLSK"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-32.28",
+        "change_pts": null,
+        "close": 7496.5,
+        "name": "StoneX Group Inc.",
+        "open": null,
+        "pct_change": "-31.34%",
+        "price": "",
+        "symbol": "SNEX"
+      },
+      {
+        "change": "-2.30",
+        "change_pts": null,
+        "close": 7497.25,
+        "name": "Trevi Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-12.06%",
+        "price": "",
+        "symbol": "TRVI"
+      },
+      {
+        "change": "-7.18",
+        "change_pts": null,
+        "close": 7443.28,
+        "name": "Penguin Solutions, Inc.",
+        "open": null,
+        "pct_change": "-11.89%",
+        "price": "",
+        "symbol": "PENG"
+      },
+      {
+        "change": "-2.78",
+        "change_pts": null,
+        "close": 7496.75,
+        "name": "HDFC Bank Limited",
+        "open": null,
+        "pct_change": "-10.54%",
+        "price": "",
+        "symbol": "HDB"
+      },
+      {
+        "change": "-1.83",
+        "change_pts": null,
+        "close": 7354.02,
+        "name": "Maase Inc.",
+        "open": null,
+        "pct_change": "-9.26%",
+        "price": "",
+        "symbol": "MAAS"
+      }
+    ],
+    "scraped_at": "2026-07-20T21:42:14.171697-04:00"
   }
 }
