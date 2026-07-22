@@ -18937,5 +18937,112 @@
       }
     ],
     "scraped_at": "2026-07-20T21:42:14.171697-04:00"
+  },
+  "2026-07-21": {
+    "gainers": [
+      {
+        "change": "+21.55",
+        "change_pts": null,
+        "close": 7537.75,
+        "name": "Aehr Test Systems, Inc.",
+        "open": null,
+        "pct_change": "+27.86%",
+        "price": "",
+        "symbol": "AEHR"
+      },
+      {
+        "change": "+0.96",
+        "change_pts": null,
+        "close": 7534.5,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "+18.82%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "+34.30",
+        "change_pts": null,
+        "close": 7535.25,
+        "name": "Nebius Group N.V.",
+        "open": null,
+        "pct_change": "+18.78%",
+        "price": "",
+        "symbol": "NBIS"
+      },
+      {
+        "change": "+31.69",
+        "change_pts": null,
+        "close": 7536.5,
+        "name": "Cerebras Systems Inc.",
+        "open": null,
+        "pct_change": "+17.92%",
+        "price": "",
+        "symbol": "CBRS"
+      },
+      {
+        "change": "+5.91",
+        "change_pts": null,
+        "close": 7536.5,
+        "name": "Ouster, Inc.",
+        "open": null,
+        "pct_change": "+17.00%",
+        "price": "",
+        "symbol": "OUST"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-1.81",
+        "change_pts": null,
+        "close": 7543.25,
+        "name": "Boxabl Inc.",
+        "open": null,
+        "pct_change": "-18.43%",
+        "price": "",
+        "symbol": "BXBL"
+      },
+      {
+        "change": "-3.51",
+        "change_pts": null,
+        "close": 7543.25,
+        "name": "ChronoScale Holdings Corporation",
+        "open": null,
+        "pct_change": "-12.15%",
+        "price": "",
+        "symbol": "CHRN"
+      },
+      {
+        "change": "-22.10",
+        "change_pts": null,
+        "close": 7536.5,
+        "name": "Danaher Corporation",
+        "open": null,
+        "pct_change": "-10.99%",
+        "price": "",
+        "symbol": "DHR"
+      },
+      {
+        "change": "-63.37",
+        "change_pts": null,
+        "close": 7536.5,
+        "name": "MSCI Inc.",
+        "open": null,
+        "pct_change": "-10.14%",
+        "price": "",
+        "symbol": "MSCI"
+      },
+      {
+        "change": "-3.67",
+        "change_pts": null,
+        "close": 7536.5,
+        "name": "Tenable Holdings, Inc.",
+        "open": null,
+        "pct_change": "-9.72%",
+        "price": "",
+        "symbol": "TENB"
+      }
+    ],
+    "scraped_at": "2026-07-21T21:42:16.843339-04:00"
   }
 }
