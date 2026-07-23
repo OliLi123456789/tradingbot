@@ -19044,5 +19044,112 @@
       }
     ],
     "scraped_at": "2026-07-21T21:42:16.843339-04:00"
+  },
+  "2026-07-22": {
+    "gainers": [
+      {
+        "change": "+5.06",
+        "change_pts": null,
+        "close": 7540.0,
+        "name": "Super Micro Computer, Inc.",
+        "open": null,
+        "pct_change": "+19.84%",
+        "price": "",
+        "symbol": "SMCI"
+      },
+      {
+        "change": "+14.18",
+        "change_pts": null,
+        "close": 7540.25,
+        "name": "Arrowhead Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "+19.03%",
+        "price": "",
+        "symbol": "ARWR"
+      },
+      {
+        "change": "+0.90",
+        "change_pts": null,
+        "close": 7543.5,
+        "name": "WEG S.A.",
+        "open": null,
+        "pct_change": "+10.78%",
+        "price": "",
+        "symbol": "WEGZY"
+      },
+      {
+        "change": "+0.58",
+        "change_pts": null,
+        "close": 7543.5,
+        "name": "NovaGold Resources Inc.",
+        "open": null,
+        "pct_change": "+10.30%",
+        "price": "",
+        "symbol": "NG"
+      },
+      {
+        "change": "+26.47",
+        "change_pts": null,
+        "close": 7544.5,
+        "name": "Westinghouse Air Brake Technologies Corporation",
+        "open": null,
+        "pct_change": "+10.04%",
+        "price": "",
+        "symbol": "WAB"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-1.91",
+        "change_pts": null,
+        "close": 7531.0,
+        "name": "Boxabl Inc.",
+        "open": null,
+        "pct_change": "-23.85%",
+        "price": "",
+        "symbol": "BXBL"
+      },
+      {
+        "change": "-3.49",
+        "change_pts": null,
+        "close": 7354.02,
+        "name": "Maase Inc.",
+        "open": null,
+        "pct_change": "-17.46%",
+        "price": "",
+        "symbol": "MAAS"
+      },
+      {
+        "change": "-4.95",
+        "change_pts": null,
+        "close": 7545.5,
+        "name": "Pegasystems Inc.",
+        "open": null,
+        "pct_change": "-16.00%",
+        "price": "",
+        "symbol": "PEGA"
+      },
+      {
+        "change": "-19.20",
+        "change_pts": null,
+        "close": 7498.96,
+        "name": "Badger Meter, Inc.",
+        "open": null,
+        "pct_change": "-13.16%",
+        "price": "",
+        "symbol": "BMI"
+      },
+      {
+        "change": "-3.08",
+        "change_pts": null,
+        "close": 7543.5,
+        "name": "Navan, Inc.",
+        "open": null,
+        "pct_change": "-11.57%",
+        "price": "",
+        "symbol": "NAVN"
+      }
+    ],
+    "scraped_at": "2026-07-22T21:42:34.208672-04:00"
   }
 }
