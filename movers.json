@@ -19151,5 +19151,112 @@
       }
     ],
     "scraped_at": "2026-07-22T21:42:34.208672-04:00"
+  },
+  "2026-07-23": {
+    "gainers": [
+      {
+        "change": "+4.42",
+        "change_pts": null,
+        "close": 7456.75,
+        "name": "NovoCure Limited",
+        "open": null,
+        "pct_change": "+28.39%",
+        "price": "",
+        "symbol": "NVCR"
+      },
+      {
+        "change": "+1.51",
+        "change_pts": null,
+        "close": 7457.0,
+        "name": "Cleveland-Cliffs Inc.",
+        "open": null,
+        "pct_change": "+15.98%",
+        "price": "",
+        "symbol": "CLF"
+      },
+      {
+        "change": "+77.70",
+        "change_pts": null,
+        "close": 7408.3,
+        "name": "Medpace Holdings, Inc.",
+        "open": null,
+        "pct_change": "+14.71%",
+        "price": "",
+        "symbol": "MEDP"
+      },
+      {
+        "change": "+2.06",
+        "change_pts": null,
+        "close": 7455.25,
+        "name": "EquipmentShare.com Inc.",
+        "open": null,
+        "pct_change": "+11.88%",
+        "price": "",
+        "symbol": "EQPT"
+      },
+      {
+        "change": "+4.66",
+        "change_pts": null,
+        "close": 7455.25,
+        "name": "IMAX Corporation",
+        "open": null,
+        "pct_change": "+11.86%",
+        "price": "",
+        "symbol": "IMAX"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-5.52",
+        "change_pts": null,
+        "close": 7456.5,
+        "name": "Liberty Energy Inc.",
+        "open": null,
+        "pct_change": "-21.96%",
+        "price": "",
+        "symbol": "LBRT"
+      },
+      {
+        "change": "-3.16",
+        "change_pts": null,
+        "close": 7453.75,
+        "name": "Albertsons Companies, Inc.",
+        "open": null,
+        "pct_change": "-21.64%",
+        "price": "",
+        "symbol": "ACI"
+      },
+      {
+        "change": "-12.28",
+        "change_pts": null,
+        "close": 7457.0,
+        "name": "STMicroelectronics N.V.",
+        "open": null,
+        "pct_change": "-18.67%",
+        "price": "",
+        "symbol": "STM"
+      },
+      {
+        "change": "-1.31",
+        "change_pts": null,
+        "close": 7408.3,
+        "name": "Mobileye Global Inc.",
+        "open": null,
+        "pct_change": "-14.92%",
+        "price": "",
+        "symbol": "MBLY"
+      },
+      {
+        "change": "-54.35",
+        "change_pts": null,
+        "close": 7457.25,
+        "name": "Tesla, Inc.",
+        "open": null,
+        "pct_change": "-14.53%",
+        "price": "",
+        "symbol": "TSLA"
+      }
+    ],
+    "scraped_at": "2026-07-23T21:42:32.554738-04:00"
   }
 }
