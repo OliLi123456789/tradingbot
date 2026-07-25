@@ -19258,5 +19258,112 @@
       }
     ],
     "scraped_at": "2026-07-23T21:42:32.554738-04:00"
+  },
+  "2026-07-24": {
+    "gainers": [
+      {
+        "change": "+9.69",
+        "change_pts": null,
+        "close": 7411.98,
+        "name": "RingCentral, Inc.",
+        "open": null,
+        "pct_change": "+25.09%",
+        "price": "",
+        "symbol": "RNG"
+      },
+      {
+        "change": "+34.18",
+        "change_pts": null,
+        "close": 7411.98,
+        "name": "Tenet Healthcare Corporation",
+        "open": null,
+        "pct_change": "+17.17%",
+        "price": "",
+        "symbol": "THC"
+      },
+      {
+        "change": "+1.08",
+        "change_pts": null,
+        "close": 7411.98,
+        "name": "Fermi Inc.",
+        "open": null,
+        "pct_change": "+17.09%",
+        "price": "",
+        "symbol": "FRMI"
+      },
+      {
+        "change": "+4.25",
+        "change_pts": null,
+        "close": 7411.98,
+        "name": "International Paper Company",
+        "open": null,
+        "pct_change": "+11.21%",
+        "price": "",
+        "symbol": "IP"
+      },
+      {
+        "change": "+4.85",
+        "change_pts": null,
+        "close": null,
+        "name": "Smurfit Westrock Plc",
+        "open": null,
+        "pct_change": "+11.10%",
+        "price": "",
+        "symbol": "SW"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-19.65",
+        "change_pts": null,
+        "close": 7443.0,
+        "name": "MaxLinear, Inc.",
+        "open": null,
+        "pct_change": "-21.54%",
+        "price": "",
+        "symbol": "MXL"
+      },
+      {
+        "change": "-33.20",
+        "change_pts": null,
+        "close": 7411.98,
+        "name": "Nebius Group N.V.",
+        "open": null,
+        "pct_change": "-15.02%",
+        "price": "",
+        "symbol": "NBIS"
+      },
+      {
+        "change": "-32.41",
+        "change_pts": null,
+        "close": 7411.98,
+        "name": "Bloom Energy Corporation",
+        "open": null,
+        "pct_change": "-14.91%",
+        "price": "",
+        "symbol": "BE"
+      },
+      {
+        "change": "-4.65",
+        "change_pts": null,
+        "close": 7411.98,
+        "name": "Hims & Hers Health, Inc.",
+        "open": null,
+        "pct_change": "-14.20%",
+        "price": "",
+        "symbol": "HIMS"
+      },
+      {
+        "change": "-12.19",
+        "change_pts": null,
+        "close": 7411.98,
+        "name": "Aehr Test Systems, Inc.",
+        "open": null,
+        "pct_change": "-13.77%",
+        "price": "",
+        "symbol": "AEHR"
+      }
+    ],
+    "scraped_at": "2026-07-24T21:42:13.826766-04:00"
   }
 }
