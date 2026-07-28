@@ -19365,5 +19365,112 @@
       }
     ],
     "scraped_at": "2026-07-24T21:42:13.826766-04:00"
+  },
+  "2026-07-27": {
+    "gainers": [
+      {
+        "change": "+2.13",
+        "change_pts": null,
+        "close": 7413.18,
+        "name": "Bitmine Immersion Technologies, Inc.",
+        "open": null,
+        "pct_change": "+13.49%",
+        "price": "",
+        "symbol": "BMNR"
+      },
+      {
+        "change": "+4.45",
+        "change_pts": null,
+        "close": 7436.75,
+        "name": "Robert Half Inc.",
+        "open": null,
+        "pct_change": "+12.61%",
+        "price": "",
+        "symbol": "RHI"
+      },
+      {
+        "change": "+10.35",
+        "change_pts": null,
+        "close": 7440.0,
+        "name": "Wayfair Inc.",
+        "open": null,
+        "pct_change": "+12.30%",
+        "price": "",
+        "symbol": "W"
+      },
+      {
+        "change": "+1.00",
+        "change_pts": null,
+        "close": 7433.25,
+        "name": "Trump Media & Technology Group Corp.",
+        "open": null,
+        "pct_change": "+11.68%",
+        "price": "",
+        "symbol": "DJT"
+      },
+      {
+        "change": "+13.13",
+        "change_pts": null,
+        "close": 7393.83,
+        "name": "Shopify Inc.",
+        "open": null,
+        "pct_change": "+11.54%",
+        "price": "",
+        "symbol": "SHOP"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.95",
+        "change_pts": null,
+        "close": 7439.5,
+        "name": "Legend Biotech Corporation",
+        "open": null,
+        "pct_change": "-13.28%",
+        "price": "",
+        "symbol": "LEGN"
+      },
+      {
+        "change": "-158.33",
+        "change_pts": null,
+        "close": 7433.0,
+        "name": "Sandisk Corporation",
+        "open": null,
+        "pct_change": "-11.02%",
+        "price": "",
+        "symbol": "SNDK"
+      },
+      {
+        "change": "-1.49",
+        "change_pts": null,
+        "close": 7436.75,
+        "name": "Venture Global, Inc.",
+        "open": null,
+        "pct_change": "-10.41%",
+        "price": "",
+        "symbol": "VG"
+      },
+      {
+        "change": "-26.45",
+        "change_pts": null,
+        "close": 7433.25,
+        "name": "Silicon Motion Technology Corporation",
+        "open": null,
+        "pct_change": "-9.76%",
+        "price": "",
+        "symbol": "SIMO"
+      },
+      {
+        "change": "-8.25",
+        "change_pts": null,
+        "close": 7437.0,
+        "name": "Ichor Holdings, Ltd.",
+        "open": null,
+        "pct_change": "-9.53%",
+        "price": "",
+        "symbol": "ICHR"
+      }
+    ],
+    "scraped_at": "2026-07-27T21:42:04.559613-04:00"
   }
 }
