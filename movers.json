@@ -19472,5 +19472,112 @@
       }
     ],
     "scraped_at": "2026-07-27T21:42:04.559613-04:00"
+  },
+  "2026-07-28": {
+    "gainers": [
+      {
+        "change": "+22.24",
+        "change_pts": null,
+        "close": 7480.0,
+        "name": "Itron, Inc.",
+        "open": null,
+        "pct_change": "+26.23%",
+        "price": "",
+        "symbol": "ITRI"
+      },
+      {
+        "change": "+12.90",
+        "change_pts": null,
+        "close": null,
+        "name": "Ionic Digital Inc. Class A Common Stock",
+        "open": null,
+        "pct_change": "+25.80%",
+        "price": "",
+        "symbol": "IOND"
+      },
+      {
+        "change": "+15.90",
+        "change_pts": null,
+        "close": 7480.25,
+        "name": "Kiniksa Pharmaceuticals International, plc",
+        "open": null,
+        "pct_change": "+25.03%",
+        "price": "",
+        "symbol": "KNSA"
+      },
+      {
+        "change": "+1.40",
+        "change_pts": null,
+        "close": 7480.25,
+        "name": "Lucid Group, Inc.",
+        "open": null,
+        "pct_change": "+21.54%",
+        "price": "",
+        "symbol": "LCID"
+      },
+      {
+        "change": "+29.72",
+        "change_pts": null,
+        "close": 7472.0,
+        "name": "IQVIA Holdings Inc.",
+        "open": null,
+        "pct_change": "+13.94%",
+        "price": "",
+        "symbol": "IQV"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-15.02",
+        "change_pts": null,
+        "close": 7480.0,
+        "name": "Amkor Technology, Inc.",
+        "open": null,
+        "pct_change": "-24.74%",
+        "price": "",
+        "symbol": "AMKR"
+      },
+      {
+        "change": "-29.44",
+        "change_pts": null,
+        "close": 7480.0,
+        "name": "Commvault Systems, Inc.",
+        "open": null,
+        "pct_change": "-19.70%",
+        "price": "",
+        "symbol": "CVLT"
+      },
+      {
+        "change": "-36.47",
+        "change_pts": null,
+        "close": 7480.0,
+        "name": "Sanmina Corporation",
+        "open": null,
+        "pct_change": "-17.46%",
+        "price": "",
+        "symbol": "SANM"
+      },
+      {
+        "change": "-96.54",
+        "change_pts": null,
+        "close": 7428.78,
+        "name": "Sterling Infrastructure, Inc.",
+        "open": null,
+        "pct_change": "-15.21%",
+        "price": "",
+        "symbol": "STRL"
+      },
+      {
+        "change": "-182.13",
+        "change_pts": null,
+        "close": 7480.0,
+        "name": "Sandisk Corporation",
+        "open": null,
+        "pct_change": "-14.25%",
+        "price": "",
+        "symbol": "SNDK"
+      }
+    ],
+    "scraped_at": "2026-07-28T21:42:10.029632-04:00"
   }
 }
