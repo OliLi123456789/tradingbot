@@ -19579,5 +19579,112 @@
       }
     ],
     "scraped_at": "2026-07-28T21:42:10.029632-04:00"
+  },
+  "2026-07-29": {
+    "gainers": [
+      {
+        "change": "+49.00",
+        "change_pts": null,
+        "close": 7381.0,
+        "name": "Huron Consulting Group Inc.",
+        "open": null,
+        "pct_change": "+40.37%",
+        "price": "",
+        "symbol": "HURN"
+      },
+      {
+        "change": "+35.85",
+        "change_pts": null,
+        "close": 7381.5,
+        "name": "Manhattan Associates, Inc.",
+        "open": null,
+        "pct_change": "+21.32%",
+        "price": "",
+        "symbol": "MANH"
+      },
+      {
+        "change": "+69.17",
+        "change_pts": null,
+        "close": 7316.15,
+        "name": "Lithia Motors, Inc.",
+        "open": null,
+        "pct_change": "+19.30%",
+        "price": "",
+        "symbol": "LAD"
+      },
+      {
+        "change": "+5.46",
+        "change_pts": null,
+        "close": 7380.75,
+        "name": "ExlService Holdings, Inc.",
+        "open": null,
+        "pct_change": "+17.88%",
+        "price": "",
+        "symbol": "EXLS"
+      },
+      {
+        "change": "+8.20",
+        "change_pts": null,
+        "close": 7374.0,
+        "name": "CBIZ, Inc.",
+        "open": null,
+        "pct_change": "+17.56%",
+        "price": "",
+        "symbol": "CBZ"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-21.71",
+        "change_pts": null,
+        "close": 7381.0,
+        "name": "Parsons Corporation",
+        "open": null,
+        "pct_change": "-35.00%",
+        "price": "",
+        "symbol": "PSN"
+      },
+      {
+        "change": "-14.73",
+        "change_pts": null,
+        "close": 7386.25,
+        "name": "Lemonade, Inc.",
+        "open": null,
+        "pct_change": "-23.72%",
+        "price": "",
+        "symbol": "LMND"
+      },
+      {
+        "change": "-114.09",
+        "change_pts": null,
+        "close": 7380.5,
+        "name": "Lennox International Inc.",
+        "open": null,
+        "pct_change": "-20.97%",
+        "price": "",
+        "symbol": "LII"
+      },
+      {
+        "change": "-4.04",
+        "change_pts": null,
+        "close": 7316.15,
+        "name": "Fervo Energy Company",
+        "open": null,
+        "pct_change": "-19.13%",
+        "price": "",
+        "symbol": "FRVO"
+      },
+      {
+        "change": "-3.81",
+        "change_pts": null,
+        "close": 7381.0,
+        "name": "Allied Gold Corporation",
+        "open": null,
+        "pct_change": "-18.28%",
+        "price": "",
+        "symbol": "AAUC"
+      }
+    ],
+    "scraped_at": "2026-07-29T21:42:04.543045-04:00"
   }
 }
