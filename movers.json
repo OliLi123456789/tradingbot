@@ -19686,5 +19686,112 @@
       }
     ],
     "scraped_at": "2026-07-29T21:42:04.543045-04:00"
+  },
+  "2026-07-30": {
+    "gainers": [
+      {
+        "change": "+5.22",
+        "change_pts": null,
+        "close": 7440.97,
+        "name": "Fervo Energy Company",
+        "open": null,
+        "pct_change": "+30.56%",
+        "price": "",
+        "symbol": "FRVO"
+      },
+      {
+        "change": "+8.95",
+        "change_pts": null,
+        "close": 7437.63,
+        "name": "IREN Limited",
+        "open": null,
+        "pct_change": "+30.54%",
+        "price": "",
+        "symbol": "IREN"
+      },
+      {
+        "change": "+37.03",
+        "change_pts": null,
+        "close": 7502.75,
+        "name": "MarketAxess Holdings Inc.",
+        "open": null,
+        "pct_change": "+29.45%",
+        "price": "",
+        "symbol": "MKTX"
+      },
+      {
+        "change": "+1.35",
+        "change_pts": null,
+        "close": 7502.5,
+        "name": "Bausch Health Companies Inc.",
+        "open": null,
+        "pct_change": "+28.85%",
+        "price": "",
+        "symbol": "BHC"
+      },
+      {
+        "change": "+4.97",
+        "change_pts": null,
+        "close": 7492.75,
+        "name": "Cipher Digital Inc.",
+        "open": null,
+        "pct_change": "+28.10%",
+        "price": "",
+        "symbol": "CIFR"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-81.14",
+        "change_pts": null,
+        "close": 7502.5,
+        "name": "Alnylam Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "-28.31%",
+        "price": "",
+        "symbol": "ALNY"
+      },
+      {
+        "change": "-5.18",
+        "change_pts": null,
+        "close": 7502.5,
+        "name": "Rentokil Initial plc",
+        "open": null,
+        "pct_change": "-17.60%",
+        "price": "",
+        "symbol": "RTO"
+      },
+      {
+        "change": "-61.26",
+        "change_pts": null,
+        "close": 7499.25,
+        "name": "Group 1 Automotive, Inc.",
+        "open": null,
+        "pct_change": "-17.11%",
+        "price": "",
+        "symbol": "GPI"
+      },
+      {
+        "change": "-233.54",
+        "change_pts": null,
+        "close": 7502.0,
+        "name": "Fair Isaac Corporation",
+        "open": null,
+        "pct_change": "-17.01%",
+        "price": "",
+        "symbol": "FICO"
+      },
+      {
+        "change": "-26.83",
+        "change_pts": null,
+        "close": 7502.5,
+        "name": "C.H. Robinson Worldwide, Inc.",
+        "open": null,
+        "pct_change": "-15.44%",
+        "price": "",
+        "symbol": "CHRW"
+      }
+    ],
+    "scraped_at": "2026-07-30T21:42:48.500632-04:00"
   }
 }
