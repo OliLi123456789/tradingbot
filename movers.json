@@ -19793,5 +19793,112 @@
       }
     ],
     "scraped_at": "2026-07-30T21:42:48.500632-04:00"
+  },
+  "2026-07-31": {
+    "gainers": [
+      {
+        "change": "+173.00",
+        "change_pts": null,
+        "close": 7489.72,
+        "name": "IES Holdings, Inc.",
+        "open": null,
+        "pct_change": "+30.27%",
+        "price": "",
+        "symbol": "IESC"
+      },
+      {
+        "change": "+13.49",
+        "change_pts": null,
+        "close": 7489.72,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "+28.74%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "+20.35",
+        "change_pts": null,
+        "close": 7489.72,
+        "name": "Integer Holdings Corporation",
+        "open": null,
+        "pct_change": "+20.18%",
+        "price": "",
+        "symbol": "ITGR"
+      },
+      {
+        "change": "+11.91",
+        "change_pts": null,
+        "close": 7489.72,
+        "name": "Ambarella, Inc.",
+        "open": null,
+        "pct_change": "+16.08%",
+        "price": "",
+        "symbol": "AMBA"
+      },
+      {
+        "change": "+36.08",
+        "change_pts": null,
+        "close": 7489.72,
+        "name": "Amazon.com, Inc.",
+        "open": null,
+        "pct_change": "+15.32%",
+        "price": "",
+        "symbol": "AMZN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-13.07",
+        "change_pts": null,
+        "close": 7489.72,
+        "name": "Roblox Corporation",
+        "open": null,
+        "pct_change": "-26.85%",
+        "price": "",
+        "symbol": "RBLX"
+      },
+      {
+        "change": "-13.46",
+        "change_pts": null,
+        "close": 7489.72,
+        "name": "Veracyte, Inc.",
+        "open": null,
+        "pct_change": "-22.52%",
+        "price": "",
+        "symbol": "VCYT"
+      },
+      {
+        "change": "-37.37",
+        "change_pts": null,
+        "close": 7489.72,
+        "name": "Reddit, Inc.",
+        "open": null,
+        "pct_change": "-20.99%",
+        "price": "",
+        "symbol": "RDDT"
+      },
+      {
+        "change": "-3.76",
+        "change_pts": null,
+        "close": 7489.72,
+        "name": "Alignment Healthcare, Inc.",
+        "open": null,
+        "pct_change": "-20.20%",
+        "price": "",
+        "symbol": "ALHC"
+      },
+      {
+        "change": "-61.34",
+        "change_pts": null,
+        "close": 7489.72,
+        "name": "MasTec, Inc.",
+        "open": null,
+        "pct_change": "-18.91%",
+        "price": "",
+        "symbol": "MTZ"
+      }
+    ],
+    "scraped_at": "2026-07-31T21:42:33.925135-04:00"
   }
 }
