@@ -19900,5 +19900,112 @@
       }
     ],
     "scraped_at": "2026-07-31T21:42:33.925135-04:00"
+  },
+  "2026-08-03": {
+    "gainers": [
+      {
+        "change": "+20.59",
+        "change_pts": null,
+        "close": null,
+        "name": "Atkore Inc.",
+        "open": null,
+        "pct_change": "+28.22%",
+        "price": "",
+        "symbol": "ATKR"
+      },
+      {
+        "change": "+13.99",
+        "change_pts": null,
+        "close": 7634.5,
+        "name": "CoreWeave, Inc.",
+        "open": null,
+        "pct_change": "+19.49%",
+        "price": "",
+        "symbol": "CRWV"
+      },
+      {
+        "change": "+0.96",
+        "change_pts": null,
+        "close": 7623.0,
+        "name": "Polibeli Group Ltd",
+        "open": null,
+        "pct_change": "+17.68%",
+        "price": "",
+        "symbol": "PLBL"
+      },
+      {
+        "change": "+15.89",
+        "change_pts": null,
+        "close": 7635.25,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "+16.85%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "+1.11",
+        "change_pts": null,
+        "close": 7636.25,
+        "name": "Butterfly Network, Inc.",
+        "open": null,
+        "pct_change": "+15.61%",
+        "price": "",
+        "symbol": "BFLY"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.20",
+        "change_pts": null,
+        "close": 7489.72,
+        "name": "Sportradar Group AG",
+        "open": null,
+        "pct_change": "-15.13%",
+        "price": "",
+        "symbol": "SRAD"
+      },
+      {
+        "change": "-2.66",
+        "change_pts": null,
+        "close": 7634.5,
+        "name": "GameStop Corp.",
+        "open": null,
+        "pct_change": "-12.25%",
+        "price": "",
+        "symbol": "GME"
+      },
+      {
+        "change": "-5.86",
+        "change_pts": null,
+        "close": 7635.0,
+        "name": "TG Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-11.26%",
+        "price": "",
+        "symbol": "TGTX"
+      },
+      {
+        "change": "-28.55",
+        "change_pts": null,
+        "close": 7635.25,
+        "name": "Krystal Biotech, Inc.",
+        "open": null,
+        "pct_change": "-8.37%",
+        "price": "",
+        "symbol": "KRYS"
+      },
+      {
+        "change": "-2.73",
+        "change_pts": null,
+        "close": 7637.25,
+        "name": "CVR Energy, Inc.",
+        "open": null,
+        "pct_change": "-7.66%",
+        "price": "",
+        "symbol": "CVI"
+      }
+    ],
+    "scraped_at": "2026-08-03T21:42:11.295261-04:00"
   }
 }
