@@ -20007,5 +20007,112 @@
       }
     ],
     "scraped_at": "2026-08-03T21:42:11.295261-04:00"
+  },
+  "2026-08-04": {
+    "gainers": [
+      {
+        "change": "+26.77",
+        "change_pts": null,
+        "close": 7782.75,
+        "name": "Wayfair Inc.",
+        "open": null,
+        "pct_change": "+29.97%",
+        "price": "",
+        "symbol": "W"
+      },
+      {
+        "change": "+37.23",
+        "change_pts": null,
+        "close": 7497.25,
+        "name": "Palantir Technologies Inc.",
+        "open": null,
+        "pct_change": "+29.63%",
+        "price": "",
+        "symbol": "PLTR"
+      },
+      {
+        "change": "+10.08",
+        "change_pts": null,
+        "close": 7584.57,
+        "name": "Paymentus Holdings, Inc.",
+        "open": null,
+        "pct_change": "+29.20%",
+        "price": "",
+        "symbol": "PAY"
+      },
+      {
+        "change": "+77.19",
+        "change_pts": null,
+        "close": 7779.5,
+        "name": "Zebra Technologies Corporation",
+        "open": null,
+        "pct_change": "+26.47%",
+        "price": "",
+        "symbol": "ZBRA"
+      },
+      {
+        "change": "+67.31",
+        "change_pts": null,
+        "close": 7782.75,
+        "name": "UFP Technologies, Inc.",
+        "open": null,
+        "pct_change": "+25.16%",
+        "price": "",
+        "symbol": "UFPT"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-14.01",
+        "change_pts": null,
+        "close": 7782.0,
+        "name": "Bruker Corporation",
+        "open": null,
+        "pct_change": "-21.79%",
+        "price": "",
+        "symbol": "BRKR"
+      },
+      {
+        "change": "-5.98",
+        "change_pts": null,
+        "close": null,
+        "name": "Centuri Holdings, Inc.",
+        "open": null,
+        "pct_change": "-21.46%",
+        "price": "",
+        "symbol": "CTRI"
+      },
+      {
+        "change": "-9.51",
+        "change_pts": null,
+        "close": 7779.5,
+        "name": "Aptiv PLC",
+        "open": null,
+        "pct_change": "-16.62%",
+        "price": "",
+        "symbol": "APTV"
+      },
+      {
+        "change": "-3.78",
+        "change_pts": null,
+        "close": 7736.52,
+        "name": "Cipher Digital Inc.",
+        "open": null,
+        "pct_change": "-15.65%",
+        "price": "",
+        "symbol": "CIFR"
+      },
+      {
+        "change": "-21.43",
+        "change_pts": null,
+        "close": 7780.75,
+        "name": "NRG Energy, Inc.",
+        "open": null,
+        "pct_change": "-15.48%",
+        "price": "",
+        "symbol": "NRG"
+      }
+    ],
+    "scraped_at": "2026-08-04T21:42:01.220579-04:00"
   }
 }
