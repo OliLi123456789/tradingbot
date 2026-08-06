@@ -20114,5 +20114,112 @@
       }
     ],
     "scraped_at": "2026-08-04T21:42:01.220579-04:00"
+  },
+  "2026-08-05": {
+    "gainers": [
+      {
+        "change": "+69.98",
+        "change_pts": null,
+        "close": 7737.73,
+        "name": "Materion Corporation",
+        "open": null,
+        "pct_change": "+30.81%",
+        "price": "",
+        "symbol": "MTRN"
+      },
+      {
+        "change": "+3.76",
+        "change_pts": null,
+        "close": 7753.0,
+        "name": "Select Water Solutions, Inc.",
+        "open": null,
+        "pct_change": "+20.32%",
+        "price": "",
+        "symbol": "WTTR"
+      },
+      {
+        "change": "+20.94",
+        "change_pts": null,
+        "close": 7743.41,
+        "name": "Shopify Inc.",
+        "open": null,
+        "pct_change": "+16.98%",
+        "price": "",
+        "symbol": "SHOP"
+      },
+      {
+        "change": "+6.30",
+        "change_pts": null,
+        "close": 7753.25,
+        "name": "Bending Spoons S.p.A.",
+        "open": null,
+        "pct_change": "+16.82%",
+        "price": "",
+        "symbol": "BSP"
+      },
+      {
+        "change": "+6.51",
+        "change_pts": null,
+        "close": 7753.25,
+        "name": "UroGen Pharma Ltd.",
+        "open": null,
+        "pct_change": "+16.31%",
+        "price": "",
+        "symbol": "URGN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-14.86",
+        "change_pts": null,
+        "close": 7751.0,
+        "name": "SolarEdge Technologies, Inc.",
+        "open": null,
+        "pct_change": "-30.48%",
+        "price": "",
+        "symbol": "SEDG"
+      },
+      {
+        "change": "-8.16",
+        "change_pts": null,
+        "close": 7753.25,
+        "name": "Teradata Corporation",
+        "open": null,
+        "pct_change": "-23.73%",
+        "price": "",
+        "symbol": "TDC"
+      },
+      {
+        "change": "-33.56",
+        "change_pts": null,
+        "close": 7758.75,
+        "name": "Insulet Corporation",
+        "open": null,
+        "pct_change": "-20.12%",
+        "price": "",
+        "symbol": "PODD"
+      },
+      {
+        "change": "-6.15",
+        "change_pts": null,
+        "close": 7753.25,
+        "name": "Extreme Networks, Inc.",
+        "open": null,
+        "pct_change": "-19.02%",
+        "price": "",
+        "symbol": "EXTR"
+      },
+      {
+        "change": "-3.34",
+        "change_pts": null,
+        "close": 7723.55,
+        "name": "The Chemours Company",
+        "open": null,
+        "pct_change": "-18.63%",
+        "price": "",
+        "symbol": "CC"
+      }
+    ],
+    "scraped_at": "2026-08-05T21:42:12.204552-04:00"
   }
 }
