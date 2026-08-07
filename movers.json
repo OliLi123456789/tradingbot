@@ -20221,5 +20221,112 @@
       }
     ],
     "scraped_at": "2026-08-05T21:42:12.204552-04:00"
+  },
+  "2026-08-06": {
+    "gainers": [
+      {
+        "change": "+11.80",
+        "change_pts": null,
+        "close": null,
+        "name": "Braveheart Bio, Inc. Common Stock",
+        "open": null,
+        "pct_change": "+65.56%",
+        "price": "",
+        "symbol": "BRVE"
+      },
+      {
+        "change": "+1.84",
+        "change_pts": null,
+        "close": 7709.96,
+        "name": "Iovance Biotherapeutics, Inc.",
+        "open": null,
+        "pct_change": "+42.51%",
+        "price": "",
+        "symbol": "IOVA"
+      },
+      {
+        "change": "+33.53",
+        "change_pts": null,
+        "close": 7709.96,
+        "name": "Insmed Incorporated",
+        "open": null,
+        "pct_change": "+33.86%",
+        "price": "",
+        "symbol": "INSM"
+      },
+      {
+        "change": "+144.38",
+        "change_pts": null,
+        "close": 7709.96,
+        "name": "SiTime Corporation",
+        "open": null,
+        "pct_change": "+26.58%",
+        "price": "",
+        "symbol": "SITM"
+      },
+      {
+        "change": "+5.34",
+        "change_pts": null,
+        "close": 7724.17,
+        "name": "WPP plc",
+        "open": null,
+        "pct_change": "+25.91%",
+        "price": "",
+        "symbol": "WPP"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-58.32",
+        "change_pts": null,
+        "close": 7709.96,
+        "name": "BillionToOne, Inc.",
+        "open": null,
+        "pct_change": "-38.89%",
+        "price": "",
+        "symbol": "BLLN"
+      },
+      {
+        "change": "-47.17",
+        "change_pts": null,
+        "close": 7724.08,
+        "name": "Honeywell Aerospace Inc.",
+        "open": null,
+        "pct_change": "-23.16%",
+        "price": "",
+        "symbol": "HONA"
+      },
+      {
+        "change": "-82.04",
+        "change_pts": null,
+        "close": 7709.96,
+        "name": "AppLovin Corporation",
+        "open": null,
+        "pct_change": "-19.64%",
+        "price": "",
+        "symbol": "APP"
+      },
+      {
+        "change": "-47.78",
+        "change_pts": null,
+        "close": 7709.96,
+        "name": "HubSpot, Inc.",
+        "open": null,
+        "pct_change": "-19.10%",
+        "price": "",
+        "symbol": "HUBS"
+      },
+      {
+        "change": "-53.88",
+        "change_pts": null,
+        "close": 7741.58,
+        "name": "Datadog, Inc.",
+        "open": null,
+        "pct_change": "-19.03%",
+        "price": "",
+        "symbol": "DDOG"
+      }
+    ],
+    "scraped_at": "2026-08-06T21:52:01.493297-04:00"
   }
 }
