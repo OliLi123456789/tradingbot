@@ -20328,5 +20328,112 @@
       }
     ],
     "scraped_at": "2026-08-06T21:52:01.493297-04:00"
+  },
+  "2026-08-07": {
+    "gainers": [
+      {
+        "change": "+38.90",
+        "change_pts": null,
+        "close": 7711.91,
+        "name": "Atlassian Corporation",
+        "open": null,
+        "pct_change": "+35.31%",
+        "price": "",
+        "symbol": "TEAM"
+      },
+      {
+        "change": "+6.74",
+        "change_pts": null,
+        "close": 7709.96,
+        "name": "Doximity, Inc.",
+        "open": null,
+        "pct_change": "+32.62%",
+        "price": "",
+        "symbol": "DOCS"
+      },
+      {
+        "change": "+3.02",
+        "change_pts": null,
+        "close": 7709.96,
+        "name": "FIGS, Inc.",
+        "open": null,
+        "pct_change": "+26.87%",
+        "price": "",
+        "symbol": "FIGS"
+      },
+      {
+        "change": "+48.08",
+        "change_pts": null,
+        "close": 7762.25,
+        "name": "Twilio Inc.",
+        "open": null,
+        "pct_change": "+24.89%",
+        "price": "",
+        "symbol": "TWLO"
+      },
+      {
+        "change": "+0.94",
+        "change_pts": null,
+        "close": 7723.55,
+        "name": "B2Gold Corp.",
+        "open": null,
+        "pct_change": "+22.98%",
+        "price": "",
+        "symbol": "BTG"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-60.51",
+        "change_pts": null,
+        "close": 7533.77,
+        "name": "Sezzle Inc.",
+        "open": null,
+        "pct_change": "-33.89%",
+        "price": "",
+        "symbol": "SEZL"
+      },
+      {
+        "change": "-19.29",
+        "change_pts": null,
+        "close": 7560.88,
+        "name": "nLIGHT, Inc.",
+        "open": null,
+        "pct_change": "-25.56%",
+        "price": "",
+        "symbol": "LASR"
+      },
+      {
+        "change": "-3.84",
+        "change_pts": null,
+        "close": 7746.21,
+        "name": "The Trade Desk, Inc.",
+        "open": null,
+        "pct_change": "-21.70%",
+        "price": "",
+        "symbol": "TTD"
+      },
+      {
+        "change": "-47.33",
+        "change_pts": null,
+        "close": 7722.71,
+        "name": "Dave Inc.",
+        "open": null,
+        "pct_change": "-12.96%",
+        "price": "",
+        "symbol": "DAVE"
+      },
+      {
+        "change": "-11.54",
+        "change_pts": null,
+        "close": null,
+        "name": "Post Holdings, Inc.",
+        "open": null,
+        "pct_change": "-12.79%",
+        "price": "",
+        "symbol": "POST"
+      }
+    ],
+    "scraped_at": "2026-08-07T21:40:11.084812-04:00"
   }
 }
