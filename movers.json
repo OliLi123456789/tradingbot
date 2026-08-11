@@ -20435,5 +20435,112 @@
       }
     ],
     "scraped_at": "2026-08-07T21:40:11.084812-04:00"
+  },
+  "2026-08-10": {
+    "gainers": [
+      {
+        "change": "+2.41",
+        "change_pts": null,
+        "close": 7753.11,
+        "name": "AbCellera Biologics Inc.",
+        "open": null,
+        "pct_change": "+34.78%",
+        "price": "",
+        "symbol": "ABCL"
+      },
+      {
+        "change": "+7.50",
+        "change_pts": null,
+        "close": 7705.86,
+        "name": "Obsidian Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+27.27%",
+        "price": "",
+        "symbol": "OBX"
+      },
+      {
+        "change": "+6.77",
+        "change_pts": null,
+        "close": null,
+        "name": "National Energy Services Reunited Corp.",
+        "open": null,
+        "pct_change": "+23.33%",
+        "price": "",
+        "symbol": "NESR"
+      },
+      {
+        "change": "+4.79",
+        "change_pts": null,
+        "close": 7723.55,
+        "name": "Fastly, Inc.",
+        "open": null,
+        "pct_change": "+20.86%",
+        "price": "",
+        "symbol": "FSLY"
+      },
+      {
+        "change": "+0.69",
+        "change_pts": null,
+        "close": 7753.11,
+        "name": "Quhuo Limited",
+        "open": null,
+        "pct_change": "+15.85%",
+        "price": "",
+        "symbol": "QH"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.18",
+        "change_pts": null,
+        "close": 7753.11,
+        "name": "Bitdeer Technologies Group",
+        "open": null,
+        "pct_change": "-20.08%",
+        "price": "",
+        "symbol": "BTDR"
+      },
+      {
+        "change": "-14.77",
+        "change_pts": null,
+        "close": 7757.64,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "-16.67%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "-53.98",
+        "change_pts": null,
+        "close": 7753.11,
+        "name": "Coherent Corp.",
+        "open": null,
+        "pct_change": "-14.24%",
+        "price": "",
+        "symbol": "COHR"
+      },
+      {
+        "change": "-25.51",
+        "change_pts": null,
+        "close": 7753.11,
+        "name": "Silicon Motion Technology Corporation",
+        "open": null,
+        "pct_change": "-9.96%",
+        "price": "",
+        "symbol": "SIMO"
+      },
+      {
+        "change": "-6.85",
+        "change_pts": null,
+        "close": 7753.11,
+        "name": "Nayax Ltd.",
+        "open": null,
+        "pct_change": "-9.95%",
+        "price": "",
+        "symbol": "NYAX"
+      }
+    ],
+    "scraped_at": "2026-08-10T21:40:29.190781-04:00"
   }
 }
