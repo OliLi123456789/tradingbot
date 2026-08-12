@@ -20542,5 +20542,112 @@
       }
     ],
     "scraped_at": "2026-08-10T21:40:29.190781-04:00"
+  },
+  "2026-08-11": {
+    "gainers": [
+      {
+        "change": "+4.90",
+        "change_pts": null,
+        "close": 7750.5,
+        "name": "NIQ Global Intelligence plc",
+        "open": null,
+        "pct_change": "+41.95%",
+        "price": "",
+        "symbol": "NIQ"
+      },
+      {
+        "change": "+8.58",
+        "change_pts": null,
+        "close": 7750.5,
+        "name": "Alamar Biosciences, Inc.",
+        "open": null,
+        "pct_change": "+30.65%",
+        "price": "",
+        "symbol": "ALMR"
+      },
+      {
+        "change": "+8.91",
+        "change_pts": null,
+        "close": 7750.5,
+        "name": "Septerna, Inc.",
+        "open": null,
+        "pct_change": "+22.93%",
+        "price": "",
+        "symbol": "SEPN"
+      },
+      {
+        "change": "+1.24",
+        "change_pts": null,
+        "close": 7750.5,
+        "name": "Fermi Inc.",
+        "open": null,
+        "pct_change": "+21.09%",
+        "price": "",
+        "symbol": "FRMI"
+      },
+      {
+        "change": "+2.40",
+        "change_pts": null,
+        "close": 7750.0,
+        "name": "NextNav Inc.",
+        "open": null,
+        "pct_change": "+15.55%",
+        "price": "",
+        "symbol": "NN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-16.00",
+        "change_pts": null,
+        "close": 7749.25,
+        "name": "Life360, Inc.",
+        "open": null,
+        "pct_change": "-24.76%",
+        "price": "",
+        "symbol": "LIF"
+      },
+      {
+        "change": "-7.87",
+        "change_pts": null,
+        "close": 7750.0,
+        "name": "On Holding AG",
+        "open": null,
+        "pct_change": "-20.29%",
+        "price": "",
+        "symbol": "ONON"
+      },
+      {
+        "change": "-9.35",
+        "change_pts": null,
+        "close": 7750.0,
+        "name": "Hub Group, Inc.",
+        "open": null,
+        "pct_change": "-19.75%",
+        "price": "",
+        "symbol": "HUBG"
+      },
+      {
+        "change": "-4.67",
+        "change_pts": null,
+        "close": 7750.5,
+        "name": "eToro Group Ltd.",
+        "open": null,
+        "pct_change": "-13.74%",
+        "price": "",
+        "symbol": "ETOR"
+      },
+      {
+        "change": "-8.13",
+        "change_pts": null,
+        "close": 7750.5,
+        "name": "Nayax Ltd.",
+        "open": null,
+        "pct_change": "-13.11%",
+        "price": "",
+        "symbol": "NYAX"
+      }
+    ],
+    "scraped_at": "2026-08-11T21:41:01.215758-04:00"
   }
 }
