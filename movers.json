@@ -20649,5 +20649,112 @@
       }
     ],
     "scraped_at": "2026-08-11T21:41:01.215758-04:00"
+  },
+  "2026-08-12": {
+    "gainers": [
+      {
+        "change": "+65.97",
+        "change_pts": null,
+        "close": 7765.25,
+        "name": "Nebius Group N.V.",
+        "open": null,
+        "pct_change": "+34.14%",
+        "price": "",
+        "symbol": "NBIS"
+      },
+      {
+        "change": "+15.68",
+        "change_pts": null,
+        "close": 7765.25,
+        "name": "Quantinuum Inc.",
+        "open": null,
+        "pct_change": "+27.97%",
+        "price": "",
+        "symbol": "QNT"
+      },
+      {
+        "change": "+2.57",
+        "change_pts": null,
+        "close": 7748.5,
+        "name": "ERock, Inc.",
+        "open": null,
+        "pct_change": "+22.84%",
+        "price": "",
+        "symbol": "EROC"
+      },
+      {
+        "change": "+11.88",
+        "change_pts": null,
+        "close": 7765.25,
+        "name": "SharonAI Holdings Inc.",
+        "open": null,
+        "pct_change": "+21.00%",
+        "price": "",
+        "symbol": "SHAZ"
+      },
+      {
+        "change": "+17.86",
+        "change_pts": null,
+        "close": 7766.0,
+        "name": "CoreWeave, Inc.",
+        "open": null,
+        "pct_change": "+19.78%",
+        "price": "",
+        "symbol": "CRWV"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.47",
+        "change_pts": null,
+        "close": null,
+        "name": "Maase Inc.",
+        "open": null,
+        "pct_change": "-21.40%",
+        "price": "",
+        "symbol": "MAAS"
+      },
+      {
+        "change": "-4.01",
+        "change_pts": null,
+        "close": 7748.5,
+        "name": "Fervo Energy Company",
+        "open": null,
+        "pct_change": "-16.59%",
+        "price": "",
+        "symbol": "FRVO"
+      },
+      {
+        "change": "-9.26",
+        "change_pts": null,
+        "close": 7766.0,
+        "name": "Liquidia Corporation",
+        "open": null,
+        "pct_change": "-10.52%",
+        "price": "",
+        "symbol": "LQDA"
+      },
+      {
+        "change": "-3.45",
+        "change_pts": null,
+        "close": 7765.25,
+        "name": "Alamar Biosciences, Inc.",
+        "open": null,
+        "pct_change": "-9.43%",
+        "price": "",
+        "symbol": "ALMR"
+      },
+      {
+        "change": "-7.59",
+        "change_pts": null,
+        "close": 7765.75,
+        "name": "LandBridge Company LLC",
+        "open": null,
+        "pct_change": "-9.05%",
+        "price": "",
+        "symbol": "LB"
+      }
+    ],
+    "scraped_at": "2026-08-12T21:41:07.189218-04:00"
   }
 }
