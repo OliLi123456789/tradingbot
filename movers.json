@@ -20756,5 +20756,112 @@
       }
     ],
     "scraped_at": "2026-08-12T21:41:07.189218-04:00"
+  },
+  "2026-08-13": {
+    "gainers": [
+      {
+        "change": "+5.90",
+        "change_pts": null,
+        "close": 7821.5,
+        "name": "Accelerant Holdings",
+        "open": null,
+        "pct_change": "+43.35%",
+        "price": "",
+        "symbol": "ARX"
+      },
+      {
+        "change": "+2.24",
+        "change_pts": null,
+        "close": 7822.25,
+        "name": "Aveanna Healthcare Holdings Inc.",
+        "open": null,
+        "pct_change": "+24.75%",
+        "price": "",
+        "symbol": "AVAH"
+      },
+      {
+        "change": "+31.16",
+        "change_pts": null,
+        "close": 7821.25,
+        "name": "Workday, Inc.",
+        "open": null,
+        "pct_change": "+17.78%",
+        "price": "",
+        "symbol": "WDAY"
+      },
+      {
+        "change": "+1.97",
+        "change_pts": null,
+        "close": 7821.75,
+        "name": "McGraw Hill, Inc.",
+        "open": null,
+        "pct_change": "+16.98%",
+        "price": "",
+        "symbol": "MH"
+      },
+      {
+        "change": "+11.31",
+        "change_pts": null,
+        "close": 7822.25,
+        "name": "Wix.com Ltd.",
+        "open": null,
+        "pct_change": "+16.45%",
+        "price": "",
+        "symbol": "WIX"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.45",
+        "change_pts": null,
+        "close": 7822.25,
+        "name": "Cellebrite DI Ltd.",
+        "open": null,
+        "pct_change": "-29.18%",
+        "price": "",
+        "symbol": "CLBT"
+      },
+      {
+        "change": "-5.20",
+        "change_pts": null,
+        "close": 7822.25,
+        "name": "Liftoff Mobile, Inc.",
+        "open": null,
+        "pct_change": "-20.59%",
+        "price": "",
+        "symbol": "LFTO"
+      },
+      {
+        "change": "-5.25",
+        "change_pts": null,
+        "close": 7822.25,
+        "name": "Resideo Technologies, Inc.",
+        "open": null,
+        "pct_change": "-20.42%",
+        "price": "",
+        "symbol": "REZI"
+      },
+      {
+        "change": "-25.35",
+        "change_pts": null,
+        "close": 7822.25,
+        "name": "Tapestry, Inc.",
+        "open": null,
+        "pct_change": "-16.49%",
+        "price": "",
+        "symbol": "TPR"
+      },
+      {
+        "change": "-8.06",
+        "change_pts": null,
+        "close": 7821.5,
+        "name": "Bending Spoons S.p.A.",
+        "open": null,
+        "pct_change": "-16.46%",
+        "price": "",
+        "symbol": "BSP"
+      }
+    ],
+    "scraped_at": "2026-08-13T21:40:59.681125-04:00"
   }
 }
