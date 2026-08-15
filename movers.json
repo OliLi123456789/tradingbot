@@ -20863,5 +20863,112 @@
       }
     ],
     "scraped_at": "2026-08-13T21:40:59.681125-04:00"
+  },
+  "2026-08-14": {
+    "gainers": [
+      {
+        "change": "+11.07",
+        "change_pts": null,
+        "close": 7785.76,
+        "name": "Heartflow, Inc.",
+        "open": null,
+        "pct_change": "+35.70%",
+        "price": "",
+        "symbol": "HTFL"
+      },
+      {
+        "change": "+20.20",
+        "change_pts": null,
+        "close": 7785.76,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "+15.53%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "+19.97",
+        "change_pts": null,
+        "close": 7785.76,
+        "name": "Reddit, Inc.",
+        "open": null,
+        "pct_change": "+12.63%",
+        "price": "",
+        "symbol": "RDDT"
+      },
+      {
+        "change": "+12.55",
+        "change_pts": null,
+        "close": 7785.76,
+        "name": "Wingstop Inc.",
+        "open": null,
+        "pct_change": "+11.05%",
+        "price": "",
+        "symbol": "WING"
+      },
+      {
+        "change": "+8.19",
+        "change_pts": null,
+        "close": 7489.72,
+        "name": "MaxLinear, Inc.",
+        "open": null,
+        "pct_change": "+10.68%",
+        "price": "",
+        "symbol": "MXL"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-3.09",
+        "change_pts": null,
+        "close": 7785.76,
+        "name": "Bullish",
+        "open": null,
+        "pct_change": "-11.24%",
+        "price": "",
+        "symbol": "BLSH"
+      },
+      {
+        "change": "-52.93",
+        "change_pts": null,
+        "close": 7785.76,
+        "name": "Dillard's, Inc.",
+        "open": null,
+        "pct_change": "-8.62%",
+        "price": "",
+        "symbol": "DDS"
+      },
+      {
+        "change": "-7.98",
+        "change_pts": null,
+        "close": 7785.76,
+        "name": "Ultra Clean Holdings, Inc.",
+        "open": null,
+        "pct_change": "-8.59%",
+        "price": "",
+        "symbol": "UCTT"
+      },
+      {
+        "change": "-11.27",
+        "change_pts": null,
+        "close": 7785.76,
+        "name": "Duolingo, Inc.",
+        "open": null,
+        "pct_change": "-7.82%",
+        "price": "",
+        "symbol": "DUOL"
+      },
+      {
+        "change": "-1.75",
+        "change_pts": null,
+        "close": 7785.76,
+        "name": "X-Energy, Inc.",
+        "open": null,
+        "pct_change": "-7.72%",
+        "price": "",
+        "symbol": "XE"
+      }
+    ],
+    "scraped_at": "2026-08-14T21:38:58.738953-04:00"
   }
 }
