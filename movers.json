@@ -20970,5 +20970,112 @@
       }
     ],
     "scraped_at": "2026-08-14T21:38:58.738953-04:00"
+  },
+  "2026-08-17": {
+    "gainers": [
+      {
+        "change": "+14.33",
+        "change_pts": null,
+        "close": 7745.06,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "+17.55%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "+136.55",
+        "change_pts": null,
+        "close": 7768.0,
+        "name": "argenx SE",
+        "open": null,
+        "pct_change": "+16.04%",
+        "price": "",
+        "symbol": "ARGX"
+      },
+      {
+        "change": "+33.00",
+        "change_pts": null,
+        "close": 7766.5,
+        "name": "Cerebras Systems Inc.",
+        "open": null,
+        "pct_change": "+15.07%",
+        "price": "",
+        "symbol": "CBRS"
+      },
+      {
+        "change": "+4.32",
+        "change_pts": null,
+        "close": 7766.75,
+        "name": "Figure Technology Solutions, Inc.",
+        "open": null,
+        "pct_change": "+13.76%",
+        "price": "",
+        "symbol": "FIGR"
+      },
+      {
+        "change": "+4.73",
+        "change_pts": null,
+        "close": 7766.75,
+        "name": "H World Group Limited",
+        "open": null,
+        "pct_change": "+11.29%",
+        "price": "",
+        "symbol": "HTHT"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-0.96",
+        "change_pts": null,
+        "close": 7766.75,
+        "name": "StubHub Holdings, Inc.",
+        "open": null,
+        "pct_change": "-11.88%",
+        "price": "",
+        "symbol": "STUB"
+      },
+      {
+        "change": "-0.71",
+        "change_pts": null,
+        "close": 7766.75,
+        "name": "Polibeli Group Ltd",
+        "open": null,
+        "pct_change": "-9.92%",
+        "price": "",
+        "symbol": "PLBL"
+      },
+      {
+        "change": "-2.08",
+        "change_pts": null,
+        "close": 7766.0,
+        "name": "Liftoff Mobile, Inc.",
+        "open": null,
+        "pct_change": "-9.63%",
+        "price": "",
+        "symbol": "LFTO"
+      },
+      {
+        "change": "-1.04",
+        "change_pts": null,
+        "close": 7766.75,
+        "name": "MINISO Group Holding Limited",
+        "open": null,
+        "pct_change": "-8.81%",
+        "price": "",
+        "symbol": "MNSO"
+      },
+      {
+        "change": "-1.66",
+        "change_pts": null,
+        "close": 7766.75,
+        "name": "Fervo Energy Company",
+        "open": null,
+        "pct_change": "-8.40%",
+        "price": "",
+        "symbol": "FRVO"
+      }
+    ],
+    "scraped_at": "2026-08-17T21:38:58.506982-04:00"
   }
 }
