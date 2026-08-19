@@ -21077,5 +21077,112 @@
       }
     ],
     "scraped_at": "2026-08-17T21:38:58.506982-04:00"
+  },
+  "2026-08-18": {
+    "gainers": [
+      {
+        "change": "+13.68",
+        "change_pts": null,
+        "close": 7715.25,
+        "name": "Amylyx Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "+63.84%",
+        "price": "",
+        "symbol": "AMLX"
+      },
+      {
+        "change": "+14.38",
+        "change_pts": null,
+        "close": 7714.5,
+        "name": "Haemonetics Corporation",
+        "open": null,
+        "pct_change": "+15.93%",
+        "price": "",
+        "symbol": "HAE"
+      },
+      {
+        "change": "+3.30",
+        "change_pts": null,
+        "close": 7715.25,
+        "name": "UGI Corporation",
+        "open": null,
+        "pct_change": "+9.40%",
+        "price": "",
+        "symbol": "UGI"
+      },
+      {
+        "change": "+3.29",
+        "change_pts": null,
+        "close": 7715.25,
+        "name": "Heartflow, Inc.",
+        "open": null,
+        "pct_change": "+7.84%",
+        "price": "",
+        "symbol": "HTFL"
+      },
+      {
+        "change": "+4.78",
+        "change_pts": null,
+        "close": 7714.5,
+        "name": "BRP Inc.",
+        "open": null,
+        "pct_change": "+7.50%",
+        "price": "",
+        "symbol": "DOO"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.45",
+        "change_pts": null,
+        "close": 7715.25,
+        "name": "Klarna Group plc",
+        "open": null,
+        "pct_change": "-22.81%",
+        "price": "",
+        "symbol": "KLAR"
+      },
+      {
+        "change": "-115.99",
+        "change_pts": null,
+        "close": 7713.75,
+        "name": "Fabrinet",
+        "open": null,
+        "pct_change": "-19.38%",
+        "price": "",
+        "symbol": "FN"
+      },
+      {
+        "change": "-22.36",
+        "change_pts": null,
+        "close": 7714.5,
+        "name": "Aehr Test Systems, Inc.",
+        "open": null,
+        "pct_change": "-15.36%",
+        "price": "",
+        "symbol": "AEHR"
+      },
+      {
+        "change": "-22.89",
+        "change_pts": null,
+        "close": 7714.5,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "-14.78%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "-12.13",
+        "change_pts": null,
+        "close": 7739.25,
+        "name": "MaxLinear, Inc.",
+        "open": null,
+        "pct_change": "-14.31%",
+        "price": "",
+        "symbol": "MXL"
+      }
+    ],
+    "scraped_at": "2026-08-18T21:39:03.876688-04:00"
   }
 }
