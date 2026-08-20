@@ -21184,5 +21184,112 @@
       }
     ],
     "scraped_at": "2026-08-18T21:39:03.876688-04:00"
+  },
+  "2026-08-19": {
+    "gainers": [
+      {
+        "change": "+111.42",
+        "change_pts": null,
+        "close": 7739.0,
+        "name": "Moderna, Inc.",
+        "open": null,
+        "pct_change": "+176.97%",
+        "price": "",
+        "symbol": "MRNA"
+      },
+      {
+        "change": "+11.89",
+        "change_pts": null,
+        "close": 7740.5,
+        "name": "Tempus AI, Inc.",
+        "open": null,
+        "pct_change": "+24.09%",
+        "price": "",
+        "symbol": "TEM"
+      },
+      {
+        "change": "+26.29",
+        "change_pts": null,
+        "close": 7739.5,
+        "name": "Twist Bioscience Corporation",
+        "open": null,
+        "pct_change": "+22.64%",
+        "price": "",
+        "symbol": "TWST"
+      },
+      {
+        "change": "+20.37",
+        "change_pts": null,
+        "close": 7739.5,
+        "name": "BioNTech SE",
+        "open": null,
+        "pct_change": "+21.96%",
+        "price": "",
+        "symbol": "BNTX"
+      },
+      {
+        "change": "+13.74",
+        "change_pts": null,
+        "close": 7707.98,
+        "name": "The Estée Lauder Companies Inc.",
+        "open": null,
+        "pct_change": "+16.30%",
+        "price": "",
+        "symbol": "EL"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-15.29",
+        "change_pts": null,
+        "close": 7739.5,
+        "name": "Aehr Test Systems, Inc.",
+        "open": null,
+        "pct_change": "-12.41%",
+        "price": "",
+        "symbol": "AEHR"
+      },
+      {
+        "change": "-2.93",
+        "change_pts": null,
+        "close": 7741.0,
+        "name": "Fastly, Inc.",
+        "open": null,
+        "pct_change": "-11.02%",
+        "price": "",
+        "symbol": "FSLY"
+      },
+      {
+        "change": "-8.88",
+        "change_pts": null,
+        "close": 7742.25,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "-10.79%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "-25.06",
+        "change_pts": null,
+        "close": 7707.98,
+        "name": "Vicor Corporation",
+        "open": null,
+        "pct_change": "-10.34%",
+        "price": "",
+        "symbol": "VICR"
+      },
+      {
+        "change": "-24.06",
+        "change_pts": null,
+        "close": 7739.0,
+        "name": "Nebius Group N.V.",
+        "open": null,
+        "pct_change": "-9.69%",
+        "price": "",
+        "symbol": "NBIS"
+      }
+    ],
+    "scraped_at": "2026-08-19T21:39:01.103483-04:00"
   }
 }
