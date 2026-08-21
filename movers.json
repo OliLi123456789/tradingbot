@@ -21291,5 +21291,112 @@
       }
     ],
     "scraped_at": "2026-08-19T21:39:01.103483-04:00"
+  },
+  "2026-08-20": {
+    "gainers": [
+      {
+        "change": "+1.50",
+        "change_pts": null,
+        "close": 7666.25,
+        "name": "MARA Holdings, Inc.",
+        "open": null,
+        "pct_change": "+15.54%",
+        "price": "",
+        "symbol": "MARA"
+      },
+      {
+        "change": "+1.00",
+        "change_pts": null,
+        "close": 7666.5,
+        "name": "Iovance Biotherapeutics, Inc.",
+        "open": null,
+        "pct_change": "+12.52%",
+        "price": "",
+        "symbol": "IOVA"
+      },
+      {
+        "change": "+5.30",
+        "change_pts": null,
+        "close": null,
+        "name": "Andersen Group Inc.",
+        "open": null,
+        "pct_change": "+11.77%",
+        "price": "",
+        "symbol": "ANDG"
+      },
+      {
+        "change": "+0.64",
+        "change_pts": null,
+        "close": 7666.25,
+        "name": "Twenty One Capital, Inc.",
+        "open": null,
+        "pct_change": "+11.53%",
+        "price": "",
+        "symbol": "XXI"
+      },
+      {
+        "change": "+4.30",
+        "change_pts": null,
+        "close": 7666.5,
+        "name": "Neutron Holdings, Inc.",
+        "open": null,
+        "pct_change": "+11.40%",
+        "price": "",
+        "symbol": "LIME"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-13.79",
+        "change_pts": null,
+        "close": 7666.0,
+        "name": "Advance Auto Parts, Inc.",
+        "open": null,
+        "pct_change": "-24.55%",
+        "price": "",
+        "symbol": "AAP"
+      },
+      {
+        "change": "-41.06",
+        "change_pts": null,
+        "close": 7666.25,
+        "name": "Moderna, Inc.",
+        "open": null,
+        "pct_change": "-23.55%",
+        "price": "",
+        "symbol": "MRNA"
+      },
+      {
+        "change": "-1.77",
+        "change_pts": null,
+        "close": 7666.5,
+        "name": "Applied Aerospace & Defense, Inc.",
+        "open": null,
+        "pct_change": "-10.25%",
+        "price": "",
+        "symbol": "AADX"
+      },
+      {
+        "change": "-1.35",
+        "change_pts": null,
+        "close": 7742.25,
+        "name": "ERock, Inc.",
+        "open": null,
+        "pct_change": "-9.40%",
+        "price": "",
+        "symbol": "EROC"
+      },
+      {
+        "change": "-10.46",
+        "change_pts": null,
+        "close": 7641.16,
+        "name": "Walmart Inc.",
+        "open": null,
+        "pct_change": "-9.15%",
+        "price": "",
+        "symbol": "WMT"
+      }
+    ],
+    "scraped_at": "2026-08-20T21:39:17.192379-04:00"
   }
 }
