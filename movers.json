@@ -21612,5 +21612,112 @@
       }
     ],
     "scraped_at": "2026-08-24T21:39:08.484066-04:00"
+  },
+  "2026-08-25": {
+    "gainers": [
+      {
+        "change": "+1.89",
+        "change_pts": null,
+        "close": 7673.75,
+        "name": "AbCellera Biologics Inc.",
+        "open": null,
+        "pct_change": "+17.81%",
+        "price": "",
+        "symbol": "ABCL"
+      },
+      {
+        "change": "+2.00",
+        "change_pts": null,
+        "close": 7673.25,
+        "name": "Standard Nuclear, Inc.",
+        "open": null,
+        "pct_change": "+16.75%",
+        "price": "",
+        "symbol": "STDN"
+      },
+      {
+        "change": "+2.66",
+        "change_pts": null,
+        "close": 7673.5,
+        "name": "Generate Biomedicines, Inc.",
+        "open": null,
+        "pct_change": "+15.01%",
+        "price": "",
+        "symbol": "GENB"
+      },
+      {
+        "change": "+19.94",
+        "change_pts": null,
+        "close": 7673.25,
+        "name": "Moderna, Inc.",
+        "open": null,
+        "pct_change": "+14.36%",
+        "price": "",
+        "symbol": "MRNA"
+      },
+      {
+        "change": "+3.02",
+        "change_pts": null,
+        "close": null,
+        "name": "Madison Air Solutions Corporation",
+        "open": null,
+        "pct_change": "+12.09%",
+        "price": "",
+        "symbol": "MAIR"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-55.02",
+        "change_pts": null,
+        "close": 7673.25,
+        "name": "DICK'S Sporting Goods, Inc.",
+        "open": null,
+        "pct_change": "-30.68%",
+        "price": "",
+        "symbol": "DKS"
+      },
+      {
+        "change": "-1.59",
+        "change_pts": null,
+        "close": 7673.5,
+        "name": "Bath & Body Works, Inc.",
+        "open": null,
+        "pct_change": "-8.29%",
+        "price": "",
+        "symbol": "BBWI"
+      },
+      {
+        "change": "-29.15",
+        "change_pts": null,
+        "close": 7675.5,
+        "name": "Dycom Industries, Inc.",
+        "open": null,
+        "pct_change": "-7.65%",
+        "price": "",
+        "symbol": "DY"
+      },
+      {
+        "change": "-1.73",
+        "change_pts": null,
+        "close": 7782.91,
+        "name": "Beta Technologies, Inc.",
+        "open": null,
+        "pct_change": "-7.26%",
+        "price": "",
+        "symbol": "BETA"
+      },
+      {
+        "change": "-0.82",
+        "change_pts": null,
+        "close": 7674.25,
+        "name": "Sasol Limited",
+        "open": null,
+        "pct_change": "-6.68%",
+        "price": "",
+        "symbol": "SSL"
+      }
+    ],
+    "scraped_at": "2026-08-25T21:39:21.016597-04:00"
   }
 }
