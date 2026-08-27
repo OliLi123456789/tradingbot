@@ -21719,5 +21719,112 @@
       }
     ],
     "scraped_at": "2026-08-25T21:39:21.016597-04:00"
+  },
+  "2026-08-26": {
+    "gainers": [
+      {
+        "change": "+38.85",
+        "change_pts": null,
+        "close": 7726.75,
+        "name": "Abercrombie & Fitch Co.",
+        "open": null,
+        "pct_change": "+35.67%",
+        "price": "",
+        "symbol": "ANF"
+      },
+      {
+        "change": "+2.57",
+        "change_pts": null,
+        "close": 7726.75,
+        "name": "Biohaven Ltd.",
+        "open": null,
+        "pct_change": "+17.87%",
+        "price": "",
+        "symbol": "BHVN"
+      },
+      {
+        "change": "+2.55",
+        "change_pts": null,
+        "close": 7726.75,
+        "name": "Kanzhun Limited",
+        "open": null,
+        "pct_change": "+15.65%",
+        "price": "",
+        "symbol": "BZ"
+      },
+      {
+        "change": "+3.20",
+        "change_pts": null,
+        "close": 7726.75,
+        "name": "SolarEdge Technologies, Inc.",
+        "open": null,
+        "pct_change": "+10.71%",
+        "price": "",
+        "symbol": "SEDG"
+      },
+      {
+        "change": "+13.28",
+        "change_pts": null,
+        "close": 7728.0,
+        "name": "Semtech Corporation",
+        "open": null,
+        "pct_change": "+10.41%",
+        "price": "",
+        "symbol": "SMTC"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.24",
+        "change_pts": null,
+        "close": 7726.75,
+        "name": "Generate Biomedicines, Inc.",
+        "open": null,
+        "pct_change": "-20.80%",
+        "price": "",
+        "symbol": "GENB"
+      },
+      {
+        "change": "-13.76",
+        "change_pts": null,
+        "close": 7726.75,
+        "name": "Spyre Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-12.81%",
+        "price": "",
+        "symbol": "SYRE"
+      },
+      {
+        "change": "-40.89",
+        "change_pts": null,
+        "close": 7728.0,
+        "name": "Dycom Industries, Inc.",
+        "open": null,
+        "pct_change": "-11.62%",
+        "price": "",
+        "symbol": "DY"
+      },
+      {
+        "change": "-4.06",
+        "change_pts": null,
+        "close": 7675.7,
+        "name": "Figure Technology Solutions, Inc.",
+        "open": null,
+        "pct_change": "-9.87%",
+        "price": "",
+        "symbol": "FIGR"
+      },
+      {
+        "change": "-1.84",
+        "change_pts": null,
+        "close": 7728.0,
+        "name": "D-Wave Quantum Inc.",
+        "open": null,
+        "pct_change": "-9.51%",
+        "price": "",
+        "symbol": "QBTS"
+      }
+    ],
+    "scraped_at": "2026-08-26T22:44:48.953302-04:00"
   }
 }
