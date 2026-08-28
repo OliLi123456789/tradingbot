@@ -21826,5 +21826,112 @@
       }
     ],
     "scraped_at": "2026-08-26T22:44:48.953302-04:00"
+  },
+  "2026-08-27": {
+    "gainers": [
+      {
+        "change": "+38.49",
+        "change_pts": null,
+        "close": 7741.5,
+        "name": "Okta, Inc.",
+        "open": null,
+        "pct_change": "+28.63%",
+        "price": "",
+        "symbol": "OKTA"
+      },
+      {
+        "change": "+46.43",
+        "change_pts": null,
+        "close": 7741.5,
+        "name": "Salesforce, Inc.",
+        "open": null,
+        "pct_change": "+22.58%",
+        "price": "",
+        "symbol": "CRM"
+      },
+      {
+        "change": "+38.78",
+        "change_pts": null,
+        "close": 7741.5,
+        "name": "CrowdStrike Holdings, Inc.",
+        "open": null,
+        "pct_change": "+20.50%",
+        "price": "",
+        "symbol": "CRWD"
+      },
+      {
+        "change": "+37.22",
+        "change_pts": null,
+        "close": 7741.5,
+        "name": "Veeva Systems Inc.",
+        "open": null,
+        "pct_change": "+15.20%",
+        "price": "",
+        "symbol": "VEEV"
+      },
+      {
+        "change": "+54.89",
+        "change_pts": null,
+        "close": 7741.5,
+        "name": "Synopsys, Inc.",
+        "open": null,
+        "pct_change": "+13.39%",
+        "price": "",
+        "symbol": "SNPS"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-11.03",
+        "change_pts": null,
+        "close": 7746.5,
+        "name": "HealthEquity, Inc.",
+        "open": null,
+        "pct_change": "-10.56%",
+        "price": "",
+        "symbol": "HQY"
+      },
+      {
+        "change": "-2.43",
+        "change_pts": null,
+        "close": 7741.75,
+        "name": "Hormel Foods Corporation",
+        "open": null,
+        "pct_change": "-10.25%",
+        "price": "",
+        "symbol": "HRL"
+      },
+      {
+        "change": "-3.82",
+        "change_pts": null,
+        "close": 7584.57,
+        "name": "Paymentus Holdings, Inc.",
+        "open": null,
+        "pct_change": "-9.69%",
+        "price": "",
+        "symbol": "PAY"
+      },
+      {
+        "change": "-9.66",
+        "change_pts": null,
+        "close": 7741.75,
+        "name": "Everpure, Inc.",
+        "open": null,
+        "pct_change": "-8.87%",
+        "price": "",
+        "symbol": "P"
+      },
+      {
+        "change": "-23.99",
+        "change_pts": null,
+        "close": 7741.75,
+        "name": "Burlington Stores, Inc.",
+        "open": null,
+        "pct_change": "-7.64%",
+        "price": "",
+        "symbol": "BURL"
+      }
+    ],
+    "scraped_at": "2026-08-27T23:51:19.192817-04:00"
   }
 }
