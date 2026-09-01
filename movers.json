@@ -22040,5 +22040,112 @@
       }
     ],
     "scraped_at": "2026-08-28T21:19:49.923660-04:00"
+  },
+  "2026-08-31": {
+    "gainers": [
+      {
+        "change": "+2.01",
+        "change_pts": null,
+        "close": 7699.75,
+        "name": "Standard Nuclear, Inc.",
+        "open": null,
+        "pct_change": "+14.26%",
+        "price": "",
+        "symbol": "STDN"
+      },
+      {
+        "change": "+2.48",
+        "change_pts": null,
+        "close": 7699.75,
+        "name": "Strive, Inc.",
+        "open": null,
+        "pct_change": "+11.41%",
+        "price": "",
+        "symbol": "ASST"
+      },
+      {
+        "change": "+8.41",
+        "change_pts": null,
+        "close": 7686.14,
+        "name": "Circle Internet Group",
+        "open": null,
+        "pct_change": "+9.65%",
+        "price": "",
+        "symbol": "CRCL"
+      },
+      {
+        "change": "+0.83",
+        "change_pts": null,
+        "close": 7699.75,
+        "name": "Chagee Holdings Limited",
+        "open": null,
+        "pct_change": "+7.69%",
+        "price": "",
+        "symbol": "CHA"
+      },
+      {
+        "change": "+2.76",
+        "change_pts": null,
+        "close": 7699.5,
+        "name": "Roblox Corporation",
+        "open": null,
+        "pct_change": "+7.16%",
+        "price": "",
+        "symbol": "RBLX"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-16.19",
+        "change_pts": null,
+        "close": 7699.5,
+        "name": "Edison International",
+        "open": null,
+        "pct_change": "-23.07%",
+        "price": "",
+        "symbol": "EIX"
+      },
+      {
+        "change": "-3.33",
+        "change_pts": null,
+        "close": 7699.5,
+        "name": "PG&E Corporation",
+        "open": null,
+        "pct_change": "-20.06%",
+        "price": "",
+        "symbol": "PCG"
+      },
+      {
+        "change": "-1.03",
+        "change_pts": null,
+        "close": 7735.25,
+        "name": "MINISO Group Holding Limited",
+        "open": null,
+        "pct_change": "-9.97%",
+        "price": "",
+        "symbol": "MNSO"
+      },
+      {
+        "change": "-33.88",
+        "change_pts": null,
+        "close": 7700.0,
+        "name": "Aon plc",
+        "open": null,
+        "pct_change": "-9.53%",
+        "price": "",
+        "symbol": "AON"
+      },
+      {
+        "change": "-1.81",
+        "change_pts": null,
+        "close": 7699.75,
+        "name": "Pasqal Holding SA Ordinary Share",
+        "open": null,
+        "pct_change": "-9.47%",
+        "price": "",
+        "symbol": "PSQL"
+      }
+    ],
+    "scraped_at": "2026-08-31T21:37:19.918227-04:00"
   }
 }
