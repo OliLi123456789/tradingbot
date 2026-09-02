@@ -22147,5 +22147,112 @@
       }
     ],
     "scraped_at": "2026-08-31T21:37:19.918227-04:00"
+  },
+  "2026-09-01": {
+    "gainers": [
+      {
+        "change": "+4.37",
+        "change_pts": null,
+        "close": 7640.0,
+        "name": "Fervo Energy Company",
+        "open": null,
+        "pct_change": "+28.41%",
+        "price": "",
+        "symbol": "FRVO"
+      },
+      {
+        "change": "+1.59",
+        "change_pts": null,
+        "close": 7640.0,
+        "name": "Comstock Resources, Inc.",
+        "open": null,
+        "pct_change": "+11.02%",
+        "price": "",
+        "symbol": "CRK"
+      },
+      {
+        "change": "+2.16",
+        "change_pts": null,
+        "close": 7640.0,
+        "name": "MiniMed Group, Inc.",
+        "open": null,
+        "pct_change": "+10.66%",
+        "price": "",
+        "symbol": "MMED"
+      },
+      {
+        "change": "+13.93",
+        "change_pts": null,
+        "close": 7640.0,
+        "name": "Moderna, Inc.",
+        "open": null,
+        "pct_change": "+9.93%",
+        "price": "",
+        "symbol": "MRNA"
+      },
+      {
+        "change": "+4.82",
+        "change_pts": null,
+        "close": 7640.0,
+        "name": "Edison International",
+        "open": null,
+        "pct_change": "+8.93%",
+        "price": "",
+        "symbol": "EIX"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.59",
+        "change_pts": null,
+        "close": 7640.0,
+        "name": "OneSpaWorld Holdings Limited",
+        "open": null,
+        "pct_change": "-10.43%",
+        "price": "",
+        "symbol": "OSW"
+      },
+      {
+        "change": "-4.40",
+        "change_pts": null,
+        "close": 7640.0,
+        "name": "Pershing Square Inc.",
+        "open": null,
+        "pct_change": "-10.25%",
+        "price": "",
+        "symbol": "PS"
+      },
+      {
+        "change": "-1.74",
+        "change_pts": null,
+        "close": 7638.25,
+        "name": "Pasqal Holding SA",
+        "open": null,
+        "pct_change": "-10.06%",
+        "price": "",
+        "symbol": "PSQL"
+      },
+      {
+        "change": "-17.57",
+        "change_pts": null,
+        "close": null,
+        "name": "SharkNinja, Inc.",
+        "open": null,
+        "pct_change": "-9.13%",
+        "price": "",
+        "symbol": "SN"
+      },
+      {
+        "change": "-2.02",
+        "change_pts": null,
+        "close": null,
+        "name": "Fastly, Inc.",
+        "open": null,
+        "pct_change": "-8.86%",
+        "price": "",
+        "symbol": "FSLY"
+      }
+    ],
+    "scraped_at": "2026-09-01T21:30:09.872258-04:00"
   }
 }
