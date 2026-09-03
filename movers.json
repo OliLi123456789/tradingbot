@@ -22254,5 +22254,112 @@
       }
     ],
     "scraped_at": "2026-09-01T21:30:09.872258-04:00"
+  },
+  "2026-09-02": {
+    "gainers": [
+      {
+        "change": "+2.14",
+        "change_pts": null,
+        "close": 7673.5,
+        "name": "Scorpio Gold Corporation American Depositary Shares",
+        "open": null,
+        "pct_change": "+42.04%",
+        "price": "",
+        "symbol": "SGLD"
+      },
+      {
+        "change": "+67.20",
+        "change_pts": null,
+        "close": 7673.5,
+        "name": "Dell Technologies Inc.",
+        "open": null,
+        "pct_change": "+15.81%",
+        "price": "",
+        "symbol": "DELL"
+      },
+      {
+        "change": "+0.81",
+        "change_pts": null,
+        "close": 7673.5,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "+14.73%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "+3.47",
+        "change_pts": null,
+        "close": 7673.5,
+        "name": "Mineralys Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+13.57%",
+        "price": "",
+        "symbol": "MLYS"
+      },
+      {
+        "change": "+2.32",
+        "change_pts": null,
+        "close": 7673.5,
+        "name": "Kardigan, Inc.",
+        "open": null,
+        "pct_change": "+11.84%",
+        "price": "",
+        "symbol": "KARD"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-3.37",
+        "change_pts": null,
+        "close": 7673.5,
+        "name": "Pasqal Holding SA Ordinary Share",
+        "open": null,
+        "pct_change": "-21.66%",
+        "price": "",
+        "symbol": "PSQL"
+      },
+      {
+        "change": "-41.41",
+        "change_pts": null,
+        "close": 7673.5,
+        "name": "Credo Technology Group Holding Ltd",
+        "open": null,
+        "pct_change": "-20.04%",
+        "price": "",
+        "symbol": "CRDO"
+      },
+      {
+        "change": "-58.81",
+        "change_pts": null,
+        "close": 7673.5,
+        "name": "MongoDB, Inc.",
+        "open": null,
+        "pct_change": "-13.54%",
+        "price": "",
+        "symbol": "MDB"
+      },
+      {
+        "change": "-1.90",
+        "change_pts": null,
+        "close": 7673.5,
+        "name": "Standard Nuclear, Inc.",
+        "open": null,
+        "pct_change": "-11.47%",
+        "price": "",
+        "symbol": "STDN"
+      },
+      {
+        "change": "-33.61",
+        "change_pts": null,
+        "close": 7673.5,
+        "name": "Palo Alto Networks, Inc.",
+        "open": null,
+        "pct_change": "-9.28%",
+        "price": "",
+        "symbol": "PANW"
+      }
+    ],
+    "scraped_at": "2026-09-02T21:35:49.111933-04:00"
   }
 }
