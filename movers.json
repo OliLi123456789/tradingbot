@@ -22361,5 +22361,112 @@
       }
     ],
     "scraped_at": "2026-09-02T21:35:49.111933-04:00"
+  },
+  "2026-09-03": {
+    "gainers": [
+      {
+        "change": "+21.63",
+        "change_pts": null,
+        "close": 7753.5,
+        "name": "Strategy Inc",
+        "open": null,
+        "pct_change": "+17.56%",
+        "price": "",
+        "symbol": "MSTR"
+      },
+      {
+        "change": "+2.53",
+        "change_pts": null,
+        "close": 7753.5,
+        "name": "Summit Therapeutics Inc.",
+        "open": null,
+        "pct_change": "+17.33%",
+        "price": "",
+        "symbol": "SMMT"
+      },
+      {
+        "change": "+2.07",
+        "change_pts": null,
+        "close": null,
+        "name": "HUTCHMED (China) Limited",
+        "open": null,
+        "pct_change": "+17.19%",
+        "price": "",
+        "symbol": "HCM"
+      },
+      {
+        "change": "+17.73",
+        "change_pts": null,
+        "close": 7753.5,
+        "name": "Robinhood Markets, Inc.",
+        "open": null,
+        "pct_change": "+16.57%",
+        "price": "",
+        "symbol": "HOOD"
+      },
+      {
+        "change": "+50.63",
+        "change_pts": null,
+        "close": 7753.5,
+        "name": "Snowflake Inc.",
+        "open": null,
+        "pct_change": "+16.55%",
+        "price": "",
+        "symbol": "SNOW"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.44",
+        "change_pts": null,
+        "close": 7753.5,
+        "name": "Pasqal Holding SA Ordinary Share",
+        "open": null,
+        "pct_change": "-20.02%",
+        "price": "",
+        "symbol": "PSQL"
+      },
+      {
+        "change": "-11.17",
+        "change_pts": null,
+        "close": 7753.5,
+        "name": "Victorias Secret & Co.",
+        "open": null,
+        "pct_change": "-13.17%",
+        "price": "",
+        "symbol": "VSXY"
+      },
+      {
+        "change": "-36.70",
+        "change_pts": null,
+        "close": 7753.5,
+        "name": "Ciena Corporation",
+        "open": null,
+        "pct_change": "-10.36%",
+        "price": "",
+        "symbol": "CIEN"
+      },
+      {
+        "change": "-1.64",
+        "change_pts": null,
+        "close": 7753.5,
+        "name": "Planet Labs PBC",
+        "open": null,
+        "pct_change": "-8.20%",
+        "price": "",
+        "symbol": "PL"
+      },
+      {
+        "change": "-4.05",
+        "change_pts": null,
+        "close": 7753.5,
+        "name": "Tyson Foods, Inc.",
+        "open": null,
+        "pct_change": "-7.26%",
+        "price": "",
+        "symbol": "TSN"
+      }
+    ],
+    "scraped_at": "2026-09-03T21:26:31.412403-04:00"
   }
 }
