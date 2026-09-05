@@ -22468,5 +22468,112 @@
       }
     ],
     "scraped_at": "2026-09-03T21:26:31.412403-04:00"
+  },
+  "2026-09-04": {
+    "gainers": [
+      {
+        "change": "+22.52",
+        "change_pts": null,
+        "close": 7718.6,
+        "name": "Belite Bio, Inc",
+        "open": null,
+        "pct_change": "+13.16%",
+        "price": "",
+        "symbol": "BLTE"
+      },
+      {
+        "change": "+9.99",
+        "change_pts": null,
+        "close": 7718.6,
+        "name": "Aehr Test Systems, Inc.",
+        "open": null,
+        "pct_change": "+13.10%",
+        "price": "",
+        "symbol": "AEHR"
+      },
+      {
+        "change": "+185.01",
+        "change_pts": null,
+        "close": 7718.6,
+        "name": "Sandisk Corporation",
+        "open": null,
+        "pct_change": "+11.90%",
+        "price": "",
+        "symbol": "SNDK"
+      },
+      {
+        "change": "+4.74",
+        "change_pts": null,
+        "close": 7718.6,
+        "name": "Cohu, Inc.",
+        "open": null,
+        "pct_change": "+10.31%",
+        "price": "",
+        "symbol": "COHU"
+      },
+      {
+        "change": "+19.61",
+        "change_pts": null,
+        "close": 7718.6,
+        "name": "Cerebras Systems Inc.",
+        "open": null,
+        "pct_change": "+10.30%",
+        "price": "",
+        "symbol": "CBRS"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-40.44",
+        "change_pts": null,
+        "close": 7718.6,
+        "name": "Guidewire Software, Inc.",
+        "open": null,
+        "pct_change": "-19.93%",
+        "price": "",
+        "symbol": "GWRE"
+      },
+      {
+        "change": "-21.16",
+        "change_pts": null,
+        "close": 7718.6,
+        "name": "lululemon athletica inc.",
+        "open": null,
+        "pct_change": "-17.38%",
+        "price": "",
+        "symbol": "LULU"
+      },
+      {
+        "change": "-186.67",
+        "change_pts": null,
+        "close": 7718.6,
+        "name": "Fair Isaac Corporation",
+        "open": null,
+        "pct_change": "-16.68%",
+        "price": "",
+        "symbol": "FICO"
+      },
+      {
+        "change": "-3.03",
+        "change_pts": null,
+        "close": 7718.6,
+        "name": "UiPath, Inc.",
+        "open": null,
+        "pct_change": "-16.63%",
+        "price": "",
+        "symbol": "PATH"
+      },
+      {
+        "change": "-1.28",
+        "change_pts": null,
+        "close": 7718.6,
+        "name": "Asana, Inc.",
+        "open": null,
+        "pct_change": "-12.69%",
+        "price": "",
+        "symbol": "ASAN"
+      }
+    ],
+    "scraped_at": "2026-09-04T21:25:50.322396-04:00"
   }
 }
