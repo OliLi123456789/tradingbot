@@ -22575,5 +22575,112 @@
       }
     ],
     "scraped_at": "2026-09-04T21:25:50.322396-04:00"
+  },
+  "2026-09-08": {
+    "gainers": [
+      {
+        "change": "+6.55",
+        "change_pts": null,
+        "close": 7684.75,
+        "name": "Roivant Sciences Ltd.",
+        "open": null,
+        "pct_change": "+18.75%",
+        "price": "",
+        "symbol": "ROIV"
+      },
+      {
+        "change": "+8.96",
+        "change_pts": null,
+        "close": 7684.75,
+        "name": "Solaris Energy Infrastructure, Inc.",
+        "open": null,
+        "pct_change": "+16.29%",
+        "price": "",
+        "symbol": "SEI"
+      },
+      {
+        "change": "+1.48",
+        "change_pts": null,
+        "close": 7684.75,
+        "name": "NuScale Power Corporation",
+        "open": null,
+        "pct_change": "+15.26%",
+        "price": "",
+        "symbol": "SMR"
+      },
+      {
+        "change": "+7.92",
+        "change_pts": null,
+        "close": 7684.75,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "+12.85%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "+14.22",
+        "change_pts": null,
+        "close": 7684.75,
+        "name": "DigitalOcean Holdings, Inc.",
+        "open": null,
+        "pct_change": "+12.64%",
+        "price": "",
+        "symbol": "DOCN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-3.97",
+        "change_pts": null,
+        "close": 7684.75,
+        "name": "Dyne Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-16.35%",
+        "price": "",
+        "symbol": "DYN"
+      },
+      {
+        "change": "-6.96",
+        "change_pts": null,
+        "close": 7684.75,
+        "name": "Structure Therapeutics Inc.",
+        "open": null,
+        "pct_change": "-14.70%",
+        "price": "",
+        "symbol": "GPCR"
+      },
+      {
+        "change": "-22.29",
+        "change_pts": null,
+        "close": 7684.75,
+        "name": "Novartis AG",
+        "open": null,
+        "pct_change": "-13.93%",
+        "price": "",
+        "symbol": "NVS"
+      },
+      {
+        "change": "-27.74",
+        "change_pts": null,
+        "close": 7684.75,
+        "name": "Howmet Aerospace Inc.",
+        "open": null,
+        "pct_change": "-10.70%",
+        "price": "",
+        "symbol": "HWM"
+      },
+      {
+        "change": "-1.49",
+        "change_pts": null,
+        "close": 7684.75,
+        "name": "Standard Nuclear, Inc.",
+        "open": null,
+        "pct_change": "-10.14%",
+        "price": "",
+        "symbol": "STDN"
+      }
+    ],
+    "scraped_at": "2026-09-08T21:31:04.537494-04:00"
   }
 }
