@@ -22789,5 +22789,112 @@
       }
     ],
     "scraped_at": "2026-09-09T21:28:06.803549-04:00"
+  },
+  "2026-09-10": {
+    "gainers": [
+      {
+        "change": "+7.49",
+        "change_pts": null,
+        "close": 7612.5,
+        "name": "Skyworks Solutions, Inc.",
+        "open": null,
+        "pct_change": "+9.79%",
+        "price": "",
+        "symbol": "SWKS"
+      },
+      {
+        "change": "+7.12",
+        "change_pts": null,
+        "close": 7612.5,
+        "name": "Qorvo, Inc.",
+        "open": null,
+        "pct_change": "+6.77%",
+        "price": "",
+        "symbol": "QRVO"
+      },
+      {
+        "change": "+4.16",
+        "change_pts": null,
+        "close": 7659.38,
+        "name": "VEON Ltd.",
+        "open": null,
+        "pct_change": "+6.40%",
+        "price": "",
+        "symbol": "VEON"
+      },
+      {
+        "change": "+8.90",
+        "change_pts": null,
+        "close": 7612.5,
+        "name": "Reddit, Inc.",
+        "open": null,
+        "pct_change": "+6.08%",
+        "price": "",
+        "symbol": "RDDT"
+      },
+      {
+        "change": "+3.07",
+        "change_pts": null,
+        "close": 7612.5,
+        "name": "Academy Sports and Outdoors, Inc.",
+        "open": null,
+        "pct_change": "+5.99%",
+        "price": "",
+        "symbol": "ASO"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-3.07",
+        "change_pts": null,
+        "close": 7612.5,
+        "name": "Resolution Minerals Ltd American Depositary Shares",
+        "open": null,
+        "pct_change": "-26.47%",
+        "price": "",
+        "symbol": "RML"
+      },
+      {
+        "change": "-5.63",
+        "change_pts": null,
+        "close": 7612.5,
+        "name": "Navan, Inc.",
+        "open": null,
+        "pct_change": "-21.75%",
+        "price": "",
+        "symbol": "NAVN"
+      },
+      {
+        "change": "-9.31",
+        "change_pts": null,
+        "close": 7612.5,
+        "name": "The Cooper Companies, Inc.",
+        "open": null,
+        "pct_change": "-14.67%",
+        "price": "",
+        "symbol": "COO"
+      },
+      {
+        "change": "-2.36",
+        "change_pts": null,
+        "close": 7612.5,
+        "name": "American Eagle Outfitters, Inc.",
+        "open": null,
+        "pct_change": "-13.97%",
+        "price": "",
+        "symbol": "AEO"
+      },
+      {
+        "change": "-5.42",
+        "change_pts": null,
+        "close": 7611.25,
+        "name": "Axogen, Inc.",
+        "open": null,
+        "pct_change": "-11.47%",
+        "price": "",
+        "symbol": "AXGN"
+      }
+    ],
+    "scraped_at": "2026-09-10T21:28:15.426827-04:00"
   }
 }
