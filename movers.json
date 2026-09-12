@@ -22896,5 +22896,112 @@
       }
     ],
     "scraped_at": "2026-09-10T21:28:15.426827-04:00"
+  },
+  "2026-09-11": {
+    "gainers": [
+      {
+        "change": "+6.87",
+        "change_pts": null,
+        "close": 7656.98,
+        "name": "Hewlett Packard Enterprise Company",
+        "open": null,
+        "pct_change": "+12.44%",
+        "price": "",
+        "symbol": "HPE"
+      },
+      {
+        "change": "+60.67",
+        "change_pts": null,
+        "close": 7656.98,
+        "name": "Dell Technologies Inc.",
+        "open": null,
+        "pct_change": "+11.98%",
+        "price": "",
+        "symbol": "DELL"
+      },
+      {
+        "change": "+19.86",
+        "change_pts": null,
+        "close": 7656.98,
+        "name": "Vicor Corporation",
+        "open": null,
+        "pct_change": "+11.15%",
+        "price": "",
+        "symbol": "VICR"
+      },
+      {
+        "change": "+8.85",
+        "change_pts": null,
+        "close": 7656.98,
+        "name": "Boyd Group Services Inc.",
+        "open": null,
+        "pct_change": "+10.85%",
+        "price": "",
+        "symbol": "BGSI"
+      },
+      {
+        "change": "+4.39",
+        "change_pts": null,
+        "close": 7656.98,
+        "name": "Heartflow, Inc.",
+        "open": null,
+        "pct_change": "+9.65%",
+        "price": "",
+        "symbol": "HTFL"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-1.60",
+        "change_pts": null,
+        "close": 7656.98,
+        "name": "NuScale Power Corporation",
+        "open": null,
+        "pct_change": "-15.67%",
+        "price": "",
+        "symbol": "SMR"
+      },
+      {
+        "change": "-1.95",
+        "change_pts": null,
+        "close": 7656.98,
+        "name": "SELLAS Life Sciences Group, Inc.",
+        "open": null,
+        "pct_change": "-14.42%",
+        "price": "",
+        "symbol": "SLS"
+      },
+      {
+        "change": "-3.66",
+        "change_pts": null,
+        "close": 7656.98,
+        "name": "Oklo Inc.",
+        "open": null,
+        "pct_change": "-9.18%",
+        "price": "",
+        "symbol": "OKLO"
+      },
+      {
+        "change": "-0.77",
+        "change_pts": null,
+        "close": 7656.98,
+        "name": "Resolution Minerals Ltd American Depositary Shares",
+        "open": null,
+        "pct_change": "-9.03%",
+        "price": "",
+        "symbol": "RML"
+      },
+      {
+        "change": "-13.56",
+        "change_pts": null,
+        "close": 7656.98,
+        "name": "Centrus Energy Corp.",
+        "open": null,
+        "pct_change": "-8.18%",
+        "price": "",
+        "symbol": "LEU"
+      }
+    ],
+    "scraped_at": "2026-09-11T21:25:33.943985-04:00"
   }
 }
