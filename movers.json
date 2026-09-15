@@ -23003,5 +23003,112 @@
       }
     ],
     "scraped_at": "2026-09-11T21:25:33.943985-04:00"
+  },
+  "2026-09-14": {
+    "gainers": [
+      {
+        "change": "+27.19",
+        "change_pts": null,
+        "close": 7699.75,
+        "name": "Zscaler, Inc.",
+        "open": null,
+        "pct_change": "+16.52%",
+        "price": "",
+        "symbol": "ZS"
+      },
+      {
+        "change": "+4.97",
+        "change_pts": null,
+        "close": 7699.75,
+        "name": "Tenable Holdings, Inc.",
+        "open": null,
+        "pct_change": "+16.51%",
+        "price": "",
+        "symbol": "TENB"
+      },
+      {
+        "change": "+2.30",
+        "change_pts": null,
+        "close": 7699.75,
+        "name": "Netskope, Inc.",
+        "open": null,
+        "pct_change": "+15.65%",
+        "price": "",
+        "symbol": "NTSK"
+      },
+      {
+        "change": "+13.55",
+        "change_pts": null,
+        "close": 7699.75,
+        "name": "Rubrik, Inc.",
+        "open": null,
+        "pct_change": "+15.64%",
+        "price": "",
+        "symbol": "RBRK"
+      },
+      {
+        "change": "+2.64",
+        "change_pts": null,
+        "close": 7700.0,
+        "name": "SailPoint, Inc.",
+        "open": null,
+        "pct_change": "+15.31%",
+        "price": "",
+        "symbol": "SAIL"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-47.67",
+        "change_pts": null,
+        "close": 7700.0,
+        "name": "Silicon Motion Technology Corporation",
+        "open": null,
+        "pct_change": "-16.76%",
+        "price": "",
+        "symbol": "SIMO"
+      },
+      {
+        "change": "-2.60",
+        "change_pts": null,
+        "close": 7700.0,
+        "name": "New Fortress Energy Inc.",
+        "open": null,
+        "pct_change": "-15.78%",
+        "price": "",
+        "symbol": "NFE"
+      },
+      {
+        "change": "-2.90",
+        "change_pts": null,
+        "close": 7700.0,
+        "name": "Innio N.V.",
+        "open": null,
+        "pct_change": "-14.25%",
+        "price": "",
+        "symbol": "INIO"
+      },
+      {
+        "change": "-22.80",
+        "change_pts": null,
+        "close": 7700.0,
+        "name": "Corning Incorporated",
+        "open": null,
+        "pct_change": "-13.70%",
+        "price": "",
+        "symbol": "GLW"
+      },
+      {
+        "change": "-50.52",
+        "change_pts": null,
+        "close": 7700.0,
+        "name": "Teradyne, Inc.",
+        "open": null,
+        "pct_change": "-13.30%",
+        "price": "",
+        "symbol": "TER"
+      }
+    ],
+    "scraped_at": "2026-09-14T21:32:55.390380-04:00"
   }
 }
