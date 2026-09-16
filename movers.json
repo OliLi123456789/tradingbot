@@ -23110,5 +23110,112 @@
       }
     ],
     "scraped_at": "2026-09-14T21:32:55.390380-04:00"
+  },
+  "2026-09-15": {
+    "gainers": [
+      {
+        "change": "+10.74",
+        "change_pts": null,
+        "close": 7665.75,
+        "name": "Skyworks Solutions, Inc.",
+        "open": null,
+        "pct_change": "+13.55%",
+        "price": "",
+        "symbol": "SWKS"
+      },
+      {
+        "change": "+6.64",
+        "change_pts": null,
+        "close": 7665.75,
+        "name": "Tempus AI, Inc.",
+        "open": null,
+        "pct_change": "+10.67%",
+        "price": "",
+        "symbol": "TEM"
+      },
+      {
+        "change": "+2.72",
+        "change_pts": null,
+        "close": 7665.75,
+        "name": "Forgent Power Solutions, Inc.",
+        "open": null,
+        "pct_change": "+9.50%",
+        "price": "",
+        "symbol": "FPS"
+      },
+      {
+        "change": "+2.45",
+        "change_pts": null,
+        "close": 7665.75,
+        "name": "Caris Life Sciences, Inc.",
+        "open": null,
+        "pct_change": "+9.40%",
+        "price": "",
+        "symbol": "CAI"
+      },
+      {
+        "change": "+10.08",
+        "change_pts": null,
+        "close": null,
+        "name": "Qorvo, Inc.",
+        "open": null,
+        "pct_change": "+9.34%",
+        "price": "",
+        "symbol": "QRVO"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-53.11",
+        "change_pts": null,
+        "close": 7665.75,
+        "name": "Enova International, Inc.",
+        "open": null,
+        "pct_change": "-23.43%",
+        "price": "",
+        "symbol": "ENVA"
+      },
+      {
+        "change": "-2.57",
+        "change_pts": null,
+        "close": 7665.75,
+        "name": "Alignment Healthcare, Inc.",
+        "open": null,
+        "pct_change": "-19.86%",
+        "price": "",
+        "symbol": "ALHC"
+      },
+      {
+        "change": "-10.00",
+        "change_pts": null,
+        "close": 7665.75,
+        "name": "Arrowhead Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "-12.40%",
+        "price": "",
+        "symbol": "ARWR"
+      },
+      {
+        "change": "-13.87",
+        "change_pts": null,
+        "close": 7665.75,
+        "name": "Wingstop Inc.",
+        "open": null,
+        "pct_change": "-12.09%",
+        "price": "",
+        "symbol": "WING"
+      },
+      {
+        "change": "-11.12",
+        "change_pts": null,
+        "close": 7665.75,
+        "name": "Circle Internet Group",
+        "open": null,
+        "pct_change": "-11.41%",
+        "price": "",
+        "symbol": "CRCL"
+      }
+    ],
+    "scraped_at": "2026-09-15T21:30:38.056338-04:00"
   }
 }
