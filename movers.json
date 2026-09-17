@@ -23217,5 +23217,112 @@
       }
     ],
     "scraped_at": "2026-09-15T21:30:38.056338-04:00"
+  },
+  "2026-09-16": {
+    "gainers": [
+      {
+        "change": "+6.60",
+        "change_pts": null,
+        "close": 7664.0,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "+11.44%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "+2.63",
+        "change_pts": null,
+        "close": 7664.0,
+        "name": "Arcutis Biotherapeutics, Inc.",
+        "open": null,
+        "pct_change": "+11.19%",
+        "price": "",
+        "symbol": "ARQT"
+      },
+      {
+        "change": "+3.48",
+        "change_pts": null,
+        "close": 7664.0,
+        "name": "Forgent Power Solutions, Inc.",
+        "open": null,
+        "pct_change": "+11.10%",
+        "price": "",
+        "symbol": "FPS"
+      },
+      {
+        "change": "+16.64",
+        "change_pts": null,
+        "close": 7664.0,
+        "name": "Semtech Corporation",
+        "open": null,
+        "pct_change": "+11.03%",
+        "price": "",
+        "symbol": "SMTC"
+      },
+      {
+        "change": "+1.63",
+        "change_pts": null,
+        "close": 7664.0,
+        "name": "Cipher Digital Inc.",
+        "open": null,
+        "pct_change": "+10.80%",
+        "price": "",
+        "symbol": "CIFR"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-36.32",
+        "change_pts": null,
+        "close": 7664.0,
+        "name": "J.B. Hunt Transport Services, Inc.",
+        "open": null,
+        "pct_change": "-13.30%",
+        "price": "",
+        "symbol": "JBHT"
+      },
+      {
+        "change": "-0.97",
+        "change_pts": null,
+        "close": 7664.0,
+        "name": "Webull Corporation",
+        "open": null,
+        "pct_change": "-11.20%",
+        "price": "",
+        "symbol": "BULL"
+      },
+      {
+        "change": "-5.59",
+        "change_pts": null,
+        "close": 7664.0,
+        "name": "Pulse Biosciences, Inc.",
+        "open": null,
+        "pct_change": "-10.13%",
+        "price": "",
+        "symbol": "PLSE"
+      },
+      {
+        "change": "-3.38",
+        "change_pts": null,
+        "close": 7664.0,
+        "name": "Bullish",
+        "open": null,
+        "pct_change": "-9.53%",
+        "price": "",
+        "symbol": "BLSH"
+      },
+      {
+        "change": "-6.60",
+        "change_pts": null,
+        "close": 7664.0,
+        "name": "ON Semiconductor Corporation",
+        "open": null,
+        "pct_change": "-9.02%",
+        "price": "",
+        "symbol": "ON"
+      }
+    ],
+    "scraped_at": "2026-09-16T21:31:24.311508-04:00"
   }
 }
