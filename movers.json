@@ -23324,5 +23324,112 @@
       }
     ],
     "scraped_at": "2026-09-16T21:31:24.311508-04:00"
+  },
+  "2026-09-17": {
+    "gainers": [
+      {
+        "change": "+6.31",
+        "change_pts": null,
+        "close": 7697.0,
+        "name": "Schrödinger, Inc.",
+        "open": null,
+        "pct_change": "+26.37%",
+        "price": "",
+        "symbol": "SDGR"
+      },
+      {
+        "change": "+32.12",
+        "change_pts": null,
+        "close": 7697.0,
+        "name": "Generac Holdings Inc.",
+        "open": null,
+        "pct_change": "+18.34%",
+        "price": "",
+        "symbol": "GNRC"
+      },
+      {
+        "change": "+32.48",
+        "change_pts": null,
+        "close": 7697.0,
+        "name": "Vicor Corporation",
+        "open": null,
+        "pct_change": "+17.66%",
+        "price": "",
+        "symbol": "VICR"
+      },
+      {
+        "change": "+1.87",
+        "change_pts": null,
+        "close": 7697.0,
+        "name": "Biohaven Ltd.",
+        "open": null,
+        "pct_change": "+15.56%",
+        "price": "",
+        "symbol": "BHVN"
+      },
+      {
+        "change": "+10.39",
+        "change_pts": null,
+        "close": 7697.0,
+        "name": "Tempus AI, Inc.",
+        "open": null,
+        "pct_change": "+14.85%",
+        "price": "",
+        "symbol": "TEM"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-20.49",
+        "change_pts": null,
+        "close": 7697.0,
+        "name": "AutoNation, Inc.",
+        "open": null,
+        "pct_change": "-10.49%",
+        "price": "",
+        "symbol": "AN"
+      },
+      {
+        "change": "-6.74",
+        "change_pts": null,
+        "close": 7697.0,
+        "name": "Sonic Automotive, Inc.",
+        "open": null,
+        "pct_change": "-9.27%",
+        "price": "",
+        "symbol": "SAH"
+      },
+      {
+        "change": "-17.87",
+        "change_pts": null,
+        "close": 7697.0,
+        "name": "MasTec, Inc.",
+        "open": null,
+        "pct_change": "-7.92%",
+        "price": "",
+        "symbol": "MTZ"
+      },
+      {
+        "change": "-1.86",
+        "change_pts": null,
+        "close": 7697.0,
+        "name": "DraftKings Inc.",
+        "open": null,
+        "pct_change": "-7.64%",
+        "price": "",
+        "symbol": "DKNG"
+      },
+      {
+        "change": "-4.42",
+        "change_pts": null,
+        "close": 7697.0,
+        "name": "ServiceTitan, Inc.",
+        "open": null,
+        "pct_change": "-7.53%",
+        "price": "",
+        "symbol": "TTAN"
+      }
+    ],
+    "scraped_at": "2026-09-17T21:30:13.186468-04:00"
   }
 }
