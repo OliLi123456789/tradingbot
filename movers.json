@@ -23431,5 +23431,112 @@
       }
     ],
     "scraped_at": "2026-09-17T21:30:13.186468-04:00"
+  },
+  "2026-09-18": {
+    "gainers": [
+      {
+        "change": "+21.67",
+        "change_pts": null,
+        "close": 7650.5,
+        "name": "Strategy Inc",
+        "open": null,
+        "pct_change": "+16.39%",
+        "price": "",
+        "symbol": "MSTR"
+      },
+      {
+        "change": "+1.73",
+        "change_pts": null,
+        "close": 7650.5,
+        "name": "Bitdeer Technologies Group",
+        "open": null,
+        "pct_change": "+15.39%",
+        "price": "",
+        "symbol": "BTDR"
+      },
+      {
+        "change": "+1.60",
+        "change_pts": null,
+        "close": 7650.5,
+        "name": "MARA Holdings, Inc.",
+        "open": null,
+        "pct_change": "+13.75%",
+        "price": "",
+        "symbol": "MARA"
+      },
+      {
+        "change": "+6.00",
+        "change_pts": null,
+        "close": 7650.5,
+        "name": "Pershing Square Inc.",
+        "open": null,
+        "pct_change": "+13.69%",
+        "price": "",
+        "symbol": "PS"
+      },
+      {
+        "change": "+1.09",
+        "change_pts": null,
+        "close": 7650.5,
+        "name": "Sharplink, Inc.",
+        "open": null,
+        "pct_change": "+13.20%",
+        "price": "",
+        "symbol": "SBET"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-17.60",
+        "change_pts": null,
+        "close": 7650.5,
+        "name": "Xenon Pharmaceuticals Inc.",
+        "open": null,
+        "pct_change": "-30.69%",
+        "price": "",
+        "symbol": "XENE"
+      },
+      {
+        "change": "-0.77",
+        "change_pts": null,
+        "close": 7650.5,
+        "name": "NuScale Power Corporation",
+        "open": null,
+        "pct_change": "-8.52%",
+        "price": "",
+        "symbol": "SMR"
+      },
+      {
+        "change": "-1.95",
+        "change_pts": null,
+        "close": 7650.5,
+        "name": "Rush Street Interactive, Inc.",
+        "open": null,
+        "pct_change": "-7.72%",
+        "price": "",
+        "symbol": "RSI"
+      },
+      {
+        "change": "-2.02",
+        "change_pts": null,
+        "close": 7650.5,
+        "name": "Peabody Energy Corporation",
+        "open": null,
+        "pct_change": "-7.42%",
+        "price": "",
+        "symbol": "BTU"
+      },
+      {
+        "change": "-1.74",
+        "change_pts": null,
+        "close": 7650.5,
+        "name": "Tango Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-7.41%",
+        "price": "",
+        "symbol": "TNGX"
+      }
+    ],
+    "scraped_at": "2026-09-18T21:28:33.799451-04:00"
   }
 }
