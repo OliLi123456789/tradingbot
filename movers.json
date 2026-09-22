@@ -23538,5 +23538,112 @@
       }
     ],
     "scraped_at": "2026-09-18T21:28:33.799451-04:00"
+  },
+  "2026-09-21": {
+    "gainers": [
+      {
+        "change": "+27.20",
+        "change_pts": null,
+        "close": 7833.0,
+        "name": "GRAIL, Inc.",
+        "open": null,
+        "pct_change": "+33.68%",
+        "price": "",
+        "symbol": "GRAL"
+      },
+      {
+        "change": "+2.64",
+        "change_pts": null,
+        "close": 7833.0,
+        "name": "Securitize Corp.",
+        "open": null,
+        "pct_change": "+24.31%",
+        "price": "",
+        "symbol": "SECZ"
+      },
+      {
+        "change": "+47.29",
+        "change_pts": null,
+        "close": 7833.0,
+        "name": "Arm Holdings plc",
+        "open": null,
+        "pct_change": "+17.16%",
+        "price": "",
+        "symbol": "ARM"
+      },
+      {
+        "change": "+0.85",
+        "change_pts": null,
+        "close": 7833.0,
+        "name": "Polibeli Group Ltd",
+        "open": null,
+        "pct_change": "+15.40%",
+        "price": "",
+        "symbol": "PLBL"
+      },
+      {
+        "change": "+3.56",
+        "change_pts": null,
+        "close": 7833.0,
+        "name": "Fastly, Inc.",
+        "open": null,
+        "pct_change": "+14.92%",
+        "price": "",
+        "symbol": "FSLY"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.18",
+        "change_pts": null,
+        "close": 7833.0,
+        "name": "Braveheart Bio, Inc.",
+        "open": null,
+        "pct_change": "-14.32%",
+        "price": "",
+        "symbol": "BRVE"
+      },
+      {
+        "change": "-4.80",
+        "change_pts": null,
+        "close": 7833.0,
+        "name": "Parabilis Medicines, Inc.",
+        "open": null,
+        "pct_change": "-11.50%",
+        "price": "",
+        "symbol": "PBLS"
+      },
+      {
+        "change": "-1.28",
+        "change_pts": null,
+        "close": 7833.0,
+        "name": "Telix Pharmaceuticals Limited",
+        "open": null,
+        "pct_change": "-10.17%",
+        "price": "",
+        "symbol": "TLX"
+      },
+      {
+        "change": "-2.82",
+        "change_pts": null,
+        "close": 7833.0,
+        "name": "CoreCivic, Inc.",
+        "open": null,
+        "pct_change": "-8.00%",
+        "price": "",
+        "symbol": "CXW"
+      },
+      {
+        "change": "-3.44",
+        "change_pts": null,
+        "close": 7833.0,
+        "name": "Novo Nordisk A/S",
+        "open": null,
+        "pct_change": "-7.96%",
+        "price": "",
+        "symbol": "NVO"
+      }
+    ],
+    "scraped_at": "2026-09-21T21:30:41.548576-04:00"
   }
 }
