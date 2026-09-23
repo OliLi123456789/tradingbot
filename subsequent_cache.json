@@ -4819,6 +4819,12 @@
       "date": "2026-09-21",
       "open": 96.64,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 93.3,
+      "pct_long": NaN
     }
   ],
   "AEO|2025-12-03": [
@@ -5134,6 +5140,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 15.2,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 15.72,
       "pct_long": NaN
     }
   ],
@@ -7064,6 +7076,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 8.33,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 8.44,
       "pct_long": NaN
     }
   ],
@@ -9527,6 +9545,12 @@
       "date": "2026-09-21",
       "open": 168.74,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 171.69,
+      "pct_long": NaN
     }
   ],
   "AON|2026-08-31": [
@@ -11365,6 +11389,14 @@
       "pct_long": -2.28
     }
   ],
+  "ARM|2026-09-21": [
+    {
+      "close": 333.2,
+      "date": "2026-09-22",
+      "open": 319.41,
+      "pct_long": 4.32
+    }
+  ],
   "ARQT|2026-09-16": [
     {
       "close": 26.46,
@@ -11382,6 +11414,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 25.57,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 25.9,
       "pct_long": NaN
     }
   ],
@@ -11681,6 +11719,12 @@
       "date": "2026-09-21",
       "open": 67.46,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 68.9,
+      "pct_long": NaN
     }
   ],
   "ARX|2026-08-13": [
@@ -11810,6 +11854,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 9.57,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 9.62,
       "pct_long": NaN
     }
   ],
@@ -12065,6 +12115,12 @@
       "date": "2026-09-21",
       "open": 48.5,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 49.41,
+      "pct_long": NaN
     }
   ],
   "ASO|2026-09-10": [
@@ -12108,6 +12164,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 48.5,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 49.41,
       "pct_long": NaN
     }
   ],
@@ -14192,6 +14254,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 44.82,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 46.17,
       "pct_long": NaN
     }
   ],
@@ -16289,6 +16357,12 @@
       "date": "2026-09-21",
       "open": 73.45,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 76.64,
+      "pct_long": NaN
     }
   ],
   "AXTI|2026-09-16": [
@@ -16308,6 +16382,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 73.45,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 76.64,
       "pct_long": NaN
     }
   ],
@@ -19271,6 +19351,12 @@
       "date": "2026-09-21",
       "open": 82.56,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 80.08,
+      "pct_long": NaN
     }
   ],
   "BHC|2025-12-01": [
@@ -19692,6 +19778,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 13.9,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 14.42,
       "pct_long": NaN
     }
   ],
@@ -21093,6 +21185,12 @@
       "date": "2026-09-21",
       "open": 40.03,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 39.63,
+      "pct_long": NaN
     }
   ],
   "BLTE|2025-11-25": [
@@ -21358,6 +21456,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 173.0,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 173.69,
       "pct_long": NaN
     }
   ],
@@ -22925,6 +23029,14 @@
       "pct_long": 0.33
     }
   ],
+  "BRVE|2026-09-21": [
+    {
+      "close": 23.61,
+      "date": "2026-09-22",
+      "open": 25.41,
+      "pct_long": -7.08
+    }
+  ],
   "BRZE|2025-12-10": [
     {
       "close": 34.93,
@@ -23108,6 +23220,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 24.7,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 26.0,
       "pct_long": NaN
     }
   ],
@@ -23865,6 +23983,12 @@
       "date": "2026-09-21",
       "open": 13.44,
       "pct_long": -2.23
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 12.98,
+      "pct_long": NaN
     }
   ],
   "BTG|2026-08-07": [
@@ -24009,6 +24133,12 @@
       "date": "2026-09-21",
       "open": 25.6,
       "pct_long": -2.07
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 25.0,
+      "pct_long": NaN
     }
   ],
   "BULL|2026-06-10": [
@@ -24096,6 +24226,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 8.58,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 8.28,
       "pct_long": NaN
     }
   ],
@@ -25142,6 +25278,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 30.25,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 31.55,
       "pct_long": NaN
     }
   ],
@@ -26281,6 +26423,12 @@
       "date": "2026-09-21",
       "open": 591.0,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 585.34,
+      "pct_long": NaN
     }
   ],
   "CAVA|2025-11-21": [
@@ -26818,6 +26966,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 200.0,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 203.61,
       "pct_long": NaN
     }
   ],
@@ -30307,6 +30461,12 @@
       "date": "2026-09-21",
       "open": 18.67,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 18.48,
+      "pct_long": NaN
     }
   ],
   "CIVI|2025-12-17": [
@@ -32273,6 +32433,12 @@
       "date": "2026-09-21",
       "open": 59.91,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 59.48,
+      "pct_long": NaN
     }
   ],
   "COIN|2026-02-13": [
@@ -32724,6 +32890,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 55.13,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 54.21,
       "pct_long": NaN
     }
   ],
@@ -33702,6 +33874,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 98.09,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 96.98,
       "pct_long": NaN
     }
   ],
@@ -36085,6 +36263,14 @@
       "pct_long": -1.27
     }
   ],
+  "CXW|2026-09-21": [
+    {
+      "close": 31.47,
+      "date": "2026-09-22",
+      "open": 32.63,
+      "pct_long": -3.56
+    }
+  ],
   "CZR|2026-03-11": [
     {
       "close": 28.41,
@@ -37412,6 +37598,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 586.77,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 569.8,
       "pct_long": NaN
     }
   ],
@@ -38991,6 +39183,12 @@
       "date": "2026-09-21",
       "open": 21.77,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 22.27,
+      "pct_long": NaN
     }
   ],
   "DKS|2026-08-25": [
@@ -39930,6 +40128,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 131.5,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 144.34,
       "pct_long": NaN
     }
   ],
@@ -41346,6 +41550,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 17.31,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 17.39,
       "pct_long": NaN
     }
   ],
@@ -43480,6 +43690,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 176.45,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 174.78,
       "pct_long": NaN
     }
   ],
@@ -47623,6 +47839,12 @@
       "date": "2026-09-21",
       "open": 964.19,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 937.15,
+      "pct_long": NaN
     }
   ],
   "FIGR|2026-01-15": [
@@ -51117,6 +51339,12 @@
       "date": "2026-09-21",
       "open": 40.03,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 37.41,
+      "pct_long": NaN
     }
   ],
   "FPS|2026-09-16": [
@@ -51136,6 +51364,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 40.03,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 37.41,
       "pct_long": NaN
     }
   ],
@@ -54131,6 +54365,14 @@
       "pct_long": NaN
     }
   ],
+  "FSLY|2026-09-21": [
+    {
+      "close": 26.08,
+      "date": "2026-09-22",
+      "open": 28.02,
+      "pct_long": -6.92
+    }
+  ],
   "FSM|2026-02-20": [
     {
       "close": 13.34,
@@ -55929,6 +56171,12 @@
       "date": "2026-09-21",
       "open": 156.37,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 157.23,
+      "pct_long": NaN
     }
   ],
   "GLXY|2025-12-09": [
@@ -56487,6 +56735,12 @@
       "date": "2026-09-21",
       "open": 210.0,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 204.63,
+      "pct_long": NaN
     }
   ],
   "GPCR|2025-11-18": [
@@ -56814,6 +57068,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 35.34,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 36.99,
       "pct_long": NaN
     }
   ],
@@ -57359,6 +57619,14 @@
       "date": "2025-12-16",
       "open": 90.08,
       "pct_long": -3.4
+    }
+  ],
+  "GRAL|2026-09-21": [
+    {
+      "close": 108.52,
+      "date": "2026-09-22",
+      "open": 106.75,
+      "pct_long": 1.66
     }
   ],
   "GRDN|2026-03-30": [
@@ -58168,6 +58436,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 145.92,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 152.09,
       "pct_long": NaN
     }
   ],
@@ -60043,6 +60317,12 @@
       "date": "2026-09-21",
       "open": 62.65,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 61.75,
+      "pct_long": NaN
     }
   ],
   "HPP|2026-02-26": [
@@ -60896,6 +61176,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 50.7,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 50.94,
       "pct_long": NaN
     }
   ],
@@ -62040,6 +62326,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 230.5,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 227.69,
       "pct_long": NaN
     }
   ],
@@ -65336,6 +65628,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 21.8,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 20.41,
       "pct_long": NaN
     }
   ],
@@ -68688,6 +68986,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 235.54,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 236.6,
       "pct_long": NaN
     }
   ],
@@ -73963,6 +74267,12 @@
       "date": "2026-09-21",
       "open": 149.56,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 154.0,
+      "pct_long": NaN
     }
   ],
   "LFST|2025-11-06": [
@@ -76064,6 +76374,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 98.22,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 103.4,
       "pct_long": NaN
     }
   ],
@@ -79677,6 +79993,12 @@
       "date": "2026-09-21",
       "open": 13.96,
       "pct_long": -4.87
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 13.12,
+      "pct_long": NaN
     }
   ],
   "MASI|2026-02-17": [
@@ -84649,6 +84971,12 @@
       "date": "2026-09-21",
       "open": 164.58,
       "pct_long": 2.38
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 167.49,
+      "pct_long": NaN
     }
   ],
   "MTD|2026-05-08": [
@@ -84942,6 +85270,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 217.23,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 223.61,
       "pct_long": NaN
     }
   ],
@@ -86211,6 +86545,12 @@
       "date": "2026-09-21",
       "open": 21.12,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 21.53,
+      "pct_long": NaN
     }
   ],
   "NBIS|2026-03-11": [
@@ -87281,6 +87621,12 @@
       "date": "2026-09-21",
       "open": 327.0,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 352.46,
+      "pct_long": NaN
     }
   ],
   "NEXT|2026-03-26": [
@@ -87380,6 +87726,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 12.08,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 10.68,
       "pct_long": NaN
     }
   ],
@@ -89997,6 +90349,12 @@
       "date": "2026-09-21",
       "open": 17.58,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 18.32,
+      "pct_long": NaN
     }
   ],
   "NUVB|2025-11-19": [
@@ -90543,6 +90901,14 @@
       "pct_long": -1.2
     }
   ],
+  "NVO|2026-09-21": [
+    {
+      "close": 39.4,
+      "date": "2026-09-22",
+      "open": 39.5,
+      "pct_long": -0.25
+    }
+  ],
   "NVS|2026-09-08": [
     {
       "close": 137.48,
@@ -90596,6 +90962,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 141.96,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 141.26,
       "pct_long": NaN
     }
   ],
@@ -92266,6 +92638,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 39.15,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 40.1,
       "pct_long": NaN
     }
   ],
@@ -93986,6 +94364,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 71.0,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 71.75,
       "pct_long": NaN
     }
   ],
@@ -96497,6 +96881,12 @@
       "date": "2026-09-21",
       "open": 13.55,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 13.94,
+      "pct_long": NaN
     }
   ],
   "PAYP|2026-03-16": [
@@ -97585,6 +97975,14 @@
       "date": "2026-05-06",
       "open": 14.87,
       "pct_long": 1.08
+    }
+  ],
+  "PBLS|2026-09-21": [
+    {
+      "close": 38.17,
+      "date": "2026-09-22",
+      "open": 37.41,
+      "pct_long": 2.03
     }
   ],
   "PCG|2026-08-31": [
@@ -100035,6 +100433,14 @@
       "pct_long": -0.44
     }
   ],
+  "PLBL|2026-09-21": [
+    {
+      "close": 5.8,
+      "date": "2026-09-22",
+      "open": 6.34,
+      "pct_long": -8.52
+    }
+  ],
   "PLNT|2026-02-24": [
     {
       "close": 80.05,
@@ -100219,6 +100625,12 @@
       "date": "2026-09-21",
       "open": 53.97,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 53.23,
+      "pct_long": NaN
     }
   ],
   "PLSE|2026-09-16": [
@@ -100238,6 +100650,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 53.97,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 53.23,
       "pct_long": NaN
     }
   ],
@@ -104327,6 +104745,12 @@
       "date": "2026-09-21",
       "open": 50.61,
       "pct_long": -4.7
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 49.23,
+      "pct_long": NaN
     }
   ],
   "PTC|2026-06-11": [
@@ -106003,6 +106427,12 @@
       "date": "2026-09-21",
       "open": 118.15,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 117.16,
+      "pct_long": NaN
     }
   ],
   "QRVO|2026-09-15": [
@@ -106028,6 +106458,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 118.15,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 117.16,
       "pct_long": NaN
     }
   ],
@@ -107285,6 +107721,12 @@
       "date": "2026-09-21",
       "open": 107.57,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 113.75,
+      "pct_long": NaN
     }
   ],
   "RCL|2026-01-29": [
@@ -107736,6 +108178,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 152.67,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 161.28,
       "pct_long": NaN
     }
   ],
@@ -112479,6 +112927,12 @@
       "date": "2026-09-21",
       "open": 6.45,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 6.05,
+      "pct_long": NaN
     }
   ],
   "RML|2026-09-10": [
@@ -112523,6 +112977,12 @@
       "date": "2026-09-21",
       "open": 6.45,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 6.05,
+      "pct_long": NaN
     }
   ],
   "RML|2026-09-11": [
@@ -112560,6 +113020,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 6.45,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 6.05,
       "pct_long": NaN
     }
   ],
@@ -112957,6 +113423,12 @@
       "date": "2026-09-21",
       "open": 39.02,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 38.73,
+      "pct_long": NaN
     }
   ],
   "ROKU|2026-06-12": [
@@ -113033,6 +113505,12 @@
       "date": "2026-09-21",
       "open": 23.01,
       "pct_long": -6.26
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 22.52,
+      "pct_long": NaN
     }
   ],
   "RTO|2026-07-30": [
@@ -113999,6 +114477,12 @@
       "date": "2026-09-21",
       "open": 64.3,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 65.64,
+      "pct_long": NaN
     }
   ],
   "SAIL|2026-03-18": [
@@ -114098,6 +114582,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 19.88,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 20.92,
       "pct_long": NaN
     }
   ],
@@ -114855,6 +115345,12 @@
       "date": "2026-09-21",
       "open": 9.99,
       "pct_long": -0.1
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 9.91,
+      "pct_long": NaN
     }
   ],
   "SBSW|2025-12-29": [
@@ -115005,6 +115501,20 @@
       "date": "2026-09-21",
       "open": 29.43,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 30.13,
+      "pct_long": NaN
+    }
+  ],
+  "SECZ|2026-09-21": [
+    {
+      "close": 13.0,
+      "date": "2026-09-22",
+      "open": 12.96,
+      "pct_long": 0.31
     }
   ],
   "SEDG|2025-11-05": [
@@ -115808,6 +116318,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 71.28,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 67.94,
       "pct_long": NaN
     }
   ],
@@ -117015,6 +117531,12 @@
       "date": "2026-09-21",
       "open": 101.3,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 99.76,
+      "pct_long": NaN
     }
   ],
   "SIMO|2026-01-07": [
@@ -117318,6 +117840,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 277.7,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 265.6,
       "pct_long": NaN
     }
   ],
@@ -118581,6 +119109,12 @@
       "date": "2026-09-21",
       "open": 11.59,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 11.41,
+      "pct_long": NaN
     }
   ],
   "SMCI|2026-02-04": [
@@ -119453,6 +119987,12 @@
       "date": "2026-09-21",
       "open": 8.51,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 8.83,
+      "pct_long": NaN
     }
   ],
   "SMR|2026-09-11": [
@@ -119491,6 +120031,12 @@
       "date": "2026-09-21",
       "open": 8.51,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 8.83,
+      "pct_long": NaN
     }
   ],
   "SMR|2026-09-18": [
@@ -119499,6 +120045,12 @@
       "date": "2026-09-21",
       "open": 8.51,
       "pct_long": 3.35
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 8.83,
+      "pct_long": NaN
     }
   ],
   "SMTC|2026-03-17": [
@@ -119654,6 +120206,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 190.3,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 175.0,
       "pct_long": NaN
     }
   ],
@@ -120532,6 +121090,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 1826.66,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 1758.55,
       "pct_long": NaN
     }
   ],
@@ -122963,6 +123527,12 @@
       "date": "2026-09-21",
       "open": 13.87,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 13.31,
+      "pct_long": NaN
     }
   ],
   "SSRM|2026-03-04": [
@@ -123358,6 +123928,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 12.77,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 13.42,
       "pct_long": NaN
     }
   ],
@@ -124491,6 +125067,12 @@
       "date": "2026-09-21",
       "open": 89.66,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 89.0,
+      "pct_long": NaN
     }
   ],
   "SWKS|2026-09-15": [
@@ -124516,6 +125098,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 89.66,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 89.0,
       "pct_long": NaN
     }
   ],
@@ -125587,6 +126175,12 @@
       "date": "2026-09-21",
       "open": 50.54,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 51.15,
+      "pct_long": NaN
     }
   ],
   "TCGL|2026-01-30": [
@@ -126565,6 +127159,12 @@
       "date": "2026-09-21",
       "open": 78.99,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 77.99,
+      "pct_long": NaN
     }
   ],
   "TEM|2026-09-17": [
@@ -126578,6 +127178,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 78.99,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 77.99,
       "pct_long": NaN
     }
   ],
@@ -126678,6 +127284,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 35.59,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 36.88,
       "pct_long": NaN
     }
   ],
@@ -126914,6 +127526,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 380.0,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 373.0,
       "pct_long": NaN
     }
   ],
@@ -127799,6 +128417,14 @@
       "date": "2026-09-08",
       "open": 12.05,
       "pct_long": NaN
+    }
+  ],
+  "TLX|2026-09-21": [
+    {
+      "close": 11.95,
+      "date": "2026-09-22",
+      "open": 11.93,
+      "pct_long": 0.17
     }
   ],
   "TMC|2025-11-18": [
@@ -128963,6 +129589,12 @@
       "date": "2026-09-21",
       "open": 21.9,
       "pct_long": 1.96
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 22.33,
+      "pct_long": NaN
     }
   ],
   "TOP|2026-08-24": [
@@ -130237,6 +130869,12 @@
       "date": "2026-09-21",
       "open": 55.94,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 57.87,
+      "pct_long": NaN
     }
   ],
   "TTAN|2026-09-17": [
@@ -130250,6 +130888,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 55.94,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 57.87,
       "pct_long": NaN
     }
   ],
@@ -136007,6 +136651,12 @@
       "date": "2026-09-21",
       "open": 69.58,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 70.0,
+      "pct_long": NaN
     }
   ],
   "VERA|2025-11-26": [
@@ -137337,6 +137987,12 @@
       "date": "2026-09-21",
       "open": 230.0,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 241.04,
+      "pct_long": NaN
     }
   ],
   "VICR|2026-09-17": [
@@ -137350,6 +138006,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 230.0,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 241.04,
       "pct_long": NaN
     }
   ],
@@ -140097,6 +140759,12 @@
       "date": "2026-09-21",
       "open": 105.57,
       "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 109.73,
+      "pct_long": NaN
     }
   ],
   "WIX|2025-11-19": [
@@ -142077,6 +142745,12 @@
       "date": "2026-09-21",
       "open": 40.0,
       "pct_long": -2.52
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 39.76,
+      "pct_long": NaN
     }
   ],
   "XE|2026-06-10": [
@@ -145440,6 +146114,12 @@
       "close": NaN,
       "date": "2026-09-21",
       "open": 196.8,
+      "pct_long": NaN
+    },
+    {
+      "close": NaN,
+      "date": "2026-09-22",
+      "open": 210.36,
       "pct_long": NaN
     }
   ],

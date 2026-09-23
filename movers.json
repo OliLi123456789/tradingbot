@@ -23645,5 +23645,112 @@
       }
     ],
     "scraped_at": "2026-09-21T21:30:41.548576-04:00"
+  },
+  "2026-09-22": {
+    "gainers": [
+      {
+        "change": "+10.74",
+        "change_pts": null,
+        "close": 7831.25,
+        "name": "Viking Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+35.67%",
+        "price": "",
+        "symbol": "VKTX"
+      },
+      {
+        "change": "+1.79",
+        "change_pts": null,
+        "close": 7831.25,
+        "name": "Butterfly Network, Inc.",
+        "open": null,
+        "pct_change": "+21.99%",
+        "price": "",
+        "symbol": "BFLY"
+      },
+      {
+        "change": "+44.44",
+        "change_pts": null,
+        "close": 7831.25,
+        "name": "Vicor Corporation",
+        "open": null,
+        "pct_change": "+19.85%",
+        "price": "",
+        "symbol": "VICR"
+      },
+      {
+        "change": "+2.14",
+        "change_pts": null,
+        "close": 7831.25,
+        "name": "Surgery Partners, Inc.",
+        "open": null,
+        "pct_change": "+15.67%",
+        "price": "",
+        "symbol": "SGRY"
+      },
+      {
+        "change": "+8.92",
+        "change_pts": null,
+        "close": 7831.25,
+        "name": "Innodata Inc.",
+        "open": null,
+        "pct_change": "+14.61%",
+        "price": "",
+        "symbol": "INOD"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.38",
+        "change_pts": null,
+        "close": 7831.25,
+        "name": "Celldex Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-11.56%",
+        "price": "",
+        "symbol": "CLDX"
+      },
+      {
+        "change": "-4.45",
+        "change_pts": null,
+        "close": 7831.25,
+        "name": "Planet Fitness, Inc.",
+        "open": null,
+        "pct_change": "-9.46%",
+        "price": "",
+        "symbol": "PLNT"
+      },
+      {
+        "change": "-0.57",
+        "change_pts": null,
+        "close": 7831.25,
+        "name": "Polibeli Group Ltd",
+        "open": null,
+        "pct_change": "-8.95%",
+        "price": "",
+        "symbol": "PLBL"
+      },
+      {
+        "change": "-5.87",
+        "change_pts": null,
+        "close": 7831.25,
+        "name": "Nektar Therapeutics",
+        "open": null,
+        "pct_change": "-8.78%",
+        "price": "",
+        "symbol": "NKTR"
+      },
+      {
+        "change": "-9.53",
+        "change_pts": null,
+        "close": 7831.25,
+        "name": "Avis Budget Group, Inc.",
+        "open": null,
+        "pct_change": "-8.13%",
+        "price": "",
+        "symbol": "CAR"
+      }
+    ],
+    "scraped_at": "2026-09-22T21:30:18.733739-04:00"
   }
 }
