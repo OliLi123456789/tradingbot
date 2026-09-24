@@ -23752,5 +23752,112 @@
       }
     ],
     "scraped_at": "2026-09-22T21:30:18.733739-04:00"
+  },
+  "2026-09-23": {
+    "gainers": [
+      {
+        "change": "+3.57",
+        "change_pts": null,
+        "close": 7766.5,
+        "name": "Fastly, Inc.",
+        "open": null,
+        "pct_change": "+13.69%",
+        "price": "",
+        "symbol": "FSLY"
+      },
+      {
+        "change": "+1.36",
+        "change_pts": null,
+        "close": 7766.5,
+        "name": "Securitize Corp.",
+        "open": null,
+        "pct_change": "+10.46%",
+        "price": "",
+        "symbol": "SECZ"
+      },
+      {
+        "change": "+4.87",
+        "change_pts": null,
+        "close": 7766.5,
+        "name": "ACM Research, Inc.",
+        "open": null,
+        "pct_change": "+6.42%",
+        "price": "",
+        "symbol": "ACMR"
+      },
+      {
+        "change": "+0.91",
+        "change_pts": null,
+        "close": 7766.5,
+        "name": "Klaviyo, Inc.",
+        "open": null,
+        "pct_change": "+5.73%",
+        "price": "",
+        "symbol": "KVYO"
+      },
+      {
+        "change": "+14.82",
+        "change_pts": null,
+        "close": 7766.5,
+        "name": "Vicor Corporation",
+        "open": null,
+        "pct_change": "+5.52%",
+        "price": "",
+        "symbol": "VICR"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.86",
+        "change_pts": null,
+        "close": 7766.5,
+        "name": "Parabilis Medicines, Inc.",
+        "open": null,
+        "pct_change": "-12.73%",
+        "price": "",
+        "symbol": "PBLS"
+      },
+      {
+        "change": "-1.25",
+        "change_pts": null,
+        "close": 7766.5,
+        "name": "Endeavour Silver Corp.",
+        "open": null,
+        "pct_change": "-11.89%",
+        "price": "",
+        "symbol": "EXK"
+      },
+      {
+        "change": "-1.61",
+        "change_pts": null,
+        "close": 7766.5,
+        "name": "Erasca, Inc.",
+        "open": null,
+        "pct_change": "-10.32%",
+        "price": "",
+        "symbol": "ERAS"
+      },
+      {
+        "change": "-1.86",
+        "change_pts": null,
+        "close": 7766.5,
+        "name": "Sarepta Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-8.94%",
+        "price": "",
+        "symbol": "SRPT"
+      },
+      {
+        "change": "-3.21",
+        "change_pts": null,
+        "close": 7766.5,
+        "name": "Vera Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-8.85%",
+        "price": "",
+        "symbol": "VERA"
+      }
+    ],
+    "scraped_at": "2026-09-23T21:30:50.592052-04:00"
   }
 }
