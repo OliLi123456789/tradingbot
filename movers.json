@@ -23859,5 +23859,112 @@
       }
     ],
     "scraped_at": "2026-09-23T21:30:50.592052-04:00"
+  },
+  "2026-09-24": {
+    "gainers": [
+      {
+        "change": "+25.53",
+        "change_pts": null,
+        "close": 7760.5,
+        "name": "Twist Bioscience Corporation",
+        "open": null,
+        "pct_change": "+16.11%",
+        "price": "",
+        "symbol": "TWST"
+      },
+      {
+        "change": "+16.69",
+        "change_pts": null,
+        "close": 7760.5,
+        "name": "GRAIL, Inc.",
+        "open": null,
+        "pct_change": "+15.38%",
+        "price": "",
+        "symbol": "GRAL"
+      },
+      {
+        "change": "+2.17",
+        "change_pts": null,
+        "close": 7760.5,
+        "name": "Securitize Corp.",
+        "open": null,
+        "pct_change": "+15.11%",
+        "price": "",
+        "symbol": "SECZ"
+      },
+      {
+        "change": "+7.06",
+        "change_pts": null,
+        "close": 7760.5,
+        "name": "CareDx, Inc.",
+        "open": null,
+        "pct_change": "+13.00%",
+        "price": "",
+        "symbol": "CDNA"
+      },
+      {
+        "change": "+2.92",
+        "change_pts": null,
+        "close": 7760.5,
+        "name": "Warby Parker Inc.",
+        "open": null,
+        "pct_change": "+12.51%",
+        "price": "",
+        "symbol": "WRBY"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-3.25",
+        "change_pts": null,
+        "close": 7760.5,
+        "name": "ACADIA Pharmaceuticals Inc.",
+        "open": null,
+        "pct_change": "-12.78%",
+        "price": "",
+        "symbol": "ACAD"
+      },
+      {
+        "change": "-3.16",
+        "change_pts": null,
+        "close": 7760.5,
+        "name": "Gen Digital Inc.",
+        "open": null,
+        "pct_change": "-12.05%",
+        "price": "",
+        "symbol": "GEN"
+      },
+      {
+        "change": "-5.56",
+        "change_pts": null,
+        "close": 7760.5,
+        "name": "Gildan Activewear Inc.",
+        "open": null,
+        "pct_change": "-12.04%",
+        "price": "",
+        "symbol": "GIL"
+      },
+      {
+        "change": "-4.90",
+        "change_pts": null,
+        "close": 7760.5,
+        "name": "Viking Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-11.76%",
+        "price": "",
+        "symbol": "VKTX"
+      },
+      {
+        "change": "-3.20",
+        "change_pts": null,
+        "close": 7760.5,
+        "name": "Kinross Gold Corporation",
+        "open": null,
+        "pct_change": "-11.59%",
+        "price": "",
+        "symbol": "KGC"
+      }
+    ],
+    "scraped_at": "2026-09-24T21:30:16.621919-04:00"
   }
 }
