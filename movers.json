@@ -23966,5 +23966,112 @@
       }
     ],
     "scraped_at": "2026-09-24T21:30:16.621919-04:00"
+  },
+  "2026-09-25": {
+    "gainers": [
+      {
+        "change": "+4.07",
+        "change_pts": null,
+        "close": 7743.41,
+        "name": "People Incorporated",
+        "open": null,
+        "pct_change": "+11.33%",
+        "price": "",
+        "symbol": "PPLI"
+      },
+      {
+        "change": "+1.32",
+        "change_pts": null,
+        "close": 7743.41,
+        "name": "Almonty Industries Inc.",
+        "open": null,
+        "pct_change": "+10.65%",
+        "price": "",
+        "symbol": "ALM"
+      },
+      {
+        "change": "+8.53",
+        "change_pts": null,
+        "close": 7743.41,
+        "name": "MaxLinear, Inc.",
+        "open": null,
+        "pct_change": "+10.00%",
+        "price": "",
+        "symbol": "MXL"
+      },
+      {
+        "change": "+1.34",
+        "change_pts": null,
+        "close": 7743.41,
+        "name": "Maase Inc.",
+        "open": null,
+        "pct_change": "+9.55%",
+        "price": "",
+        "symbol": "MAAS"
+      },
+      {
+        "change": "+4.22",
+        "change_pts": null,
+        "close": 7743.41,
+        "name": "Veeco Instruments Inc.",
+        "open": null,
+        "pct_change": "+9.28%",
+        "price": "",
+        "symbol": "VECO"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-21.59",
+        "change_pts": null,
+        "close": 7743.41,
+        "name": "Zscaler, Inc.",
+        "open": null,
+        "pct_change": "-10.06%",
+        "price": "",
+        "symbol": "ZS"
+      },
+      {
+        "change": "-1.53",
+        "change_pts": null,
+        "close": 7743.41,
+        "name": "Fervo Energy Company",
+        "open": null,
+        "pct_change": "-9.16%",
+        "price": "",
+        "symbol": "FRVO"
+      },
+      {
+        "change": "-2.00",
+        "change_pts": null,
+        "close": 7743.41,
+        "name": "ChronoScale Holdings Corporation",
+        "open": null,
+        "pct_change": "-9.15%",
+        "price": "",
+        "symbol": "CHRN"
+      },
+      {
+        "change": "-1.24",
+        "change_pts": null,
+        "close": 7743.41,
+        "name": "Hyperliquid Strategies Inc.",
+        "open": null,
+        "pct_change": "-8.80%",
+        "price": "",
+        "symbol": "PURR"
+      },
+      {
+        "change": "-23.86",
+        "change_pts": null,
+        "close": 7743.41,
+        "name": "Twilio Inc.",
+        "open": null,
+        "pct_change": "-7.96%",
+        "price": "",
+        "symbol": "TWLO"
+      }
+    ],
+    "scraped_at": "2026-09-25T21:28:57.504442-04:00"
   }
 }
