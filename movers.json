@@ -24073,5 +24073,112 @@
       }
     ],
     "scraped_at": "2026-09-25T21:28:57.504442-04:00"
+  },
+  "2026-09-28": {
+    "gainers": [
+      {
+        "change": "+57.57",
+        "change_pts": null,
+        "close": 7735.0,
+        "name": "Kodiak Sciences Inc.",
+        "open": null,
+        "pct_change": "+177.96%",
+        "price": "",
+        "symbol": "KOD"
+      },
+      {
+        "change": "+2.58",
+        "change_pts": null,
+        "close": 7735.0,
+        "name": "Maase Inc.",
+        "open": null,
+        "pct_change": "+16.79%",
+        "price": "",
+        "symbol": "MAAS"
+      },
+      {
+        "change": "+1.22",
+        "change_pts": null,
+        "close": 7735.0,
+        "name": "AbCellera Biologics Inc.",
+        "open": null,
+        "pct_change": "+9.61%",
+        "price": "",
+        "symbol": "ABCL"
+      },
+      {
+        "change": "+2.17",
+        "change_pts": null,
+        "close": 7735.0,
+        "name": "Corporación América Airports S.A.",
+        "open": null,
+        "pct_change": "+9.09%",
+        "price": "",
+        "symbol": "CAAP"
+      },
+      {
+        "change": "+5.52",
+        "change_pts": null,
+        "close": 7735.0,
+        "name": "Howard Hughes Holdings Inc.",
+        "open": null,
+        "pct_change": "+8.07%",
+        "price": "",
+        "symbol": "HHH"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-75.76",
+        "change_pts": null,
+        "close": 7735.0,
+        "name": "MongoDB, Inc.",
+        "open": null,
+        "pct_change": "-18.46%",
+        "price": "",
+        "symbol": "MDB"
+      },
+      {
+        "change": "-5.20",
+        "change_pts": null,
+        "close": 7735.0,
+        "name": "Gold Fields Limited",
+        "open": null,
+        "pct_change": "-12.88%",
+        "price": "",
+        "symbol": "GFI"
+      },
+      {
+        "change": "-0.75",
+        "change_pts": null,
+        "close": 7735.0,
+        "name": "Aurora Innovation, Inc.",
+        "open": null,
+        "pct_change": "-12.42%",
+        "price": "",
+        "symbol": "AUR"
+      },
+      {
+        "change": "-23.03",
+        "change_pts": null,
+        "close": 7735.0,
+        "name": "Modine Manufacturing Company",
+        "open": null,
+        "pct_change": "-11.63%",
+        "price": "",
+        "symbol": "MOD"
+      },
+      {
+        "change": "-1.36",
+        "change_pts": null,
+        "close": 7735.0,
+        "name": "Nu Holdings Ltd.",
+        "open": null,
+        "pct_change": "-10.01%",
+        "price": "",
+        "symbol": "NU"
+      }
+    ],
+    "scraped_at": "2026-09-28T21:36:35.811716-04:00"
   }
 }
