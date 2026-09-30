@@ -24180,5 +24180,112 @@
       }
     ],
     "scraped_at": "2026-09-28T21:36:35.811716-04:00"
+  },
+  "2026-09-29": {
+    "gainers": [
+      {
+        "change": "+3.46",
+        "change_pts": null,
+        "close": 7741.25,
+        "name": "Iovance Biotherapeutics, Inc.",
+        "open": null,
+        "pct_change": "+31.48%",
+        "price": "",
+        "symbol": "IOVA"
+      },
+      {
+        "change": "+2.97",
+        "change_pts": null,
+        "close": 7741.25,
+        "name": "Carnival Corporation Ltd.",
+        "open": null,
+        "pct_change": "+13.41%",
+        "price": "",
+        "symbol": "CCL"
+      },
+      {
+        "change": "+2.81",
+        "change_pts": null,
+        "close": 7741.25,
+        "name": "Warby Parker Inc.",
+        "open": null,
+        "pct_change": "+11.40%",
+        "price": "",
+        "symbol": "WRBY"
+      },
+      {
+        "change": "+28.38",
+        "change_pts": null,
+        "close": 7741.25,
+        "name": "Bloom Energy Corporation",
+        "open": null,
+        "pct_change": "+10.80%",
+        "price": "",
+        "symbol": "BE"
+      },
+      {
+        "change": "+2.27",
+        "change_pts": null,
+        "close": 7741.25,
+        "name": "Magnite, Inc.",
+        "open": null,
+        "pct_change": "+9.70%",
+        "price": "",
+        "symbol": "MGNI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-223.02",
+        "change_pts": null,
+        "close": 7741.25,
+        "name": "Fair Isaac Corporation",
+        "open": null,
+        "pct_change": "-26.52%",
+        "price": "",
+        "symbol": "FICO"
+      },
+      {
+        "change": "-10.14",
+        "change_pts": null,
+        "close": 7741.25,
+        "name": "GeneDx Holdings Corp.",
+        "open": null,
+        "pct_change": "-11.80%",
+        "price": "",
+        "symbol": "WGS"
+      },
+      {
+        "change": "-3.32",
+        "change_pts": null,
+        "close": 7741.25,
+        "name": "National Energy Services Reunited Corp.",
+        "open": null,
+        "pct_change": "-11.14%",
+        "price": "",
+        "symbol": "NESR"
+      },
+      {
+        "change": "-1.83",
+        "change_pts": null,
+        "close": 7741.25,
+        "name": "Maase Inc.",
+        "open": null,
+        "pct_change": "-10.19%",
+        "price": "",
+        "symbol": "MAAS"
+      },
+      {
+        "change": "-6.97",
+        "change_pts": null,
+        "close": 7741.25,
+        "name": "Piper Sandler Companies",
+        "open": null,
+        "pct_change": "-9.72%",
+        "price": "",
+        "symbol": "PIPR"
+      }
+    ],
+    "scraped_at": "2026-09-29T21:39:57.713962-04:00"
   }
 }
