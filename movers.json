@@ -24287,5 +24287,112 @@
       }
     ],
     "scraped_at": "2026-09-29T21:39:57.713962-04:00"
+  },
+  "2026-09-30": {
+    "gainers": [
+      {
+        "change": "+60.42",
+        "change_pts": null,
+        "close": 7742.75,
+        "name": "United Therapeutics Corporation",
+        "open": null,
+        "pct_change": "+12.55%",
+        "price": "",
+        "symbol": "UTHR"
+      },
+      {
+        "change": "+14.82",
+        "change_pts": null,
+        "close": 7742.75,
+        "name": "Rogers Corporation",
+        "open": null,
+        "pct_change": "+10.73%",
+        "price": "",
+        "symbol": "ROG"
+      },
+      {
+        "change": "+13.06",
+        "change_pts": null,
+        "close": 7742.75,
+        "name": "FormFactor, Inc.",
+        "open": null,
+        "pct_change": "+9.59%",
+        "price": "",
+        "symbol": "FORM"
+      },
+      {
+        "change": "+0.67",
+        "change_pts": null,
+        "close": 7742.75,
+        "name": "newcleo plc",
+        "open": null,
+        "pct_change": "+9.33%",
+        "price": "",
+        "symbol": "NWCL"
+      },
+      {
+        "change": "+2.61",
+        "change_pts": null,
+        "close": 7742.75,
+        "name": "Zeta Global Holdings Corp.",
+        "open": null,
+        "pct_change": "+9.01%",
+        "price": "",
+        "symbol": "ZETA"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-40.43",
+        "change_pts": null,
+        "close": 7742.75,
+        "name": "Liquidia Corporation",
+        "open": null,
+        "pct_change": "-57.19%",
+        "price": "",
+        "symbol": "LQDA"
+      },
+      {
+        "change": "-1.51",
+        "change_pts": null,
+        "close": 7742.75,
+        "name": "Trulieve Cannabis Corp.",
+        "open": null,
+        "pct_change": "-12.17%",
+        "price": "",
+        "symbol": "TRLV"
+      },
+      {
+        "change": "-31.98",
+        "change_pts": null,
+        "close": 7742.75,
+        "name": "Jabil Inc.",
+        "open": null,
+        "pct_change": "-10.03%",
+        "price": "",
+        "symbol": "JBL"
+      },
+      {
+        "change": "-11.74",
+        "change_pts": null,
+        "close": 7742.75,
+        "name": "BillionToOne, Inc.",
+        "open": null,
+        "pct_change": "-9.93%",
+        "price": "",
+        "symbol": "BLLN"
+      },
+      {
+        "change": "-17.30",
+        "change_pts": null,
+        "close": 7742.75,
+        "name": "Cerebras Systems Inc.",
+        "open": null,
+        "pct_change": "-8.87%",
+        "price": "",
+        "symbol": "CBRS"
+      }
+    ],
+    "scraped_at": "2026-09-30T21:45:00.890322-04:00"
   }
 }
