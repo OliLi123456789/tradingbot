@@ -24394,5 +24394,112 @@
       }
     ],
     "scraped_at": "2026-09-30T21:45:00.890322-04:00"
+  },
+  "2026-10-01": {
+    "gainers": [
+      {
+        "change": "+2.38",
+        "change_pts": null,
+        "close": 7727.25,
+        "name": "Mattel, Inc.",
+        "open": null,
+        "pct_change": "+18.80%",
+        "price": "",
+        "symbol": "MAT"
+      },
+      {
+        "change": "+28.93",
+        "change_pts": null,
+        "close": 7727.25,
+        "name": "Accenture plc",
+        "open": null,
+        "pct_change": "+15.78%",
+        "price": "",
+        "symbol": "ACN"
+      },
+      {
+        "change": "+55.60",
+        "change_pts": null,
+        "close": 7727.25,
+        "name": "Synopsys, Inc.",
+        "open": null,
+        "pct_change": "+12.78%",
+        "price": "",
+        "symbol": "SNPS"
+      },
+      {
+        "change": "+69.28",
+        "change_pts": null,
+        "close": 7727.0,
+        "name": "Fair Isaac Corporation",
+        "open": null,
+        "pct_change": "+11.69%",
+        "price": "",
+        "symbol": "FICO"
+      },
+      {
+        "change": "+2.65",
+        "change_pts": null,
+        "close": 7727.0,
+        "name": "Enerflex Ltd.",
+        "open": null,
+        "pct_change": "+11.63%",
+        "price": "",
+        "symbol": "EFXT"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-65.08",
+        "change_pts": null,
+        "close": 7727.0,
+        "name": "Corteva, Inc.",
+        "open": null,
+        "pct_change": "-83.81%",
+        "price": "",
+        "symbol": "CTVA"
+      },
+      {
+        "change": "-0.99",
+        "change_pts": null,
+        "close": 7727.0,
+        "name": "Paramount Skydance Corporation",
+        "open": null,
+        "pct_change": "-9.58%",
+        "price": "",
+        "symbol": "PSKY"
+      },
+      {
+        "change": "-1.26",
+        "change_pts": null,
+        "close": 7727.0,
+        "name": "Grindr Inc.",
+        "open": null,
+        "pct_change": "-8.17%",
+        "price": "",
+        "symbol": "GRND"
+      },
+      {
+        "change": "-0.98",
+        "change_pts": null,
+        "close": 7727.0,
+        "name": "SELLAS Life Sciences Group, Inc.",
+        "open": null,
+        "pct_change": "-7.96%",
+        "price": "",
+        "symbol": "SLS"
+      },
+      {
+        "change": "-15.00",
+        "change_pts": null,
+        "close": 7727.0,
+        "name": "Repligen Corporation",
+        "open": null,
+        "pct_change": "-7.80%",
+        "price": "",
+        "symbol": "RGEN"
+      }
+    ],
+    "scraped_at": "2026-10-01T21:37:53.662771-04:00"
   }
 }
