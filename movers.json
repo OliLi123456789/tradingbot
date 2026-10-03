@@ -24501,5 +24501,112 @@
       }
     ],
     "scraped_at": "2026-10-01T21:37:53.662771-04:00"
+  },
+  "2026-10-02": {
+    "gainers": [
+      {
+        "change": "+13.81",
+        "change_pts": null,
+        "close": 7722.72,
+        "name": "MaxLinear, Inc.",
+        "open": null,
+        "pct_change": "+14.99%",
+        "price": "",
+        "symbol": "MXL"
+      },
+      {
+        "change": "+10.62",
+        "change_pts": null,
+        "close": 7722.72,
+        "name": "ChipMOS TECHNOLOGIES INC.",
+        "open": null,
+        "pct_change": "+14.61%",
+        "price": "",
+        "symbol": "IMOS"
+      },
+      {
+        "change": "+14.95",
+        "change_pts": null,
+        "close": 7722.72,
+        "name": "Synaptics Incorporated",
+        "open": null,
+        "pct_change": "+14.08%",
+        "price": "",
+        "symbol": "SYNA"
+      },
+      {
+        "change": "+6.38",
+        "change_pts": null,
+        "close": 7722.72,
+        "name": "Penguin Solutions, Inc.",
+        "open": null,
+        "pct_change": "+11.60%",
+        "price": "",
+        "symbol": "PENG"
+      },
+      {
+        "change": "+3.91",
+        "change_pts": null,
+        "close": 7722.72,
+        "name": "Vishay Intertechnology, Inc.",
+        "open": null,
+        "pct_change": "+11.41%",
+        "price": "",
+        "symbol": "VSH"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.11",
+        "change_pts": null,
+        "close": 7722.72,
+        "name": "Maase Inc.",
+        "open": null,
+        "pct_change": "-13.35%",
+        "price": "",
+        "symbol": "MAAS"
+      },
+      {
+        "change": "-47.27",
+        "change_pts": null,
+        "close": 7722.72,
+        "name": "Western Digital Corporation",
+        "open": null,
+        "pct_change": "-10.22%",
+        "price": "",
+        "symbol": "WDC"
+      },
+      {
+        "change": "-96.58",
+        "change_pts": null,
+        "close": 7722.72,
+        "name": "Seagate Technology Holdings plc",
+        "open": null,
+        "pct_change": "-10.21%",
+        "price": "",
+        "symbol": "STX"
+      },
+      {
+        "change": "-5.95",
+        "change_pts": null,
+        "close": 7722.72,
+        "name": "Ultra Clean Holdings, Inc.",
+        "open": null,
+        "pct_change": "-7.57%",
+        "price": "",
+        "symbol": "UCTT"
+      },
+      {
+        "change": "-2.23",
+        "change_pts": null,
+        "close": 7722.72,
+        "name": "GDS Holdings Limited",
+        "open": null,
+        "pct_change": "-7.48%",
+        "price": "",
+        "symbol": "GDS"
+      }
+    ],
+    "scraped_at": "2026-10-02T21:33:36.477082-04:00"
   }
 }
