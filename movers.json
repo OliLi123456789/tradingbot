@@ -24608,5 +24608,112 @@
       }
     ],
     "scraped_at": "2026-10-02T21:33:36.477082-04:00"
+  },
+  "2026-10-05": {
+    "gainers": [
+      {
+        "change": "+48.23",
+        "change_pts": null,
+        "close": 7833.5,
+        "name": "PTC Inc.",
+        "open": null,
+        "pct_change": "+33.49%",
+        "price": "",
+        "symbol": "PTC"
+      },
+      {
+        "change": "+6.65",
+        "change_pts": null,
+        "close": 7833.5,
+        "name": "XP Inc.",
+        "open": null,
+        "pct_change": "+30.93%",
+        "price": "",
+        "symbol": "XP"
+      },
+      {
+        "change": "+17.34",
+        "change_pts": null,
+        "close": 7833.5,
+        "name": "Vaxcyte, Inc.",
+        "open": null,
+        "pct_change": "+30.70%",
+        "price": "",
+        "symbol": "PCVX"
+      },
+      {
+        "change": "+5.27",
+        "change_pts": null,
+        "close": 7833.5,
+        "name": "RXO, Inc.",
+        "open": null,
+        "pct_change": "+22.54%",
+        "price": "",
+        "symbol": "RXO"
+      },
+      {
+        "change": "+1.93",
+        "change_pts": null,
+        "close": 7833.5,
+        "name": "PagSeguro Digital Ltd.",
+        "open": null,
+        "pct_change": "+21.40%",
+        "price": "",
+        "symbol": "PAGS"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-17.45",
+        "change_pts": null,
+        "close": 7833.5,
+        "name": "Sphere Entertainment Co.",
+        "open": null,
+        "pct_change": "-13.61%",
+        "price": "",
+        "symbol": "SPHR"
+      },
+      {
+        "change": "-17.11",
+        "change_pts": null,
+        "close": 7833.5,
+        "name": "C.H. Robinson Worldwide, Inc.",
+        "open": null,
+        "pct_change": "-10.85%",
+        "price": "",
+        "symbol": "CHRW"
+      },
+      {
+        "change": "-0.80",
+        "change_pts": null,
+        "close": 7833.5,
+        "name": "Precigen, Inc.",
+        "open": null,
+        "pct_change": "-9.37%",
+        "price": "",
+        "symbol": "PGEN"
+      },
+      {
+        "change": "-2.35",
+        "change_pts": null,
+        "close": 7833.5,
+        "name": "United Microelectronics Corporation",
+        "open": null,
+        "pct_change": "-8.95%",
+        "price": "",
+        "symbol": "UMC"
+      },
+      {
+        "change": "-7.21",
+        "change_pts": null,
+        "close": 7833.5,
+        "name": "ACM Research, Inc.",
+        "open": null,
+        "pct_change": "-8.65%",
+        "price": "",
+        "symbol": "ACMR"
+      }
+    ],
+    "scraped_at": "2026-10-05T21:36:50.039155-04:00"
   }
 }
