@@ -24715,5 +24715,112 @@
       }
     ],
     "scraped_at": "2026-10-05T21:36:50.039155-04:00"
+  },
+  "2026-10-06": {
+    "gainers": [
+      {
+        "change": "+7.63",
+        "change_pts": null,
+        "close": 7883.0,
+        "name": "Option Care Health, Inc.",
+        "open": null,
+        "pct_change": "+32.65%",
+        "price": "",
+        "symbol": "OPCH"
+      },
+      {
+        "change": "+2.18",
+        "change_pts": null,
+        "close": 7883.0,
+        "name": "Standard Nuclear, Inc.",
+        "open": null,
+        "pct_change": "+16.76%",
+        "price": "",
+        "symbol": "STDN"
+      },
+      {
+        "change": "+53.96",
+        "change_pts": null,
+        "close": 7883.0,
+        "name": "Ciena Corporation",
+        "open": null,
+        "pct_change": "+13.85%",
+        "price": "",
+        "symbol": "CIEN"
+      },
+      {
+        "change": "+2.37",
+        "change_pts": null,
+        "close": 7883.0,
+        "name": "Innio N.V.",
+        "open": null,
+        "pct_change": "+12.49%",
+        "price": "",
+        "symbol": "INIO"
+      },
+      {
+        "change": "+41.24",
+        "change_pts": null,
+        "close": 7883.0,
+        "name": "Talen Energy Corporation",
+        "open": null,
+        "pct_change": "+12.43%",
+        "price": "",
+        "symbol": "TLN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-38.03",
+        "change_pts": null,
+        "close": 7883.0,
+        "name": "Twist Bioscience Corporation",
+        "open": null,
+        "pct_change": "-18.55%",
+        "price": "",
+        "symbol": "TWST"
+      },
+      {
+        "change": "-17.08",
+        "change_pts": null,
+        "close": 7883.0,
+        "name": "10x Genomics, Inc.",
+        "open": null,
+        "pct_change": "-17.47%",
+        "price": "",
+        "symbol": "TXG"
+      },
+      {
+        "change": "-5.87",
+        "change_pts": null,
+        "close": 7883.0,
+        "name": "Alamar Biosciences, Inc.",
+        "open": null,
+        "pct_change": "-15.39%",
+        "price": "",
+        "symbol": "ALMR"
+      },
+      {
+        "change": "-11.57",
+        "change_pts": null,
+        "close": 7883.0,
+        "name": "Tempus AI, Inc.",
+        "open": null,
+        "pct_change": "-13.85%",
+        "price": "",
+        "symbol": "TEM"
+      },
+      {
+        "change": "-2.62",
+        "change_pts": null,
+        "close": 7883.0,
+        "name": "NeoGenomics, Inc.",
+        "open": null,
+        "pct_change": "-13.72%",
+        "price": "",
+        "symbol": "NEO"
+      }
+    ],
+    "scraped_at": "2026-10-06T21:41:42.867195-04:00"
   }
 }
