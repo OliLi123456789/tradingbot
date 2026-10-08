@@ -24822,5 +24822,112 @@
       }
     ],
     "scraped_at": "2026-10-06T21:41:42.867195-04:00"
+  },
+  "2026-10-07": {
+    "gainers": [
+      {
+        "change": "+8.00",
+        "change_pts": null,
+        "close": 7850.75,
+        "name": "Bending Spoons S.p.A.",
+        "open": null,
+        "pct_change": "+24.19%",
+        "price": "",
+        "symbol": "BSP"
+      },
+      {
+        "change": "+8.40",
+        "change_pts": null,
+        "close": 7850.75,
+        "name": "Penguin Solutions, Inc.",
+        "open": null,
+        "pct_change": "+13.08%",
+        "price": "",
+        "symbol": "PENG"
+      },
+      {
+        "change": "+2.12",
+        "change_pts": null,
+        "close": 7850.75,
+        "name": "Braze, Inc.",
+        "open": null,
+        "pct_change": "+8.05%",
+        "price": "",
+        "symbol": "BRZE"
+      },
+      {
+        "change": "+1.63",
+        "change_pts": null,
+        "close": 7850.75,
+        "name": "BKV Corporation",
+        "open": null,
+        "pct_change": "+7.39%",
+        "price": "",
+        "symbol": "BKV"
+      },
+      {
+        "change": "+5.05",
+        "change_pts": null,
+        "close": 7850.75,
+        "name": "NorthWestern Energy Group, Inc.",
+        "open": null,
+        "pct_change": "+7.33%",
+        "price": "",
+        "symbol": "NWE"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-1.39",
+        "change_pts": null,
+        "close": 7850.75,
+        "name": "Webull Corporation",
+        "open": null,
+        "pct_change": "-19.09%",
+        "price": "",
+        "symbol": "BULL"
+      },
+      {
+        "change": "-5.66",
+        "change_pts": null,
+        "close": 7850.75,
+        "name": "Hess Midstream LP",
+        "open": null,
+        "pct_change": "-14.63%",
+        "price": "",
+        "symbol": "HESM"
+      },
+      {
+        "change": "-33.01",
+        "change_pts": null,
+        "close": 7850.75,
+        "name": "IES Holdings, Inc.",
+        "open": null,
+        "pct_change": "-9.66%",
+        "price": "",
+        "symbol": "IESC"
+      },
+      {
+        "change": "-1.06",
+        "change_pts": null,
+        "close": 7850.75,
+        "name": "Fortuna Mining Corp.",
+        "open": null,
+        "pct_change": "-9.48%",
+        "price": "",
+        "symbol": "FSM"
+      },
+      {
+        "change": "-1.00",
+        "change_pts": null,
+        "close": 7850.75,
+        "name": "Energy Fuels Inc.",
+        "open": null,
+        "pct_change": "-8.88%",
+        "price": "",
+        "symbol": "UUUU"
+      }
+    ],
+    "scraped_at": "2026-10-07T21:41:35.563925-04:00"
   }
 }
