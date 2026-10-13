@@ -25143,5 +25143,112 @@
       }
     ],
     "scraped_at": "2026-10-09T21:40:38.926225-04:00"
+  },
+  "2026-10-12": {
+    "gainers": [
+      {
+        "change": "+1.96",
+        "change_pts": null,
+        "close": 7844.75,
+        "name": "FIGS, Inc.",
+        "open": null,
+        "pct_change": "+12.42%",
+        "price": "",
+        "symbol": "FIGS"
+      },
+      {
+        "change": "+72.42",
+        "change_pts": null,
+        "close": 7844.75,
+        "name": "Fair Isaac Corporation",
+        "open": null,
+        "pct_change": "+10.85%",
+        "price": "",
+        "symbol": "FICO"
+      },
+      {
+        "change": "+0.57",
+        "change_pts": null,
+        "close": 7844.75,
+        "name": "CCC Intelligent Solutions Holdings Inc.",
+        "open": null,
+        "pct_change": "+8.12%",
+        "price": "",
+        "symbol": "CCC"
+      },
+      {
+        "change": "+5.72",
+        "change_pts": null,
+        "close": 7844.75,
+        "name": "Victorias Secret & Co.",
+        "open": null,
+        "pct_change": "+6.90%",
+        "price": "",
+        "symbol": "VSXY"
+      },
+      {
+        "change": "+1.58",
+        "change_pts": null,
+        "close": 7844.75,
+        "name": "DHT Holdings, Inc.",
+        "open": null,
+        "pct_change": "+6.41%",
+        "price": "",
+        "symbol": "DHT"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-17.55",
+        "change_pts": null,
+        "close": 7844.75,
+        "name": "Cerebras Systems Inc.",
+        "open": null,
+        "pct_change": "-10.69%",
+        "price": "",
+        "symbol": "CBRS"
+      },
+      {
+        "change": "-19.02",
+        "change_pts": null,
+        "close": 7844.75,
+        "name": "Semtech Corporation",
+        "open": null,
+        "pct_change": "-10.15%",
+        "price": "",
+        "symbol": "SMTC"
+      },
+      {
+        "change": "-44.76",
+        "change_pts": null,
+        "close": 7844.75,
+        "name": "Ciena Corporation",
+        "open": null,
+        "pct_change": "-9.95%",
+        "price": "",
+        "symbol": "CIEN"
+      },
+      {
+        "change": "-2.87",
+        "change_pts": null,
+        "close": 7844.75,
+        "name": "Fastly, Inc.",
+        "open": null,
+        "pct_change": "-9.80%",
+        "price": "",
+        "symbol": "FSLY"
+      },
+      {
+        "change": "-107.94",
+        "change_pts": null,
+        "close": 7844.75,
+        "name": "Lumentum Holdings Inc.",
+        "open": null,
+        "pct_change": "-9.78%",
+        "price": "",
+        "symbol": "LITE"
+      }
+    ],
+    "scraped_at": "2026-10-12T21:44:33.492750-04:00"
   }
 }
