@@ -25250,5 +25250,112 @@
       }
     ],
     "scraped_at": "2026-10-12T21:44:33.492750-04:00"
+  },
+  "2026-10-13": {
+    "gainers": [
+      {
+        "change": "+1.06",
+        "change_pts": null,
+        "close": 7856.0,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "+14.87%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "+3.46",
+        "change_pts": null,
+        "close": 7856.0,
+        "name": "Enerflex Ltd.",
+        "open": null,
+        "pct_change": "+14.37%",
+        "price": "",
+        "symbol": "EFXT"
+      },
+      {
+        "change": "+6.76",
+        "change_pts": null,
+        "close": 7856.0,
+        "name": "Par Pacific Holdings, Inc.",
+        "open": null,
+        "pct_change": "+8.13%",
+        "price": "",
+        "symbol": "PARR"
+      },
+      {
+        "change": "+6.15",
+        "change_pts": null,
+        "close": 7856.0,
+        "name": "PBF Energy Inc.",
+        "open": null,
+        "pct_change": "+7.23%",
+        "price": "",
+        "symbol": "PBF"
+      },
+      {
+        "change": "+4.21",
+        "change_pts": null,
+        "close": 7856.0,
+        "name": "CVR Energy, Inc.",
+        "open": null,
+        "pct_change": "+7.15%",
+        "price": "",
+        "symbol": "CVI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-1.66",
+        "change_pts": null,
+        "close": 7856.0,
+        "name": "Cipher Digital Inc.",
+        "open": null,
+        "pct_change": "-12.77%",
+        "price": "",
+        "symbol": "CIFR"
+      },
+      {
+        "change": "-6.57",
+        "change_pts": null,
+        "close": 7856.0,
+        "name": "Pershing Square Inc.",
+        "open": null,
+        "pct_change": "-12.12%",
+        "price": "",
+        "symbol": "PS"
+      },
+      {
+        "change": "-5.07",
+        "change_pts": null,
+        "close": 7856.0,
+        "name": "PDF Solutions, Inc.",
+        "open": null,
+        "pct_change": "-9.62%",
+        "price": "",
+        "symbol": "PDFS"
+      },
+      {
+        "change": "-1.61",
+        "change_pts": null,
+        "close": 7856.0,
+        "name": "Summit Therapeutics Inc.",
+        "open": null,
+        "pct_change": "-9.40%",
+        "price": "",
+        "symbol": "SMMT"
+      },
+      {
+        "change": "-1.57",
+        "change_pts": null,
+        "close": 7856.0,
+        "name": "ChronoScale Holdings Corporation",
+        "open": null,
+        "pct_change": "-8.78%",
+        "price": "",
+        "symbol": "CHRN"
+      }
+    ],
+    "scraped_at": "2026-10-13T21:27:19.867868-04:00"
   }
 }
