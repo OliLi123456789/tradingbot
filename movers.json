@@ -25357,5 +25357,112 @@
       }
     ],
     "scraped_at": "2026-10-13T21:27:19.867868-04:00"
+  },
+  "2026-10-14": {
+    "gainers": [
+      {
+        "change": "+15.60",
+        "change_pts": null,
+        "close": 7746.0,
+        "name": "Bending Spoons S.p.A.",
+        "open": null,
+        "pct_change": "+41.20%",
+        "price": "",
+        "symbol": "BSP"
+      },
+      {
+        "change": "+7.13",
+        "change_pts": null,
+        "close": 7746.0,
+        "name": "Liquidia Corporation",
+        "open": null,
+        "pct_change": "+26.59%",
+        "price": "",
+        "symbol": "LQDA"
+      },
+      {
+        "change": "+1.38",
+        "change_pts": null,
+        "close": 7746.0,
+        "name": "Youdao, Inc.",
+        "open": null,
+        "pct_change": "+7.62%",
+        "price": "",
+        "symbol": "DAO"
+      },
+      {
+        "change": "+1.54",
+        "change_pts": null,
+        "close": 7746.0,
+        "name": "Nurix Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+6.96%",
+        "price": "",
+        "symbol": "NRIX"
+      },
+      {
+        "change": "+7.20",
+        "change_pts": null,
+        "close": 7746.0,
+        "name": "Halozyme Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+6.57%",
+        "price": "",
+        "symbol": "HALO"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.02",
+        "change_pts": null,
+        "close": 7746.0,
+        "name": "Skydance Corporation",
+        "open": null,
+        "pct_change": "-22.22%",
+        "price": "",
+        "symbol": "SKYD"
+      },
+      {
+        "change": "-12.03",
+        "change_pts": null,
+        "close": 7746.0,
+        "name": "CoreWeave, Inc.",
+        "open": null,
+        "pct_change": "-15.46%",
+        "price": "",
+        "symbol": "CRWV"
+      },
+      {
+        "change": "-18.92",
+        "change_pts": null,
+        "close": 7746.0,
+        "name": "DigitalOcean Holdings, Inc.",
+        "open": null,
+        "pct_change": "-14.76%",
+        "price": "",
+        "symbol": "DOCN"
+      },
+      {
+        "change": "-10.61",
+        "change_pts": null,
+        "close": 7746.0,
+        "name": "Penguin Solutions, Inc.",
+        "open": null,
+        "pct_change": "-13.57%",
+        "price": "",
+        "symbol": "PENG"
+      },
+      {
+        "change": "-1.67",
+        "change_pts": null,
+        "close": 7746.0,
+        "name": "TeraWulf Inc.",
+        "open": null,
+        "pct_change": "-12.64%",
+        "price": "",
+        "symbol": "WULF"
+      }
+    ],
+    "scraped_at": "2026-10-14T21:27:20.935389-04:00"
   }
 }
