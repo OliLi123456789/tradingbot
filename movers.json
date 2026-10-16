@@ -25464,5 +25464,112 @@
       }
     ],
     "scraped_at": "2026-10-14T21:27:20.935389-04:00"
+  },
+  "2026-10-15": {
+    "gainers": [
+      {
+        "change": "+1.41",
+        "change_pts": null,
+        "close": 7788.5,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "+17.39%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "+5.37",
+        "change_pts": null,
+        "close": 7788.5,
+        "name": "Appian Corporation",
+        "open": null,
+        "pct_change": "+13.97%",
+        "price": "",
+        "symbol": "APPN"
+      },
+      {
+        "change": "+3.76",
+        "change_pts": null,
+        "close": 7788.5,
+        "name": "Karman Holdings Inc.",
+        "open": null,
+        "pct_change": "+12.48%",
+        "price": "",
+        "symbol": "KRMN"
+      },
+      {
+        "change": "+1.40",
+        "change_pts": null,
+        "close": 7788.5,
+        "name": "Kyndryl Holdings, Inc.",
+        "open": null,
+        "pct_change": "+11.87%",
+        "price": "",
+        "symbol": "KD"
+      },
+      {
+        "change": "+1.13",
+        "change_pts": null,
+        "close": 7788.5,
+        "name": "Telefonaktiebolaget LM Ericsson (publ)",
+        "open": null,
+        "pct_change": "+11.80%",
+        "price": "",
+        "symbol": "ERIC"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-8.22",
+        "change_pts": null,
+        "close": 7788.5,
+        "name": "ManpowerGroup Inc.",
+        "open": null,
+        "pct_change": "-15.82%",
+        "price": "",
+        "symbol": "MAN"
+      },
+      {
+        "change": "-25.43",
+        "change_pts": null,
+        "close": 7788.5,
+        "name": "Vicor Corporation",
+        "open": null,
+        "pct_change": "-10.36%",
+        "price": "",
+        "symbol": "VICR"
+      },
+      {
+        "change": "-16.05",
+        "change_pts": null,
+        "close": 7788.5,
+        "name": "Semtech Corporation",
+        "open": null,
+        "pct_change": "-10.02%",
+        "price": "",
+        "symbol": "SMTC"
+      },
+      {
+        "change": "-5.73",
+        "change_pts": null,
+        "close": 7788.5,
+        "name": "Penguin Solutions, Inc.",
+        "open": null,
+        "pct_change": "-8.48%",
+        "price": "",
+        "symbol": "PENG"
+      },
+      {
+        "change": "-1.32",
+        "change_pts": null,
+        "close": 7788.5,
+        "name": "Liberty Energy Inc.",
+        "open": null,
+        "pct_change": "-7.33%",
+        "price": "",
+        "symbol": "LBRT"
+      }
+    ],
+    "scraped_at": "2026-10-15T21:26:39.512114-04:00"
   }
 }
