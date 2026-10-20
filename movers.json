@@ -25678,5 +25678,112 @@
       }
     ],
     "scraped_at": "2026-10-16T21:25:40.527233-04:00"
+  },
+  "2026-10-19": {
+    "gainers": [
+      {
+        "change": "+22.09",
+        "change_pts": null,
+        "close": 7728.5,
+        "name": "Disc Medicine, Inc.",
+        "open": null,
+        "pct_change": "+38.86%",
+        "price": "",
+        "symbol": "IRON"
+      },
+      {
+        "change": "+1.98",
+        "change_pts": null,
+        "close": 7728.5,
+        "name": "Cleveland-Cliffs Inc.",
+        "open": null,
+        "pct_change": "+16.34%",
+        "price": "",
+        "symbol": "CLF"
+      },
+      {
+        "change": "+13.46",
+        "change_pts": null,
+        "close": 7728.5,
+        "name": "Veradermics, Incorporated",
+        "open": null,
+        "pct_change": "+12.37%",
+        "price": "",
+        "symbol": "MANE"
+      },
+      {
+        "change": "+3.58",
+        "change_pts": null,
+        "close": 7728.5,
+        "name": "Agios Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "+11.43%",
+        "price": "",
+        "symbol": "AGIO"
+      },
+      {
+        "change": "+2.60",
+        "change_pts": null,
+        "close": 7728.5,
+        "name": "Parabilis Medicines, Inc.",
+        "open": null,
+        "pct_change": "+11.43%",
+        "price": "",
+        "symbol": "PBLS"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-1.00",
+        "change_pts": null,
+        "close": 7728.5,
+        "name": "Almonty Industries Inc.",
+        "open": null,
+        "pct_change": "-10.17%",
+        "price": "",
+        "symbol": "ALM"
+      },
+      {
+        "change": "-0.76",
+        "change_pts": null,
+        "close": 7728.5,
+        "name": "ImmunityBio, Inc.",
+        "open": null,
+        "pct_change": "-8.28%",
+        "price": "",
+        "symbol": "IBRX"
+      },
+      {
+        "change": "-2.07",
+        "change_pts": null,
+        "close": 7728.5,
+        "name": "Bullish",
+        "open": null,
+        "pct_change": "-7.02%",
+        "price": "",
+        "symbol": "BLSH"
+      },
+      {
+        "change": "-0.72",
+        "change_pts": null,
+        "close": 7728.5,
+        "name": "QXO, Inc.",
+        "open": null,
+        "pct_change": "-6.63%",
+        "price": "",
+        "symbol": "QXO"
+      },
+      {
+        "change": "-0.58",
+        "change_pts": null,
+        "close": 7728.5,
+        "name": "Fervo Energy Company",
+        "open": null,
+        "pct_change": "-5.99%",
+        "price": "",
+        "symbol": "FRVO"
+      }
+    ],
+    "scraped_at": "2026-10-19T21:28:58.764251-04:00"
   }
 }
