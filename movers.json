@@ -25785,5 +25785,112 @@
       }
     ],
     "scraped_at": "2026-10-19T21:28:58.764251-04:00"
+  },
+  "2026-10-20": {
+    "gainers": [
+      {
+        "change": "+15.53",
+        "change_pts": null,
+        "close": 7774.25,
+        "name": "Braze, Inc.",
+        "open": null,
+        "pct_change": "+51.70%",
+        "price": "",
+        "symbol": "BRZE"
+      },
+      {
+        "change": "+1.53",
+        "change_pts": null,
+        "close": 7774.25,
+        "name": "Lionsgate Studios Corp.",
+        "open": null,
+        "pct_change": "+14.41%",
+        "price": "",
+        "symbol": "LION"
+      },
+      {
+        "change": "+1.49",
+        "change_pts": null,
+        "close": 7774.25,
+        "name": "SELLAS Life Sciences Group, Inc.",
+        "open": null,
+        "pct_change": "+14.20%",
+        "price": "",
+        "symbol": "SLS"
+      },
+      {
+        "change": "+2.09",
+        "change_pts": null,
+        "close": 7774.25,
+        "name": "Klaviyo, Inc.",
+        "open": null,
+        "pct_change": "+11.93%",
+        "price": "",
+        "symbol": "KVYO"
+      },
+      {
+        "change": "+1.65",
+        "change_pts": null,
+        "close": 7774.25,
+        "name": "EquipmentShare.com Inc.",
+        "open": null,
+        "pct_change": "+11.83%",
+        "price": "",
+        "symbol": "EQPT"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-8.04",
+        "change_pts": null,
+        "close": 7774.25,
+        "name": "Sea Limited",
+        "open": null,
+        "pct_change": "-9.09%",
+        "price": "",
+        "symbol": "SE"
+      },
+      {
+        "change": "-2.85",
+        "change_pts": null,
+        "close": 7774.25,
+        "name": "DPC Holdings PLC",
+        "open": null,
+        "pct_change": "-8.91%",
+        "price": "",
+        "symbol": "DPC"
+      },
+      {
+        "change": "-16.52",
+        "change_pts": null,
+        "close": 7774.25,
+        "name": "Tower Semiconductor Ltd.",
+        "open": null,
+        "pct_change": "-8.25%",
+        "price": "",
+        "symbol": "TSEM"
+      },
+      {
+        "change": "-5.66",
+        "change_pts": null,
+        "close": 7774.25,
+        "name": "General Motors Company",
+        "open": null,
+        "pct_change": "-6.84%",
+        "price": "",
+        "symbol": "GM"
+      },
+      {
+        "change": "-2.98",
+        "change_pts": null,
+        "close": 7774.25,
+        "name": "Legence Corp.",
+        "open": null,
+        "pct_change": "-6.74%",
+        "price": "",
+        "symbol": "LGN"
+      }
+    ],
+    "scraped_at": "2026-10-20T21:30:24.653533-04:00"
   }
 }
