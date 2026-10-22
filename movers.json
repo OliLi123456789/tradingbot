@@ -25892,5 +25892,112 @@
       }
     ],
     "scraped_at": "2026-10-20T21:30:24.653533-04:00"
+  },
+  "2026-10-21": {
+    "gainers": [
+      {
+        "change": "+3.69",
+        "change_pts": null,
+        "close": 7765.75,
+        "name": "Strive, Inc.",
+        "open": null,
+        "pct_change": "+13.64%",
+        "price": "",
+        "symbol": "ASST"
+      },
+      {
+        "change": "+3.29",
+        "change_pts": null,
+        "close": 7765.75,
+        "name": "Alamar Biosciences, Inc.",
+        "open": null,
+        "pct_change": "+11.68%",
+        "price": "",
+        "symbol": "ALMR"
+      },
+      {
+        "change": "+0.77",
+        "change_pts": null,
+        "close": 7765.75,
+        "name": "Skydance Corporation",
+        "open": null,
+        "pct_change": "+10.85%",
+        "price": "",
+        "symbol": "SKYD"
+      },
+      {
+        "change": "+1.99",
+        "change_pts": null,
+        "close": 7765.75,
+        "name": "Netskope, Inc.",
+        "open": null,
+        "pct_change": "+10.04%",
+        "price": "",
+        "symbol": "NTSK"
+      },
+      {
+        "change": "+5.51",
+        "change_pts": null,
+        "close": 7766.5,
+        "name": "Innodata Inc.",
+        "open": null,
+        "pct_change": "+10.02%",
+        "price": "",
+        "symbol": "INOD"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.65",
+        "change_pts": null,
+        "close": 7766.5,
+        "name": "Arcus Biosciences, Inc.",
+        "open": null,
+        "pct_change": "-19.58%",
+        "price": "",
+        "symbol": "RCUS"
+      },
+      {
+        "change": "-30.40",
+        "change_pts": null,
+        "close": 7766.5,
+        "name": "Lithia Motors, Inc.",
+        "open": null,
+        "pct_change": "-10.15%",
+        "price": "",
+        "symbol": "LAD"
+      },
+      {
+        "change": "-1.13",
+        "change_pts": null,
+        "close": 7766.5,
+        "name": "Telix Pharmaceuticals Limited",
+        "open": null,
+        "pct_change": "-10.13%",
+        "price": "",
+        "symbol": "TLX"
+      },
+      {
+        "change": "-1.03",
+        "change_pts": null,
+        "close": 7766.5,
+        "name": "TAL Education Group",
+        "open": null,
+        "pct_change": "-8.89%",
+        "price": "",
+        "symbol": "TAL"
+      },
+      {
+        "change": "-10.02",
+        "change_pts": null,
+        "close": 7766.5,
+        "name": "M/I Homes, Inc.",
+        "open": null,
+        "pct_change": "-8.08%",
+        "price": "",
+        "symbol": "MHO"
+      }
+    ],
+    "scraped_at": "2026-10-21T21:28:36.867964-04:00"
   }
 }
