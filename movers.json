@@ -25999,5 +25999,112 @@
       }
     ],
     "scraped_at": "2026-10-21T21:28:36.867964-04:00"
+  },
+  "2026-10-22": {
+    "gainers": [
+      {
+        "change": "+2.94",
+        "change_pts": null,
+        "close": 7696.5,
+        "name": "Biohaven Ltd.",
+        "open": null,
+        "pct_change": "+25.02%",
+        "price": "",
+        "symbol": "BHVN"
+      },
+      {
+        "change": "+24.77",
+        "change_pts": null,
+        "close": 7696.5,
+        "name": "Pool Corporation",
+        "open": null,
+        "pct_change": "+14.36%",
+        "price": "",
+        "symbol": "POOL"
+      },
+      {
+        "change": "+4.14",
+        "change_pts": null,
+        "close": 7696.5,
+        "name": "Concentrix Corporation",
+        "open": null,
+        "pct_change": "+13.77%",
+        "price": "",
+        "symbol": "CNXC"
+      },
+      {
+        "change": "+17.78",
+        "change_pts": null,
+        "close": 7696.5,
+        "name": "Badger Meter, Inc.",
+        "open": null,
+        "pct_change": "+13.48%",
+        "price": "",
+        "symbol": "BMI"
+      },
+      {
+        "change": "+2.62",
+        "change_pts": null,
+        "close": 7696.5,
+        "name": "Kohl's Corporation",
+        "open": null,
+        "pct_change": "+11.82%",
+        "price": "",
+        "symbol": "KSS"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-28.26",
+        "change_pts": null,
+        "close": 7696.5,
+        "name": "TTM Technologies, Inc.",
+        "open": null,
+        "pct_change": "-27.67%",
+        "price": "",
+        "symbol": "TTMI"
+      },
+      {
+        "change": "-6.84",
+        "change_pts": null,
+        "close": 7696.5,
+        "name": "Forgent Power Solutions, Inc.",
+        "open": null,
+        "pct_change": "-21.54%",
+        "price": "",
+        "symbol": "FPS"
+      },
+      {
+        "change": "-75.90",
+        "change_pts": null,
+        "close": 7696.5,
+        "name": "Carpenter Technology Corporation",
+        "open": null,
+        "pct_change": "-20.62%",
+        "price": "",
+        "symbol": "CRS"
+      },
+      {
+        "change": "-43.18",
+        "change_pts": null,
+        "close": 7696.5,
+        "name": "Moderna, Inc.",
+        "open": null,
+        "pct_change": "-17.57%",
+        "price": "",
+        "symbol": "MRNA"
+      },
+      {
+        "change": "-7.47",
+        "change_pts": null,
+        "close": 7696.5,
+        "name": "Oceaneering International, Inc.",
+        "open": null,
+        "pct_change": "-16.94%",
+        "price": "",
+        "symbol": "OII"
+      }
+    ],
+    "scraped_at": "2026-10-22T21:32:07.150172-04:00"
   }
 }
