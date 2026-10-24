@@ -26106,5 +26106,112 @@
       }
     ],
     "scraped_at": "2026-10-22T21:32:07.150172-04:00"
+  },
+  "2026-10-23": {
+    "gainers": [
+      {
+        "change": "+8.19",
+        "change_pts": null,
+        "close": 7623.68,
+        "name": "Robert Half Inc.",
+        "open": null,
+        "pct_change": "+21.74%",
+        "price": "",
+        "symbol": "RHI"
+      },
+      {
+        "change": "+3.79",
+        "change_pts": null,
+        "close": 7623.68,
+        "name": "Genmab A/S",
+        "open": null,
+        "pct_change": "+9.48%",
+        "price": "",
+        "symbol": "GMAB"
+      },
+      {
+        "change": "+2.08",
+        "change_pts": null,
+        "close": 7623.68,
+        "name": "Netskope, Inc.",
+        "open": null,
+        "pct_change": "+9.37%",
+        "price": "",
+        "symbol": "NTSK"
+      },
+      {
+        "change": "+1.19",
+        "change_pts": null,
+        "close": 7623.68,
+        "name": "Venture Global, Inc.",
+        "open": null,
+        "pct_change": "+9.29%",
+        "price": "",
+        "symbol": "VG"
+      },
+      {
+        "change": "+4.76",
+        "change_pts": null,
+        "close": 7623.68,
+        "name": "Maplebear Inc.",
+        "open": null,
+        "pct_change": "+9.21%",
+        "price": "",
+        "symbol": "CART"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-5.05",
+        "change_pts": null,
+        "close": 7623.68,
+        "name": "LKQ Corporation",
+        "open": null,
+        "pct_change": "-22.47%",
+        "price": "",
+        "symbol": "LKQ"
+      },
+      {
+        "change": "-2.14",
+        "change_pts": null,
+        "close": 7623.68,
+        "name": "Regencell Bioscience Holdings Limited",
+        "open": null,
+        "pct_change": "-21.81%",
+        "price": "",
+        "symbol": "RGC"
+      },
+      {
+        "change": "-21.64",
+        "change_pts": null,
+        "close": 7623.68,
+        "name": "Corcept Therapeutics Incorporated",
+        "open": null,
+        "pct_change": "-20.13%",
+        "price": "",
+        "symbol": "CORT"
+      },
+      {
+        "change": "-4.59",
+        "change_pts": null,
+        "close": 7623.68,
+        "name": "Tango Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-16.43%",
+        "price": "",
+        "symbol": "TNGX"
+      },
+      {
+        "change": "-24.47",
+        "change_pts": null,
+        "close": 7623.68,
+        "name": "Bloom Energy Corporation",
+        "open": null,
+        "pct_change": "-11.24%",
+        "price": "",
+        "symbol": "BE"
+      }
+    ],
+    "scraped_at": "2026-10-23T21:28:46.316841-04:00"
   }
 }
