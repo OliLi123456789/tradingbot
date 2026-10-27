@@ -26213,5 +26213,112 @@
       }
     ],
     "scraped_at": "2026-10-23T21:28:46.316841-04:00"
+  },
+  "2026-10-26": {
+    "gainers": [
+      {
+        "change": "+7.50",
+        "change_pts": null,
+        "close": 7720.75,
+        "name": "Surgery Partners, Inc.",
+        "open": null,
+        "pct_change": "+47.62%",
+        "price": "",
+        "symbol": "SGRY"
+      },
+      {
+        "change": "+8.04",
+        "change_pts": null,
+        "close": 7720.75,
+        "name": "Range Resources Corporation",
+        "open": null,
+        "pct_change": "+17.66%",
+        "price": "",
+        "symbol": "RRC"
+      },
+      {
+        "change": "+4.00",
+        "change_pts": null,
+        "close": 7720.75,
+        "name": "Xencor, Inc.",
+        "open": null,
+        "pct_change": "+15.89%",
+        "price": "",
+        "symbol": "XNCR"
+      },
+      {
+        "change": "+10.18",
+        "change_pts": null,
+        "close": 7720.75,
+        "name": "Oruka Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+12.70%",
+        "price": "",
+        "symbol": "ORKA"
+      },
+      {
+        "change": "+18.73",
+        "change_pts": null,
+        "close": 7720.75,
+        "name": "Vicor Corporation",
+        "open": null,
+        "pct_change": "+10.64%",
+        "price": "",
+        "symbol": "VICR"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-14.70",
+        "change_pts": null,
+        "close": 7720.75,
+        "name": "XP Inc.",
+        "open": null,
+        "pct_change": "-48.36%",
+        "price": "",
+        "symbol": "XP"
+      },
+      {
+        "change": "-2.88",
+        "change_pts": null,
+        "close": 7720.75,
+        "name": "PagSeguro Digital Ltd.",
+        "open": null,
+        "pct_change": "-25.17%",
+        "price": "",
+        "symbol": "PAGS"
+      },
+      {
+        "change": "-1.38",
+        "change_pts": null,
+        "close": 7720.75,
+        "name": "Engie Brasil Energia S.A.",
+        "open": null,
+        "pct_change": "-20.51%",
+        "price": "",
+        "symbol": "EGIEY"
+      },
+      {
+        "change": "-1.97",
+        "change_pts": null,
+        "close": 7720.75,
+        "name": "Itaú Unibanco Holding S.A.",
+        "open": null,
+        "pct_change": "-20.37%",
+        "price": "",
+        "symbol": "ITUB"
+      },
+      {
+        "change": "-2.72",
+        "change_pts": null,
+        "close": 7720.75,
+        "name": "Companhia Paranaense de Energia",
+        "open": null,
+        "pct_change": "-19.55%",
+        "price": "",
+        "symbol": "ELPC"
+      }
+    ],
+    "scraped_at": "2026-10-26T21:34:23.855749-04:00"
   }
 }
