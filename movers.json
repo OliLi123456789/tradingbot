@@ -26320,5 +26320,112 @@
       }
     ],
     "scraped_at": "2026-10-26T21:34:23.855749-04:00"
+  },
+  "2026-10-27": {
+    "gainers": [
+      {
+        "change": "+28.93",
+        "change_pts": null,
+        "close": 7756.75,
+        "name": "Herc Holdings Inc.",
+        "open": null,
+        "pct_change": "+22.76%",
+        "price": "",
+        "symbol": "HRI"
+      },
+      {
+        "change": "+16.22",
+        "change_pts": null,
+        "close": 7756.75,
+        "name": "Kiniksa Pharmaceuticals International, plc",
+        "open": null,
+        "pct_change": "+22.23%",
+        "price": "",
+        "symbol": "KNSA"
+      },
+      {
+        "change": "+2.86",
+        "change_pts": null,
+        "close": 7756.75,
+        "name": "ChronoScale Holdings Corporation",
+        "open": null,
+        "pct_change": "+19.55%",
+        "price": "",
+        "symbol": "CHRN"
+      },
+      {
+        "change": "+1.49",
+        "change_pts": null,
+        "close": 7756.75,
+        "name": "USA Rare Earth, Inc.",
+        "open": null,
+        "pct_change": "+16.72%",
+        "price": "",
+        "symbol": "USAR"
+      },
+      {
+        "change": "+1.50",
+        "change_pts": null,
+        "close": 7756.75,
+        "name": "Custom Truck One Source, Inc.",
+        "open": null,
+        "pct_change": "+16.65%",
+        "price": "",
+        "symbol": "CTOS"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-15.38",
+        "change_pts": null,
+        "close": 7756.75,
+        "name": "Xylem Inc.",
+        "open": null,
+        "pct_change": "-14.21%",
+        "price": "",
+        "symbol": "XYL"
+      },
+      {
+        "change": "-20.13",
+        "change_pts": null,
+        "close": 7756.75,
+        "name": "The Boeing Company",
+        "open": null,
+        "pct_change": "-10.69%",
+        "price": "",
+        "symbol": "BA"
+      },
+      {
+        "change": "-29.24",
+        "change_pts": null,
+        "close": 7756.75,
+        "name": "UniFirst Corporation",
+        "open": null,
+        "pct_change": "-10.46%",
+        "price": "",
+        "symbol": "UNF"
+      },
+      {
+        "change": "-8.17",
+        "change_pts": null,
+        "close": 7756.75,
+        "name": "Delek US Holdings, Inc.",
+        "open": null,
+        "pct_change": "-10.41%",
+        "price": "",
+        "symbol": "DK"
+      },
+      {
+        "change": "-8.64",
+        "change_pts": null,
+        "close": 7756.75,
+        "name": "Par Pacific Holdings, Inc.",
+        "open": null,
+        "pct_change": "-10.39%",
+        "price": "",
+        "symbol": "PARR"
+      }
+    ],
+    "scraped_at": "2026-10-27T21:17:26.755210-04:00"
   }
 }
