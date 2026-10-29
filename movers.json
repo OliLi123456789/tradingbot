@@ -26427,5 +26427,112 @@
       }
     ],
     "scraped_at": "2026-10-27T21:17:26.755210-04:00"
+  },
+  "2026-10-28": {
+    "gainers": [
+      {
+        "change": "+11.79",
+        "change_pts": null,
+        "close": 7765.75,
+        "name": "Axogen, Inc.",
+        "open": null,
+        "pct_change": "+31.47%",
+        "price": "",
+        "symbol": "AXGN"
+      },
+      {
+        "change": "+12.62",
+        "change_pts": null,
+        "close": 7765.75,
+        "name": "Genmab A/S",
+        "open": null,
+        "pct_change": "+28.25%",
+        "price": "",
+        "symbol": "GMAB"
+      },
+      {
+        "change": "+31.18",
+        "change_pts": null,
+        "close": 7765.75,
+        "name": "ICON Public Limited Company",
+        "open": null,
+        "pct_change": "+17.04%",
+        "price": "",
+        "symbol": "ICLR"
+      },
+      {
+        "change": "+34.38",
+        "change_pts": null,
+        "close": 7765.75,
+        "name": "Vertiv Holdings Co",
+        "open": null,
+        "pct_change": "+16.48%",
+        "price": "",
+        "symbol": "VRT"
+      },
+      {
+        "change": "+2.78",
+        "change_pts": null,
+        "close": 7765.75,
+        "name": "Bausch + Lomb Corporation",
+        "open": null,
+        "pct_change": "+15.78%",
+        "price": "",
+        "symbol": "BLCO"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-93.83",
+        "change_pts": null,
+        "close": 7765.75,
+        "name": "F5, Inc.",
+        "open": null,
+        "pct_change": "-20.43%",
+        "price": "",
+        "symbol": "FFIV"
+      },
+      {
+        "change": "-29.98",
+        "change_pts": null,
+        "close": 7765.75,
+        "name": "Landstar System, Inc.",
+        "open": null,
+        "pct_change": "-17.76%",
+        "price": "",
+        "symbol": "LSTR"
+      },
+      {
+        "change": "-4.77",
+        "change_pts": null,
+        "close": 7765.75,
+        "name": "Enphase Energy, Inc.",
+        "open": null,
+        "pct_change": "-16.03%",
+        "price": "",
+        "symbol": "ENPH"
+      },
+      {
+        "change": "-48.37",
+        "change_pts": null,
+        "close": 7765.75,
+        "name": "LPL Financial Holdings Inc.",
+        "open": null,
+        "pct_change": "-15.23%",
+        "price": "",
+        "symbol": "LPLA"
+      },
+      {
+        "change": "-1.79",
+        "change_pts": null,
+        "close": 7765.75,
+        "name": "SELLAS Life Sciences Group, Inc.",
+        "open": null,
+        "pct_change": "-14.71%",
+        "price": "",
+        "symbol": "SLS"
+      }
+    ],
+    "scraped_at": "2026-10-28T21:17:18.457210-04:00"
   }
 }
