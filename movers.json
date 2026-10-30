@@ -26534,5 +26534,112 @@
       }
     ],
     "scraped_at": "2026-10-28T21:17:18.457210-04:00"
+  },
+  "2026-10-29": {
+    "gainers": [
+      {
+        "change": "+61.05",
+        "change_pts": null,
+        "close": 7675.75,
+        "name": "Glaukos Corporation",
+        "open": null,
+        "pct_change": "+33.65%",
+        "price": "",
+        "symbol": "GKOS"
+      },
+      {
+        "change": "+2.46",
+        "change_pts": null,
+        "close": 7675.75,
+        "name": "ADT Inc.",
+        "open": null,
+        "pct_change": "+33.20%",
+        "price": "",
+        "symbol": "ADT"
+      },
+      {
+        "change": "+1.99",
+        "change_pts": null,
+        "close": 7675.75,
+        "name": "Bausch Health Companies Inc.",
+        "open": null,
+        "pct_change": "+28.76%",
+        "price": "",
+        "symbol": "BHC"
+      },
+      {
+        "change": "+4.59",
+        "change_pts": null,
+        "close": 7675.75,
+        "name": "Porch Group, Inc.",
+        "open": null,
+        "pct_change": "+28.16%",
+        "price": "",
+        "symbol": "PRCH"
+      },
+      {
+        "change": "+30.57",
+        "change_pts": null,
+        "close": 7675.75,
+        "name": "Crocs, Inc.",
+        "open": null,
+        "pct_change": "+25.54%",
+        "price": "",
+        "symbol": "CROX"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-5.25",
+        "change_pts": null,
+        "close": 7675.75,
+        "name": "Iovance Biotherapeutics, Inc.",
+        "open": null,
+        "pct_change": "-35.45%",
+        "price": "",
+        "symbol": "IOVA"
+      },
+      {
+        "change": "-40.46",
+        "change_pts": null,
+        "close": 7675.75,
+        "name": "ServiceNow, Inc.",
+        "open": null,
+        "pct_change": "-26.95%",
+        "price": "",
+        "symbol": "NOW"
+      },
+      {
+        "change": "-58.40",
+        "change_pts": null,
+        "close": 7675.75,
+        "name": "Alnylam Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "-25.13%",
+        "price": "",
+        "symbol": "ALNY"
+      },
+      {
+        "change": "-14.00",
+        "change_pts": null,
+        "close": 7675.75,
+        "name": "Sprouts Farmers Market, Inc.",
+        "open": null,
+        "pct_change": "-22.58%",
+        "price": "",
+        "symbol": "SFM"
+      },
+      {
+        "change": "-34.98",
+        "change_pts": null,
+        "close": 7675.75,
+        "name": "Fortinet, Inc.",
+        "open": null,
+        "pct_change": "-20.09%",
+        "price": "",
+        "symbol": "FTNT"
+      }
+    ],
+    "scraped_at": "2026-10-29T21:18:05.392915-04:00"
   }
 }
