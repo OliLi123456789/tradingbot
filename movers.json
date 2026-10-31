@@ -26641,5 +26641,112 @@
       }
     ],
     "scraped_at": "2026-10-29T21:18:05.392915-04:00"
+  },
+  "2026-10-30": {
+    "gainers": [
+      {
+        "change": "+15.89",
+        "change_pts": null,
+        "close": 7580.07,
+        "name": "CareDx, Inc.",
+        "open": null,
+        "pct_change": "+22.22%",
+        "price": "",
+        "symbol": "CDNA"
+      },
+      {
+        "change": "+2.62",
+        "change_pts": null,
+        "close": 7580.07,
+        "name": "Capri Holdings Limited",
+        "open": null,
+        "pct_change": "+16.31%",
+        "price": "",
+        "symbol": "CPRI"
+      },
+      {
+        "change": "+16.35",
+        "change_pts": null,
+        "close": 7580.07,
+        "name": "FedEx Freight Holding Company, Inc.",
+        "open": null,
+        "pct_change": "+14.91%",
+        "price": "",
+        "symbol": "FDXF"
+      },
+      {
+        "change": "+8.81",
+        "change_pts": null,
+        "close": 7580.07,
+        "name": "Methanex Corporation",
+        "open": null,
+        "pct_change": "+14.04%",
+        "price": "",
+        "symbol": "MEOH"
+      },
+      {
+        "change": "+109.12",
+        "change_pts": null,
+        "close": 7580.07,
+        "name": "Regeneron Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "+13.33%",
+        "price": "",
+        "symbol": "REGN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-37.87",
+        "change_pts": null,
+        "close": 7580.07,
+        "name": "Reddit, Inc.",
+        "open": null,
+        "pct_change": "-29.22%",
+        "price": "",
+        "symbol": "RDDT"
+      },
+      {
+        "change": "-26.31",
+        "change_pts": null,
+        "close": 7580.07,
+        "name": "Intel Corporation",
+        "open": null,
+        "pct_change": "-28.58%",
+        "price": "",
+        "symbol": "INTC"
+      },
+      {
+        "change": "-110.89",
+        "change_pts": null,
+        "close": 7580.07,
+        "name": "Credit Acceptance Corporation",
+        "open": null,
+        "pct_change": "-19.26%",
+        "price": "",
+        "symbol": "CACC"
+      },
+      {
+        "change": "-54.07",
+        "change_pts": null,
+        "close": 7580.07,
+        "name": "Illumina, Inc.",
+        "open": null,
+        "pct_change": "-18.64%",
+        "price": "",
+        "symbol": "ILMN"
+      },
+      {
+        "change": "-9.47",
+        "change_pts": null,
+        "close": 7580.07,
+        "name": "Roblox Corporation",
+        "open": null,
+        "pct_change": "-18.05%",
+        "price": "",
+        "symbol": "RBLX"
+      }
+    ],
+    "scraped_at": "2026-10-30T21:13:06.112141-04:00"
   }
 }
