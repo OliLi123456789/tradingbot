@@ -26748,5 +26748,112 @@
       }
     ],
     "scraped_at": "2026-10-30T21:13:06.112141-04:00"
+  },
+  "2026-11-02": {
+    "gainers": [
+      {
+        "change": "+121.29",
+        "change_pts": null,
+        "close": null,
+        "name": "IDEXX Laboratories, Inc.",
+        "open": null,
+        "pct_change": "+22.00%",
+        "price": "",
+        "symbol": "IDXX"
+      },
+      {
+        "change": "+11.01",
+        "change_pts": null,
+        "close": null,
+        "name": "PHINIA Inc.",
+        "open": null,
+        "pct_change": "+17.50%",
+        "price": "",
+        "symbol": "PHIN"
+      },
+      {
+        "change": "+11.97",
+        "change_pts": null,
+        "close": null,
+        "name": "Nextpower Inc.",
+        "open": null,
+        "pct_change": "+15.09%",
+        "price": "",
+        "symbol": "NXT"
+      },
+      {
+        "change": "+0.78",
+        "change_pts": null,
+        "close": null,
+        "name": "Newell Brands Inc.",
+        "open": null,
+        "pct_change": "+15.06%",
+        "price": "",
+        "symbol": "NWL"
+      },
+      {
+        "change": "+5.89",
+        "change_pts": null,
+        "close": null,
+        "name": "Sprouts Farmers Market, Inc.",
+        "open": null,
+        "pct_change": "+11.85%",
+        "price": "",
+        "symbol": "SFM"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-5.63",
+        "change_pts": null,
+        "close": null,
+        "name": "Adeia Inc.",
+        "open": null,
+        "pct_change": "-26.26%",
+        "price": "",
+        "symbol": "ADEA"
+      },
+      {
+        "change": "-149.28",
+        "change_pts": null,
+        "close": null,
+        "name": "Lumentum Holdings Inc.",
+        "open": null,
+        "pct_change": "-17.76%",
+        "price": "",
+        "symbol": "LITE"
+      },
+      {
+        "change": "-23.08",
+        "change_pts": null,
+        "close": null,
+        "name": "Twist Bioscience Corporation",
+        "open": null,
+        "pct_change": "-15.11%",
+        "price": "",
+        "symbol": "TWST"
+      },
+      {
+        "change": "-12.82",
+        "change_pts": null,
+        "close": null,
+        "name": "Okeanis Eco Tankers Corp.",
+        "open": null,
+        "pct_change": "-12.65%",
+        "price": "",
+        "symbol": "ECO"
+      },
+      {
+        "change": "-2.13",
+        "change_pts": null,
+        "close": null,
+        "name": "Liberty Energy Inc.",
+        "open": null,
+        "pct_change": "-12.63%",
+        "price": "",
+        "symbol": "LBRT"
+      }
+    ],
+    "scraped_at": "2026-11-02T20:14:22.720162-05:00"
   }
 }
