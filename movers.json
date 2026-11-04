@@ -26855,5 +26855,112 @@
       }
     ],
     "scraped_at": "2026-11-02T20:14:22.720162-05:00"
+  },
+  "2026-11-03": {
+    "gainers": [
+      {
+        "change": "+12.34",
+        "change_pts": null,
+        "close": null,
+        "name": "Aehr Test Systems, Inc.",
+        "open": null,
+        "pct_change": "+23.98%",
+        "price": "",
+        "symbol": "AEHR"
+      },
+      {
+        "change": "+1.97",
+        "change_pts": null,
+        "close": null,
+        "name": "Graphic Packaging Holding Company",
+        "open": null,
+        "pct_change": "+21.11%",
+        "price": "",
+        "symbol": "GPK"
+      },
+      {
+        "change": "+13.46",
+        "change_pts": null,
+        "close": null,
+        "name": "Primoris Services Corporation",
+        "open": null,
+        "pct_change": "+18.24%",
+        "price": "",
+        "symbol": "PRIM"
+      },
+      {
+        "change": "+1.99",
+        "change_pts": null,
+        "close": null,
+        "name": "Riot Platforms, Inc.",
+        "open": null,
+        "pct_change": "+16.81%",
+        "price": "",
+        "symbol": "RIOT"
+      },
+      {
+        "change": "+14.31",
+        "change_pts": null,
+        "close": null,
+        "name": "Xometry, Inc.",
+        "open": null,
+        "pct_change": "+14.99%",
+        "price": "",
+        "symbol": "XMTR"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-28.19",
+        "change_pts": null,
+        "close": null,
+        "name": "Amdocs Limited",
+        "open": null,
+        "pct_change": "-44.37%",
+        "price": "",
+        "symbol": "DOX"
+      },
+      {
+        "change": "-8.30",
+        "change_pts": null,
+        "close": null,
+        "name": "Nurix Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "-32.30%",
+        "price": "",
+        "symbol": "NRIX"
+      },
+      {
+        "change": "-5.58",
+        "change_pts": null,
+        "close": null,
+        "name": "Stevanato Group S.p.A.",
+        "open": null,
+        "pct_change": "-28.29%",
+        "price": "",
+        "symbol": "STVN"
+      },
+      {
+        "change": "-13.86",
+        "change_pts": null,
+        "close": null,
+        "name": "Skyworks Solutions, Inc.",
+        "open": null,
+        "pct_change": "-16.27%",
+        "price": "",
+        "symbol": "SWKS"
+      },
+      {
+        "change": "-8.22",
+        "change_pts": null,
+        "close": null,
+        "name": "Dynatrace, Inc.",
+        "open": null,
+        "pct_change": "-14.91%",
+        "price": "",
+        "symbol": "DT"
+      }
+    ],
+    "scraped_at": "2026-11-03T20:13:32.216012-05:00"
   }
 }
