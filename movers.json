@@ -26962,5 +26962,112 @@
       }
     ],
     "scraped_at": "2026-11-03T20:13:32.216012-05:00"
+  },
+  "2026-11-04": {
+    "gainers": [
+      {
+        "change": "+49.92",
+        "change_pts": null,
+        "close": null,
+        "name": "Sezzle Inc.",
+        "open": null,
+        "pct_change": "+40.77%",
+        "price": "",
+        "symbol": "SEZL"
+      },
+      {
+        "change": "+85.10",
+        "change_pts": null,
+        "close": null,
+        "name": "AppLovin Corporation",
+        "open": null,
+        "pct_change": "+34.66%",
+        "price": "",
+        "symbol": "APP"
+      },
+      {
+        "change": "+3.87",
+        "change_pts": null,
+        "close": null,
+        "name": "Kyndryl Holdings, Inc.",
+        "open": null,
+        "pct_change": "+29.91%",
+        "price": "",
+        "symbol": "KD"
+      },
+      {
+        "change": "+22.78",
+        "change_pts": null,
+        "close": null,
+        "name": "Rhythm Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "+26.35%",
+        "price": "",
+        "symbol": "RYTM"
+      },
+      {
+        "change": "+33.57",
+        "change_pts": null,
+        "close": null,
+        "name": "Duolingo, Inc.",
+        "open": null,
+        "pct_change": "+26.23%",
+        "price": "",
+        "symbol": "DUOL"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-18.56",
+        "change_pts": null,
+        "close": null,
+        "name": "Amdocs Limited",
+        "open": null,
+        "pct_change": "-29.73%",
+        "price": "",
+        "symbol": "DOX"
+      },
+      {
+        "change": "-32.66",
+        "change_pts": null,
+        "close": null,
+        "name": "Everus Construction Group, Inc.",
+        "open": null,
+        "pct_change": "-28.97%",
+        "price": "",
+        "symbol": "ECG"
+      },
+      {
+        "change": "-12.32",
+        "change_pts": null,
+        "close": null,
+        "name": "Veracyte, Inc.",
+        "open": null,
+        "pct_change": "-24.50%",
+        "price": "",
+        "symbol": "VCYT"
+      },
+      {
+        "change": "-9.19",
+        "change_pts": null,
+        "close": null,
+        "name": "Fidelity National Information Services, Inc.",
+        "open": null,
+        "pct_change": "-23.57%",
+        "price": "",
+        "symbol": "FIS"
+      },
+      {
+        "change": "-14.60",
+        "change_pts": null,
+        "close": null,
+        "name": "Hut 8 Corp.",
+        "open": null,
+        "pct_change": "-22.90%",
+        "price": "",
+        "symbol": "HUT"
+      }
+    ],
+    "scraped_at": "2026-11-04T20:14:43.449435-05:00"
   }
 }
