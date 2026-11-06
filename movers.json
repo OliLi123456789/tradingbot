@@ -27069,5 +27069,112 @@
       }
     ],
     "scraped_at": "2026-11-04T20:14:43.449435-05:00"
+  },
+  "2026-11-05": {
+    "gainers": [
+      {
+        "change": "+80.46",
+        "change_pts": null,
+        "close": null,
+        "name": "AppLovin Corporation",
+        "open": null,
+        "pct_change": "+29.61%",
+        "price": "",
+        "symbol": "APP"
+      },
+      {
+        "change": "+2.79",
+        "change_pts": null,
+        "close": null,
+        "name": "ADMA Biologics, Inc.",
+        "open": null,
+        "pct_change": "+26.60%",
+        "price": "",
+        "symbol": "ADMA"
+      },
+      {
+        "change": "+26.24",
+        "change_pts": null,
+        "close": null,
+        "name": "Encore Capital Group, Inc.",
+        "open": null,
+        "pct_change": "+26.26%",
+        "price": "",
+        "symbol": "ECPG"
+      },
+      {
+        "change": "+3.36",
+        "change_pts": null,
+        "close": null,
+        "name": "Ardent Health, Inc.",
+        "open": null,
+        "pct_change": "+25.87%",
+        "price": "",
+        "symbol": "ARDT"
+      },
+      {
+        "change": "+2.57",
+        "change_pts": null,
+        "close": null,
+        "name": "Xeris Biopharma Holdings, Inc.",
+        "open": null,
+        "pct_change": "+24.57%",
+        "price": "",
+        "symbol": "XERS"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-15.65",
+        "change_pts": null,
+        "close": null,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "-26.40%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "-9.42",
+        "change_pts": null,
+        "close": null,
+        "name": "Five9, Inc.",
+        "open": null,
+        "pct_change": "-25.92%",
+        "price": "",
+        "symbol": "FIVN"
+      },
+      {
+        "change": "-5.44",
+        "change_pts": null,
+        "close": null,
+        "name": "Fastly, Inc.",
+        "open": null,
+        "pct_change": "-25.84%",
+        "price": "",
+        "symbol": "FSLY"
+      },
+      {
+        "change": "-15.11",
+        "change_pts": null,
+        "close": null,
+        "name": "10x Genomics, Inc.",
+        "open": null,
+        "pct_change": "-22.38%",
+        "price": "",
+        "symbol": "TXG"
+      },
+      {
+        "change": "-87.03",
+        "change_pts": null,
+        "close": null,
+        "name": "Natera, Inc.",
+        "open": null,
+        "pct_change": "-22.26%",
+        "price": "",
+        "symbol": "NTRA"
+      }
+    ],
+    "scraped_at": "2026-11-05T20:13:58.609391-05:00"
   }
 }
