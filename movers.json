@@ -27176,5 +27176,112 @@
       }
     ],
     "scraped_at": "2026-11-05T20:13:58.609391-05:00"
+  },
+  "2026-11-06": {
+    "gainers": [
+      {
+        "change": "+14.38",
+        "change_pts": null,
+        "close": null,
+        "name": "Karman Holdings Inc.",
+        "open": null,
+        "pct_change": "+44.82%",
+        "price": "",
+        "symbol": "KRMN"
+      },
+      {
+        "change": "+28.18",
+        "change_pts": null,
+        "close": null,
+        "name": "JFrog Ltd.",
+        "open": null,
+        "pct_change": "+37.76%",
+        "price": "",
+        "symbol": "FROG"
+      },
+      {
+        "change": "+5.64",
+        "change_pts": null,
+        "close": null,
+        "name": "Firefly Aerospace Inc.",
+        "open": null,
+        "pct_change": "+37.13%",
+        "price": "",
+        "symbol": "FLY"
+      },
+      {
+        "change": "+8.76",
+        "change_pts": null,
+        "close": null,
+        "name": "nLIGHT, Inc.",
+        "open": null,
+        "pct_change": "+29.85%",
+        "price": "",
+        "symbol": "LASR"
+      },
+      {
+        "change": "+19.12",
+        "change_pts": null,
+        "close": null,
+        "name": "TransMedics Group, Inc.",
+        "open": null,
+        "pct_change": "+27.72%",
+        "price": "",
+        "symbol": "TMDX"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-39.63",
+        "change_pts": null,
+        "close": null,
+        "name": "iRhythm Holdings, Inc.",
+        "open": null,
+        "pct_change": "-30.44%",
+        "price": "",
+        "symbol": "IRTC"
+      },
+      {
+        "change": "-5.03",
+        "change_pts": null,
+        "close": null,
+        "name": "DraftKings Inc.",
+        "open": null,
+        "pct_change": "-21.38%",
+        "price": "",
+        "symbol": "DKNG"
+      },
+      {
+        "change": "-5.98",
+        "change_pts": null,
+        "close": null,
+        "name": "Five9, Inc.",
+        "open": null,
+        "pct_change": "-17.52%",
+        "price": "",
+        "symbol": "FIVN"
+      },
+      {
+        "change": "-14.90",
+        "change_pts": null,
+        "close": null,
+        "name": "Workiva Inc.",
+        "open": null,
+        "pct_change": "-17.42%",
+        "price": "",
+        "symbol": "WK"
+      },
+      {
+        "change": "-65.79",
+        "change_pts": null,
+        "close": null,
+        "name": "Axon Enterprise, Inc.",
+        "open": null,
+        "pct_change": "-17.20%",
+        "price": "",
+        "symbol": "AXON"
+      }
+    ],
+    "scraped_at": "2026-11-06T20:13:14.856823-05:00"
   }
 }
