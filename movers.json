@@ -27283,5 +27283,112 @@
       }
     ],
     "scraped_at": "2026-11-06T20:13:14.856823-05:00"
+  },
+  "2026-11-09": {
+    "gainers": [
+      {
+        "change": "+45.20",
+        "change_pts": null,
+        "close": null,
+        "name": "Sanmina Corporation",
+        "open": null,
+        "pct_change": "+33.56%",
+        "price": "",
+        "symbol": "SANM"
+      },
+      {
+        "change": "+15.51",
+        "change_pts": null,
+        "close": null,
+        "name": "AAON, Inc.",
+        "open": null,
+        "pct_change": "+27.13%",
+        "price": "",
+        "symbol": "AAON"
+      },
+      {
+        "change": "+2.38",
+        "change_pts": null,
+        "close": null,
+        "name": "Fervo Energy Company",
+        "open": null,
+        "pct_change": "+26.37%",
+        "price": "",
+        "symbol": "FRVO"
+      },
+      {
+        "change": "+5.02",
+        "change_pts": null,
+        "close": null,
+        "name": "Warby Parker Inc.",
+        "open": null,
+        "pct_change": "+19.70%",
+        "price": "",
+        "symbol": "WRBY"
+      },
+      {
+        "change": "+2.27",
+        "change_pts": null,
+        "close": null,
+        "name": "QXO, Inc.",
+        "open": null,
+        "pct_change": "+19.62%",
+        "price": "",
+        "symbol": "QXO"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.59",
+        "change_pts": null,
+        "close": null,
+        "name": "Acadia Pharmaceuticals Inc.",
+        "open": null,
+        "pct_change": "-21.62%",
+        "price": "",
+        "symbol": "ACAD"
+      },
+      {
+        "change": "-8.25",
+        "change_pts": null,
+        "close": null,
+        "name": "Ionis Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "-20.93%",
+        "price": "",
+        "symbol": "IONS"
+      },
+      {
+        "change": "-1.56",
+        "change_pts": null,
+        "close": null,
+        "name": "ImmunityBio, Inc.",
+        "open": null,
+        "pct_change": "-18.01%",
+        "price": "",
+        "symbol": "IBRX"
+      },
+      {
+        "change": "-8.51",
+        "change_pts": null,
+        "close": null,
+        "name": "Arrowhead Pharmaceuticals, Inc.",
+        "open": null,
+        "pct_change": "-14.63%",
+        "price": "",
+        "symbol": "ARWR"
+      },
+      {
+        "change": "-3.78",
+        "change_pts": null,
+        "close": null,
+        "name": "Hims & Hers Health, Inc.",
+        "open": null,
+        "pct_change": "-14.54%",
+        "price": "",
+        "symbol": "HIMS"
+      }
+    ],
+    "scraped_at": "2026-11-09T20:12:54.385568-05:00"
   }
 }
