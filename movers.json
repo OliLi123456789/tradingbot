@@ -27497,5 +27497,112 @@
       }
     ],
     "scraped_at": "2026-11-10T20:13:30.960854-05:00"
+  },
+  "2026-11-11": {
+    "gainers": [
+      {
+        "change": "+8.18",
+        "change_pts": null,
+        "close": null,
+        "name": "Azenta, Inc.",
+        "open": null,
+        "pct_change": "+20.21%",
+        "price": "",
+        "symbol": "AZTA"
+      },
+      {
+        "change": "+5.70",
+        "change_pts": null,
+        "close": null,
+        "name": "Legence Corp.",
+        "open": null,
+        "pct_change": "+17.78%",
+        "price": "",
+        "symbol": "LGN"
+      },
+      {
+        "change": "+2.27",
+        "change_pts": null,
+        "close": null,
+        "name": "EquipmentShare.com Inc.",
+        "open": null,
+        "pct_change": "+16.73%",
+        "price": "",
+        "symbol": "EQPT"
+      },
+      {
+        "change": "+8.07",
+        "change_pts": null,
+        "close": null,
+        "name": "CoreWeave, Inc.",
+        "open": null,
+        "pct_change": "+16.56%",
+        "price": "",
+        "symbol": "CRWV"
+      },
+      {
+        "change": "+3.13",
+        "change_pts": null,
+        "close": null,
+        "name": "Resideo Technologies, Inc.",
+        "open": null,
+        "pct_change": "+16.09%",
+        "price": "",
+        "symbol": "REZI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-11.54",
+        "change_pts": null,
+        "close": null,
+        "name": "Boyd Group Services Inc.",
+        "open": null,
+        "pct_change": "-13.04%",
+        "price": "",
+        "symbol": "BGSI"
+      },
+      {
+        "change": "-7.90",
+        "change_pts": null,
+        "close": null,
+        "name": "Digi International Inc.",
+        "open": null,
+        "pct_change": "-12.14%",
+        "price": "",
+        "symbol": "DGII"
+      },
+      {
+        "change": "-1.14",
+        "change_pts": null,
+        "close": null,
+        "name": "Rigetti Computing, Inc.",
+        "open": null,
+        "pct_change": "-9.38%",
+        "price": "",
+        "symbol": "RGTI"
+      },
+      {
+        "change": "-4.35",
+        "change_pts": null,
+        "close": null,
+        "name": "Appian Corporation",
+        "open": null,
+        "pct_change": "-8.31%",
+        "price": "",
+        "symbol": "APPN"
+      },
+      {
+        "change": "-1.00",
+        "change_pts": null,
+        "close": null,
+        "name": "Corteva, Inc.",
+        "open": null,
+        "pct_change": "-8.25%",
+        "price": "",
+        "symbol": "CTVA"
+      }
+    ],
+    "scraped_at": "2026-11-11T20:14:41.865571-05:00"
   }
 }
