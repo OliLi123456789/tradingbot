@@ -27604,5 +27604,112 @@
       }
     ],
     "scraped_at": "2026-11-11T20:14:41.865571-05:00"
+  },
+  "2026-11-12": {
+    "gainers": [
+      {
+        "change": "+1.65",
+        "change_pts": null,
+        "close": null,
+        "name": "Polibeli Group Ltd",
+        "open": null,
+        "pct_change": "+29.24%",
+        "price": "",
+        "symbol": "PLBL"
+      },
+      {
+        "change": "+28.33",
+        "change_pts": null,
+        "close": null,
+        "name": "Modine Manufacturing Company",
+        "open": null,
+        "pct_change": "+26.56%",
+        "price": "",
+        "symbol": "MOD"
+      },
+      {
+        "change": "+3.39",
+        "change_pts": null,
+        "close": null,
+        "name": "Liftoff Mobile, Inc.",
+        "open": null,
+        "pct_change": "+18.27%",
+        "price": "",
+        "symbol": "LFTO"
+      },
+      {
+        "change": "+2.98",
+        "change_pts": null,
+        "close": null,
+        "name": "Mobility Global Inc.",
+        "open": null,
+        "pct_change": "+14.96%",
+        "price": "",
+        "symbol": "MBGL"
+      },
+      {
+        "change": "+14.23",
+        "change_pts": null,
+        "close": null,
+        "name": "Cerebras Systems Inc.",
+        "open": null,
+        "pct_change": "+14.08%",
+        "price": "",
+        "symbol": "CBRS"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.16",
+        "change_pts": null,
+        "close": null,
+        "name": "Kanzhun Limited",
+        "open": null,
+        "pct_change": "-24.88%",
+        "price": "",
+        "symbol": "BZ"
+      },
+      {
+        "change": "-2.88",
+        "change_pts": null,
+        "close": null,
+        "name": "Corteva, Inc.",
+        "open": null,
+        "pct_change": "-23.72%",
+        "price": "",
+        "symbol": "CTVA"
+      },
+      {
+        "change": "-2.57",
+        "change_pts": null,
+        "close": null,
+        "name": "Vir Biotechnology, Inc.",
+        "open": null,
+        "pct_change": "-19.56%",
+        "price": "",
+        "symbol": "VIR"
+      },
+      {
+        "change": "-24.42",
+        "change_pts": null,
+        "close": null,
+        "name": "Nebius Group N.V.",
+        "open": null,
+        "pct_change": "-15.79%",
+        "price": "",
+        "symbol": "NBIS"
+      },
+      {
+        "change": "-13.23",
+        "change_pts": null,
+        "close": null,
+        "name": "Global Payments Inc.",
+        "open": null,
+        "pct_change": "-13.20%",
+        "price": "",
+        "symbol": "GPN"
+      }
+    ],
+    "scraped_at": "2026-11-12T20:13:24.047017-05:00"
   }
 }
