@@ -27818,5 +27818,112 @@
       }
     ],
     "scraped_at": "2026-11-13T20:13:49.945064-05:00"
+  },
+  "2026-11-16": {
+    "gainers": [
+      {
+        "change": "+10.31",
+        "change_pts": null,
+        "close": null,
+        "name": "CG Oncology, Inc.",
+        "open": null,
+        "pct_change": "+13.86%",
+        "price": "",
+        "symbol": "CGON"
+      },
+      {
+        "change": "+1.00",
+        "change_pts": null,
+        "close": null,
+        "name": "TELUS Corporation",
+        "open": null,
+        "pct_change": "+11.72%",
+        "price": "",
+        "symbol": "TU"
+      },
+      {
+        "change": "+23.46",
+        "change_pts": null,
+        "close": null,
+        "name": "Molina Healthcare, Inc.",
+        "open": null,
+        "pct_change": "+11.20%",
+        "price": "",
+        "symbol": "MOH"
+      },
+      {
+        "change": "+6.46",
+        "change_pts": null,
+        "close": null,
+        "name": "AECOM",
+        "open": null,
+        "pct_change": "+9.16%",
+        "price": "",
+        "symbol": "ACM"
+      },
+      {
+        "change": "+4.96",
+        "change_pts": null,
+        "close": null,
+        "name": "Tyson Foods, Inc.",
+        "open": null,
+        "pct_change": "+8.43%",
+        "price": "",
+        "symbol": "TSN"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.30",
+        "change_pts": null,
+        "close": null,
+        "name": "Summit Therapeutics Inc.",
+        "open": null,
+        "pct_change": "-16.25%",
+        "price": "",
+        "symbol": "SMMT"
+      },
+      {
+        "change": "-2.88",
+        "change_pts": null,
+        "close": null,
+        "name": "GDS Holdings Limited",
+        "open": null,
+        "pct_change": "-14.54%",
+        "price": "",
+        "symbol": "GDS"
+      },
+      {
+        "change": "-1.02",
+        "change_pts": null,
+        "close": null,
+        "name": "USA Rare Earth, Inc.",
+        "open": null,
+        "pct_change": "-12.50%",
+        "price": "",
+        "symbol": "USAR"
+      },
+      {
+        "change": "-1.09",
+        "change_pts": null,
+        "close": null,
+        "name": "Navitas Semiconductor Corporation",
+        "open": null,
+        "pct_change": "-12.18%",
+        "price": "",
+        "symbol": "NVTS"
+      },
+      {
+        "change": "-2.96",
+        "change_pts": null,
+        "close": null,
+        "name": "Firefly Aerospace Inc.",
+        "open": null,
+        "pct_change": "-11.74%",
+        "price": "",
+        "symbol": "FLY"
+      }
+    ],
+    "scraped_at": "2026-11-16T20:15:32.672608-05:00"
   }
 }
