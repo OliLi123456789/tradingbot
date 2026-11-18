@@ -27925,5 +27925,112 @@
       }
     ],
     "scraped_at": "2026-11-16T20:15:32.672608-05:00"
+  },
+  "2026-11-17": {
+    "gainers": [
+      {
+        "change": "+9.49",
+        "change_pts": null,
+        "close": null,
+        "name": "SELLAS Life Sciences Group, Inc.",
+        "open": null,
+        "pct_change": "+127.04%",
+        "price": "",
+        "symbol": "SLS"
+      },
+      {
+        "change": "+7.55",
+        "change_pts": null,
+        "close": null,
+        "name": "BILL Holdings, Inc.",
+        "open": null,
+        "pct_change": "+13.11%",
+        "price": "",
+        "symbol": "BILL"
+      },
+      {
+        "change": "+9.00",
+        "change_pts": null,
+        "close": null,
+        "name": "AECOM",
+        "open": null,
+        "pct_change": "+12.41%",
+        "price": "",
+        "symbol": "ACM"
+      },
+      {
+        "change": "+21.55",
+        "change_pts": null,
+        "close": null,
+        "name": "Astera Labs, Inc.",
+        "open": null,
+        "pct_change": "+10.65%",
+        "price": "",
+        "symbol": "ALAB"
+      },
+      {
+        "change": "+2.54",
+        "change_pts": null,
+        "close": null,
+        "name": "Vishay Intertechnology, Inc.",
+        "open": null,
+        "pct_change": "+10.02%",
+        "price": "",
+        "symbol": "VSH"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-2.94",
+        "change_pts": null,
+        "close": null,
+        "name": "Ardent Health, Inc.",
+        "open": null,
+        "pct_change": "-16.26%",
+        "price": "",
+        "symbol": "ARDT"
+      },
+      {
+        "change": "-1.18",
+        "change_pts": null,
+        "close": null,
+        "name": "Summit Therapeutics Inc.",
+        "open": null,
+        "pct_change": "-9.98%",
+        "price": "",
+        "symbol": "SMMT"
+      },
+      {
+        "change": "-35.76",
+        "change_pts": null,
+        "close": null,
+        "name": "Credicorp Ltd.",
+        "open": null,
+        "pct_change": "-9.88%",
+        "price": "",
+        "symbol": "BAP"
+      },
+      {
+        "change": "-2.96",
+        "change_pts": null,
+        "close": null,
+        "name": "IDEAYA Biosciences, Inc.",
+        "open": null,
+        "pct_change": "-9.75%",
+        "price": "",
+        "symbol": "IDYA"
+      },
+      {
+        "change": "-19.52",
+        "change_pts": null,
+        "close": null,
+        "name": "Salesforce, Inc.",
+        "open": null,
+        "pct_change": "-9.09%",
+        "price": "",
+        "symbol": "CRM"
+      }
+    ],
+    "scraped_at": "2026-11-17T20:15:01.843146-05:00"
   }
 }
