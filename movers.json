@@ -28032,5 +28032,112 @@
       }
     ],
     "scraped_at": "2026-11-17T20:15:01.843146-05:00"
+  },
+  "2026-11-18": {
+    "gainers": [
+      {
+        "change": "+61.50",
+        "change_pts": null,
+        "close": null,
+        "name": "Palo Alto Networks, Inc.",
+        "open": null,
+        "pct_change": "+19.88%",
+        "price": "",
+        "symbol": "PANW"
+      },
+      {
+        "change": "+7.38",
+        "change_pts": null,
+        "close": null,
+        "name": "Tenable Holdings, Inc.",
+        "open": null,
+        "pct_change": "+19.12%",
+        "price": "",
+        "symbol": "TENB"
+      },
+      {
+        "change": "+1.40",
+        "change_pts": null,
+        "close": null,
+        "name": "Polibeli Group Ltd",
+        "open": null,
+        "pct_change": "+18.42%",
+        "price": "",
+        "symbol": "PLBL"
+      },
+      {
+        "change": "+29.20",
+        "change_pts": null,
+        "close": null,
+        "name": "Okta, Inc.",
+        "open": null,
+        "pct_change": "+16.73%",
+        "price": "",
+        "symbol": "OKTA"
+      },
+      {
+        "change": "+3.31",
+        "change_pts": null,
+        "close": null,
+        "name": "Netskope, Inc.",
+        "open": null,
+        "pct_change": "+15.88%",
+        "price": "",
+        "symbol": "NTSK"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-3.35",
+        "change_pts": null,
+        "close": null,
+        "name": "Ardent Health, Inc.",
+        "open": null,
+        "pct_change": "-18.87%",
+        "price": "",
+        "symbol": "ARDT"
+      },
+      {
+        "change": "-58.99",
+        "change_pts": null,
+        "close": null,
+        "name": "Humana Inc.",
+        "open": null,
+        "pct_change": "-13.31%",
+        "price": "",
+        "symbol": "HUM"
+      },
+      {
+        "change": "-4.15",
+        "change_pts": null,
+        "close": null,
+        "name": "CVR Energy, Inc.",
+        "open": null,
+        "pct_change": "-10.92%",
+        "price": "",
+        "symbol": "CVI"
+      },
+      {
+        "change": "-40.99",
+        "change_pts": null,
+        "close": null,
+        "name": "UnitedHealth Group Incorporated",
+        "open": null,
+        "pct_change": "-10.52%",
+        "price": "",
+        "symbol": "UNH"
+      },
+      {
+        "change": "-2.82",
+        "change_pts": null,
+        "close": null,
+        "name": "Ero Copper Corp.",
+        "open": null,
+        "pct_change": "-10.43%",
+        "price": "",
+        "symbol": "ERO"
+      }
+    ],
+    "scraped_at": "2026-11-18T20:13:57.097316-05:00"
   }
 }
