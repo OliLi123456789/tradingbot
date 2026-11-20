@@ -28139,5 +28139,112 @@
       }
     ],
     "scraped_at": "2026-11-18T20:13:57.097316-05:00"
+  },
+  "2026-11-19": {
+    "gainers": [
+      {
+        "change": "+24.80",
+        "change_pts": null,
+        "close": null,
+        "name": "Insmed Incorporated",
+        "open": null,
+        "pct_change": "+20.70%",
+        "price": "",
+        "symbol": "INSM"
+      },
+      {
+        "change": "+1.14",
+        "change_pts": null,
+        "close": null,
+        "name": "TELUS Corporation",
+        "open": null,
+        "pct_change": "+11.99%",
+        "price": "",
+        "symbol": "TU"
+      },
+      {
+        "change": "+9.60",
+        "change_pts": null,
+        "close": null,
+        "name": "Anthropic, PBC",
+        "open": null,
+        "pct_change": "+11.57%",
+        "price": "",
+        "symbol": "ANT"
+      },
+      {
+        "change": "+7.98",
+        "change_pts": null,
+        "close": null,
+        "name": "PDD Holdings Inc.",
+        "open": null,
+        "pct_change": "+10.30%",
+        "price": "",
+        "symbol": "PDD"
+      },
+      {
+        "change": "+3.21",
+        "change_pts": null,
+        "close": null,
+        "name": "Valvoline Inc.",
+        "open": null,
+        "pct_change": "+9.62%",
+        "price": "",
+        "symbol": "VVV"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-14.54",
+        "change_pts": null,
+        "close": null,
+        "name": "StoneX Group Inc.",
+        "open": null,
+        "pct_change": "-27.01%",
+        "price": "",
+        "symbol": "SNEX"
+      },
+      {
+        "change": "-1.78",
+        "change_pts": null,
+        "close": null,
+        "name": "Polibeli Group Ltd",
+        "open": null,
+        "pct_change": "-20.05%",
+        "price": "",
+        "symbol": "PLBL"
+      },
+      {
+        "change": "-3.01",
+        "change_pts": null,
+        "close": null,
+        "name": "SELLAS Life Sciences Group, Inc.",
+        "open": null,
+        "pct_change": "-16.77%",
+        "price": "",
+        "symbol": "SLS"
+      },
+      {
+        "change": "-40.09",
+        "change_pts": null,
+        "close": null,
+        "name": "Williams-Sonoma, Inc.",
+        "open": null,
+        "pct_change": "-15.41%",
+        "price": "",
+        "symbol": "WSM"
+      },
+      {
+        "change": "-3.79",
+        "change_pts": null,
+        "close": null,
+        "name": "Warby Parker Inc.",
+        "open": null,
+        "pct_change": "-13.42%",
+        "price": "",
+        "symbol": "WRBY"
+      }
+    ],
+    "scraped_at": "2026-11-19T20:13:19.066627-05:00"
   }
 }
