@@ -28246,5 +28246,112 @@
       }
     ],
     "scraped_at": "2026-11-19T20:13:19.066627-05:00"
+  },
+  "2026-11-20": {
+    "gainers": [
+      {
+        "change": "+11.54",
+        "change_pts": null,
+        "close": null,
+        "name": "Global Payments Inc.",
+        "open": null,
+        "pct_change": "+13.82%",
+        "price": "",
+        "symbol": "GPN"
+      },
+      {
+        "change": "+2.27",
+        "change_pts": null,
+        "close": null,
+        "name": "The Gap, Inc.",
+        "open": null,
+        "pct_change": "+12.08%",
+        "price": "",
+        "symbol": "GAP"
+      },
+      {
+        "change": "+20.94",
+        "change_pts": null,
+        "close": null,
+        "name": "Zscaler, Inc.",
+        "open": null,
+        "pct_change": "+10.18%",
+        "price": "",
+        "symbol": "ZS"
+      },
+      {
+        "change": "+3.72",
+        "change_pts": null,
+        "close": null,
+        "name": "Brookfield Infrastructure Corporation",
+        "open": null,
+        "pct_change": "+9.06%",
+        "price": "",
+        "symbol": "BIPC"
+      },
+      {
+        "change": "+2.44",
+        "change_pts": null,
+        "close": null,
+        "name": "Brookfield Infrastructure Partners L.P.",
+        "open": null,
+        "pct_change": "+5.94%",
+        "price": "",
+        "symbol": "BIP"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-23.58",
+        "change_pts": null,
+        "close": null,
+        "name": "Belite Bio, Inc",
+        "open": null,
+        "pct_change": "-15.61%",
+        "price": "",
+        "symbol": "BLTE"
+      },
+      {
+        "change": "-2.07",
+        "change_pts": null,
+        "close": null,
+        "name": "IREN Limited",
+        "open": null,
+        "pct_change": "-14.37%",
+        "price": "",
+        "symbol": "IREN"
+      },
+      {
+        "change": "-5.64",
+        "change_pts": null,
+        "close": null,
+        "name": "Applied Optoelectronics, Inc.",
+        "open": null,
+        "pct_change": "-14.29%",
+        "price": "",
+        "symbol": "AAOI"
+      },
+      {
+        "change": "-1.96",
+        "change_pts": null,
+        "close": null,
+        "name": "Applied Digital Corporation",
+        "open": null,
+        "pct_change": "-14.04%",
+        "price": "",
+        "symbol": "APLD"
+      },
+      {
+        "change": "-7.77",
+        "change_pts": null,
+        "close": null,
+        "name": "Hut 8 Corp.",
+        "open": null,
+        "pct_change": "-13.92%",
+        "price": "",
+        "symbol": "HUT"
+      }
+    ],
+    "scraped_at": "2026-11-20T20:13:55.267844-05:00"
   }
 }
