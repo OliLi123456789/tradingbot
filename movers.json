@@ -28353,5 +28353,112 @@
       }
     ],
     "scraped_at": "2026-11-20T20:13:55.267844-05:00"
+  },
+  "2026-11-23": {
+    "gainers": [
+      {
+        "change": "+43.11",
+        "change_pts": null,
+        "close": null,
+        "name": "NVIDIA Corporation",
+        "open": null,
+        "pct_change": "+34.34%",
+        "price": "",
+        "symbol": "NVDA"
+      },
+      {
+        "change": "+39.18",
+        "change_pts": null,
+        "close": null,
+        "name": "Kymera Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+33.98%",
+        "price": "",
+        "symbol": "KYMR"
+      },
+      {
+        "change": "+3.40",
+        "change_pts": null,
+        "close": null,
+        "name": "IREN Limited",
+        "open": null,
+        "pct_change": "+28.76%",
+        "price": "",
+        "symbol": "IREN"
+      },
+      {
+        "change": "+3.36",
+        "change_pts": null,
+        "close": null,
+        "name": "United Microelectronics Corporation",
+        "open": null,
+        "pct_change": "+27.91%",
+        "price": "",
+        "symbol": "UMC"
+      },
+      {
+        "change": "+8.31",
+        "change_pts": null,
+        "close": null,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "+27.18%",
+        "price": "",
+        "symbol": "AXTI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-1.83",
+        "change_pts": null,
+        "close": null,
+        "name": "Polibeli Group Ltd",
+        "open": null,
+        "pct_change": "-18.83%",
+        "price": "",
+        "symbol": "PLBL"
+      },
+      {
+        "change": "-3.67",
+        "change_pts": null,
+        "close": null,
+        "name": "Central Garden & Pet Company",
+        "open": null,
+        "pct_change": "-8.03%",
+        "price": "",
+        "symbol": "CENT"
+      },
+      {
+        "change": "-17.25",
+        "change_pts": null,
+        "close": null,
+        "name": "CrowdStrike Holdings, Inc.",
+        "open": null,
+        "pct_change": "-7.52%",
+        "price": "",
+        "symbol": "CRWD"
+      },
+      {
+        "change": "-0.44",
+        "change_pts": null,
+        "close": null,
+        "name": "Cadeler plc",
+        "open": null,
+        "pct_change": "-6.91%",
+        "price": "",
+        "symbol": "CDLR"
+      },
+      {
+        "change": "-0.57",
+        "change_pts": null,
+        "close": null,
+        "name": "TELUS Corporation",
+        "open": null,
+        "pct_change": "-5.15%",
+        "price": "",
+        "symbol": "TU"
+      }
+    ],
+    "scraped_at": "2026-11-23T20:14:57.044861-05:00"
   }
 }
