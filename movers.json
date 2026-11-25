@@ -28460,5 +28460,112 @@
       }
     ],
     "scraped_at": "2026-11-23T20:14:57.044861-05:00"
+  },
+  "2026-11-24": {
+    "gainers": [
+      {
+        "change": "+6.72",
+        "change_pts": null,
+        "close": null,
+        "name": "Parabilis Medicines, Inc.",
+        "open": null,
+        "pct_change": "+22.65%",
+        "price": "",
+        "symbol": "PBLS"
+      },
+      {
+        "change": "+4.05",
+        "change_pts": null,
+        "close": null,
+        "name": "Kohl's Corporation",
+        "open": null,
+        "pct_change": "+19.10%",
+        "price": "",
+        "symbol": "KSS"
+      },
+      {
+        "change": "+3.94",
+        "change_pts": null,
+        "close": null,
+        "name": "Amentum Holdings, Inc.",
+        "open": null,
+        "pct_change": "+19.06%",
+        "price": "",
+        "symbol": "AMTM"
+      },
+      {
+        "change": "+26.69",
+        "change_pts": null,
+        "close": null,
+        "name": "Abercrombie & Fitch Co.",
+        "open": null,
+        "pct_change": "+19.00%",
+        "price": "",
+        "symbol": "ANF"
+      },
+      {
+        "change": "+10.58",
+        "change_pts": null,
+        "close": null,
+        "name": "Celcuity Inc.",
+        "open": null,
+        "pct_change": "+18.43%",
+        "price": "",
+        "symbol": "CELC"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-19.10",
+        "change_pts": null,
+        "close": null,
+        "name": "Semtech Corporation",
+        "open": null,
+        "pct_change": "-18.34%",
+        "price": "",
+        "symbol": "SMTC"
+      },
+      {
+        "change": "-39.39",
+        "change_pts": null,
+        "close": null,
+        "name": "Dycom Industries, Inc.",
+        "open": null,
+        "pct_change": "-18.04%",
+        "price": "",
+        "symbol": "DY"
+      },
+      {
+        "change": "-6.76",
+        "change_pts": null,
+        "close": null,
+        "name": "AXT, Inc.",
+        "open": null,
+        "pct_change": "-17.78%",
+        "price": "",
+        "symbol": "AXTI"
+      },
+      {
+        "change": "-66.92",
+        "change_pts": null,
+        "close": null,
+        "name": "Analog Devices, Inc.",
+        "open": null,
+        "pct_change": "-17.67%",
+        "price": "",
+        "symbol": "ADI"
+      },
+      {
+        "change": "-8.72",
+        "change_pts": null,
+        "close": null,
+        "name": "MaxLinear, Inc.",
+        "open": null,
+        "pct_change": "-17.33%",
+        "price": "",
+        "symbol": "MXL"
+      }
+    ],
+    "scraped_at": "2026-11-24T20:14:58.255569-05:00"
   }
 }
