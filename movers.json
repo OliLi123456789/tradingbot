@@ -28567,5 +28567,112 @@
       }
     ],
     "scraped_at": "2026-11-24T20:14:58.255569-05:00"
+  },
+  "2026-11-25": {
+    "gainers": [
+      {
+        "change": "+5.44",
+        "change_pts": null,
+        "close": null,
+        "name": "Vera Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+18.77%",
+        "price": "",
+        "symbol": "VERA"
+      },
+      {
+        "change": "+3.38",
+        "change_pts": null,
+        "close": null,
+        "name": "AST SpaceMobile, Inc.",
+        "open": null,
+        "pct_change": "+14.32%",
+        "price": "",
+        "symbol": "ASTS"
+      },
+      {
+        "change": "+1.56",
+        "change_pts": null,
+        "close": null,
+        "name": "Kanzhun Limited",
+        "open": null,
+        "pct_change": "+12.26%",
+        "price": "",
+        "symbol": "BZ"
+      },
+      {
+        "change": "+3.23",
+        "change_pts": null,
+        "close": null,
+        "name": "HP Inc.",
+        "open": null,
+        "pct_change": "+11.57%",
+        "price": "",
+        "symbol": "HPQ"
+      },
+      {
+        "change": "+1.14",
+        "change_pts": null,
+        "close": null,
+        "name": "Li Auto Inc.",
+        "open": null,
+        "pct_change": "+10.66%",
+        "price": "",
+        "symbol": "LI"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-7.61",
+        "change_pts": null,
+        "close": null,
+        "name": "Nutanix, Inc.",
+        "open": null,
+        "pct_change": "-13.95%",
+        "price": "",
+        "symbol": "NTNX"
+      },
+      {
+        "change": "-8.94",
+        "change_pts": null,
+        "close": null,
+        "name": "Urban Outfitters, Inc.",
+        "open": null,
+        "pct_change": "-10.45%",
+        "price": "",
+        "symbol": "URBN"
+      },
+      {
+        "change": "-1.47",
+        "change_pts": null,
+        "close": null,
+        "name": "AvePoint, Inc.",
+        "open": null,
+        "pct_change": "-8.61%",
+        "price": "",
+        "symbol": "AVPT"
+      },
+      {
+        "change": "-2.89",
+        "change_pts": null,
+        "close": null,
+        "name": "Central Garden & Pet Company",
+        "open": null,
+        "pct_change": "-8.16%",
+        "price": "",
+        "symbol": "CENTA"
+      },
+      {
+        "change": "-3.18",
+        "change_pts": null,
+        "close": null,
+        "name": "Central Garden & Pet Company",
+        "open": null,
+        "pct_change": "-7.71%",
+        "price": "",
+        "symbol": "CENT"
+      }
+    ],
+    "scraped_at": "2026-11-25T20:14:43.597677-05:00"
   }
 }
