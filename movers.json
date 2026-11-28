@@ -28674,5 +28674,112 @@
       }
     ],
     "scraped_at": "2026-11-25T20:14:43.597677-05:00"
+  },
+  "2026-11-27": {
+    "gainers": [
+      {
+        "change": "+1.18",
+        "change_pts": null,
+        "close": null,
+        "name": "Gunnison Copper Corp.",
+        "open": null,
+        "pct_change": "+22.91%",
+        "price": "",
+        "symbol": "GUNN"
+      },
+      {
+        "change": "+30.44",
+        "change_pts": null,
+        "close": null,
+        "name": "Revvity, Inc.",
+        "open": null,
+        "pct_change": "+20.19%",
+        "price": "",
+        "symbol": "RVTY"
+      },
+      {
+        "change": "+2.81",
+        "change_pts": null,
+        "close": null,
+        "name": "XP Inc.",
+        "open": null,
+        "pct_change": "+19.53%",
+        "price": "",
+        "symbol": "XP"
+      },
+      {
+        "change": "+11.79",
+        "change_pts": null,
+        "close": null,
+        "name": "Sandisk Corporation",
+        "open": null,
+        "pct_change": "+16.02%",
+        "price": "",
+        "symbol": "SNDK"
+      },
+      {
+        "change": "+4.62",
+        "change_pts": null,
+        "close": null,
+        "name": "Vera Therapeutics, Inc.",
+        "open": null,
+        "pct_change": "+15.65%",
+        "price": "",
+        "symbol": "VERA"
+      }
+    ],
+    "losers": [
+      {
+        "change": "-4.17",
+        "change_pts": null,
+        "close": null,
+        "name": "Yum China Holdings, Inc.",
+        "open": null,
+        "pct_change": "-7.96%",
+        "price": "",
+        "symbol": "YUMC"
+      },
+      {
+        "change": "-1.26",
+        "change_pts": null,
+        "close": null,
+        "name": "SLM Corporation",
+        "open": null,
+        "pct_change": "-7.47%",
+        "price": "",
+        "symbol": "SLM"
+      },
+      {
+        "change": "-4.07",
+        "change_pts": null,
+        "close": null,
+        "name": "Restaurant Brands International Inc.",
+        "open": null,
+        "pct_change": "-5.31%",
+        "price": "",
+        "symbol": "QSR"
+      },
+      {
+        "change": "-27.62",
+        "change_pts": null,
+        "close": null,
+        "name": "Vertex Pharmaceuticals Incorporated",
+        "open": null,
+        "pct_change": "-4.90%",
+        "price": "",
+        "symbol": "VRTX"
+      },
+      {
+        "change": "-2.83",
+        "change_pts": null,
+        "close": null,
+        "name": "Wix.com Ltd.",
+        "open": null,
+        "pct_change": "-4.17%",
+        "price": "",
+        "symbol": "WIX"
+      }
+    ],
+    "scraped_at": "2026-11-27T20:14:57.557107-05:00"
   }
 }
